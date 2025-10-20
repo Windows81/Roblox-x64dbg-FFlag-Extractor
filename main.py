@@ -199,7 +199,7 @@ def run(path: str) -> None:
         process_of_type(session, t).items()
         for t in flag_type
     )))
-    print(json.dumps(result, indent=2))
+    print(json.dumps(result, indent='\t'))
     session.terminate_session()
 
 
