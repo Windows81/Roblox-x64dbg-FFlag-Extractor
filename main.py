@@ -199,12 +199,12 @@ def run(path: str) -> None:
         process_of_type(session, t).items()
         for t in flag_type
     )))
-    json.dumps(result)
+    print(json.dumps(result, indent=2))
     session.terminate_session()
 
 
 if __name__ == '__main__':
     run(
-        # input('Enter the name of the executable onto which you wish to notate FFlags: ')
-        r'c:\Users\USER\Projects\FilteringDisabled\Roblox\v463\Studio\RobloxStudioBeta.exe'
+        input('Enter the name of the executable onto which you wish to notate FFlags: ')
+        # r'c:\Users\USER\Projects\FilteringDisabled\Roblox\v463\Studio\RobloxStudioBeta.exe'
     )
