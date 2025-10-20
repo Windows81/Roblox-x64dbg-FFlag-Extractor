@@ -6,7 +6,7 @@ import json
 import os
 
 from x64dbg_automate import X64DbgClient
-from x64dbg_automate.models import DisasmInstrType, MemPage
+from x64dbg_automate.models import DisasmArgType, DisasmInstrType, MemPage
 
 LEA_INSTR_SIZE = 7
 CALL_INSTR_SIZE = 5
@@ -110,7 +110,6 @@ def find_func_address(session: X64DbgClient, word_base: int) -> int:
     assert call_ins.type == DisasmInstrType.Branch
 
     result = call_ins.arg[0].constant
-    assert result > 0
     return result
 
 
@@ -177,19 +176,19 @@ def find_flags_into_func(session: X64DbgClient, func_addr: int):
         assert lea_ins.instruction.startswith('lea')
 
         lea_ref = lea_ins.arg[1].constant
-        assert lea_ref > 0
+        assert lea_ins.arg[1].type == DisasmArgType.Memory
         yield (lea_ref, lea_addr)
 
 
 def process_of_type(session: X64DbgClient, flag_t: flag_type):
     flag_addr = find_flag_address(session, flag_t.value)
     eprint(
-        '%s [template flag `%s` found at %x]' %
-        (flag_t.name, flag_t.value, flag_addr)
+        '%s [template flag `%s` found at %X]' %
+        (flag_t.name, flag_t.value.decode(), flag_addr)
     )
     func_addr = find_func_address(session, flag_addr)
     eprint(
-        '%s [jmp/call found at %x]' %
+        '%s [jmp/call found at %X]' %
         (flag_t.name, func_addr)
     )
     flag_addrs = list(find_flags_into_func(session, func_addr))
@@ -197,13 +196,21 @@ def process_of_type(session: X64DbgClient, flag_t: flag_type):
         '%s [a number of %d refs are found]' %
         (flag_t.name, len(flag_addrs))
     )
-    flag_strings = (
+    flag_strings = [
         flag_t.name + (read_string(session, r) or b'').decode()
         for (r, i) in flag_addrs
+    ]
+    eprint(
+        '%s [string indicies finished loading]' %
+        (flag_t.name)
     )
-    flag_values = (
+    flag_values = [
         read_value(session, i, flag_t)
         for (r, i) in flag_addrs
+    ]
+    eprint(
+        '%s [default values finished loading]' %
+        (flag_t.name)
     )
     return dict(zip(flag_strings, flag_values))
 
