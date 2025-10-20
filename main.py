@@ -185,17 +185,17 @@ def process_of_type(session: X64DbgClient, flag_t: flag_type):
     flag_addr = find_flag_address(session, flag_t.value)
     eprint(
         '%s [template flag `%s` found at %x]' %
-        (flag_type.name, flag_type.value, flag_addr)
+        (flag_t.name, flag_t.value, flag_addr)
     )
     func_addr = find_func_address(session, flag_addr)
     eprint(
         '%s [jmp/call found at %x]' %
-        (flag_type.name, func_addr)
+        (flag_t.name, func_addr)
     )
     flag_addrs = list(find_flags_into_func(session, func_addr))
     eprint(
         '%s [a number of %d refs are found]' %
-        (flag_type.name, len(flag_addrs))
+        (flag_t.name, len(flag_addrs))
     )
     flag_strings = (
         flag_t.name + (read_string(session, r) or b'').decode()
