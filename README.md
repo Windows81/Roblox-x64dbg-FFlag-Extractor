@@ -8,4 +8,8 @@ Here's an example run:
 python main.py "c:\Users\USER\Projects\FilteringDisabled\Roblox\v463\Studio\RobloxStudioBeta.exe" > "./test-studio-v463.json"
 ```
 
-This program is optimised for v463 of Rōblox Studio.
+This program is optimised for different versions of Rōblox Studio. Bitness shouldn't be a problem.
+
+## JSON Test Files
+
+Attached are some flag dumps. [`./test-studio-v347.json`](./test-studio-v347.json) (32-bit) and [`./test-studio-v463.json`](./test-studio-v463.json) (64-bit) were both generated with the `-df` and `-ds` flags. [`./test-studio-v695.json`](./test-studio-v695.json) only used `-df` because string extraction is much harder to do therewith.

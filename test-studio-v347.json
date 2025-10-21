@@ -1,0 +1,6966 @@
+{
+	"FFlagForceSDLInitOnMainThread": [
+		"ref: 143F2F0; addr: 403177",
+		false
+	],
+	"FFlagStudioFixAutocompleteBuiltinGlobals": [
+		"ref: 1440194; addr: 4035B7",
+		false
+	],
+	"FFlagStudioRestoreLightThemeScriptColorsOnFlagOff": [
+		"ref: 1443224; addr: 403B87",
+		false
+	],
+	"FFlagStudioShortcutDuringGameDefaultFalse": [
+		"ref: 144326C; addr: 403BA7",
+		false
+	],
+	"FFlagStudioUseAccuratePlaySolo": [
+		"ref: 1443294; addr: 403BC7",
+		false
+	],
+	"FFlagStudioAutomaticScriptRecoveryHashFix": [
+		"ref: 1444590; addr: 405147",
+		false
+	],
+	"FFlagAdvancedObjectsAskForgivenessNotPermission": [
+		"ref: 1445FE8; addr: 405417",
+		false
+	],
+	"FFlagMakeStudioDefaultTextLabelColorBlack": [
+		"ref: 1446014; addr: 405437",
+		false
+	],
+	"FFlagNewDefaultScriptSource": [
+		"ref: 1445FD0; addr: 405457",
+		false
+	],
+	"FFlagCloudEditGARespectsThrottling": [
+		"ref: 1446FA4; addr: 4054D7",
+		false
+	],
+	"FFlagCloudEditLogFailuresWithInflux": [
+		"ref: 1446FE4; addr: 4054F7",
+		false
+	],
+	"FFlagCloudEditSaveFailureExtraInfo": [
+		"ref: 1446FC4; addr: 405517",
+		false
+	],
+	"FFlagStudioFixShareForU13": [
+		"ref: 144D814; addr: 405BD7",
+		false
+	],
+	"FFlagThrottleDebuggerMetrics": [
+		"ref: 144D9E0; addr: 405BF7",
+		false
+	],
+	"FFlagShareOnStartPageAnalyticsFix": [
+		"ref: 1452CD8; addr: 405FA7",
+		false
+	],
+	"FFlagShareOnStartPageAnalyticsFixV2": [
+		"ref: 1452CF8; addr: 405FC7",
+		false
+	],
+	"FFlagStudioStartPageAnalyticsFinalFix": [
+		"ref: 1452D18; addr: 405FE7",
+		false
+	],
+	"FFlagStudioFixDocWidgetUndocking": [
+		"ref: 1453FF4; addr: 406447",
+		false
+	],
+	"FFlagStudioEntityPropertiesGetVariantReturnNullIfNotLoaded": [
+		"ref: 1454664; addr: 406597",
+		false
+	],
+	"FFlagStudioUseNewBadgesListApi": [
+		"ref: 1454648; addr: 4065B7",
+		false
+	],
+	"FFlagStudioFbxImportVerboseErrorOnLoad": [
+		"ref: 1457D5C; addr: 406717",
+		false
+	],
+	"FFlagStudioPreventMeshPublishOnErrorEnabled": [
+		"ref: 1457D34; addr: 406737",
+		false
+	],
+	"FFlagStudioRigImporterDebugMode": [
+		"ref: 1458134; addr: 4067F7",
+		false
+	],
+	"FFlagFixFindAllButtonEnabled": [
+		"ref: 1459A40; addr: 406A17",
+		false
+	],
+	"FFlagGameExplorerCopyPath": [
+		"ref: 145F7F0; addr: 407277",
+		false
+	],
+	"FFlagStudioRefactorRobloxGameExplorer": [
+		"ref: 145F808; addr: 4072E7",
+		false
+	],
+	"FFlagStudioHandlePublishLinkedAssetErrors": [
+		"ref: 14611E0; addr: 407447",
+		false
+	],
+	"FFlagStudioRemoveVIPCheckWhenMakingGamePrivate": [
+		"ref: 1463438; addr: 4078A7",
+		false
+	],
+	"FFlagStudioSortAndSearchOnStartPageLastUpdatedOption": [
+		"ref: 1463408; addr: 4078C7",
+		false
+	],
+	"FFlagStudioStartPageSortSearchAnalytics": [
+		"ref: 1463464; addr: 4078E7",
+		false
+	],
+	"FFlagStudioSortAndSearchOnStartPageV2": [
+		"ref: 1463A90; addr: 407A87",
+		false
+	],
+	"FFlagStudioEnableJsonApiDump": [
+		"ref: 14642C8; addr: 407AA7",
+		false
+	],
+	"FFlagStudioNativeHttpLayerWrapper": [
+		"ref: 1464EE4; addr: 407E67",
+		false
+	],
+	"FFlagStudioFindAllAutoCompletion": [
+		"ref: 1465754; addr: 407EA7",
+		false
+	],
+	"FFlagStudioAddStackedWidgetForMainView": [
+		"ref: 1465A7C; addr: 408077",
+		false
+	],
+	"FFlagStudioForwardForceLocaleIds": [
+		"ref: 1466034; addr: 408197",
+		false
+	],
+	"FFlagStudioUseAccuratePlaySoloSupport": [
+		"ref: 1465FE8; addr: 4081B7",
+		false
+	],
+	"FFlagStudioUseAccuratePlaySoloWithDebugger": [
+		"ref: 146600C; addr: 4081D7",
+		false
+	],
+	"FFlagTeamTestIsntEditMode": [
+		"ref: 1465FD0; addr: 4081F7",
+		false
+	],
+	"FFlagStudioUpdatePluginWidgetView2": [
+		"ref: 1466680; addr: 408277",
+		false
+	],
+	"FFlagAddIconToPluginAction": [
+		"ref: 14666D8; addr: 408297",
+		false
+	],
+	"FFlagStudioFixStartPageThumbnails": [
+		"ref: 1466F60; addr: 408537",
+		false
+	],
+	"FFlagContextMenuObjectName": [
+		"ref: 1468904; addr: 408C17",
+		true
+	],
+	"FFlagStudioFixDeadlockOnDebugBreakpointTreeWidget": [
+		"ref: 146891C; addr: 408C87",
+		false
+	],
+	"FFlagStudioInsertObjectMenuButton": [
+		"ref: 14688E4; addr: 408CC7",
+		false
+	],
+	"FFlagStudioExplorerHoverPlusButtonOption": [
+		"ref: 1469F7C; addr: 408EE7",
+		false
+	],
+	"FFlagStudioFixExplorerFilteringGreyOut": [
+		"ref: 1469FA0; addr: 408F07",
+		false
+	],
+	"FFlagStudioStoreOldPropertyFilter": [
+		"ref: 146A3F0; addr: 408F47",
+		false
+	],
+	"FFlagStudioBrickColorDoesNotRevertNormalColors": [
+		"ref: 146A840; addr: 408FC7",
+		false
+	],
+	"FFlagStudioGetIndicatorIcon": [
+		"ref: 146A86C; addr: 408FE7",
+		false
+	],
+	"FFlagStudioScriptDocLocationDataContentsAboutToChangeCrashFix": [
+		"ref: 148BDD4; addr: 409EE7",
+		false
+	],
+	"FFlagStudioShareFromRibbonBarUXChanges": [
+		"ref: 148CDC0; addr: 40A1B7",
+		false
+	],
+	"FFlagStudioShareModalWindowCrashWhenFetchIconFix": [
+		"ref: 148D1AC; addr: 40A327",
+		false
+	],
+	"FFlagStudioShareModalWindowCrashWhenFetchUniverseFix": [
+		"ref: 148D17C; addr: 40A347",
+		false
+	],
+	"FFlagStudioShareModelWindowDeleteLaterFix": [
+		"ref: 148D1D8; addr: 40A367",
+		false
+	],
+	"FFlagStudioFilterPreferredParent": [
+		"ref: 148EFFC; addr: 40AD17",
+		false
+	],
+	"FFlagStudioFixInsertObjectWindowCrash": [
+		"ref: 148F22C; addr: 40AD37",
+		false
+	],
+	"FFlagStudioInsertObjectWindowShortcut": [
+		"ref: 148F250; addr: 40AD57",
+		false
+	],
+	"FFlagDebugStartPageRefreshOnF5": [
+		"ref: 148F804; addr: 40ADD7",
+		false
+	],
+	"FFlagStudioBetterRBXMessageBox": [
+		"ref: 148F878; addr: 40AE87",
+		false
+	],
+	"FFlagStudioShowGuestTicketErrorMessage": [
+		"ref: 148F894; addr: 40AEC7",
+		false
+	],
+	"FFlagStudioShowLocalFilePathOnStartPage": [
+		"ref: 148F838; addr: 40AEE7",
+		false
+	],
+	"FFlagStudioStartPageAlignLoadingIndicator": [
+		"ref: 148F8B8; addr: 40AF07",
+		false
+	],
+	"FFlagStudioStartPageUiFixes": [
+		"ref: 148F820; addr: 40AF27",
+		false
+	],
+	"FFlagStudioStartPageUsePlainText": [
+		"ref: 148F85C; addr: 40AF47",
+		false
+	],
+	"FFlagStudioUseNewSingalSlotSyntax": [
+		"ref: 1491138; addr: 40B077",
+		false
+	],
+	"FFlagStudioThumbnailImageRetryUrl": [
+		"ref: 1494888; addr: 40B6D7",
+		false
+	],
+	"FFlagStudioPlainTextLabel": [
+		"ref: 17CD560; addr: 40B7E7",
+		false
+	],
+	"FFlagStudioFindScriptSecurityFix": [
+		"ref: 17D0840; addr: 40BA87",
+		false
+	],
+	"FFlagCrashUploadIgnoreLocalBuilds": [
+		"ref: 17D1298; addr: 40BBA7",
+		false
+	],
+	"FFlagAllowMultipleHangReports": [
+		"ref: 17D156C; addr: 40BC7A",
+		false
+	],
+	"FFlagCrashReporterNew": [
+		"ref: 17D1588; addr: 40BCBA",
+		false
+	],
+	"FFlagExitAfterHangDetection2": [
+		"ref: 17D159C; addr: 40BCDA",
+		false
+	],
+	"FFlagStudioCacheRecentAction": [
+		"ref: 17D153C; addr: 40BD1A",
+		false
+	],
+	"FFlagStudioReportCachedRecentActions": [
+		"ref: 17D151C; addr: 40BD9A",
+		false
+	],
+	"FFlagStudioDontAssertWhenQmlCannotLoadImages": [
+		"ref: 17D2838; addr: 40BFC7",
+		false
+	],
+	"FFlagStudioEnableScriptPerformanceFixEarly": [
+		"ref: 17D2860; addr: 40BFE7",
+		false
+	],
+	"FFlagStudioMoreRPCLogging": [
+		"ref: 17D2800; addr: 40C007",
+		false
+	],
+	"FFlagStudioUploadCrashesAfterLoadingFlags": [
+		"ref: 17D2888; addr: 40C027",
+		true
+	],
+	"FFlagStudioWhiteListQtMediaPlayer": [
+		"ref: 17D2818; addr: 40C047",
+		false
+	],
+	"FFlagStudioEnhancedTerrainColorsItem": [
+		"ref: 17D4AE4; addr: 40C347",
+		false
+	],
+	"FFlagStudioFixHiddenColorPropertyCrash": [
+		"ref: 17D4AC0; addr: 40C367",
+		false
+	],
+	"FFlagStudioPropertyFilterRespectsCurrentlyHidden": [
+		"ref: 17D4B04; addr: 40C3A7",
+		false
+	],
+	"FFlagReportPublishedTemplate": [
+		"ref: 17D70C4; addr: 40C547",
+		false
+	],
+	"FFlagStudioRemoveInsertEvent": [
+		"ref: 17D70AC; addr: 40C587",
+		false
+	],
+	"FFlagWebkitDeveloperToolsEnabled": [
+		"ref: 17D9688; addr: 40D777",
+		false
+	],
+	"FFlagStudioEnableWebKitPlugins": [
+		"ref: 17D9A44; addr: 40D8D7",
+		false
+	],
+	"FFlagStudioNewWiki": [
+		"ref: 17D9A34; addr: 40D8F7",
+		false
+	],
+	"FFlagFixDeprecatedPlaySoloSFFlagSyncVariable": [
+		"ref: 17DD9B8; addr: 40DC97",
+		true
+	],
+	"FFlagRapidJsonCopyString": [
+		"ref: 17DD8E4; addr: 40DD07",
+		false
+	],
+	"FFlagStudioBreakOnInfiniteLoopsRunFixEnabled": [
+		"ref: 17DD814; addr: 40DD47",
+		false
+	],
+	"FFlagStudioHideFindAllDialog": [
+		"ref: 17DD8CC; addr: 40DD87",
+		false
+	],
+	"FFlagStudioImproveTeamCreateLoadingIndicator": [
+		"ref: 17DD888; addr: 40DDA7",
+		false
+	],
+	"FFlagStudioImprovedTestServiceFunc": [
+		"ref: 17DD868; addr: 40DDC7",
+		false
+	],
+	"FFlagStudioOnlyShowScriptRecoveryInTeamCreatePlaces": [
+		"ref: 17DD8F8; addr: 40DDE7",
+		false
+	],
+	"FFlagStudioPreventScriptDocDoubleOpening": [
+		"ref: 17DD928; addr: 40DE07",
+		false
+	],
+	"FFlagStudioRobloxIDEDocDeleteThisFix": [
+		"ref: 17DD968; addr: 40DE27",
+		false
+	],
+	"FFlagStudioRobloxIDEDocShareModalWindowDeleteThis": [
+		"ref: 17DD988; addr: 40DE47",
+		false
+	],
+	"FFlagStudioStartWithGameLocaleId": [
+		"ref: 17DD8B0; addr: 40DE67",
+		false
+	],
+	"FFlagStudioStopBindWorkspace": [
+		"ref: 17DD9FC; addr: 40DE87",
+		false
+	],
+	"FFlagStudioStopForceReloadImage": [
+		"ref: 17DD9E0; addr: 40DEA7",
+		false
+	],
+	"FFlagStudioTrackDeadRobloxIDEDocsThrottleEvents": [
+		"ref: 17DD7C8; addr: 40DEC7",
+		false
+	],
+	"FFlagStudioWorkspaceFilteringEnabledOnNewPlaces": [
+		"ref: 17DD83C; addr: 40DEE7",
+		false
+	],
+	"FFlagWorkspaceNotificationMasterEnable": [
+		"ref: 17DD7A4; addr: 40DF17",
+		false
+	],
+	"FFlagDebugFastFlagEditor": [
+		"ref: 17E37C8; addr: 40E3A7",
+		false
+	],
+	"FFlagDebugStudioReplaceOldToolboxWithNew": [
+		"ref: 17E3500; addr: 40E3C7",
+		false
+	],
+	"FFlagStudioABTestFramework": [
+		"ref: 17E344C; addr: 40E457",
+		false
+	],
+	"FFlagStudioAddActionDescriptorForAnalytics": [
+		"ref: 17E3578; addr: 40E477",
+		false
+	],
+	"FFlagStudioCheckForUpgradeEnabled": [
+		"ref: 17E3464; addr: 40E4B7",
+		false
+	],
+	"FFlagStudioDiffV1": [
+		"ref: 17E3484; addr: 40E5B7",
+		false
+	],
+	"FFlagStudioHttpUpgradeToHttps": [
+		"ref: 17E37DC; addr: 40E5D7",
+		false
+	],
+	"FFlagStudioMaximizeButtonForAllDockWidgetsEnabled": [
+		"ref: 17E3494; addr: 40E617",
+		false
+	],
+	"FFlagStudioNotReturnStartPageFix1": [
+		"ref: 17E3738; addr: 40E637",
+		false
+	],
+	"FFlagStudioRemoveDuplicatesInRestoreStateQtFixEanbled": [
+		"ref: 17E35F4; addr: 40E657",
+		false
+	],
+	"FFlagStudioRemoveScriptRecoveryPopupOnDisconnect": [
+		"ref: 17E35A0; addr: 40E677",
+		false
+	],
+	"FFlagStudioResendDisconnectNotification": [
+		"ref: 17E36E8; addr: 40E697",
+		false
+	],
+	"FFlagStudioTeamCreateDisconnectRetryTimeoutSendThrottlingEvent": [
+		"ref: 17E378C; addr: 40E717",
+		false
+	],
+	"FFlagStudioThemeSwitchingEnabled": [
+		"ref: 17E353C; addr: 40E737",
+		false
+	],
+	"FFlagStudioThemeSwitchingEnabledV2": [
+		"ref: 17E3558; addr: 40E757",
+		false
+	],
+	"FFlagStudioToolboxInLuaWidget": [
+		"ref: 17E34E4; addr: 40E777",
+		false
+	],
+	"FFlagStudioUIEditorZoomPanel": [
+		"ref: 17E3524; addr: 40E797",
+		false
+	],
+	"FFlagStudioUITabChangeHideSelectedValidGui": [
+		"ref: 17E35CC; addr: 40E7B7",
+		false
+	],
+	"FFlagVideoDocumentationPluginEnabled": [
+		"ref: 17E34C4; addr: 40E7E7",
+		false
+	],
+	"FFlagStudioDisabledIconsFixEnabled": [
+		"ref: 17F2318; addr: 40EBA7",
+		false
+	],
+	"FFlagStudioFixShareIcon": [
+		"ref: 17F2304; addr: 40EBC7",
+		false
+	],
+	"FFlagStudioUIEditorRotateV2": [
+		"ref: 17F22EC; addr: 40EBE7",
+		false
+	],
+	"FFlagStudioRobloxScriptDocPushScriptSourceToDataModelCrashFix": [
+		"ref: 17F5408; addr: 40ED47",
+		false
+	],
+	"FFlagStudioScriptDocDeferCloseAllScriptsToParent": [
+		"ref: 17F5460; addr: 40ED67",
+		false
+	],
+	"FFlagStudioScriptDocDiffQuickFix": [
+		"ref: 17F5444; addr: 40ED87",
+		false
+	],
+	"FFlagStudioTeamCreateAllowTakingLockFromInActivePlayerFix": [
+		"ref: 17F548C; addr: 40EDA7",
+		false
+	],
+	"FFlagStudioForceScriptColorsResetOnReset": [
+		"ref: 17F7920; addr: 40EEC7",
+		false
+	],
+	"FFlagCSGv2ForceEnabled": [
+		"ref: 17F8298; addr: 40EEE7",
+		false
+	],
+	"FFlagForceSaveSelection": [
+		"ref: 17F82AC; addr: 40EF07",
+		false
+	],
+	"FFlagStudioFocusPartOnStartUpShortcut": [
+		"ref: 17F82F0; addr: 40EF77",
+		false
+	],
+	"FFlagStudioPublishToRobloxActionUXAlwaysAvailable": [
+		"ref: 17F82C0; addr: 40EF97",
+		false
+	],
+	"FFlagStudioUpdateLastDirForSaveAsLocalPlugin": [
+		"ref: 17F8350; addr: 40EFB7",
+		false
+	],
+	"FFlagOutputWidgetFindEnabled": [
+		"ref: 17FDF30; addr: 40F507",
+		false
+	],
+	"FFlagStudioShowTutorialsByDefault": [
+		"ref: 17FF0BC; addr: 40F5A7",
+		false
+	],
+	"FFlagStudioTutorialSeeAll": [
+		"ref: 17FF0DC; addr: 40F5C7",
+		false
+	],
+	"FFlagStudioPluginNativeCursors": [
+		"ref: 17FF5E8; addr: 40F857",
+		false
+	],
+	"FFlagStudioScriptAnalysisWidgetOnUpdateResultCrashFix": [
+		"ref: 18007E4; addr: 40FC57",
+		false
+	],
+	"FFlagStudioHideAudotpleteComboBoxEscape": [
+		"ref: 1801344; addr: 40FDC7",
+		false
+	],
+	"FFlagStudioStopLoggingTeamCreateLocalCacheScriptIssues": [
+		"ref: 1801CA4; addr: 40FF27",
+		false
+	],
+	"FFlagStudioThrottleCacheScriptIssueReporting": [
+		"ref: 1801CD8; addr: 40FF47",
+		false
+	],
+	"FFlagStudioSideWidgetQuickFix": [
+		"ref: 180286C; addr: 410157",
+		false
+	],
+	"FFlagScriptContextSearchFix": [
+		"ref: 1802A50; addr: 410197",
+		true
+	],
+	"FFlagStudioAutoIndentRedundantCharacterFix": [
+		"ref: 1802AF8; addr: 4101B7",
+		false
+	],
+	"FFlagStudioDoNotEndBlockForFunctionArgs": [
+		"ref: 1802B94; addr: 4101D7",
+		false
+	],
+	"FFlagStudioDontDeleteLineOnUnindent": [
+		"ref: 1802BB8; addr: 4101F7",
+		false
+	],
+	"FFlagStudioEscapeCloseFindWidget": [
+		"ref: 1802B20; addr: 410217",
+		false
+	],
+	"FFlagStudioFixAutocompleteEnabledSetting": [
+		"ref: 1802A88; addr: 410237",
+		false
+	],
+	"FFlagStudioIndentIfLineEndsWithFoldEnder": [
+		"ref: 1802B3C; addr: 410257",
+		false
+	],
+	"FFlagStudioPreventUnneededScriptSelectionRepaint": [
+		"ref: 1802AAC; addr: 410277",
+		false
+	],
+	"FFlagStudioPutFindResultsOnTopOfScreen": [
+		"ref: 1802BD8; addr: 410297",
+		false
+	],
+	"FFlagStudioRecomputeFoldState": [
+		"ref: 1802BFC; addr: 4102B7",
+		false
+	],
+	"FFlagStudioStopHighlightingLastWordWhenSelectingFirst": [
+		"ref: 1802B60; addr: 4102D7",
+		false
+	],
+	"FFlagStudioUseAnalysisReceiverClass": [
+		"ref: 1802AD8; addr: 410317",
+		false
+	],
+	"FFlagStudioThrottleNewEmulationMetrics": [
+		"ref: 1805A04; addr: 410907",
+		false
+	],
+	"FFlagFuzzyWeightEarlyOutRecursive": [
+		"ref: 18069B4; addr: 410BC7",
+		false
+	],
+	"FFlagStudioAllowReferenceLoops": [
+		"ref: 1806948; addr: 410BE7",
+		false
+	],
+	"FFlagStudioAutocompleteCurrentWordVariableShouldContainCurrentWord": [
+		"ref: 18068B0; addr: 410C07",
+		false
+	],
+	"FFlagStudioAutocompleteEnumeratorRefactor": [
+		"ref: 18067A0; addr: 410C27",
+		false
+	],
+	"FFlagStudioAutocompleteEscapeHtml": [
+		"ref: 1806890; addr: 410C47",
+		false
+	],
+	"FFlagStudioAutocompleteEvents": [
+		"ref: 1806740; addr: 410C67",
+		false
+	],
+	"FFlagStudioAutocompleteFixQuotes": [
+		"ref: 18066B8; addr: 410C87",
+		false
+	],
+	"FFlagStudioAutocompleteFixVectorUnitTooltips": [
+		"ref: 1806778; addr: 410CA7",
+		false
+	],
+	"FFlagStudioAutocompleteGetEnumItems": [
+		"ref: 18067C8; addr: 410CC7",
+		false
+	],
+	"FFlagStudioAutocompleteGlobalTablesRecursionCrashFix": [
+		"ref: 1806660; addr: 410CE7",
+		false
+	],
+	"FFlagStudioAutocompleteKnownChildrenInFindOrWaitForChild": [
+		"ref: 18067E8; addr: 410D07",
+		false
+	],
+	"FFlagStudioBlockAutocompleteInComments": [
+		"ref: 18066FC; addr: 410D47",
+		false
+	],
+	"FFlagStudioDoNotAutocompleteNumbers": [
+		"ref: 1806870; addr: 410D67",
+		false
+	],
+	"FFlagStudioDoNotDecrementCursorOnNoArgMethods": [
+		"ref: 180691C; addr: 410D87",
+		false
+	],
+	"FFlagStudioFixAutocompleteSuggestingSecure": [
+		"ref: 18066D4; addr: 410DA7",
+		false
+	],
+	"FFlagStudioFixAutocompleteTablesWithinTablesOfSameName": [
+		"ref: 180683C; addr: 410DC7",
+		false
+	],
+	"FFlagStudioNewGetParameterInfo": [
+		"ref: 180675C; addr: 410DE7",
+		false
+	],
+	"FFlagStudioNoParensOnFunctionParams": [
+		"ref: 180681C; addr: 410E07",
+		false
+	],
+	"FFlagStudioPreventEmptyAutocompleteTooltip": [
+		"ref: 1806690; addr: 410E27",
+		false
+	],
+	"FFlagStudioPreventSuggestingLocalInOwnDefinition": [
+		"ref: 18068F0; addr: 410E47",
+		false
+	],
+	"FFlagStudioPreventUnknownTypeAssert": [
+		"ref: 1806720; addr: 410E67",
+		false
+	],
+	"FFlagStudioRemoveTrailingTextOnAutocomplete": [
+		"ref: 1806638; addr: 410E87",
+		false
+	],
+	"FFlagStudioUseNewAutocompleteMetadata": [
+		"ref: 1806990; addr: 410EA7",
+		false
+	],
+	"FFlagStudioBlockAnalyticsBasedOnOS": [
+		"ref: 18075A0; addr: 411247",
+		false
+	],
+	"FFlagStudioNoMoreReadLock": [
+		"ref: 18075C0; addr: 411287",
+		false
+	],
+	"FFlagStudioReportAllApplicationLocationsOnCrash": [
+		"ref: 1807574; addr: 4112A7",
+		false
+	],
+	"FFlagStudioTreeWidgetDoesntLoseFocusOnUIWidgetOpen": [
+		"ref: 1807E58; addr: 4118F7",
+		false
+	],
+	"FFlagStudioUIEditorFixEmulatorToggleState": [
+		"ref: 1807E88; addr: 411917",
+		false
+	],
+	"FFlagStudioAddLinkedAssetsFolder": [
+		"ref: 1808598; addr: 4119F7",
+		false
+	],
+	"FFlagStudioFixMainThreadAssertOnNonGameLoaded": [
+		"ref: 18085B4; addr: 411A17",
+		false
+	],
+	"FFlagStudioForceWebDialogToFront": [
+		"ref: 180A228; addr: 411ED7",
+		false
+	],
+	"FFlagStudioFixTransformCheckedState": [
+		"ref: 180A728; addr: 411FF7",
+		false
+	],
+	"FFlagStudioPreventPluginSettingsCorruption": [
+		"ref: 180A700; addr: 412017",
+		false
+	],
+	"FFlagStudioRefreshPluginAction": [
+		"ref: 180A748; addr: 412037",
+		false
+	],
+	"FFlagStudioGrabWriteLockOnUpdateToolbars": [
+		"ref: 180BCC0; addr: 412297",
+		false
+	],
+	"FFlagStudioUpdateProgressDontPumpEventLoop": [
+		"ref: 180BCE4; addr: 4122B7",
+		false
+	],
+	"FFlagProcessMouseMoveAfterMouseButton": [
+		"ref: 180E344; addr: 4124F7",
+		false
+	],
+	"FFlagResetMouseDeltaFix": [
+		"ref: 180E318; addr: 412517",
+		false
+	],
+	"FFlagSetMouseInputStateLater": [
+		"ref: 180E32C; addr: 412537",
+		false
+	],
+	"FFlagXboxUseRobloxInput": [
+		"ref: 180E304; addr: 412557",
+		false
+	],
+	"FFlagAllowJoinsToWait": [
+		"ref: 1810564; addr: 4125C7",
+		false
+	],
+	"FFlagAllowTeleportsToWait": [
+		"ref: 181054C; addr: 4125E7",
+		false
+	],
+	"FFlagAppShellManagementRefactor4": [
+		"ref: 181051C; addr: 4126A7",
+		false
+	],
+	"FFlagClientFireEventPlaceLauncherFail3": [
+		"ref: 181049C; addr: 4126C7",
+		false
+	],
+	"FFlagFixGameEntryCount": [
+		"ref: 1810610; addr: 412707",
+		false
+	],
+	"FFlagFixGameJoinTrying": [
+		"ref: 1810538; addr: 412727",
+		false
+	],
+	"FFlagHarfbuzzEnabledInApp": [
+		"ref: 18105A8; addr: 412747",
+		false
+	],
+	"FFlagHarfbuzzEnabledInGame": [
+		"ref: 18105C0; addr: 412767",
+		false
+	],
+	"FFlagPassDataModelInitializationParamsEvenMore": [
+		"ref: 1810648; addr: 412787",
+		false
+	],
+	"FFlagPassDataModelInitializationParams": [
+		"ref: 1810624; addr: 4127A7",
+		false
+	],
+	"FFlagPlaceLauncherSetCurrentGameEntryOnceOnTeleport": [
+		"ref: 1810674; addr: 412807",
+		false
+	],
+	"FFlagPlacelauncherKnowsHttpError": [
+		"ref: 18104C0; addr: 412827",
+		false
+	],
+	"FFlagQuantumGuiEnabledInApp": [
+		"ref: 1810578; addr: 412847",
+		false
+	],
+	"FFlagQuantumGuiEnabledInGame": [
+		"ref: 1810590; addr: 412867",
+		false
+	],
+	"FFlagTextTruncationEnabledInApp": [
+		"ref: 18105D8; addr: 4128C7",
+		false
+	],
+	"FFlagTextTruncationEnabledInGame": [
+		"ref: 18105F4; addr: 4128E7",
+		false
+	],
+	"FFlagDatamodelServicesConnectionFix2": [
+		"ref: 18112D4; addr: 412C17",
+		false
+	],
+	"FFlagInGameUIForceDefaultLocaleOnWin32": [
+		"ref: 1811364; addr: 412CB7",
+		false
+	],
+	"FFlagMoreViewCreationFailureHandling": [
+		"ref: 1811388; addr: 412CD7",
+		false
+	],
+	"FFlagUpdateRenderViewStatsEvenThrottling": [
+		"ref: 18113A8; addr: 412CF7",
+		false
+	],
+	"FFlagAppShellReporterMonitorFrameTimeAndroid": [
+		"ref: 1811478; addr: 412D77",
+		false
+	],
+	"FFlagAppShellReporterMonitorFrameTimeIOS": [
+		"ref: 18114A0; addr: 412D97",
+		false
+	],
+	"FFlagLoadTimesFromAppShellReporter": [
+		"ref: 1811458; addr: 412E57",
+		false
+	],
+	"FFlagMemoryFromAppShellReporterAndroid": [
+		"ref: 18114E4; addr: 412E77",
+		false
+	],
+	"FFlagMemoryFromAppShellReporterIOS": [
+		"ref: 18114C4; addr: 412E97",
+		false
+	],
+	"FFlagUrlReconstructRejectInvalidSchemes": [
+		"ref: 18119B4; addr: 412F87",
+		false
+	],
+	"FFlagUrlSupportNewGamesAPI": [
+		"ref: 18119D8; addr: 412FA7",
+		false
+	],
+	"FFlagFixParentChildInsert": [
+		"ref: 1811C14; addr: 413287",
+		false
+	],
+	"FFlagInsertInstanceRecommendedList": [
+		"ref: 1811BF4; addr: 4132A7",
+		false
+	],
+	"FFlagLockViolationInstanceCrash": [
+		"ref: 18122A0; addr: 413307",
+		false
+	],
+	"FFlagLockViolationInstanceCrashStudio": [
+		"ref: 1811BA8; addr: 413327",
+		false
+	],
+	"FFlagServiceAskSetParent": [
+		"ref: 181274C; addr: 414597",
+		false
+	],
+	"FFlagServiceVsp2": [
+		"ref: 1812760; addr: 4145B7",
+		false
+	],
+	"FFlagContentProviderTempDirWithPid2": [
+		"ref: 1812A8C; addr: 4148B7",
+		false
+	],
+	"FFlagFixAssetPathsUnderJunctions": [
+		"ref: 1812A70; addr: 4148F7",
+		false
+	],
+	"FFlagForceUseProductionForAssetFetching": [
+		"ref: 1812A4C; addr: 414917",
+		false
+	],
+	"FFlagNoCacheForLocalContent": [
+		"ref: 1812A14; addr: 414937",
+		false
+	],
+	"FFlagRequireRbxSig2": [
+		"ref: 1812AAC; addr: 414BA7",
+		false
+	],
+	"FFlagAvatarJointPositionsEnabled": [
+		"ref: 1813E08; addr: 4156D7",
+		false
+	],
+	"FFlagBadCoreScriptCrashFixEnabled": [
+		"ref: 1813E88; addr: 4157D7",
+		false
+	],
+	"FFlagDataModelForwardForceLocaleIds": [
+		"ref: 1814190; addr: 415AC7",
+		false
+	],
+	"FFlagDataModelForwardGameLocaleId": [
+		"ref: 18141C4; addr: 415AE7",
+		false
+	],
+	"FFlagDontLoadCoreScriptsFromRenderScheduler": [
+		"ref: 18141E4; addr: 415B97",
+		false
+	],
+	"FFlagEnableLoadingScreenPlaceIconTween": [
+		"ref: 181426C; addr: 415BB7",
+		false
+	],
+	"FFlagLetLocalOverrideFlag": [
+		"ref: 181434C; addr: 415BF7",
+		false
+	],
+	"FFlagLogClientLoadToAvatarLoad": [
+		"ref: 18142BC; addr: 415C17",
+		false
+	],
+	"FFlagPresetInGameGuiInset": [
+		"ref: 18143B8; addr: 415C77",
+		false
+	],
+	"FFlagProcessStarterGuiInEditMode": [
+		"ref: 1814308; addr: 415C97",
+		false
+	],
+	"FFlagReportJoinAllCount": [
+		"ref: 181441C; addr: 415D67",
+		false
+	],
+	"FFlagReportRuntimeJoinCount": [
+		"ref: 181449C; addr: 415D87",
+		false
+	],
+	"FFlagSolverHotSwappingEnabled": [
+		"ref: 18143F0; addr: 415E57",
+		false
+	],
+	"FFlagFixGamepadNavigationInVR": [
+		"ref: 1816CA0; addr: 4172F7",
+		false
+	],
+	"FFlagAdvancedMouseSensitivityEnabled": [
+		"ref: 1817700; addr: 417977",
+		false
+	],
+	"FFlagFixOutOfBoundsMouseLocation": [
+		"ref: 18176A4; addr: 417997",
+		false
+	],
+	"FFlagIsGamepadButtonDownEnabled": [
+		"ref: 1817774; addr: 4179B7",
+		false
+	],
+	"FFlagRefactorUserInputService2": [
+		"ref: 1817790; addr: 4179D7",
+		false
+	],
+	"FFlagRemoveRedundantFakeMouseCode": [
+		"ref: 18177BC; addr: 4179F7",
+		false
+	],
+	"FFlagTextBoxOverrideManualFocusRelease": [
+		"ref: 1817750; addr: 417A17",
+		false
+	],
+	"FFlagUseNewAppBridgeXbone2": [
+		"ref: 18176E8; addr: 417A37",
+		false
+	],
+	"FFlagUserNoCameraClickToMove": [
+		"ref: 1817738; addr: 417A57",
+		false
+	],
+	"FFlagAvatarEditorDefaultTabSelection": [
+		"ref: 1819D9C; addr: 419907",
+		false
+	],
+	"FFlagAvatarEditorRecomputeCameraLookAt": [
+		"ref: 1819DE4; addr: 419927",
+		false
+	],
+	"FFlagAvatarEditorSelectivelyUseDefaultAsset": [
+		"ref: 1819DBC; addr: 419947",
+		false
+	],
+	"FFlagAvatarEditorUseArtistIntentFolder": [
+		"ref: 1819E74; addr: 419967",
+		false
+	],
+	"FFlagAvatarEditorUseNewR15Model": [
+		"ref: 1819E58; addr: 419987",
+		false
+	],
+	"FFlagBackpackScriptUseFormatByKey": [
+		"ref: 1819C8C; addr: 4199A7",
+		false
+	],
+	"FFlagChatServiceInstallerExemptLocalizationFromAnalytics": [
+		"ref: 1819E98; addr: 4199C7",
+		false
+	],
+	"FFlagConvertMyPlaceNameInXboxApp": [
+		"ref: 18199DC; addr: 4199E7",
+		true
+	],
+	"FFlagCoreScriptTranslateGameText": [
+		"ref: 1819B48; addr: 419A07",
+		false
+	],
+	"FFlagCoreScriptsUseLocalizationModule": [
+		"ref: 1819CAC; addr: 419A27",
+		false
+	],
+	"FFlagEnableAEAndroidBackButton": [
+		"ref: 1819E3C; addr: 419A47",
+		false
+	],
+	"FFlagEnableLoadingHUDOniOSForGameShare": [
+		"ref: 18198F4; addr: 419A67",
+		false
+	],
+	"FFlagEnableLuaAppFormFactorAndPlatform": [
+		"ref: 1819954; addr: 419A87",
+		false
+	],
+	"FFlagEnableLuaEventStreamRelease": [
+		"ref: 1819978; addr: 419AA7",
+		false
+	],
+	"FFlagEnableNewDevConsole": [
+		"ref: 181A0C4; addr: 419AC7",
+		false
+	],
+	"FFlagEnableWebServerOnStart": [
+		"ref: 1819B64; addr: 419AE7",
+		false
+	],
+	"FFlagFixUsersReducerDataLoss": [
+		"ref: 1819BFC; addr: 419B27",
+		false
+	],
+	"FFlagFriendPlayerPromptUseFormatByKey": [
+		"ref: 1819D18; addr: 419B47",
+		false
+	],
+	"FFlagGetDefaultClothesFromWeb": [
+		"ref: 1819E08; addr: 419B67",
+		false
+	],
+	"FFlagLoadingScreenUseLocalizationTable": [
+		"ref: 1819C24; addr: 419BA7",
+		false
+	],
+	"FFlagLuaAppFriendshipCreatedSignalREnabled": [
+		"ref: 181992C; addr: 419BC7",
+		false
+	],
+	"FFlagLuaAppLegacyInputDisabledGlobally2": [
+		"ref: 1819D58; addr: 419BE7",
+		false
+	],
+	"FFlagLuaAppPeopleListV1": [
+		"ref: 1819834; addr: 419C07",
+		false
+	],
+	"FFlagLuaChatAssetCardsSelfTerminateConnection": [
+		"ref: 1819ECC; addr: 419C27",
+		false
+	],
+	"FFlagLuaChatCreateChatEnabled": [
+		"ref: 1819F98; addr: 419C47",
+		false
+	],
+	"FFlagLuaChatDisconnectBackButtonWhenOffScreen": [
+		"ref: 1819FF0; addr: 419C67",
+		false
+	],
+	"FFlagLuaChatGroupChatIconEnabled": [
+		"ref: 1819FB4; addr: 419C87",
+		false
+	],
+	"FFlagLuaChatPerformanceTracking": [
+		"ref: 1819F60; addr: 419CA7",
+		false
+	],
+	"FFlagLuaChatRefactoredChatInputBar": [
+		"ref: 1819F40; addr: 419D47",
+		false
+	],
+	"FFlagLuaChatShareGameToChatFromChat": [
+		"ref: 1819F20; addr: 419D67",
+		false
+	],
+	"FFlagLuaChatUseCppTextTruncation": [
+		"ref: 1819F7C; addr: 419D87",
+		false
+	],
+	"FFlagLuaChatUseNewFriendsAndPresenceEndpoint": [
+		"ref: 1819EF8; addr: 419DA7",
+		false
+	],
+	"FFlagLuaUseUtf8TextTruncation": [
+		"ref: 1819D3C; addr: 419DE7",
+		false
+	],
+	"FFlagNotificationScript2UseFormatByKey": [
+		"ref: 1819CF4; addr: 419E67",
+		false
+	],
+	"FFlagRefactoringAvatarEditorSetup": [
+		"ref: 1819D7C; addr: 419E87",
+		false
+	],
+	"FFlagRemoveLoadingHUDOniOS": [
+		"ref: 18198DC; addr: 419EA7",
+		false
+	],
+	"FFlagReportAbuseMenuDescriptionFix": [
+		"ref: 1819C6C; addr: 419EC7",
+		false
+	],
+	"FFlagSettingsHubBarsRefactor2": [
+		"ref: 1819B7C; addr: 419EE7",
+		false
+	],
+	"FFlagSettingsHubInviteToGame2": [
+		"ref: 1819B98; addr: 419F27",
+		false
+	],
+	"FFlagSettingsHubInviteToGameInStudio2": [
+		"ref: 1819BB4; addr: 419F47",
+		false
+	],
+	"FFlagSettingsHubPlayersHorizontalScroll": [
+		"ref: 1819CD0; addr: 419F67",
+		false
+	],
+	"FFlagShareGameToChatStatusAnalytics": [
+		"ref: 1819FD0; addr: 419F87",
+		false
+	],
+	"FFlagStatUtilsUseFormatByKey": [
+		"ref: 1819C48; addr: 419FA7",
+		false
+	],
+	"FFlagUseLuaAppStarterScriptOniOS": [
+		"ref: 181A12C; addr: 419FC7",
+		false
+	],
+	"FFlagUseLuaGamesPageOnAndroidPhone": [
+		"ref: 18198BC; addr: 419FE7",
+		false
+	],
+	"FFlagUseLuaGamesPageOnAndroidTablet": [
+		"ref: 181987C; addr: 41A007",
+		false
+	],
+	"FFlagUseLuaGamesPageOniPad": [
+		"ref: 18197EC; addr: 41A027",
+		false
+	],
+	"FFlagUseLuaGamesPageOniPhone": [
+		"ref: 181981C; addr: 41A047",
+		false
+	],
+	"FFlagUseLuaHomePageOnAndroidPhone": [
+		"ref: 181989C; addr: 41A067",
+		false
+	],
+	"FFlagUseLuaHomePageOnAndroidTablet": [
+		"ref: 181985C; addr: 41A087",
+		false
+	],
+	"FFlagUseLuaHomePageOniPad": [
+		"ref: 18197D4; addr: 41A0A7",
+		false
+	],
+	"FFlagUseLuaHomePageOniPhone": [
+		"ref: 1819804; addr: 41A0C7",
+		false
+	],
+	"FFlagUseNewAELoadTimeMetrics": [
+		"ref: 1819E24; addr: 41A0E7",
+		false
+	],
+	"FFlagUseSafeZoneOffsets": [
+		"ref: 1819918; addr: 41A107",
+		false
+	],
+	"FFlagXboxRecommendedPeople2": [
+		"ref: 18199C4; addr: 41A1A7",
+		false
+	],
+	"FFlagXboxRoduxScreenFocus": [
+		"ref: 18199AC; addr: 41A1C7",
+		false
+	],
+	"FFlagXboxUpdateBadgeEndpoints": [
+		"ref: 1819A20; addr: 41A257",
+		false
+	],
+	"FFlagXboxUseCuratedGameSort2": [
+		"ref: 1819A08; addr: 41A277",
+		false
+	],
+	"FFlagXboxUseUnlinkCallback": [
+		"ref: 1819994; addr: 41A297",
+		false
+	],
+	"FFlagEnableOnboardingMemoryAPI": [
+		"ref: 181B1B4; addr: 41AC57",
+		false
+	],
+	"FFlagFixCameraControlSetting": [
+		"ref: 181B1D0; addr: 41AC77",
+		false
+	],
+	"FFlagUserEnableDynamicThumbstickIntro": [
+		"ref: 181B178; addr: 41AC97",
+		false
+	],
+	"FFlagScriptParserDoNotStackOverflowOnManyUnclosedParens": [
+		"ref: 181C194; addr: 41CAD7",
+		false
+	],
+	"FFlagUseHttpDefaultUrlSchema": [
+		"ref: 181C9A8; addr: 41CBF7",
+		false
+	],
+	"FFlagDebugHttpAsyncCallsForStatsReporting": [
+		"ref: 181CB30; addr: 41CF37",
+		true
+	],
+	"FFlagHttpReportStatisticsOnce": [
+		"ref: 181CB7C; addr: 41CFF7",
+		false
+	],
+	"FFlagWebParserAnalyticsWriteNanInf": [
+		"ref: 181D5CC; addr: 41D127",
+		false
+	],
+	"FFlagUseConvertToHex": [
+		"ref: 181D844; addr: 41D727",
+		false
+	],
+	"FFlagDebugCrashEnabled": [
+		"ref: 181D9A0; addr: 41D787",
+		false
+	],
+	"FFlagEnableYieldAsWaitTracking": [
+		"ref: 181DA50; addr: 41D7A7",
+		false
+	],
+	"FFlagLockViolationScriptCrash": [
+		"ref: 181DA1C; addr: 41D7C7",
+		false
+	],
+	"FFlagOtherUrlConstructionV2": [
+		"ref: 181DA38; addr: 41D827",
+		false
+	],
+	"FFlagStudioScriptPerformanceWidgetRefactor": [
+		"ref: 181D9DC; addr: 41D887",
+		false
+	],
+	"FFlagStudioSkipLuaBalanceCheckOnScriptError": [
+		"ref: 181D9B4; addr: 41D8A7",
+		false
+	],
+	"FFlagDebugAnalyticsForceLotteryWin": [
+		"ref: 181F040; addr: 41DAF7",
+		false
+	],
+	"FFlagUseHttpsAnalyticsUrls": [
+		"ref: 181F138; addr: 41DD17",
+		false
+	],
+	"FFlagUseNewGoogleAnalyticsImpl2": [
+		"ref: 181F060; addr: 41DD37",
+		false
+	],
+	"FFlagCacheWayPointDataSize": [
+		"ref: 181F608; addr: 41E287",
+		false
+	],
+	"FFlagDeprecatableBroadcasts": [
+		"ref: 181FB04; addr: 41E817",
+		false
+	],
+	"FFlagPhysicsAnalyzerAnalyticsEnabled": [
+		"ref: 181FF30; addr: 41EFF7",
+		false
+	],
+	"FFlagFreeCameraAPI": [
+		"ref: 1820574; addr: 420027",
+		false
+	],
+	"FFlagUseOptimizedGetPartsObscuringTarget": [
+		"ref: 1820550; addr: 420047",
+		false
+	],
+	"FFlagUserAllCamerasInLua": [
+		"ref: 1820524; addr: 420067",
+		false
+	],
+	"FFlagUserNewPoppercam": [
+		"ref: 1820584; addr: 420087",
+		false
+	],
+	"FFlagUserPortraitPopperFix": [
+		"ref: 1820538; addr: 4200A7",
+		false
+	],
+	"FFlagBestProximatePartFix": [
+		"ref: 1821514; addr: 421CA7",
+		false
+	],
+	"FFlagLuaDebuggerBreakOnError": [
+		"ref: 1821C3C; addr: 421DC7",
+		false
+	],
+	"FFlagLuaDebuggerGetGlobalsBalanceStack": [
+		"ref: 1821C84; addr: 421DE7",
+		false
+	],
+	"FFlagLuaDebugger": [
+		"ref: 1821C30; addr: 421E07",
+		false
+	],
+	"FFlagLuaDebuggerN2UpdateHookFix": [
+		"ref: 1821C68; addr: 421E27",
+		false
+	],
+	"FFlagMoreLuaDebuggerStackLeakFixes": [
+		"ref: 1821CA8; addr: 421E47",
+		false
+	],
+	"FFlagCheckMultipleLoadCharacterCalls": [
+		"ref: 1824318; addr: 424257",
+		false
+	],
+	"FFlagDebugDoNotLoadHumanoidSounds": [
+		"ref: 1823FF4; addr: 424277",
+		false
+	],
+	"FFlagEnableGetAvailableForExperimentAPI": [
+		"ref: 1824158; addr: 424297",
+		false
+	],
+	"FFlagErrorForFailedRequestsInThumbnailLogic": [
+		"ref: 1824030; addr: 4242B7",
+		false
+	],
+	"FFlagFireCharacterAddedAfterSpawn": [
+		"ref: 1823FA0; addr: 4242D7",
+		false
+	],
+	"FFlagFixCharacterAppearanceLoadedEvent2": [
+		"ref: 1824468; addr: 4242F7",
+		false
+	],
+	"FFlagFixCharacterAppearanceLoadedEvent": [
+		"ref: 182439C; addr: 424317",
+		false
+	],
+	"FFlagFixPlayerlistFollowing": [
+		"ref: 1824110; addr: 424337",
+		false
+	],
+	"FFlagGetJoinDataEnable": [
+		"ref: 18243DC; addr: 424357",
+		false
+	],
+	"FFlagGetTeamLazyEvaluation": [
+		"ref: 18240F8; addr: 424377",
+		false
+	],
+	"FFlagGuestFriendCheckFailImmediate": [
+		"ref: 18240B8; addr: 424397",
+		false
+	],
+	"FFlagNoInfiniteLoopOnChatInfoLoadFailure": [
+		"ref: 1824278; addr: 4243B7",
+		false
+	],
+	"FFlagPlayHereFix": [
+		"ref: 18243F0; addr: 4243D7",
+		false
+	],
+	"FFlagRemoveDeadCode": [
+		"ref: 18240E8; addr: 424437",
+		false
+	],
+	"FFlagReportCharacterLoadTimeMetrics2": [
+		"ref: 1824070; addr: 424457",
+		false
+	],
+	"FFlagUseAdvancedCharacterScales3": [
+		"ref: 18242FC; addr: 4244A7",
+		false
+	],
+	"FFlagUseCachedFriendChecksForPlayerIsFriendsWith": [
+		"ref: 18242B8; addr: 4244C7",
+		false
+	],
+	"FFlagAnchoredSendPositionUpdate": [
+		"ref: 1826934; addr: 4290B7",
+		false
+	],
+	"FFlagDebugEnableRenderCSGTriangles": [
+		"ref: 18269B0; addr: 4290D7",
+		false
+	],
+	"FFlagNotMyNetworkOwner2": [
+		"ref: 1826B68; addr: 429117",
+		false
+	],
+	"FFlagPartInstanceCofMPropertyExposed": [
+		"ref: 1826B08; addr: 429137",
+		false
+	],
+	"FFlagShowBufferCount": [
+		"ref: 1826B28; addr: 429197",
+		false
+	],
+	"FFlagSpecificGravityDummyFunctionGA": [
+		"ref: 1826A18; addr: 4291B7",
+		true
+	],
+	"FFlagSpecificGravityDummyReturnsZero": [
+		"ref: 1826A48; addr: 4291D7",
+		false
+	],
+	"FFlagDebugReportElevatedPhysicsFPSToGA": [
+		"ref: 18285D8; addr: 42AC87",
+		true
+	],
+	"FFlagFEForEveryone": [
+		"ref: 18286AC; addr: 42ACC7",
+		false
+	],
+	"FFlagGridMaterial": [
+		"ref: 1828678; addr: 42ACE7",
+		false
+	],
+	"FFlagNullCheckInReEnableWeldConstraint": [
+		"ref: 1828654; addr: 42AD07",
+		false
+	],
+	"FFlagPGSAlwaysActiveMasterSwitch": [
+		"ref: 1828638; addr: 42AD27",
+		false
+	],
+	"FFlagPhysicsAnalyzerUsed": [
+		"ref: 1828688; addr: 42AD47",
+		false
+	],
+	"FFlagPreventReturnOfElevatedPhysicsFPS": [
+		"ref: 18285A4; addr: 42AD67",
+		false
+	],
+	"FFlagAvoidFindFirstChildCallsInGuiBase2d": [
+		"ref: 182937C; addr: 42C1B7",
+		false
+	],
+	"FFlagBorderSizeRespectUIScale": [
+		"ref: 1829B3C; addr: 42D067",
+		false
+	],
+	"FFlagDebugPrintGuiStateTransitions": [
+		"ref: 1829AFC; addr: 42D087",
+		false
+	],
+	"FFlagFixFolderDescendantSelection": [
+		"ref: 1829ADC; addr: 42D0A7",
+		false
+	],
+	"FFlagRecalculateAbsolutePlacementFix": [
+		"ref: 1829B1C; addr: 42D0E7",
+		false
+	],
+	"FFlagFixStaleBillboardGuiPosition2": [
+		"ref: 182ADDC; addr: 42E637",
+		false
+	],
+	"FFlagFixSmallSurfaceGuiMouseInput": [
+		"ref: 182B1F8; addr: 42EEB7",
+		false
+	],
+	"FFlagFixSurfaceGuisBreakingAfterRespawn": [
+		"ref: 182B218; addr: 42EED7",
+		false
+	],
+	"FFlagProtectCameraNullAccess": [
+		"ref: 182B23C; addr: 42EEF7",
+		false
+	],
+	"FFlagFixSloppyWeakPtrs": [
+		"ref: 182CB0C; addr: 4324B7",
+		false
+	],
+	"FFlagSmootherVehicleSeatControlSystem": [
+		"ref: 182D5A0; addr: 433D07",
+		false
+	],
+	"FFlagCLI16089_2": [
+		"ref: 182DFF8; addr: 434837",
+		false
+	],
+	"FFlagEnableSitNilProtection": [
+		"ref: 182E01C; addr: 434857",
+		false
+	],
+	"FFlagFixCheckSeatTransitionEnabled": [
+		"ref: 182E034; addr: 434877",
+		false
+	],
+	"FFlagFixCustomWeldSeatPart": [
+		"ref: 182E004; addr: 434897",
+		false
+	],
+	"FFlagPreserveJointsOnSpawn": [
+		"ref: 182E6F8; addr: 434C47",
+		false
+	],
+	"FFlagFixTextAsserts5": [
+		"ref: 18304FC; addr: 437B37",
+		false
+	],
+	"FFlagShowPlaceholderTextWhileFocused2": [
+		"ref: 183050C; addr: 437B57",
+		false
+	],
+	"FFlagTextBoxManualFocusRelease": [
+		"ref: 18304D0; addr: 437B77",
+		false
+	],
+	"FFlagUseTextLayout5": [
+		"ref: 18304EC; addr: 437B97",
+		false
+	],
+	"FFlagFixCurrentScreenOrientation": [
+		"ref: 18312F8; addr: 438977",
+		false
+	],
+	"FFlagUnlockedTopbarTransparency": [
+		"ref: 18312DC; addr: 4389B7",
+		false
+	],
+	"FFlagWarnOnNoCoreFunction": [
+		"ref: 1831244; addr: 4389D7",
+		false
+	],
+	"FFlagFixTextLayoutWithUIScaleAssert": [
+		"ref: 1831F80; addr: 4390E7",
+		false
+	],
+	"FFlagLineHeightEnabled": [
+		"ref: 1831F44; addr: 439107",
+		false
+	],
+	"FFlagSplitTypesetter": [
+		"ref: 1831F34; addr: 439147",
+		false
+	],
+	"FFlagTextMeasureTemporaryPatch": [
+		"ref: 1831FD4; addr: 4391A7",
+		false
+	],
+	"FFlagTextTruncationEnabled": [
+		"ref: 1831F58; addr: 4391C7",
+		false
+	],
+	"FFlagCLI15496": [
+		"ref: 1833400; addr: 4397E7",
+		false
+	],
+	"FFlagCleanUpLegacyParseChatCommand": [
+		"ref: 18336AC; addr: 439827",
+		false
+	],
+	"FFlagDebugThumbnailForceFailure": [
+		"ref: 18335B8; addr: 439847",
+		false
+	],
+	"FFlagFixMissingStandardAnthroParts": [
+		"ref: 1833674; addr: 439867",
+		false
+	],
+	"FFlagPassUserLocaleOnFilterMessage": [
+		"ref: 1833438; addr: 4399B7",
+		false
+	],
+	"FFlagRecordInGameDeaths": [
+		"ref: 18333B4; addr: 4399D7",
+		true
+	],
+	"FFlagServerGenPlayerXboxFixTag": [
+		"ref: 18336D8; addr: 4399F7",
+		false
+	],
+	"FFlagStudioStartServerGuestAppearance": [
+		"ref: 18333DC; addr: 439A57",
+		false
+	],
+	"FFlagTheStarsAreBright": [
+		"ref: 18333C8; addr: 439A77",
+		false
+	],
+	"FFlagThrottleGetUserThumbnailAsync": [
+		"ref: 18334B8; addr: 439A97",
+		false
+	],
+	"FFlagVerifyIncomingFriendRequestsBeforeNotifying": [
+		"ref: 183340C; addr: 439AC7",
+		false
+	],
+	"FFlagInfluxEnabled": [
+		"ref: 1834674; addr: 43ADD7",
+		true
+	],
+	"FFlagAvatarEditorAnthroSlidersUIOnly": [
+		"ref: 1834E2C; addr: 43AF27",
+		false
+	],
+	"FFlagAvatarEditorCatalogRecommended": [
+		"ref: 1834E4C; addr: 43AF47",
+		false
+	],
+	"FFlagAvatarEditorHideSliderHighlightOnInit": [
+		"ref: 1834DD4; addr: 43AF67",
+		false
+	],
+	"FFlagAvatarEditorSliderUIAdjustments": [
+		"ref: 1834E80; addr: 43AF87",
+		false
+	],
+	"FFlagAvatarEditorTabResizing": [
+		"ref: 1834EA0; addr: 43AFA7",
+		false
+	],
+	"FFlagAvatarEditorUsesBrowserWindowCall": [
+		"ref: 1834CC0; addr: 43AFC7",
+		false
+	],
+	"FFlagAvatarEditorWhiteLineFix": [
+		"ref: 1834DB8; addr: 43AFE7",
+		false
+	],
+	"FFlagConnectionScriptEnabled": [
+		"ref: 1835018; addr: 43B027",
+		false
+	],
+	"FFlagEnableResponsiveUIFix": [
+		"ref: 1834F6C; addr: 43B047",
+		false
+	],
+	"FFlagEnabledAppShell3D": [
+		"ref: 1834CAC; addr: 43B067",
+		false
+	],
+	"FFlagFixInactiveSelectorArrows": [
+		"ref: 1834FFC; addr: 43B087",
+		false
+	],
+	"FFlagFixLoadingScreenJankiness": [
+		"ref: 1834F0C; addr: 43B0A7",
+		false
+	],
+	"FFlagFixPlayerRowLayout": [
+		"ref: 1834D24; addr: 43B0C7",
+		false
+	],
+	"FFlagHelpMenuShowPlaceVersion": [
+		"ref: 1834EB8; addr: 43B1C7",
+		false
+	],
+	"FFlagLoadTheLoadingScreenFaster": [
+		"ref: 1834ED4; addr: 43B1E7",
+		false
+	],
+	"FFlagLoadingScreenNewTextLayout": [
+		"ref: 1834F40; addr: 43B207",
+		false
+	],
+	"FFlagLuaChatAssetCards": [
+		"ref: 1834F98; addr: 43B227",
+		false
+	],
+	"FFlagLuaChatDisplayInFront": [
+		"ref: 1834DA0; addr: 43B247",
+		false
+	],
+	"FFlagLuaChatNotificationButtonEnabled": [
+		"ref: 1834FD8; addr: 43B267",
+		false
+	],
+	"FFlagLuaChatSearchFeedBack": [
+		"ref: 1834FC0; addr: 43B287",
+		false
+	],
+	"FFlagPreventFriendingRemovedPlayers2": [
+		"ref: 1834CEC; addr: 43B2A7",
+		false
+	],
+	"FFlagSetGuiInsetInLoadingScript3": [
+		"ref: 1834EF0; addr: 43B2C7",
+		false
+	],
+	"FFlagDebugDisableTimeoutDisconnect": [
+		"ref: 18360B4; addr: 43C937",
+		false
+	],
+	"FFlagDebugHumanoidRendering": [
+		"ref: 183609C; addr: 43C957",
+		false
+	],
+	"FFlagDebugLocalRccServerConnection": [
+		"ref: 18360D4; addr: 43C977",
+		false
+	],
+	"FFlagRbxFormatMultiByteSizeFix": [
+		"ref: 18370DC; addr: 43DFA7",
+		false
+	],
+	"FFlagClampCharacterScales": [
+		"ref: 1837E44; addr: 43E867",
+		false
+	],
+	"FFlagFixHeadScales": [
+		"ref: 1837E28; addr: 43EA67",
+		false
+	],
+	"FFlagFixScalingValueRename": [
+		"ref: 1837DD0; addr: 43EA87",
+		false
+	],
+	"FFlagFixScalingValueReplication": [
+		"ref: 1837DE8; addr: 43EAA7",
+		false
+	],
+	"FFlagFixSphereHeads": [
+		"ref: 1837E18; addr: 43EAC7",
+		false
+	],
+	"FFlagHumanoidScalingFixHipHeightDuplication": [
+		"ref: 1837D94; addr: 43EB47",
+		false
+	],
+	"FFlagNPCUnequipTools": [
+		"ref: 1837EAC; addr: 43EB87",
+		false
+	],
+	"FFlagNamesOccludedAsDefault": [
+		"ref: 1837CD4; addr: 43EBA7",
+		false
+	],
+	"FFlagPhysicsSkipNonRealTimeHumanoidForceCalc": [
+		"ref: 1837C8C; addr: 43EBC7",
+		false
+	],
+	"FFlagScaleAllAccessories2": [
+		"ref: 1837E84; addr: 43EBE7",
+		false
+	],
+	"FFlagUseR15PartsCache2": [
+		"ref: 1837D5C; addr: 43EC07",
+		false
+	],
+	"FFlagUserPreloadAnimations": [
+		"ref: 1837E5C; addr: 43EC27",
+		false
+	],
+	"FFlagKeyframeSequenceApplyZeroWeight": [
+		"ref: 1839F24; addr: 444C37",
+		false
+	],
+	"FFlagKeyframeSequenceCacheMemoryOptimization": [
+		"ref: 1839ED4; addr: 444C57",
+		false
+	],
+	"FFlagKeyframeSequenceEnableFrozen": [
+		"ref: 1839EB4; addr: 444C77",
+		false
+	],
+	"FFlagKeyframeSequenceIgnoreContainerPoses": [
+		"ref: 1839EFC; addr: 444C97",
+		false
+	],
+	"FFlagKeyframeSequenceReportInstanceLoading": [
+		"ref: 1839F44; addr: 444CD7",
+		false
+	],
+	"FFlagHttpServiceRequestAsync2": [
+		"ref: 183BC04; addr: 447457",
+		false
+	],
+	"FFlagAllowLocaleIdForcing": [
+		"ref: 183D40C; addr: 448477",
+		false
+	],
+	"FFlagDoLocalizationServiceOverrideLocale": [
+		"ref: 183D2BC; addr: 448497",
+		false
+	],
+	"FFlagLoadAvatarEditorTranslations": [
+		"ref: 183D304; addr: 4484B7",
+		false
+	],
+	"FFlagLocalizationAnaltyicsInstanceBased": [
+		"ref: 183D380; addr: 4484D7",
+		false
+	],
+	"FFlagLocalizationAnalyticsLetterContentOnly": [
+		"ref: 183D3A4; addr: 4484F7",
+		false
+	],
+	"FFlagLocalizationAppendFunctionsAlwaysAppend": [
+		"ref: 183D480; addr: 448537",
+		false
+	],
+	"FFlagLocalizationServiceDoNotExcludeChat": [
+		"ref: 183D440; addr: 448557",
+		false
+	],
+	"FFlagLocalizationUseGameLocaleId": [
+		"ref: 183D424; addr: 4485E7",
+		false
+	],
+	"FFlagSystemErrorMessageLocalize": [
+		"ref: 183D344; addr: 448607",
+		false
+	],
+	"FFlagTranslatorTranslateEnabled": [
+		"ref: 183D464; addr: 448627",
+		false
+	],
+	"FFlagUseNotificationsLocalization": [
+		"ref: 183D360; addr: 448647",
+		false
+	],
+	"FFlagUsePurchasePromptLocalization": [
+		"ref: 183D324; addr: 448667",
+		false
+	],
+	"FFlagHttpRbxApiWithWhitelistedDomains": [
+		"ref: 183F0A4; addr: 449697",
+		false
+	],
+	"FFlagAllowClientFallback": [
+		"ref: 183F808; addr: 449967",
+		true
+	],
+	"FFlagAllowPlayerArgs2": [
+		"ref: 183F960; addr: 449987",
+		false
+	],
+	"FFlagCheckMarketplaceAvailable": [
+		"ref: 18400CC; addr: 4499A7",
+		false
+	],
+	"FFlagDelayPurchasePromptActivation": [
+		"ref: 183F940; addr: 4499C7",
+		false
+	],
+	"FFlagFixDesktopRobuxUpsell": [
+		"ref: 183F8A0; addr: 449A07",
+		false
+	],
+	"FFlagOrder66": [
+		"ref: 1840108; addr: 449A47",
+		false
+	],
+	"FFlagReportInGameAssetSales": [
+		"ref: 183F844; addr: 449AA7",
+		false
+	],
+	"FFlagReportRobuxUpsellEnabled": [
+		"ref: 183F828; addr: 449AC7",
+		true
+	],
+	"FFlagRestrictSales2": [
+		"ref: 1840150; addr: 449AE7",
+		false
+	],
+	"FFlagThwartPurchasePromptScamsGamepad": [
+		"ref: 183F8F4; addr: 449B07",
+		false
+	],
+	"FFlagThwartPurchasePromptScams": [
+		"ref: 183F8D8; addr: 449B27",
+		false
+	],
+	"FFlagAnthroArtistIntentFBXImporterEnabled": [
+		"ref: 18419A8; addr: 44ADA7",
+		false
+	],
+	"FFlagAnthroArtistIntentFBXImporterIntermediateState": [
+		"ref: 1841A00; addr: 44ADC7",
+		true
+	],
+	"FFlagDebugStudioRigImporter": [
+		"ref: 1841990; addr: 44ADE7",
+		false
+	],
+	"FFlagR15ToArtistIntentAssetMigratorEnabled": [
+		"ref: 1841A30; addr: 44AE07",
+		false
+	],
+	"FFlagRefactorStudioPluginHost": [
+		"ref: 1841A70; addr: 44AE27",
+		false
+	],
+	"FFlagStudioTrackPluginButtonSetActive": [
+		"ref: 1841A8C; addr: 44AE47",
+		false
+	],
+	"FFlagStudioTrackPluginButtonSetActiveThrottled": [
+		"ref: 1841AB0; addr: 44AE67",
+		false
+	],
+	"FFlagEnableGuiLayerCollectorResetOnRespawn": [
+		"ref: 18426FC; addr: 44C5E7",
+		false
+	],
+	"FFlagFixDualGuiLayerCollectorRendering2": [
+		"ref: 18426B4; addr: 44C607",
+		false
+	],
+	"FFlagFixDualGuiLayerCollectorRendering3": [
+		"ref: 18426D8; addr: 44C627",
+		false
+	],
+	"FFlagFixGuiStateTransitions2": [
+		"ref: 1842724; addr: 44C647",
+		false
+	],
+	"FFlagGuiObjectNotRegisteringKeys": [
+		"ref: 184273C; addr: 44C667",
+		false
+	],
+	"FFlagLuaChatUsesZIndexSibling": [
+		"ref: 1842698; addr: 44C687",
+		false
+	],
+	"FFlagStudioTerrainHideBasePartProperties": [
+		"ref: 1844770; addr: 44E177",
+		false
+	],
+	"FFlagBadgeReadDisabledFromInfo": [
+		"ref: 18458A0; addr: 44F6E7",
+		false
+	],
+	"FFlagJoinTime_ThreadedCacheableContentProvider": [
+		"ref: 1846190; addr: 44FA07",
+		false
+	],
+	"FFlagStudioDraggerSafeYDropFail": [
+		"ref: 1846DBC; addr: 450957",
+		false
+	],
+	"FFlagStayOutOfMySandbox2": [
+		"ref: 18473E8; addr: 4509C7",
+		false
+	],
+	"FFlagStudioFixPropertySyncIssues": [
+		"ref: 18473CC; addr: 4509E7",
+		false
+	],
+	"FFlagCSGAllowUnorderedProperties": [
+		"ref: 1847A50; addr: 451B17",
+		false
+	],
+	"FFlagCSGLoadBlocking": [
+		"ref: 1847A20; addr: 451B37",
+		false
+	],
+	"FFlagCSGLoadFromCDN": [
+		"ref: 1847A10; addr: 451B57",
+		false
+	],
+	"FFlagCSGUnionsSizeShouldNeverBe000": [
+		"ref: 1847A30; addr: 451B77",
+		false
+	],
+	"FFlagRenderMeshReturnsCorrectly": [
+		"ref: 1847A6C; addr: 451BB7",
+		false
+	],
+	"FFlagSetCollisionFidelityPropertyBasedOnData": [
+		"ref: 1847AA0; addr: 451BD7",
+		false
+	],
+	"FFlagAllowTheTardisToSetItsLoadingScreenBeforeFlyingThroughTheTimeVortex": [
+		"ref: 1848F28; addr: 452E27",
+		false
+	],
+	"FFlagCalculateExpirationOnTheDestinationServer": [
+		"ref: 1848E24; addr: 452E47",
+		false
+	],
+	"FFlagCheckRequestingTeleportAtTeleportImplBeginning": [
+		"ref: 1848EE8; addr: 452E67",
+		false
+	],
+	"FFlagDonotAllowTeleportInRobloxStudio": [
+		"ref: 1848E84; addr: 452E87",
+		false
+	],
+	"FFlagGroupTeleportMetricsByGroupSizeV2": [
+		"ref: 1848E50; addr: 452EA7",
+		false
+	],
+	"FFlagGroupTeleportMetricsSuccessAndFailure": [
+		"ref: 1848DFC; addr: 452EC7",
+		false
+	],
+	"FFlagLogCorectTeleportFailureMessage2": [
+		"ref: 1848EA8; addr: 452EE7",
+		false
+	],
+	"FFlagLogGroupTeleportInfluxDB": [
+		"ref: 1848F6C; addr: 452F07",
+		false
+	],
+	"FFlagPlaceLauncherUsePOST": [
+		"ref: 1848D3C; addr: 452F47",
+		true
+	],
+	"FFlagTeleportPartyAsyncEnable": [
+		"ref: 1848DE0; addr: 452FC7",
+		false
+	],
+	"FFlagDebugScriptAnalyzer": [
+		"ref: 184B494; addr: 454457",
+		false
+	],
+	"FFlagDebugStudioFlagState": [
+		"ref: 184B84C; addr: 454627",
+		false
+	],
+	"FFlagStudioClearSelectionExitsAttachmentTool": [
+		"ref: 184C3E8; addr: 455137",
+		false
+	],
+	"FFlagDebugBreakOnFMODErrors": [
+		"ref: 184CE70; addr: 456187",
+		true
+	],
+	"FFlagDoNotLoadSoundsOnServer": [
+		"ref: 184CE00; addr: 4561A7",
+		false
+	],
+	"FFlagFixPreferredSoundDeviceVR": [
+		"ref: 184CEE8; addr: 456207",
+		false
+	],
+	"FFlagOnlyEnableSoundRecordingOnRequest": [
+		"ref: 184CF04; addr: 456227",
+		false
+	],
+	"FFlagSimplifiedSoundLoading7": [
+		"ref: 184CED0; addr: 456267",
+		false
+	],
+	"FFlagSoundServiceCleanBuggyTempSoundFilePath": [
+		"ref: 184CF64; addr: 456327",
+		false
+	],
+	"FFlagSoundServiceFixCachePath": [
+		"ref: 184CF48; addr: 456347",
+		false
+	],
+	"FFlagTotallyDisableSoundRecording": [
+		"ref: 184CF28; addr: 4563C7",
+		false
+	],
+	"FFlagScreenGuiOnTopOfCoreBlur": [
+		"ref: 185087C; addr: 457197",
+		false
+	],
+	"FFlagRenderConstraintsWithDepth": [
+		"ref: 1850D0C; addr: 457647",
+		false
+	],
+	"FFlagDebugAnalyticsSendUserId": [
+		"ref: 1850F64; addr: 457887",
+		true
+	],
+	"FFlagEnableWakingPGSJointsForNonSolverPrimitives": [
+		"ref: 18510C4; addr: 457BC7",
+		false
+	],
+	"FFlagWeldConstraintAdornHighlightConnectedParts": [
+		"ref: 18515F8; addr: 457C27",
+		false
+	],
+	"FFlagWeldConstraintAdornImprovements": [
+		"ref: 18515D0; addr: 457C67",
+		false
+	],
+	"FFlagDialectPreferenceOrder": [
+		"ref: 1852F4C; addr: 45A5C7",
+		false
+	],
+	"FFlagLocalizationTableImportStrict": [
+		"ref: 1852F64; addr: 45A5E7",
+		false
+	],
+	"FFlagOrientationConstraintPrimaryAxisOnlyFix": [
+		"ref: 1853C94; addr: 45C367",
+		false
+	],
+	"FFlagSpringConstraintInGameAdornFix": [
+		"ref: 18543F0; addr: 45CCB7",
+		false
+	],
+	"FFlagBroadPhaseIslandsCalcDepth": [
+		"ref: 18549C0; addr: 45D627",
+		false
+	],
+	"FFlagTerrainRaycastsRespectCollisionGroups": [
+		"ref: 1854970; addr: 45D6C7",
+		false
+	],
+	"FFlagTestForBadNormal": [
+		"ref: 185495C; addr: 45D6E7",
+		false
+	],
+	"FFlagDebugRenderDragAxis": [
+		"ref: 1854D10; addr: 45D767",
+		false
+	],
+	"FFlagIkDraggerEnabledInRunMode": [
+		"ref: 1854D24; addr: 45D787",
+		false
+	],
+	"FFlagAccoutrementWeldingFilteringEnabled": [
+		"ref: 1855740; addr: 45DA37",
+		false
+	],
+	"FFlagEnableTrackingAccessoryDestoyedWithLiveSignals": [
+		"ref: 1855764; addr: 45DA57",
+		false
+	],
+	"FFlagMoreAudioChecks": [
+		"ref: 1855D58; addr: 45E237",
+		false
+	],
+	"FFlagUserUseSoundDispatcher": [
+		"ref: 1856FF4; addr: 45E657",
+		false
+	],
+	"FFlagQuantumGui": [
+		"ref: 185853C; addr: 45FCD7",
+		false
+	],
+	"FFlagRoundInAdorn": [
+		"ref: 1858548; addr: 45FCF7",
+		false
+	],
+	"FFlagDebugShowTextBounds": [
+		"ref: 1858728; addr: 45FD17",
+		false
+	],
+	"FFlagFixBillboardTextSizeRounding": [
+		"ref: 185873C; addr: 45FD37",
+		false
+	],
+	"FFlagFixUIScaleTextBlowingUpFontAtlas": [
+		"ref: 185875C; addr: 45FD57",
+		false
+	],
+	"FFlagHarfbuzzEnabled5": [
+		"ref: 1858714; addr: 45FD97",
+		false
+	],
+	"FFlagTypesetterSubstituteOnReject": [
+		"ref: 1858780; addr: 45FDB7",
+		false
+	],
+	"FFlagDebugDisableLogServiceExecuteScript": [
+		"ref: 1858C60; addr: 45FEE7",
+		false
+	],
+	"FFlagLuaMathLibUseNewRNG": [
+		"ref: 185F108; addr: 460A37",
+		false
+	],
+	"FFlagLuaStrlibLimitMatchDepth": [
+		"ref: 185E3D0; addr: 460A57",
+		true
+	],
+	"FFlagFixIncorrectScrollingFrameBounds": [
+		"ref: 1861060; addr: 4618A7",
+		false
+	],
+	"FFlagFixMouseWheelScrollingFrame": [
+		"ref: 18610B0; addr: 4618C7",
+		false
+	],
+	"FFlagFixScrollbarNotBeingDraggableWithUIPadding": [
+		"ref: 1861084; addr: 4618E7",
+		false
+	],
+	"FFlagFixScrollingFrameClipRect": [
+		"ref: 1860F64; addr: 461907",
+		false
+	],
+	"FFlagFixVRScrollingFrames": [
+		"ref: 1861048; addr: 461927",
+		false
+	],
+	"FFlagScrollBarWellRounded": [
+		"ref: 1861018; addr: 461947",
+		false
+	],
+	"FFlagScrollingFrameCacheValues": [
+		"ref: 1860FFC; addr: 461967",
+		false
+	],
+	"FFlagUIScrollBarBoarder1PixelOff": [
+		"ref: 1860FB0; addr: 461987",
+		false
+	],
+	"FFlagUIScrollingNewElastic2": [
+		"ref: 1860FCC; addr: 4619A7",
+		false
+	],
+	"FFlagUIScrollingNewElasticEx": [
+		"ref: 1860FE4; addr: 4619C7",
+		false
+	],
+	"FFlagUIShiftScrollHorizontal": [
+		"ref: 1860F80; addr: 4619E7",
+		false
+	],
+	"FFlagImageHandleAdornUseGuiImage": [
+		"ref: 18614AC; addr: 462997",
+		false
+	],
+	"FFlagHttpSkipQueueIfCached": [
+		"ref: 186249C; addr: 4633C7",
+		false
+	],
+	"FFlagHttpTrackSuccessfulUrls": [
+		"ref: 18624B4; addr: 4633E7",
+		false
+	],
+	"FFlagHttpUseContentCacheFlag3": [
+		"ref: 1862468; addr: 463407",
+		false
+	],
+	"FFlagJoinTime_HttpQueuePrio": [
+		"ref: 1862484; addr: 463427",
+		false
+	],
+	"FFlagFileSystemGetCacheDirectoryLikeAndroid": [
+		"ref: 1862624; addr: 4634D7",
+		false
+	],
+	"FFlagDebugDisplayFPS": [
+		"ref: 1863394; addr: 463707",
+		false
+	],
+	"FFlagAllowDuplicateWeldConstraintsAnalytics": [
+		"ref: 1864DB8; addr: 4637D7",
+		false
+	],
+	"FFlagAllowDuplicateWeldConstraints": [
+		"ref: 1864D98; addr: 4637F7",
+		false
+	],
+	"FFlagCyclicExecutiveThrottlingCancelWorldStepAccum": [
+		"ref: 1864CA8; addr: 463877",
+		false
+	],
+	"FFlagFixJointInstanceDeleteOnPGSEnable": [
+		"ref: 1864E2C; addr: 4638B7",
+		false
+	],
+	"FFlagOneSimpleStepToOptimizeContactBufferZone": [
+		"ref: 1864E50; addr: 4638F7",
+		false
+	],
+	"FFlagTheseAnalyticsAreBigEnoughForTheTwoOfUs": [
+		"ref: 1864E04; addr: 463997",
+		false
+	],
+	"FFlagThisJointAintBigEnoughForTheTwoOfUs": [
+		"ref: 1864DE0; addr: 4639B7",
+		false
+	],
+	"FFlagDisableHopperBin": [
+		"ref: 1865628; addr: 464767",
+		false
+	],
+	"FFlagTrackHopperBinUsage2": [
+		"ref: 186563C; addr: 4647A7",
+		false
+	],
+	"FFlagFixBindActivateStackOrderCAS": [
+		"ref: 1866004; addr: 464DD7",
+		false
+	],
+	"FFlagFixButtonR2MouseClickOnGui": [
+		"ref: 1865FD4; addr: 464DF7",
+		false
+	],
+	"FFlagFixInputCanSinkCAS": [
+		"ref: 1865FF0; addr: 464E17",
+		false
+	],
+	"FFlagFixPlayerActionTypeOverride": [
+		"ref: 1865FB8; addr: 464E37",
+		false
+	],
+	"FFlagMouseScrollingIsNowGood": [
+		"ref: 1866928; addr: 465E97",
+		false
+	],
+	"FFlagChatServiceAnalyticsOnFilterStringCalls": [
+		"ref: 1866CBC; addr: 465F67",
+		false
+	],
+	"FFlagChatServiceSubscribePlayerRemove": [
+		"ref: 1866C8C; addr: 465FA7",
+		false
+	],
+	"FFlagChatServiceTargetedFilterStringResponse2": [
+		"ref: 1866BD8; addr: 465FC7",
+		false
+	],
+	"FFlagChatServiceTargetedFilterStringResponseFinalize2": [
+		"ref: 1866C04; addr: 465FE7",
+		false
+	],
+	"FFlagFilterStringForBroadcastConsideredPublic": [
+		"ref: 18670E4; addr: 466007",
+		false
+	],
+	"FFlagHandlePlayerBlockListsInternalPermissive": [
+		"ref: 1866C60; addr: 466097",
+		false
+	],
+	"FFlagHandlePlayerBlockListsInternalStrict": [
+		"ref: 1866C38; addr: 4660B7",
+		false
+	],
+	"FFlagPassIsPublicChatOnFilterMessage": [
+		"ref: 18670C4; addr: 4661A7",
+		false
+	],
+	"FFlagUserInGameChatUseNewFilterAPIV2": [
+		"ref: 18670A4; addr: 4662E7",
+		false
+	],
+	"FFlagDisableFriendServiceLoadFriendRequests": [
+		"ref: 1868130; addr: 466A57",
+		false
+	],
+	"FFlagFriendServiceTargetedFriendEventReplicating": [
+		"ref: 1868158; addr: 466B17",
+		false
+	],
+	"FFlagDataStoreAutoHttpRetry": [
+		"ref: 186A144; addr: 467B27",
+		false
+	],
+	"FFlagDataStoresP50": [
+		"ref: 186A134; addr: 467E57",
+		false
+	],
+	"FFlagTeamCreateDataStorePerKeyThrottleFixEnabled": [
+		"ref: 186A108; addr: 467E97",
+		false
+	],
+	"FFlagTweenInt64Fix": [
+		"ref: 186A958; addr: 468287",
+		false
+	],
+	"FFlagUseLDLPGSSolver": [
+		"ref: 186AE20; addr: 468307",
+		false
+	],
+	"FFlagDebugAdvancedNetworkedVisualizer": [
+		"ref: 186B15C; addr: 468347",
+		true
+	],
+	"FFlagDebugAllowMultiRotationInterpolation": [
+		"ref: 186AEA8; addr: 468367",
+		true
+	],
+	"FFlagDebugDisable180DegreeFlip": [
+		"ref: 186B194; addr: 468387",
+		false
+	],
+	"FFlagDebugDisableAngularVelocityInterpolationComponent": [
+		"ref: 186AED0; addr: 4683A7",
+		false
+	],
+	"FFlagDebugEnableInterpolationVisualizer": [
+		"ref: 186B0FC; addr: 4683C7",
+		false
+	],
+	"FFlagDebugMechanismInterpolationWorldSpace": [
+		"ref: 186B0D4; addr: 4683E7",
+		false
+	],
+	"FFlagDebugVisualizationImprovements": [
+		"ref: 186B13C; addr: 468427",
+		true
+	],
+	"FFlagInterpolationAwareTargetTime": [
+		"ref: 186AE88; addr: 468487",
+		false
+	],
+	"FFlagUseDeltaForFBAdorn": [
+		"ref: 186B180; addr: 468667",
+		false
+	],
+	"FFlagCFrameFromMatrix": [
+		"ref: 186C2B8; addr: 469607",
+		false
+	],
+	"FFlagLuaAtomicBridgeCheckSpace": [
+		"ref: 186C2E8; addr: 469627",
+		false
+	],
+	"FFlagRandomType": [
+		"ref: 186C2AC; addr: 469647",
+		false
+	],
+	"FFlagAllowPlayerArgs": [
+		"ref: 186D458; addr: 469767",
+		false
+	],
+	"FFlagClickDetectorCursorIconEnabled": [
+		"ref: 186D438; addr: 469787",
+		false
+	],
+	"FFlagEnforceSlaveStateEnabledStatus": [
+		"ref: 186F338; addr: 46BE07",
+		false
+	],
+	"FFlagFixCharacterJitterDownStairs": [
+		"ref: 186F2FC; addr: 46BE27",
+		false
+	],
+	"FFlagFixFirstPersonSwimmingStateChange": [
+		"ref: 186F2BC; addr: 46BE47",
+		false
+	],
+	"FFlagHumanoidWithPGSConstraintsUsePhysicsState": [
+		"ref: 186F27C; addr: 46BE67",
+		false
+	],
+	"FFlagImprovedAutoJump": [
+		"ref: 186F268; addr: 46BE87",
+		false
+	],
+	"FFlagReduceTrussSearchDistance": [
+		"ref: 186F31C; addr: 46BEC7",
+		false
+	],
+	"FFlagSafeSwimmingJump2": [
+		"ref: 186F2A8; addr: 46BEE7",
+		false
+	],
+	"FFlagUserFixCharacterSoundIssues": [
+		"ref: 186F2E0; addr: 46BF27",
+		false
+	],
+	"FFlagFixHandlesMouseEvents": [
+		"ref: 1870144; addr: 46C1F7",
+		true
+	],
+	"FFlagFixTweenReverseOvershoot": [
+		"ref: 1873240; addr: 46E707",
+		false
+	],
+	"FFlagGoodbyeChoiceActiveProperty": [
+		"ref: 1873EB4; addr: 46F0F7",
+		false
+	],
+	"FFlagUserNoUpdateOnLoop": [
+		"ref: 18761C4; addr: 471657",
+		false
+	],
+	"FFlagAnimationEditorCreateKeyframesForUndoAndExport": [
+		"ref: 1876594; addr: 471F07",
+		false
+	],
+	"FFlagAnimationEditorCutCopyEntireKeyframes": [
+		"ref: 18765C4; addr: 471F27",
+		false
+	],
+	"FFlagAnimationEditorDeleteFix": [
+		"ref: 1876578; addr: 471F47",
+		false
+	],
+	"FFlagAnimationEditorLuaWidgetsVersion": [
+		"ref: 18764DC; addr: 471F67",
+		false
+	],
+	"FFlagAnimationEditorMaxLengthRestriction": [
+		"ref: 1876608; addr: 471F87",
+		false
+	],
+	"FFlagAnimationEditorNewWikiDocumentation": [
+		"ref: 187662C; addr: 471FA7",
+		false
+	],
+	"FFlagAnimationEditorRenameKeyFrame": [
+		"ref: 1876500; addr: 471FC7",
+		false
+	],
+	"FFlagAnimationEditorRigNameFix": [
+		"ref: 18765EC; addr: 471FE7",
+		false
+	],
+	"FFlagAnimationEditorScrubbingPlayingMatch": [
+		"ref: 1876520; addr: 472007",
+		false
+	],
+	"FFlagAnimationEditorSnapIncrementsDivideByZeroFix": [
+		"ref: 1876548; addr: 472027",
+		false
+	],
+	"FFlagAnimatorOnSteppedKeepAlive": [
+		"ref: 18768D4; addr: 472047",
+		false
+	],
+	"FFlagDoNotRunAnimationEditorInPlayMode": [
+		"ref: 1876494; addr: 472067",
+		false
+	],
+	"FFlagJoinTime_LocalUserAnimationPriority": [
+		"ref: 18764B8; addr: 472087",
+		false
+	],
+	"FFlagStudioAnimationEditorChangePopupStyle": [
+		"ref: 187681C; addr: 4720A7",
+		false
+	],
+	"FFlagStudioAnimationEditorDefinedBoundaryNotches": [
+		"ref: 1876650; addr: 4720C7",
+		false
+	],
+	"FFlagStudioAnimationEditorKeyframeIndicators": [
+		"ref: 187676C; addr: 4720E7",
+		false
+	],
+	"FFlagStudioAnimationEditorMultiSelectAreaOffsetFix": [
+		"ref: 1876844; addr: 472107",
+		false
+	],
+	"FFlagStudioAnimationEditorMultiSelectEasingOptions": [
+		"ref: 1876794; addr: 472127",
+		false
+	],
+	"FFlagStudioAnimationEditorParentScaledDragArea": [
+		"ref: 18766F4; addr: 472147",
+		false
+	],
+	"FFlagStudioAnimationEditorPlayFromBeginningIfAtEnd": [
+		"ref: 18768A4; addr: 472167",
+		false
+	],
+	"FFlagStudioAnimationEditorPoseDragSnapping": [
+		"ref: 18767F4; addr: 472187",
+		false
+	],
+	"FFlagStudioAnimationEditorResetLockedJoints": [
+		"ref: 187667C; addr: 4721A7",
+		false
+	],
+	"FFlagStudioAnimationEditorRightClickMenuPositionFix": [
+		"ref: 1876874; addr: 4721C7",
+		false
+	],
+	"FFlagStudioAnimationEditorSetIntervalFix": [
+		"ref: 1876748; addr: 4721E7",
+		false
+	],
+	"FFlagStudioAnimationEditorStayActiveWithOtherPlugins": [
+		"ref: 18767C4; addr: 472207",
+		false
+	],
+	"FFlagStudioAnimationEditorTimePrecisionFix": [
+		"ref: 1876720; addr: 472227",
+		false
+	],
+	"FFlagStudioAnimationEditorWarnForPastingOutOfBounds": [
+		"ref: 18766A4; addr: 472247",
+		false
+	],
+	"FFlagFixJointDestroyedPrimitiveInsert2": [
+		"ref: 1876E10; addr: 4725B7",
+		false
+	],
+	"FFlagFreeCameraForAdmins": [
+		"ref: 1878818; addr: 473877",
+		false
+	],
+	"FFlagFreeCameraForDevelopers": [
+		"ref: 187882C; addr: 473897",
+		false
+	],
+	"FFlagPlayerAcceptPlayerScriptsStatus": [
+		"ref: 18787F8; addr: 4738B7",
+		false
+	],
+	"FFlagServerNotifyPlayerScriptsStatus": [
+		"ref: 18787D8; addr: 4738D7",
+		false
+	],
+	"FFlagUseNewStructurePlayerScripts": [
+		"ref: 1878844; addr: 473917",
+		false
+	],
+	"FFlagDSPLeakDueToGCofParent": [
+		"ref: 187B9F0; addr: 476F67",
+		false
+	],
+	"FFlagNoDSPOnServer": [
+		"ref: 187BA08; addr: 476F87",
+		false
+	],
+	"FFlagDisableListLayoutCacheCheck": [
+		"ref: 187C9EC; addr: 478477",
+		false
+	],
+	"FFlagThrottleDeveloperConsoleEvents": [
+		"ref: 187D180; addr: 478B07",
+		false
+	],
+	"FFlagXboxUseNewValidUsernameCheck2": [
+		"ref: 187D56C; addr: 478E67",
+		false
+	],
+	"FFlagDataStoreReportNonParsableData": [
+		"ref: 187DBB8; addr: 4794F7",
+		false
+	],
+	"FFlagDataStoreUseLRUCachedKeys": [
+		"ref: 187DB64; addr: 479557",
+		false
+	],
+	"FFlagNonJsonParseType": [
+		"ref: 187DB50; addr: 479597",
+		false
+	],
+	"FFlagHttpCacheCleanBasedOnMemory": [
+		"ref: 187F108; addr: 4799D7",
+		false
+	],
+	"FFlagHttpFirstCaching": [
+		"ref: 187F15C; addr: 479B27",
+		true
+	],
+	"FFlagHttpZeroLatencyCaching": [
+		"ref: 187F144; addr: 479B87",
+		false
+	],
+	"FFlagSetSecureFlag": [
+		"ref: 187F170; addr: 479BA7",
+		false
+	],
+	"FFlagUseTLSv1_2_a": [
+		"ref: 187F180; addr: 479BC7",
+		false
+	],
+	"FFlagDebugTracebackOptionalCoroutineArg": [
+		"ref: 187FE20; addr: 479D77",
+		false
+	],
+	"FFlagLocalizationCustomAtoiOptimization": [
+		"ref: 1880600; addr: 479E67",
+		false
+	],
+	"FFlagBroadPhaseIslandBufferZone5": [
+		"ref: 1881448; addr: 47BE37",
+		false
+	],
+	"FFlagDebugBroadPhaseIslandBufferZoneApplyPartLimit": [
+		"ref: 1881464; addr: 47BE97",
+		true
+	],
+	"FFlagDontCallOnMovingAssemblyRoot": [
+		"ref: 1881428; addr: 47BEB7",
+		false
+	],
+	"FFlagPGSSolverDetectHighMassRatiosEnabled": [
+		"ref: 1881B44; addr: 47BF47",
+		false
+	],
+	"FFlagPGSSolverDetectUnstableConstraintsEnabled": [
+		"ref: 1881B18; addr: 47BF67",
+		false
+	],
+	"FFlagPGSSolverFileDump": [
+		"ref: 1881AC0; addr: 47BF87",
+		false
+	],
+	"FFlagPGSSolverIntegrateOnlyPositionsEnabled": [
+		"ref: 1881AF0; addr: 47BFA7",
+		false
+	],
+	"FFlagPGSSolverSimIslandsEnabled2": [
+		"ref: 1881AD4; addr: 47BFC7",
+		false
+	],
+	"FFlagEnableImageTilingInGUI": [
+		"ref: 1881D80; addr: 47BFE7",
+		false
+	],
+	"FFlagFixMouseXYScrolling": [
+		"ref: 1881E10; addr: 47C007",
+		false
+	],
+	"FFlagFixScrollingTouchInputEnded": [
+		"ref: 1881E24; addr: 47C027",
+		false
+	],
+	"FFlagScrollToTopShortDistanceResponseFix": [
+		"ref: 1881DEC; addr: 47C047",
+		false
+	],
+	"FFlagScrollingToTopFix": [
+		"ref: 1881DD8; addr: 47C067",
+		false
+	],
+	"FFlagDebugCountSimBodyAllocations": [
+		"ref: 1882094; addr: 47C087",
+		false
+	],
+	"FFlagDebugReportAnchoredSimBodyUpdatedFromSolver": [
+		"ref: 18820B4; addr: 47C0A7",
+		false
+	],
+	"FFlagUseMatrix3ForInertiaTensor2": [
+		"ref: 1882078; addr: 47C0C7",
+		false
+	],
+	"FFlagInfluxOverTCP": [
+		"ref: 18822E4; addr: 47C2B7",
+		false
+	],
+	"FFlagDebugIgnoreVolumeIsZeroAssert": [
+		"ref: 18830D0; addr: 47C3B7",
+		false
+	],
+	"FFlagFixMeshNormalsForNonUniformScaling": [
+		"ref: 188310C; addr: 47C3D7",
+		false
+	],
+	"FFlagFixSmallBoundingBoxes2": [
+		"ref: 1883130; addr: 47C3F7",
+		false
+	],
+	"FFlagClampHeightAboveFloorForce": [
+		"ref: 18832F0; addr: 47C487",
+		false
+	],
+	"FFlagRunningBaseClampAcceleration": [
+		"ref: 188330C; addr: 47C507",
+		false
+	],
+	"FFlagRunningBaseUseNewAltitudePD": [
+		"ref: 1883390; addr: 47C587",
+		false
+	],
+	"FFlagNavigationServiceAnalytics": [
+		"ref: 1885494; addr: 47C8A7",
+		false
+	],
+	"FFlagNavigationServiceTimingAnalytics": [
+		"ref: 18854B0; addr: 47C907",
+		false
+	],
+	"FFlagNavigationFixCheckOcclusionAsyncV2": [
+		"ref: 18857B4; addr: 47CA27",
+		false
+	],
+	"FFlagNavigationFixShutdown": [
+		"ref: 188579C; addr: 47CA47",
+		false
+	],
+	"FFlagNavigationUseJumpLinksV3": [
+		"ref: 1885780; addr: 47CB47",
+		false
+	],
+	"FFlagUserNavigationFixClickToMoveInterruption": [
+		"ref: 18857D8; addr: 47CB67",
+		false
+	],
+	"FFlagUserNavigationFixClickToMoveJump": [
+		"ref: 18855D4; addr: 47CB87",
+		false
+	],
+	"FFlagUserUseNewClickToMove": [
+		"ref: 18856C8; addr: 47CBA7",
+		false
+	],
+	"FFlagFixLiteralEdgeCaseQuadTree": [
+		"ref: 1885B6C; addr: 47CBC7",
+		false
+	],
+	"FFlagRunDraggerTerrainTestHitDoNotIgnoreWater": [
+		"ref: 1885C84; addr: 47CC07",
+		false
+	],
+	"FFlagSmoothTerrainFixHoles": [
+		"ref: 1885FEC; addr: 47CC87",
+		false
+	],
+	"FFlagTuplesTooTerrible": [
+		"ref: 18865A8; addr: 47CD47",
+		false
+	],
+	"FFlagFixRaysInWedges": [
+		"ref: 1887080; addr: 47CE57",
+		false
+	],
+	"FFlagTighterCylinderBoundingSpheres": [
+		"ref: 18870AC; addr: 47CE77",
+		false
+	],
+	"FFlagPGSAdaptiveCollisionMarginFixEnabled": [
+		"ref: 188717C; addr: 47CEB7",
+		false
+	],
+	"FFlagPGSAlign2AxesInitBasis": [
+		"ref: 18871A4; addr: 47CED7",
+		false
+	],
+	"FFlagRotationalViscocityEnabled2": [
+		"ref: 1887A48; addr: 47CFB7",
+		false
+	],
+	"FFlagPGSWakeOtherAssemblyForJoints": [
+		"ref: 18C31C0; addr: 47CFF7",
+		false
+	],
+	"FFlagPGSWakeOtherIfOneAssemblyIsAwake": [
+		"ref: 18C31E0; addr: 47D017",
+		false
+	],
+	"FFlagFixCharacterStuckInFreefall": [
+		"ref: 18C3A38; addr: 47D0F7",
+		false
+	],
+	"FFlagFixFreefallStuckIgnoreSelfContact": [
+		"ref: 18C3B08; addr: 47D117",
+		false
+	],
+	"FFlagJumpingTorsoShouldCollide": [
+		"ref: 18C3BD4; addr: 47D237",
+		false
+	],
+	"FFlagFindClosestHandleHitTestFixEnabled": [
+		"ref: 18C3EC0; addr: 47D277",
+		false
+	],
+	"FFlagCleanCacheMoveMutex": [
+		"ref: 18C3EE4; addr: 47D297",
+		false
+	],
+	"FFlagBgUpdateRedirectsHttpErrBase64Body": [
+		"ref: 18C409C; addr: 47D357",
+		false
+	],
+	"FFlagBgUpdateRedirects": [
+		"ref: 18C4020; addr: 47D397",
+		false
+	],
+	"FFlagHttpBatchSecure": [
+		"ref: 18C4100; addr: 47D437",
+		false
+	],
+	"FFlagFixFreefallRepelWithCanCollideFalse": [
+		"ref: 18CCF4C; addr: 47D7D7",
+		false
+	],
+	"FFlagFixHumanoidEmbeddedInGround4": [
+		"ref: 18CCF0C; addr: 47D7F7",
+		false
+	],
+	"FFlagDebugNavigationDrawCompactHeightfield": [
+		"ref: 18CD504; addr: 47D917",
+		false
+	],
+	"FFlagDebugNavigationDrawCompactHeightfieldLayerSet": [
+		"ref: 18CD52C; addr: 47D937",
+		false
+	],
+	"FFlagDebugNavigationDrawEnable": [
+		"ref: 18CD4A8; addr: 47D957",
+		true
+	],
+	"FFlagDebugNavigationDrawHeightfield": [
+		"ref: 18CD4E4; addr: 47D977",
+		false
+	],
+	"FFlagDebugNavigationDrawNavMeshConnections": [
+		"ref: 18CD41C; addr: 47D997",
+		true
+	],
+	"FFlagDebugNavigationDrawNavMesh": [
+		"ref: 18CD55C; addr: 47D9B7",
+		true
+	],
+	"FFlagDebugNavigationDrawTileBounds": [
+		"ref: 18CD4C4; addr: 47D9D7",
+		false
+	],
+	"FFlagNavigationDebugDrawIterateSpiral": [
+		"ref: 18CD46C; addr: 47DA37",
+		false
+	],
+	"FFlagNavigationRasterizeMeshWithTriangleMeshV2": [
+		"ref: 18CD5FC; addr: 47DA57",
+		false
+	],
+	"FFlagNavigationRasterizeTriangleFlexibleOrder": [
+		"ref: 18CD628; addr: 47DA77",
+		false
+	],
+	"FFlagGroupDragDontFinishTwice": [
+		"ref: 18F3A3C; addr: 47DAB7",
+		false
+	],
+	"FFlagEnableSpecialMeshTransformInVoxelizerDescriptors": [
+		"ref: 18F3C08; addr: 47DAF7",
+		false
+	],
+	"FFlagSIMDVoxelizerEnabled": [
+		"ref: 18F3C3C; addr: 47DB17",
+		false
+	],
+	"FFlagArrayDynamicReserveUsesMoveSemantic": [
+		"ref: 18F3E1C; addr: 47DB57",
+		false
+	],
+	"FFlagDebugDisableOnScreenProfiler": [
+		"ref: 1910D90; addr: 47DBF7",
+		false
+	],
+	"FFlagDebugStartMicroProfilerWebServer": [
+		"ref: 1910DBC; addr: 47DC17",
+		false
+	],
+	"FFlagEnableDesktopMicroProfilerApi": [
+		"ref: 1910D64; addr: 47DC37",
+		false
+	],
+	"FFlagEnableMobileMicroProfilerWebServerApi": [
+		"ref: 1910D2C; addr: 47DC57",
+		false
+	],
+	"FFlagRbxFormatPreventNegativeStringSize": [
+		"ref: 19119A8; addr: 47DEB7",
+		false
+	],
+	"FFlagRbxFormatStringCleanup3": [
+		"ref: 1911990; addr: 47DED7",
+		false
+	],
+	"FFlagHttpUrlDecodeFix": [
+		"ref: 1911B68; addr: 47E0F7",
+		false
+	],
+	"FFlagHttpUrlPortFix": [
+		"ref: 1911B58; addr: 47E117",
+		false
+	],
+	"FFlagEnableThreadMonitor2": [
+		"ref: 1912214; addr: 47E1D7",
+		false
+	],
+	"FFlagDataStoreFixReadingNaNInf": [
+		"ref: 1912288; addr: 47E387",
+		false
+	],
+	"FFlagTaskSchedulerRemoveLast": [
+		"ref: 191563C; addr: 47E427",
+		false
+	],
+	"FFlagTaskSchedulerSTDThreadwrapper": [
+		"ref: 191561C; addr: 47E447",
+		false
+	],
+	"FFlagDebugCSGExportFailure": [
+		"ref: 1915DBC; addr: 47E847",
+		false
+	],
+	"FFlagStudioCSGChildDataNoSizeLimit": [
+		"ref: 1915EC0; addr: 47E8E7",
+		false
+	],
+	"FFlagCSGv2FixOrientationWhenSeparatingNegates": [
+		"ref: 19162D0; addr: 47E937",
+		false
+	],
+	"FFlagCSGv2UnionOrientationFromFirstPart": [
+		"ref: 1916328; addr: 47E957",
+		false
+	],
+	"FFlagCSGv2UnparentPartsBeforeModifyingCFrames": [
+		"ref: 19162FC; addr: 47E977",
+		false
+	],
+	"FFlagCSGv2BalanceExponents": [
+		"ref: 19168F4; addr: 47E9C7",
+		false
+	],
+	"FFlagCSGv2UseImprovedSphereAndCylinder": [
+		"ref: 1916B68; addr: 47E9E7",
+		false
+	],
+	"FFlagCSGv2SnapPlanes": [
+		"ref: 1917218; addr: 47EA47",
+		false
+	],
+	"FFlagCSGv2UseIterativeSimplification": [
+		"ref: 1917628; addr: 47EA67",
+		false
+	],
+	"FFlagDebugRakNetUseUdt": [
+		"ref: 1917964; addr: 47EBD7",
+		false
+	],
+	"FFlagRakNetDetectNetUnreachable": [
+		"ref: 1917948; addr: 47EC17",
+		false
+	],
+	"FFlagRakNetFixBwCollapse": [
+		"ref: 1917990; addr: 47EC37",
+		false
+	],
+	"FFlagRakNetUseSlidingWindow4": [
+		"ref: 1917978; addr: 47ECD7",
+		false
+	],
+	"FFlagClientUseNewClientTicket": [
+		"ref: 1918480; addr: 47F3D7",
+		false
+	],
+	"FFlagDebugEnableSpoofGameLocaleId": [
+		"ref: 19186F4; addr: 47F3F7",
+		false
+	],
+	"FFlagDebugEnableSpoofRobloxLocaleId": [
+		"ref: 19186B8; addr: 47F417",
+		false
+	],
+	"FFlagDebugForceChatDisabled": [
+		"ref: 1918388; addr: 47F437",
+		false
+	],
+	"FFlagDebugSendAttemptsToDiagCase1": [
+		"ref: 1918564; addr: 47F457",
+		false
+	],
+	"FFlagGameJoinDeprecateVendorId": [
+		"ref: 19185DC; addr: 47F577",
+		false
+	],
+	"FFlagGetAnalyticsSessionIdFromJoinBlob": [
+		"ref: 1918668; addr: 47F607",
+		false
+	],
+	"FFlagGetGameLocaleIdFromJoinBlob": [
+		"ref: 19185A0; addr: 47F627",
+		false
+	],
+	"FFlagJoinTimeCounters": [
+		"ref: 1918400; addr: 47F667",
+		false
+	],
+	"FFlagJoinTime_AvatarFastClusterSignal": [
+		"ref: 19183B4; addr: 47F6C7",
+		false
+	],
+	"FFlagJoinTime_AvatarTextureCompositorSignal": [
+		"ref: 19183D8; addr: 47F6E7",
+		false
+	],
+	"FFlagLoadAdditionalCoreScriptsInStudio": [
+		"ref: 1918364; addr: 47F757",
+		true
+	],
+	"FFlagLogJoinTime": [
+		"ref: 1918414; addr: 47F777",
+		false
+	],
+	"FFlagPlaceLauncherIncludePlStartTime": [
+		"ref: 1918448; addr: 47F857",
+		false
+	],
+	"FFlagReportEngineJoinTimeStats": [
+		"ref: 1918420; addr: 47F877",
+		false
+	],
+	"FFlagSendJoinTimeDelta": [
+		"ref: 19185F8; addr: 47F937",
+		false
+	],
+	"FFlagSendJoinTimesToDiag": [
+		"ref: 19184C8; addr: 47FA77",
+		false
+	],
+	"FFlagUnlockMouseIfKicked": [
+		"ref: 19183A0; addr: 47FAC7",
+		false
+	],
+	"FFlagUseCorrectCoreCase1Devices": [
+		"ref: 1918584; addr: 47FAE7",
+		false
+	],
+	"FFlagUseOldClientTicketNameForNewClientTicket": [
+		"ref: 191849C; addr: 47FB07",
+		false
+	],
+	"FFlagCLI120342": [
+		"ref: 1919E78; addr: 480927",
+		false
+	],
+	"FFlagCLI120342p2": [
+		"ref: 1919E84; addr: 480947",
+		false
+	],
+	"FFlagDebugClientNetworkPerPlaceMetrics": [
+		"ref: 1919DF8; addr: 480987",
+		false
+	],
+	"FFlagDelayLocalPlayerParenting": [
+		"ref: 1919E5C; addr: 4809C7",
+		false
+	],
+	"FFlagUseUNSPEC1": [
+		"ref: 1919DBC; addr: 480A17",
+		false
+	],
+	"FFlagDebugEnableInternetSimulator": [
+		"ref: 191A734; addr: 480BF7",
+		false
+	],
+	"FFlagDeferJoins": [
+		"ref: 191A81C; addr: 480C77",
+		false
+	],
+	"FFlagQuitToo": [
+		"ref: 191A7FC; addr: 480C97",
+		false
+	],
+	"FFlagServerCopiesPlayerGui": [
+		"ref: 191A834; addr: 480CF7",
+		false
+	],
+	"FFlagServerGeneratesPlayer4": [
+		"ref: 191A804; addr: 480D17",
+		false
+	],
+	"FFlagSimplifyRakNetConnectionHandshake": [
+		"ref: 191A7C8; addr: 480D37",
+		false
+	],
+	"FFlagDebugEnableReportPlaceIDAboveMemory": [
+		"ref: 191AFA4; addr: 480D87",
+		false
+	],
+	"FFlagDebugGAReportThrottledSessions": [
+		"ref: 191B03C; addr: 480DA7",
+		false
+	],
+	"FFlagReportClientMemoryCat": [
+		"ref: 191AFE8; addr: 480F37",
+		false
+	],
+	"FFlagReportClientTextureMemory": [
+		"ref: 191B000; addr: 480F57",
+		false
+	],
+	"FFlagUseGamePerfMonitorWithAppShell": [
+		"ref: 191B01C; addr: 480F87",
+		false
+	],
+	"FFlagCLI19418": [
+		"ref: 191B638; addr: 481077",
+		false
+	],
+	"FFlagCLI21289": [
+		"ref: 191B644; addr: 481097",
+		false
+	],
+	"FFlagTxRlEn": [
+		"ref: 191B660; addr: 481137",
+		false
+	],
+	"FFlagIPV6RobloxStudioCleanUp": [
+		"ref: 191C054; addr: 481317",
+		false
+	],
+	"FFlagRCCSupportCloudEdit": [
+		"ref: 191C02C; addr: 481377",
+		false
+	],
+	"FFlagRCCSupportTeamTest": [
+		"ref: 191C040; addr: 481397",
+		false
+	],
+	"FFlagReplicatorHasCapability": [
+		"ref: 191C0F4; addr: 4813B7",
+		false
+	],
+	"FFlagReportSolverUsageStats": [
+		"ref: 191C0A8; addr: 481417",
+		false
+	],
+	"FFlagDebugDisableProjectileOwnershipLock": [
+		"ref: 191C7CC; addr: 481647",
+		false
+	],
+	"FFlagBodyColorsColor3PropertyReplicationEnabled": [
+		"ref: 191CA80; addr: 4817E7",
+		false
+	],
+	"FFlagBodyColorsColor3PropertyReplicationLogicEnabled": [
+		"ref: 191CAFC; addr: 481807",
+		true
+	],
+	"FFlagDebugPrintLagServer": [
+		"ref: 191CB7C; addr: 481867",
+		false
+	],
+	"FFlagDebugReportPhysicsMissingPlaceSpecific": [
+		"ref: 191C990; addr: 481887",
+		false
+	],
+	"FFlagDebugSendPhysicsFBUpdateRatePlaceSpecific": [
+		"ref: 191C9B8; addr: 4818A7",
+		false
+	],
+	"FFlagDisconnectUseConnectionErrorCode": [
+		"ref: 191CA2C; addr: 4818E7",
+		false
+	],
+	"FFlagFEForEveryoneJustInCase": [
+		"ref: 191CB90; addr: 481927",
+		false
+	],
+	"FFlagLogMemoryStatsOnCompressionError": [
+		"ref: 191CAD8; addr: 481987",
+		false
+	],
+	"FFlagNetworkDeserializePacketsInAJob": [
+		"ref: 191CB44; addr: 481B07",
+		false
+	],
+	"FFlagPhysicsResetOsp": [
+		"ref: 191CE20; addr: 481C17",
+		false
+	],
+	"FFlagPpjClientBreak": [
+		"ref: 191CD70; addr: 481C57",
+		false
+	],
+	"FFlagPpjServerBreak": [
+		"ref: 191CD60; addr: 481D17",
+		false
+	],
+	"FFlagProtectNullRakPeer": [
+		"ref: 191CAAC; addr: 481D37",
+		false
+	],
+	"FFlagRCCKickDuplicatePlayersOnJoin": [
+		"ref: 191C834; addr: 481D97",
+		false
+	],
+	"FFlagReportDataPingByDc": [
+		"ref: 191C9F4; addr: 481DF7",
+		false
+	],
+	"FFlagReportPhysicsMissingTiers": [
+		"ref: 191C964; addr: 481E57",
+		false
+	],
+	"FFlagSelectiveNegativeTarget": [
+		"ref: 191CB64; addr: 481EB7",
+		false
+	],
+	"FFlagSendTimeInQueue": [
+		"ref: 191CA1C; addr: 481F17",
+		false
+	],
+	"FFlagTeamCreateServerTrackScriptChangesFullSource": [
+		"ref: 191CA50; addr: 481FD7",
+		false
+	],
+	"FFlagThrowOnCompressionError": [
+		"ref: 191CAC0; addr: 481FF7",
+		false
+	],
+	"FFlagUseNativePathWaypoint": [
+		"ref: 191CB2C; addr: 482027",
+		true
+	],
+	"FFlagValidateStringLength": [
+		"ref: 191EEA0; addr: 482287",
+		false
+	],
+	"FFlagDebugForceRegenerateSchemaBitStream": [
+		"ref: 191F08C; addr: 482317",
+		false
+	],
+	"FFlagDebugGameLoadDataStatisticsPerPlace": [
+		"ref: 191F180; addr: 482337",
+		false
+	],
+	"FFlagFilterAllPlayerPropChanges": [
+		"ref: 191F0B0; addr: 482377",
+		false
+	],
+	"FFlagFilterCheckMap": [
+		"ref: 191F130; addr: 482397",
+		false
+	],
+	"FFlagGameLoadDataStatistics": [
+		"ref: 191F168; addr: 4823B7",
+		false
+	],
+	"FFlagInWithTheNew": [
+		"ref: 191F1A4; addr: 4823F7",
+		false
+	],
+	"FFlagNewRejoinMessage": [
+		"ref: 191F1B4; addr: 482437",
+		false
+	],
+	"FFlagRemoveOldTicket": [
+		"ref: 191F0CC; addr: 482457",
+		false
+	],
+	"FFlagRestrictXmGui": [
+		"ref: 191F1C8; addr: 482477",
+		false
+	],
+	"FFlagSendPlayerGuiEarly2": [
+		"ref: 191F140; addr: 4824B7",
+		false
+	],
+	"FFlagDistanceThinningForClient": [
+		"ref: 191FC68; addr: 4825F7",
+		true
+	],
+	"FFlagDontSendOnContactBuffer": [
+		"ref: 191FC84; addr: 482617",
+		false
+	],
+	"FFlagDontUsePhysicsCache": [
+		"ref: 191FBB0; addr: 482637",
+		false
+	],
+	"FFlagImproveTimeStamp": [
+		"ref: 191FCD0; addr: 482657",
+		false
+	],
+	"FFlagNewSortAndFilter": [
+		"ref: 191FBC4; addr: 482697",
+		false
+	],
+	"FFlagSendAllPhysicsPackets": [
+		"ref: 191FB98; addr: 482777",
+		false
+	],
+	"FFlagSetSimulationRadiusInPhysicsSender": [
+		"ref: 191FBD8; addr: 482797",
+		false
+	],
+	"FFlagUseBitCountLimit": [
+		"ref: 191FC9C; addr: 4827C7",
+		false
+	],
+	"FFlagUseDistanceThinning": [
+		"ref: 191FC14; addr: 4827E7",
+		false
+	],
+	"FFlagUseMomentumThinning": [
+		"ref: 191FC28; addr: 482807",
+		false
+	],
+	"FFlagUseRelativePartTransformsHumanoidPlatforms": [
+		"ref: 191FAE0; addr: 482827",
+		false
+	],
+	"FFlagUseRoundRobinForClient": [
+		"ref: 191FC50; addr: 482847",
+		false
+	],
+	"FFlagUseRoundRobin": [
+		"ref: 191FC04; addr: 482867",
+		false
+	],
+	"FFlagUseSortForClient": [
+		"ref: 191FC3C; addr: 482887",
+		false
+	],
+	"FFlagUseSort": [
+		"ref: 191FBFC; addr: 4828A7",
+		false
+	],
+	"FFlagUseVelocityGateForMoment": [
+		"ref: 191FAC4; addr: 4828C7",
+		false
+	],
+	"FFlagFavorIPV4Connections": [
+		"ref: 191FE60; addr: 4829C7",
+		false
+	],
+	"FFlagFixBoundSocket": [
+		"ref: 191FE78; addr: 4829E7",
+		false
+	],
+	"FFlagRakNetSupportIpV6": [
+		"ref: 192004C; addr: 482A17",
+		false
+	],
+	"FFlagDebugRakNetNoTimestampInUdt": [
+		"ref: 1920390; addr: 482BC7",
+		false
+	],
+	"FFlagActOnNewCheck": [
+		"ref: 192053C; addr: 482BF7",
+		false
+	],
+	"FFlagAdditionalCheckC0": [
+		"ref: 1920528; addr: 482C17",
+		false
+	],
+	"FFlagAdditionalCheckC1_2": [
+		"ref: 1920504; addr: 482C37",
+		false
+	],
+	"FFlagCheckBackpack": [
+		"ref: 1920518; addr: 482C57",
+		false
+	],
+	"FFlagDelistPpr": [
+		"ref: 19205F8; addr: 482C77",
+		false
+	],
+	"FFlagDontWhitelistUserInputConnectionCounts": [
+		"ref: 192058C; addr: 482C97",
+		false
+	],
+	"FFlagDropItLikeItsHat2": [
+		"ref: 192055C; addr: 482CB7",
+		false
+	],
+	"FFlagMoreWeldRestrictions": [
+		"ref: 19204D4; addr: 482CD7",
+		false
+	],
+	"FFlagNotChristmasTodayEither2": [
+		"ref: 19205DC; addr: 482CF7",
+		false
+	],
+	"FFlagOneWeldToRuleThemAll2": [
+		"ref: 19204EC; addr: 482D17",
+		false
+	],
+	"FFlagPlayerGeneratedOnTheServerNoBacksies": [
+		"ref: 19205B4; addr: 482D37",
+		false
+	],
+	"FFlagWhitelistUserInputEvents": [
+		"ref: 1920570; addr: 482D87",
+		false
+	],
+	"FFlagDebugStreamingFastRecovery": [
+		"ref: 1920B84; addr: 483057",
+		false
+	],
+	"FFlagTSMk2ThrottleStreamJob": [
+		"ref: 1920B14; addr: 483157",
+		false
+	],
+	"FFlagFixG3DFpChecks": [
+		"ref: 1922660; addr: 483C67",
+		false
+	],
+	"FFlagFixIAdornableCollectorCrash3": [
+		"ref: 192918C; addr: 483CC7",
+		false
+	],
+	"FFlagDebugSSAOForce": [
+		"ref: 1929604; addr: 483D67",
+		false
+	],
+	"FFlagDebugGraphicsCrashOnLeaks": [
+		"ref: 19299F0; addr: 483E07",
+		true
+	],
+	"FFlagDebugGraphics": [
+		"ref: 19299E0; addr: 483E27",
+		false
+	],
+	"FFlagDebugGraphicsVsync": [
+		"ref: 1929A0C; addr: 483E47",
+		false
+	],
+	"FFlagDebugAdornsDisabled": [
+		"ref: 1929D4C; addr: 483ED7",
+		false
+	],
+	"FFlagEnableRobloxGuiEffect": [
+		"ref: 1929D60; addr: 483EF7",
+		false
+	],
+	"FFlagRenderFrameCapture": [
+		"ref: 1929DEC; addr: 483F77",
+		false
+	],
+	"FFlagRenderRestrictHeads4": [
+		"ref: 192B488; addr: 484027",
+		false
+	],
+	"FFlagUseLargerFontAtlasOn3xDevices": [
+		"ref: 192BF24; addr: 4840E7",
+		false
+	],
+	"FFlagWarnLowVideoMemory": [
+		"ref: 192BF10; addr: 484107",
+		false
+	],
+	"FFlagFixSunRaysFlickering": [
+		"ref: 192C148; addr: 4841E7",
+		false
+	],
+	"FFlagRenderAdornRops": [
+		"ref: 192C160; addr: 484207",
+		false
+	],
+	"FFlagRenderInstanceAcrossRops": [
+		"ref: 192C180; addr: 484227",
+		false
+	],
+	"FFlagShadowBoxFix": [
+		"ref: 192C170; addr: 484267",
+		false
+	],
+	"FFlagRenderInstancingEnabled8": [
+		"ref: 192C734; addr: 484417",
+		false
+	],
+	"FFlagRenderPartInstancingEnabled4": [
+		"ref: 192C750; addr: 484437",
+		false
+	],
+	"FFlagJoinTime_AllowFullTexturePrioUpdate": [
+		"ref: 192CE54; addr: 484477",
+		false
+	],
+	"FFlagJoinTime_LocalUserTexturePriority": [
+		"ref: 192CE10; addr: 484497",
+		false
+	],
+	"FFlagJoinTime_PassTexturePriority": [
+		"ref: 192CE34; addr: 4844B7",
+		false
+	],
+	"FFlagDebugRenderDisableWangMobile": [
+		"ref: 192DC38; addr: 484847",
+		false
+	],
+	"FFlagRefactoredMaterials3": [
+		"ref: 192DC58; addr: 484867",
+		false
+	],
+	"FFlagFixTextureAtlasLineHeightOn4xDevices": [
+		"ref: 192E708; addr: 484977",
+		false
+	],
+	"FFlagFixLineHandleAdornmentsNearPlane": [
+		"ref: 192EF20; addr: 484B67",
+		false
+	],
+	"FFlagJoinTime_LocalUserClusterPriority": [
+		"ref: 1930158; addr: 484F27",
+		false
+	],
+	"FFlagJoinTime_LocalUserMeshPriority": [
+		"ref: 1930138; addr: 484F47",
+		false
+	],
+	"FFlagRenderSortTransparentCasters": [
+		"ref: 193017C; addr: 484F87",
+		false
+	],
+	"FFlagRenderInstancingDeferUpdates2": [
+		"ref: 19309F4; addr: 485037",
+		false
+	],
+	"FFlagDontRenderFullyTransparent": [
+		"ref: 1930F60; addr: 4850A7",
+		false
+	],
+	"FFlagG3DRayCylinderintersectionTimeFix": [
+		"ref: 1933380; addr: 487217",
+		false
+	],
+	"FFlagDebugGraphicsForceGL2": [
+		"ref: 19681E8; addr: 487517",
+		false
+	],
+	"FFlagGraphicsGL3InstancingEnabled2": [
+		"ref: 1968214; addr: 487537",
+		false
+	],
+	"FFlagGraphicsGL3UseUBO3": [
+		"ref: 1968200; addr: 487557",
+		false
+	],
+	"FFlagDebugGraphicsD3D9ForceSWVP": [
+		"ref: 1968500; addr: 4875A7",
+		false
+	],
+	"FFlagGraphicsDX11ReportConstantOffset": [
+		"ref: 19689D0; addr: 4875F7",
+		false
+	],
+	"FFlagDebugGraphicsDisableVulkan11": [
+		"ref: 1968C6C; addr: 487647",
+		false
+	],
+	"FFlagDebugGraphicsDisableVulkan": [
+		"ref: 1968C50; addr: 487667",
+		false
+	],
+	"FFlagGraphicsVulkanBlacklistMali80": [
+		"ref: 1968CD8; addr: 4876F7",
+		false
+	],
+	"FFlagGraphicsVulkanBlacklistPowerVR81": [
+		"ref: 1968CF8; addr: 487717",
+		false
+	],
+	"FFlagGraphicsVulkanGpuTime": [
+		"ref: 1968CC0; addr: 487737",
+		false
+	],
+	"FFlagGraphicsVulkanUseNewPacks3": [
+		"ref: 1968CA4; addr: 487757",
+		false
+	],
+	"FFlagDebugGraphicsGLDisableDiscard": [
+		"ref: 1969B50; addr: 4877A7",
+		false
+	],
+	"FFlagDebugGraphicsIntelCrash": [
+		"ref: 196F804; addr: 487917",
+		false
+	],
+	"FFlagDebugGraphicsD3D11DisableDriverThreading": [
+		"ref: 196FB8C; addr: 4879F7",
+		false
+	],
+	"FFlagDebugGraphicsVulkanDisablePipelineCacheSerialization": [
+		"ref: 1972748; addr: 487C77",
+		false
+	],
+	"FFlagGraphicsVulkanPipelineCacheRobustSerialization": [
+		"ref: 1972780; addr: 487C97",
+		false
+	],
+	"FFlagDebugRenderVRHUD": [
+		"ref: 1972C80; addr: 487D17",
+		false
+	],
+	"FIntStudioSecondsBeforeInactive": [
+		"ref: 1441DE0; addr: 4036C7",
+		300
+	],
+	"FIntStudioAuthenticationTimeoutMs": [
+		"ref: 1441EC8; addr: 403727",
+		10000
+	],
+	"FIntStudioAutomaticScriptRecoveryManagerTimeout": [
+		"ref: 1444564; addr: 405167",
+		5000
+	],
+	"FIntHttpConnectExtendedTimeoutMillis": [
+		"ref: 1446F34; addr: 405537",
+		600000
+	],
+	"FIntHttpDataSendExtendedTimeoutMillis": [
+		"ref: 1446F58; addr: 405557",
+		600000
+	],
+	"FIntHttpResponseExtendedTimeoutMillis": [
+		"ref: 1446EF0; addr: 405577",
+		600000
+	],
+	"FIntHttpSendExtendedTimeoutMillis": [
+		"ref: 1446F14; addr: 405597",
+		600000
+	],
+	"FIntReportTeamCreatePublishFailurePermyriad": [
+		"ref: 1446F7C; addr: 4055B7",
+		100
+	],
+	"FIntCrashUploadArchiveAfterErrorsDelaySeconds": [
+		"ref: 144C760; addr: 405867",
+		86400
+	],
+	"FIntCrashUploadErrorInfluxHundredthsPercentage": [
+		"ref: 144C6F0; addr: 405887",
+		1000
+	],
+	"FIntCrashUploadHttpResponseDefaultTimeoutMillis": [
+		"ref: 144C734; addr: 4058A7",
+		80000
+	],
+	"FIntCrashUploadMaxDumpFiles": [
+		"ref: 144C71C; addr: 4058C7",
+		3
+	],
+	"FIntRCCInfluxHundredthsPercentage": [
+		"ref: 144C6D0; addr: 4058E7",
+		1000
+	],
+	"FIntStudioGamePageHandfulSize": [
+		"ref: 1467148; addr: 408557",
+		50
+	],
+	"FIntGameViewItemCap": [
+		"ref: 1467B7C; addr: 408997",
+		200
+	],
+	"FIntNewGameTemplateId": [
+		"ref: 1467B68; addr: 408A07",
+		95206881
+	],
+	"FIntStudioGuiObjectSecondRectOffset": [
+		"ref: 14689AC; addr: 408CA7",
+		4
+	],
+	"FIntStudioTreeWidgetEventProcessingTime": [
+		"ref: 146894C; addr: 408CE7",
+		10
+	],
+	"FIntStudioTreeWidgetFilterTime": [
+		"ref: 1468970; addr: 408D07",
+		30
+	],
+	"FIntStudioTreeWidgetProcessingTime": [
+		"ref: 146898C; addr: 408D27",
+		100
+	],
+	"FIntLoginFailureStudioInfluxDbHundredthsPercentage": [
+		"ref: 148F7D4; addr: 40AE47",
+		10000
+	],
+	"FIntStudioMaximumPasswordLength": [
+		"ref: 148F7B8; addr: 40AEA7",
+		20
+	],
+	"FIntStudioRPCMessageResponseTimeOut": [
+		"ref: 1492794; addr: 40B247",
+		30000
+	],
+	"FIntStudioThumbnailImageRetryInterval": [
+		"ref: 14948CC; addr: 40B697",
+		6000
+	],
+	"FIntStudioThumbnailImageRetryMaximum": [
+		"ref: 14948A8; addr: 40B6B7",
+		3
+	],
+	"FIntStudioPlaySoloGuestCharacterAppearance": [
+		"ref: 1494C9C; addr: 40B757",
+		15437777
+	],
+	"FIntHangDetectionTimeoutMs": [
+		"ref: 17D1554; addr: 40BCFA",
+		180000
+	],
+	"FIntStudioRecentActionCacheSize": [
+		"ref: 17D1500; addr: 40BD7A",
+		25
+	],
+	"FIntWriteFullDmpPercent": [
+		"ref: 17D14EC; addr: 40BDBA",
+		0
+	],
+	"FIntStartupInfluxHundredthsPercentage": [
+		"ref: 17D276C; addr: 40BF57",
+		0
+	],
+	"FIntStudioMeshPartScaleValue": [
+		"ref: 17D4AA4; addr: 40C387",
+		5000
+	],
+	"FIntStudioPartSizeCameraDistRatio": [
+		"ref: 17D70DC; addr: 40C567",
+		30
+	],
+	"FIntReportTeamTestFailurePermyriad": [
+		"ref: 17DD7F4; addr: 40DD27",
+		100
+	],
+	"FIntStudioCheckTeamServerExistsFrequency": [
+		"ref: 17DDA14; addr: 40DD67",
+		5000
+	],
+	"FIntReportCloudEditJoinFailureReportPerMyriad": [
+		"ref: 17E3420; addr: 40E437",
+		10000
+	],
+	"FIntStudioBootstrapperVersionNumber": [
+		"ref: 17E3628; addr: 40E497",
+		52886
+	],
+	"FIntStudioInsertDeletionCheckTimeMS": [
+		"ref: 17E3648; addr: 40E5F7",
+		8000
+	],
+	"FIntStudioResendDisconnectNotificationInterval": [
+		"ref: 17E370C; addr: 40E6B7",
+		1000
+	],
+	"FIntStudioRobloxAnalyticsLoad": [
+		"ref: 17E3668; addr: 40E6D7",
+		100
+	],
+	"FIntStudioTeamCreateDisconnectHandlingMaximumRetries": [
+		"ref: 17E3758; addr: 40E6F7",
+		120
+	],
+	"FIntStudioWebDialogMinimumHeight": [
+		"ref: 17F8314; addr: 40EFD7",
+		480
+	],
+	"FIntStudioWebDialogMinimumWidth": [
+		"ref: 17F8334; addr: 40EFF7",
+		970
+	],
+	"FIntReportTeamCreatePostFailurePermyriad": [
+		"ref: 17FAAA8; addr: 40F167",
+		100
+	],
+	"FIntStudioPercentScaleRepeatCount": [
+		"ref: 17FDF48; addr: 40F527",
+		80
+	],
+	"FIntStudioRightClickBuffer": [
+		"ref: 17FF604; addr: 40F877",
+		500
+	],
+	"FIntStudioRightClickDelay": [
+		"ref: 17FF61C; addr: 40F897",
+		150
+	],
+	"FIntStudioRightClickMax": [
+		"ref: 17FF634; addr: 40F8B7",
+		700
+	],
+	"FIntStudioMaxCommandHistorySize": [
+		"ref: 1801328; addr: 40FDE7",
+		50
+	],
+	"FIntStudioLongCacheRecoveryTime": [
+		"ref: 1801D00; addr: 40FF07",
+		3600
+	],
+	"FIntStudioSyntaxCheckTimerInterval": [
+		"ref: 1802A68; addr: 4102F7",
+		500
+	],
+	"FIntStudioAutocompleteNumMaxLineForParamSearch": [
+		"ref: 1806964; addr: 410D27",
+		10
+	],
+	"FIntCloudEditTimeoutTimeMs": [
+		"ref: 1807610; addr: 4111B7",
+		60000
+	],
+	"FIntCloudEditWaitTimeMs": [
+		"ref: 18075FC; addr: 4111D7",
+		500
+	],
+	"FIntStudioClientPresenceUpdateInterval": [
+		"ref: 18075D8; addr: 411267",
+		120
+	],
+	"FIntStudioStopOSXReportingForOSAtAndBeforeMajor": [
+		"ref: 1807688; addr: 4112C7",
+		10
+	],
+	"FIntStudioStopOSXReportingForOSAtAndBeforeMinor": [
+		"ref: 18076B4; addr: 4112E7",
+		8
+	],
+	"FIntStudioStopWindowsReportingForOSAtAndBeforeMajor": [
+		"ref: 1807628; addr: 411307",
+		6
+	],
+	"FIntStudioStopWindowsReportingForOSAtAndBeforeMinor": [
+		"ref: 1807658; addr: 411327",
+		0
+	],
+	"FIntStudioUserNotificationMaxReconnectTimerMs": [
+		"ref: 18090C0; addr: 411CB7",
+		50000
+	],
+	"FIntStudioUserNotificationMinReconnectTimerMs": [
+		"ref: 1809064; addr: 411CD7",
+		1000
+	],
+	"FIntStudioUserNotificationReconnectTimerIncrementMs": [
+		"ref: 1809090; addr: 411D67",
+		5000
+	],
+	"FIntCLI20390": [
+		"ref: 180E368; addr: 4124D7",
+		0
+	],
+	"FIntAppBridgePlaceLaunchExponentialBaseFraction": [
+		"ref: 1810390; addr: 412607",
+		3
+	],
+	"FIntAppBridgePlaceLaunchMaxRetries": [
+		"ref: 18103E0; addr: 412627",
+		5
+	],
+	"FIntAppBridgePlaceLaunchMaxSleepBetweenRequests": [
+		"ref: 1810428; addr: 412647",
+		10
+	],
+	"FIntAppBridgePlaceLaunchMaxTotalSleepTime": [
+		"ref: 1810400; addr: 412667",
+		0
+	],
+	"FIntAppBridgePlaceLaunchRetryWaitInSec": [
+		"ref: 18103BC; addr: 412687",
+		1
+	],
+	"FIntPlaceLauncherExceptionInfluxHundredthsPercentage": [
+		"ref: 1810454; addr: 4127C7",
+		0
+	],
+	"FIntTeleportExceptionInfluxHundredthsPercentage": [
+		"ref: 18104F0; addr: 412887",
+		0
+	],
+	"FIntTeleportRetryTimes": [
+		"ref: 18104DC; addr: 4128A7",
+		5
+	],
+	"FIntReportInfluxHundredthsPercentage": [
+		"ref: 1811260; addr: 412AF7",
+		0
+	],
+	"FIntAppShellFPSReportPeriod": [
+		"ref: 18113DC; addr: 412D17",
+		600
+	],
+	"FIntAppShellMemoryReportInitialDelay": [
+		"ref: 1811414; addr: 412D37",
+		10
+	],
+	"FIntAppShellMemoryReportPeriodicity": [
+		"ref: 18113F4; addr: 412D57",
+		600
+	],
+	"FIntPercentReportingByCountryCode": [
+		"ref: 1811438; addr: 412EB7",
+		0
+	],
+	"FIntWaitForChildWarnTimeOutTime": [
+		"ref: 1811BD8; addr: 413347",
+		5
+	],
+	"FIntContentProviderThreadPoolSize": [
+		"ref: 1812A2C; addr: 4148D7",
+		16
+	],
+	"FIntAvatarJointPositionsDefaultType": [
+		"ref: 1813ED8; addr: 4156B7",
+		0
+	],
+	"FIntInGameGlobalGuiInset": [
+		"ref: 1813EC0; addr: 415BD7",
+		36
+	],
+	"FIntOnCloseTimeoutInSeconds": [
+		"ref: 1813EF8; addr: 415C57",
+		30
+	],
+	"FIntR15DefaultCollisionType": [
+		"ref: 1813F10; addr: 415D47",
+		0
+	],
+	"FIntScriptContextShutdownTimeoutSeconds": [
+		"ref: 1813F28; addr: 415DA7",
+		30
+	],
+	"FIntServerConfigCloudEditSavePeriodSeconds": [
+		"ref: 1813F4C; addr: 415DC7",
+		300
+	],
+	"FIntFixForBulkPresenceNotifications": [
+		"ref: 1819AC8; addr: 419B07",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleAndroidPhone3": [
+		"ref: 181A01C; addr: 419CC7",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleAndroidTablet3": [
+		"ref: 181A048; addr: 419CE7",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleiOSPhone3": [
+		"ref: 181A074; addr: 419D07",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleiOSTablet3": [
+		"ref: 181A09C; addr: 419D27",
+		0
+	],
+	"FIntLuaHomeMaxFriends": [
+		"ref: 1819848; addr: 419DC7",
+		9
+	],
+	"FIntNewDevConsoleMaxGraphCount": [
+		"ref: 181A0D8; addr: 419E07",
+		30
+	],
+	"FIntNewDevConsoleMaxHttpCount": [
+		"ref: 181A110; addr: 419E27",
+		300
+	],
+	"FIntNewDevConsoleMaxLogCount": [
+		"ref: 181A0F4; addr: 419E47",
+		500
+	],
+	"FIntSettingsHubInviteReleaseStreamTime": [
+		"ref: 1819BD8; addr: 419F07",
+		10
+	],
+	"FIntXboxAvatarPaneRefreshInterval": [
+		"ref: 1819A6C; addr: 41A127",
+		1800
+	],
+	"FIntXboxGameDetailsRefreshInterval": [
+		"ref: 1819A8C; addr: 41A147",
+		1800
+	],
+	"FIntXboxGameSortsUpdateInterval": [
+		"ref: 1819AAC; addr: 41A167",
+		1800
+	],
+	"FIntXboxPresencePolling": [
+		"ref: 1819A58; addr: 41A187",
+		120
+	],
+	"FIntScriptAnalyzerIgnoreWarnings": [
+		"ref: 181C174; addr: 41CAB7",
+		0
+	],
+	"FIntHttpConnectDefaultTimeoutMillis": [
+		"ref: 181CAB0; addr: 41CF57",
+		60000
+	],
+	"FIntHttpGAFailureReportHundredthsPercent": [
+		"ref: 181CAEC; addr: 41CF97",
+		1
+	],
+	"FIntHttpGAFailureReportPercent": [
+		"ref: 181CB14; addr: 41CFB7",
+		1
+	],
+	"FIntHttpInfluxClientExceptionStatusCode": [
+		"ref: 181CB58; addr: 41CFD7",
+		0
+	],
+	"FIntHttpResponseDefaultTimeoutMillis": [
+		"ref: 181CA8C; addr: 41D017",
+		60000
+	],
+	"FIntHttpSendStatsEveryXSeconds": [
+		"ref: 181CAD0; addr: 41D037",
+		60
+	],
+	"FIntHttpStudioInfluxHundredthsPercentage": [
+		"ref: 17EC8B4; addr: 41D057",
+		1
+	],
+	"FIntMaxHttpResultResponseSize": [
+		"ref: 181CBB8; addr: 41D097",
+		500
+	],
+	"FIntSendHttpBodyOnFailureMaxBytes": [
+		"ref: 181CB98; addr: 41D0B7",
+		128
+	],
+	"FIntWebParserInfluxWriteNanInfPerMyriad": [
+		"ref: 181D5EC; addr: 41D147",
+		0
+	],
+	"FIntExternalHttpRequestSizeLimitKB": [
+		"ref: 181D804; addr: 41D6C7",
+		1024
+	],
+	"FIntExternalHttpResponseSizeLimitKB": [
+		"ref: 181D824; addr: 41D6E7",
+		4096
+	],
+	"FIntExternalHttpResponseTimeoutMillis": [
+		"ref: 181D7E0; addr: 41D707",
+		30000
+	],
+	"FIntLuaGcBoost": [
+		"ref: 181DA04; addr: 41D7E7",
+		1
+	],
+	"FIntLuaGcMaxKb": [
+		"ref: 181DA10; addr: 41D807",
+		100
+	],
+	"FIntReportYieldHundredthsPercentage": [
+		"ref: 181DA6C; addr: 41D847",
+		0
+	],
+	"FIntAnalyticsDeferredEphemeralReportingIntervalSeconds": [
+		"ref: 181F07C; addr: 41DA77",
+		30
+	],
+	"FIntAnalyticsMaxDeferredStats": [
+		"ref: 181F0B0; addr: 41DA97",
+		50
+	],
+	"FIntAnalyticsMaxSendWaitTimeMs": [
+		"ref: 181F0CC; addr: 41DAB7",
+		100
+	],
+	"FIntAnalyticsMaxShutdownWaitTimeMs": [
+		"ref: 181F0E8; addr: 41DAD7",
+		100
+	],
+	"FIntLuaErrorsInfluxThrottling": [
+		"ref: 181F00C; addr: 41DCF7",
+		1
+	],
+	"FIntCameraFarZPlane": [
+		"ref: 1820598; addr: 420007",
+		5000
+	],
+	"FIntZoomOutDistance": [
+		"ref: 18205B8; addr: 4200C7",
+		200
+	],
+	"FIntAnthroPercentInHundredths": [
+		"ref: 1824360; addr: 4241F7",
+		0
+	],
+	"FIntApiRateLimit": [
+		"ref: 1823FD4; addr: 424217",
+		200
+	],
+	"FIntRandomSpawnRetryTimes": [
+		"ref: 1824140; addr: 424417",
+		20
+	],
+	"FIntReportCharacterLoadTimeMetricsInverseProbability": [
+		"ref: 182422C; addr: 424477",
+		1000
+	],
+	"FIntWideToNarrowScaleInHundredths": [
+		"ref: 182437C; addr: 4244E7",
+		0
+	],
+	"FIntDistToShowBufferCountSqr": [
+		"ref: 1826B4C; addr: 4290F7",
+		0
+	],
+	"FIntPartMinSizeMul1000": [
+		"ref: 1826A78; addr: 429157",
+		200
+	],
+	"FIntPartSizeUnder0P2AnalyticsInfluxHundredthPct": [
+		"ref: 1826AA4; addr: 429177",
+		0
+	],
+	"FIntElevatedPhysicsFPSReportThresholdTenths": [
+		"ref: 1828610; addr: 42ACA7",
+		610
+	],
+	"FIntActionStationDebounceTime": [
+		"ref: 182DFDC; addr: 434817",
+		2
+	],
+	"FIntSendScreenOrientationToEventIngestHundredthsPercentage": [
+		"ref: 183125C; addr: 438997",
+		0
+	],
+	"FIntTextFilterMaxCachedRequestMilliseconds": [
+		"ref: 1831FA0; addr: 439167",
+		500
+	],
+	"FIntChatSignalMaxCachedRequestMilliseconds": [
+		"ref: 1833478; addr: 439807",
+		5000
+	],
+	"FIntFriendRequestNotificationThrottle": [
+		"ref: 1833384; addr: 439887",
+		5
+	],
+	"FIntGetUserThumbnailAsyncThrottleTime": [
+		"ref: 18334D8; addr: 439917",
+		2000
+	],
+	"FIntGetUserThumbnailExpirationTime": [
+		"ref: 18334FC; addr: 439937",
+		60000
+	],
+	"FIntGetUserThumbnailMapSizeCap": [
+		"ref: 1833584; addr: 439957",
+		500
+	],
+	"FIntGetUserThumbnailMaxThrottle": [
+		"ref: 183351C; addr: 439977",
+		20000
+	],
+	"FIntGetUserThumbnailThrottleExponent": [
+		"ref: 1833560; addr: 439997",
+		1500
+	],
+	"FIntStudioStartServerBoyGuestCharacterAppearance": [
+		"ref: 18332D4; addr: 439A17",
+		15437777
+	],
+	"FIntStudioStartServerGirlGuestCharacterAppearance": [
+		"ref: 1833310; addr: 439A37",
+		15437741
+	],
+	"FIntCanHideGuiGroupId": [
+		"ref: 1834F84; addr: 43B007",
+		3013794
+	],
+	"FIntCrashUploadToBacktracePercentage": [
+		"ref: 1836538; addr: 43D3D7",
+		0
+	],
+	"FIntNumDummyJobs": [
+		"ref: 1836A1C; addr: 43D5F7",
+		0
+	],
+	"FIntRenderingThrottleDelayInMS": [
+		"ref: 1836A2C; addr: 43D637",
+		0
+	],
+	"FIntHumanoidFloorManualFrictionVelocityMultValue": [
+		"ref: 1837C4C; addr: 43EB07",
+		100
+	],
+	"FIntHumanoidFloorTeleportWeightValue": [
+		"ref: 1837C18; addr: 43EB27",
+		50
+	],
+	"FIntMotionDiscontinuityThreshold": [
+		"ref: 1837D1C; addr: 43EB67",
+		1
+	],
+	"FIntKeyframeSequenceInfluxPermyriad": [
+		"ref: 1839F6C; addr: 444CB7",
+		0
+	],
+	"FIntUserHttpRequestsPerMinuteLimit": [
+		"ref: 183BC20; addr: 447477",
+		500
+	],
+	"FIntHttpInfluxHundredthsPercentage": [
+		"ref: 17EC8DC; addr: 4478C7",
+		0
+	],
+	"FIntMsecBetweenTextureMemoryUsageArrayRefresh": [
+		"ref: 183C704; addr: 4478E7",
+		1000
+	],
+	"FIntLocalizationAnalyticsSamplesPerMillion": [
+		"ref: 183D3CC; addr: 448517",
+		0
+	],
+	"FIntTimeBetweenCheckingApiAccessMillis": [
+		"ref: 183E6B8; addr: 449117",
+		5000
+	],
+	"FIntHttpRbxApiClientPerMinuteRequestLimit": [
+		"ref: 183EF4C; addr: 449517",
+		300
+	],
+	"FIntHttpRbxApiJobFrequencyInSeconds": [
+		"ref: 183F0FC; addr: 449537",
+		1
+	],
+	"FIntHttpRbxApiMaxBudgetMultiplier": [
+		"ref: 183EF74; addr: 449557",
+		1
+	],
+	"FIntHttpRbxApiMaxRetryBudgetPerMinute": [
+		"ref: 183F010; addr: 449577",
+		500
+	],
+	"FIntHttpRbxApiMaxRetryCount": [
+		"ref: 183F034; addr: 449597",
+		10
+	],
+	"FIntHttpRbxApiMaxRetryQueueSize": [
+		"ref: 183F04C; addr: 4495B7",
+		500
+	],
+	"FIntHttpRbxApiMaxSyncRetries": [
+		"ref: 183F068; addr: 4495D7",
+		3
+	],
+	"FIntHttpRbxApiMaxThrottledQueueSize": [
+		"ref: 183EFF0; addr: 4495F7",
+		50
+	],
+	"FIntHttpRbxApiRequestsPerMinutePerPlayerInServerLimit": [
+		"ref: 183EFBC; addr: 449617",
+		100
+	],
+	"FIntHttpRbxApiRequestsPerMinuteServerLimit": [
+		"ref: 183EF94; addr: 449637",
+		300
+	],
+	"FIntHttpRbxApiSyncRetryWaitTimeMSec": [
+		"ref: 183F084; addr: 449677",
+		500
+	],
+	"FIntPercentApiRequestsRecordGoogleAnalytics": [
+		"ref: 183EF24; addr: 4496B7",
+		1
+	],
+	"FIntExpireMarketPlaceServiceCacheSeconds": [
+		"ref: 1840110; addr: 4499E7",
+		60
+	],
+	"FIntPurchaseErrorReportRate": [
+		"ref: 183F888; addr: 449A67",
+		100
+	],
+	"FIntPurchaseMismatchReportRate": [
+		"ref: 183F86C; addr: 449A87",
+		100
+	],
+	"FIntSmoothTerrainMaxCppRegion": [
+		"ref: 1844748; addr: 44E137",
+		67108864
+	],
+	"FIntSmoothTerrainMaxLuaRegion": [
+		"ref: 184472C; addr: 44E157",
+		4194304
+	],
+	"FIntBadgeInfoCooldownTime": [
+		"ref: 1845888; addr: 44F6C7",
+		5
+	],
+	"FIntDraggerMaxMovePercent": [
+		"ref: 1845EC4; addr: 44F947",
+		100
+	],
+	"FIntDraggerMaxMoveSteps": [
+		"ref: 1845EDC; addr: 44F967",
+		10000
+	],
+	"FIntTextSizeLimit": [
+		"ref: 18473BC; addr: 450A07",
+		16384
+	],
+	"FIntPhysicsDecompForceUpgradeVersion": [
+		"ref: 1847AC8; addr: 451B97",
+		3
+	],
+	"FIntLogGroupTeleportInfluxPerTenThousand": [
+		"ref: 1848FA8; addr: 452F27",
+		0
+	],
+	"FIntShowTeleportFailedMessageTimeInMillisecond": [
+		"ref: 1848D78; addr: 452F67",
+		3000
+	],
+	"FIntTeleportMethodAnalyticsHundredthPct": [
+		"ref: 1848D54; addr: 452FA7",
+		0
+	],
+	"FIntTeleportPartyExpirationMillisecond": [
+		"ref: 1848DA4; addr: 452FE7",
+		180000
+	],
+	"FIntTeleportPollinInterval": [
+		"ref: 1848DC8; addr: 453007",
+		1000
+	],
+	"FIntAdvancedRCCLoadFMODRetryCount": [
+		"ref: 184CE88; addr: 456167",
+		3
+	],
+	"FIntFMODSoundChannels": [
+		"ref: 184CE18; addr: 4561E7",
+		100
+	],
+	"FIntReportDeviceInfoRate": [
+		"ref: 184CEB8; addr: 456247",
+		0
+	],
+	"FIntSoundServiceCacheCleanupMaxAgeDays": [
+		"ref: 184CF8C; addr: 456307",
+		7
+	],
+	"FIntDiabolicalModeAnalyticsIntervalSeconds": [
+		"ref: 184FFB0; addr: 457057",
+		60
+	],
+	"FIntDiabolicalModeEnable": [
+		"ref: 184FF98; addr: 457077",
+		0
+	],
+	"FIntDiabolicalModeFailRateDiv10K": [
+		"ref: 184FF40; addr: 457097",
+		3000
+	],
+	"FIntDiabolicalModeLatecyMaxMS": [
+		"ref: 184FF7C; addr: 4570D7",
+		600
+	],
+	"FIntDiabolicalModeLatecyMinMS": [
+		"ref: 184FF60; addr: 4570F7",
+		300
+	],
+	"FIntGoogleAnalyticsLoadLuaShell": [
+		"ref: 1850FF4; addr: 457987",
+		1
+	],
+	"FIntIkDraggerAnchorMode": [
+		"ref: 1851544; addr: 457C07",
+		0
+	],
+	"FIntWeldConstraintAdornHighlightedPartSize": [
+		"ref: 185163C; addr: 457C47",
+		2
+	],
+	"FIntWeldConstraintAdornSize": [
+		"ref: 1851624; addr: 457C87",
+		20
+	],
+	"FIntBroadPhaseIslandAlwaysSimulateDepth": [
+		"ref: 18549FC; addr: 45D5E7",
+		1
+	],
+	"FIntBroadPhaseIslandMaxSortDepth": [
+		"ref: 18549DC; addr: 45D607",
+		2
+	],
+	"FIntIntersectingOthersCallsAllowedOnSpawn": [
+		"ref: 1854934; addr: 45D667",
+		5
+	],
+	"FIntOptimizedContactOverlapGoalMicro": [
+		"ref: 1854C74; addr: 45D707",
+		0
+	],
+	"FIntOptimizedContactPipelineSpatialHashOverlapToleranceMicro": [
+		"ref: 1854C98; addr: 45D727",
+		10000
+	],
+	"FIntOptimizedContactWakeDepth": [
+		"ref: 1854C58; addr: 45D747",
+		8
+	],
+	"FIntMinSoundStreamSizeBytes": [
+		"ref: 1855D40; addr: 45E217",
+		512000
+	],
+	"FIntCreatePlacePerMinute": [
+		"ref: 1856368; addr: 45E2C7",
+		5
+	],
+	"FIntCreatePlacePerPlayerPerMinute": [
+		"ref: 1856380; addr: 45E2E7",
+		1
+	],
+	"FIntSavePlacePerMinute": [
+		"ref: 18563A0; addr: 45E307",
+		10
+	],
+	"FIntRemoteDelayedQueueLimit": [
+		"ref: 1856FDC; addr: 45E637",
+		256
+	],
+	"FIntFontSizePadding": [
+		"ref: 1858704; addr: 45FD77",
+		1
+	],
+	"FIntStreamingCriticalLowMemWatermarkMB": [
+		"ref: 1858944; addr: 45FDD7",
+		15
+	],
+	"FIntStreamingLowMemWatermarkMB": [
+		"ref: 1858928; addr: 45FDF7",
+		30
+	],
+	"FIntStreamingMemoryUsagePercent": [
+		"ref: 18588F0; addr: 45FE17",
+		50
+	],
+	"FIntStreamingSafeMemWatermarkMB": [
+		"ref: 185890C; addr: 45FE37",
+		100
+	],
+	"FIntBadLogInfluxHundredthsPercentage": [
+		"ref: 1858C14; addr: 45FEA7",
+		0
+	],
+	"FIntBadLogMask": [
+		"ref: 1858C38; addr: 45FEC7",
+		0
+	],
+	"FIntHttpAnalyticsMaxHistory": [
+		"ref: 1858C84; addr: 45FF07",
+		256
+	],
+	"FIntMaxLogHistory": [
+		"ref: 1858C04; addr: 45FFB7",
+		512
+	],
+	"FIntCacheDirectoryExceptionInfluxHundredthsPercentage": [
+		"ref: 186264C; addr: 4634B7",
+		0
+	],
+	"FIntPhysicsImprovedCyclicExecutiveConsecutivePredictionRequired": [
+		"ref: 1863310; addr: 4636A7",
+		2
+	],
+	"FIntPhysicsImprovedCyclicExecutivePredictiveThrottlingStepsAhead": [
+		"ref: 18632D0; addr: 4636C7",
+		20
+	],
+	"FIntPhysicsImprovedCyclicExecutiveThrottleThresholdTenth": [
+		"ref: 1863298; addr: 4636E7",
+		8
+	],
+	"FIntNetworkStatRefreshRate": [
+		"ref: 18633A4; addr: 463727",
+		1
+	],
+	"FIntBulletContactBreakOrthogonalThresholdActivatePercent": [
+		"ref: 1864C24; addr: 463817",
+		200
+	],
+	"FIntBulletContactBreakOrthogonalThresholdPercent": [
+		"ref: 1864BF4; addr: 463837",
+		200
+	],
+	"FIntBulletContactBreakThresholdPercent": [
+		"ref: 1864BD0; addr: 463857",
+		200
+	],
+	"FIntMaxMissedWorldStepsRemembered": [
+		"ref: 1864C88; addr: 4638D7",
+		12
+	],
+	"FIntPhysicsBulletManifoldPoolSize": [
+		"ref: 1864CD8; addr: 463917",
+		1024
+	],
+	"FIntTrackServerPhysicsPerfSessionNMinutes": [
+		"ref: 1864D70; addr: 4639D7",
+		10
+	],
+	"FIntWorldStepDtAveExpFactorHundredth": [
+		"ref: 1864D20; addr: 4639F7",
+		25
+	],
+	"FIntWorldStepMax": [
+		"ref: 1864C5C; addr: 463A17",
+		30
+	],
+	"FIntWorldStepsOffsetAdjustRate": [
+		"ref: 1864C6C; addr: 463A77",
+		100
+	],
+	"FIntHopperBinTrackingPermyriad": [
+		"ref: 1865654; addr: 464787",
+		100
+	],
+	"FIntChatFilterMaxCachedRequestMilliseconds": [
+		"ref: 1866BB0; addr: 465F07",
+		5000
+	],
+	"FIntChatServiceCachedResultCount": [
+		"ref: 1867110; addr: 465F87",
+		30
+	],
+	"FIntInfluxReportLocalFilterStringPermyriad": [
+		"ref: 1866B88; addr: 4660D7",
+		0
+	],
+	"FIntInfluxTattletaleReportCommunitySiftOutputPermyriad": [
+		"ref: 1866B54; addr: 4660F7",
+		0
+	],
+	"FIntInfluxTattletaleV2Permyriad": [
+		"ref: 1866A24; addr: 466117",
+		10000
+	],
+	"FIntTattletaleFlushIfNotUpdatedForSeconds": [
+		"ref: 186719C; addr: 4661C7",
+		60
+	],
+	"FIntTattletaleFlushIfOlderThanSeconds": [
+		"ref: 18671C4; addr: 4661E7",
+		300
+	],
+	"FIntTattletaleMaxInstancePathLength": [
+		"ref: 18671E8; addr: 466207",
+		512
+	],
+	"FIntTattletaleMaxPendingReports": [
+		"ref: 1867220; addr: 466227",
+		1024
+	],
+	"FIntTattletaleMaxTextLength": [
+		"ref: 1867208; addr: 466247",
+		1024
+	],
+	"FIntTattletaleMinimumClientCountWithServerVerification": [
+		"ref: 1867168; addr: 466267",
+		1
+	],
+	"FIntTattletaleMinimumClientCountWithoutServerVerification": [
+		"ref: 1867130; addr: 466287",
+		1
+	],
+	"FIntTattletaleReportUnfilteredJobFrequencySeconds": [
+		"ref: 186723C; addr: 4662A7",
+		30
+	],
+	"FIntTattletaleReportUnfilteredJobMaxReportsPerTick": [
+		"ref: 186726C; addr: 4662C7",
+		64
+	],
+	"FIntWebChatFilterHttpTimeoutSeconds": [
+		"ref: 1866AAC; addr: 466307",
+		60
+	],
+	"FIntFriendServiceCachedOfflineStatusCount": [
+		"ref: 186804C; addr: 466A97",
+		256
+	],
+	"FIntFriendServiceCachedOfflineStatusMaxAgeSeconds": [
+		"ref: 1868074; addr: 466AB7",
+		300
+	],
+	"FIntMaxAwardPointsHttpCallsPerMinute": [
+		"ref: 1868FB4; addr: 467097",
+		60
+	],
+	"FIntPointBalanceCacheInvalidateTimeMs": [
+		"ref: 1868F90; addr: 4670B7",
+		1000
+	],
+	"FIntPointsServiceBatchingImplMaxDelaySeconds": [
+		"ref: 1869050; addr: 4670D7",
+		30
+	],
+	"FIntPointsServiceBatchingImplMinuteSeconds": [
+		"ref: 1868FF8; addr: 4670F7",
+		60
+	],
+	"FIntPointsServiceBatchingImplOnUpdateDelaySeconds": [
+		"ref: 1869020; addr: 467117",
+		5
+	],
+	"FIntSecondsPerBatchAwardPointsCall": [
+		"ref: 1868FD8; addr: 467137",
+		10
+	],
+	"FIntDataStore429MinReponseTimeMSec": [
+		"ref: 186A1C0; addr: 467AE7",
+		10000
+	],
+	"FIntDataStoreAnalyticsReportEveryNSeconds": [
+		"ref: 186A07C; addr: 467B07",
+		300
+	],
+	"FIntDataStoreBudgetOnCloseBase": [
+		"ref: 186A018; addr: 467B67",
+		150
+	],
+	"FIntDataStoreFetchFrequenceInSeconds": [
+		"ref: 1869E44; addr: 467B87",
+		30
+	],
+	"FIntDataStoreFixedRequestLimit": [
+		"ref: 1869E68; addr: 467BA7",
+		60
+	],
+	"FIntDataStoreInitialBudget": [
+		"ref: 1869EA4; addr: 467BC7",
+		100
+	],
+	"FIntDataStoreJobFrequencyInSeconds": [
+		"ref: 1869E24; addr: 467BE7",
+		1
+	],
+	"FIntDataStoreMaxBudgetMultiplier": [
+		"ref: 1869FF8; addr: 467C07",
+		100
+	],
+	"FIntDataStoreMaxRetriesPerCycle": [
+		"ref: 186A188; addr: 467C27",
+		6
+	],
+	"FIntDataStoreMaxRetryCount": [
+		"ref: 186A170; addr: 467C47",
+		5
+	],
+	"FIntDataStoreMaxThrottledQueue": [
+		"ref: 186A060; addr: 467C67",
+		30
+	],
+	"FIntDataStoreOrderedGetFixedRequestLimit": [
+		"ref: 1869F80; addr: 467C87",
+		5
+	],
+	"FIntDataStoreOrderedGetInitialBudget": [
+		"ref: 1869FD4; addr: 467CA7",
+		10
+	],
+	"FIntDataStoreOrderedGetPerPlayerRequestLimit": [
+		"ref: 1869FA8; addr: 467CC7",
+		2
+	],
+	"FIntDataStoreOrderedSetFixedRequestLimit": [
+		"ref: 1869EBC; addr: 467CE7",
+		30
+	],
+	"FIntDataStoreOrderedSetInitialBudget": [
+		"ref: 1869F10; addr: 467D07",
+		50
+	],
+	"FIntDataStoreOrderedSetPerPlayerRequestLimit": [
+		"ref: 1869EE4; addr: 467D27",
+		5
+	],
+	"FIntDataStorePerPlayerRequestLimit": [
+		"ref: 1869E84; addr: 467D47",
+		10
+	],
+	"FIntDataStoreRefetchFixedRequestLimit": [
+		"ref: 1869F34; addr: 467D67",
+		30
+	],
+	"FIntDataStoreRefetchPerPlayerRequestLimit": [
+		"ref: 1869F58; addr: 467D87",
+		5
+	],
+	"FIntDataStoreRetryWaitTimeMSec": [
+		"ref: 186A1A4; addr: 467DA7",
+		500
+	],
+	"FIntDataStoreWaitOnYieldingRequestsExpiration": [
+		"ref: 186A034; addr: 467E37",
+		2
+	],
+	"FIntRetryBaseTimeMSec": [
+		"ref: 186A15C; addr: 467E77",
+		1000
+	],
+	"FIntAccErrorDrainedThousandth": [
+		"ref: 186B02C; addr: 468327",
+		100
+	],
+	"FIntDebugNetworkPacketAgeHistory": [
+		"ref: 186B1B0; addr: 468407",
+		30
+	],
+	"FIntInitialAccelerationLatencyMultTenths": [
+		"ref: 186B068; addr: 468467",
+		20
+	],
+	"FIntInterpolationAwareTargetTimeLerpHundredth": [
+		"ref: 186AF84; addr: 4684A7",
+		13
+	],
+	"FIntInterpolationMaxDelayMSec": [
+		"ref: 186AF28; addr: 4684C7",
+		500
+	],
+	"FIntLatencyErrorMultiplierTennths": [
+		"ref: 186B048; addr: 4684E7",
+		20
+	],
+	"FIntMaxAcceptableUpdateDelay": [
+		"ref: 186AF44; addr: 468507",
+		15
+	],
+	"FIntMaxAverageFrameDelayExceedFactor": [
+		"ref: 186AFE4; addr: 468527",
+		3
+	],
+	"FIntMaxDebugFramesForVisuals": [
+		"ref: 186B120; addr: 468547",
+		2000
+	],
+	"FIntMaxFrameBufferSize": [
+		"ref: 186AFB0; addr: 468567",
+		10
+	],
+	"FIntNumFramesAllowedToBeAboveError": [
+		"ref: 186B090; addr: 4685A7",
+		10
+	],
+	"FIntNumFramesToKeepAfterInterpolation": [
+		"ref: 186B0B0; addr: 4685C7",
+		1
+	],
+	"FIntOnContactOwnerBufferTimeCentiSec": [
+		"ref: 186AF60; addr: 4685E7",
+		300
+	],
+	"FIntSimToInterBufferClearFactorTenths": [
+		"ref: 186B008; addr: 468607",
+		3
+	],
+	"FIntTargetTimeDelayFacctorTenths": [
+		"ref: 186AFC4; addr: 468627",
+		10
+	],
+	"FIntThrottledVelocityThresholdTenths": [
+		"ref: 186AF04; addr: 468647",
+		20
+	],
+	"FIntDelaySwitchingFromRunningToFreefallInHundredths": [
+		"ref: 186F358; addr: 46BDE7",
+		20
+	],
+	"FIntNoTouchOneSecondYVelocityThresholdInHundredths": [
+		"ref: 186F388; addr: 46BEA7",
+		10
+	],
+	"FIntSwitchFromRunningNoPhysToRunningThresholdInHundredths": [
+		"ref: 186F3B8; addr: 46BF07",
+		4
+	],
+	"FIntDataStoreCachedKeysMemSize": [
+		"ref: 187DB80; addr: 4793F7",
+		8388608
+	],
+	"FIntDataStoreInfluxReportNonParsableDataPerMyriad": [
+		"ref: 187DBD8; addr: 479417",
+		0
+	],
+	"FIntDataStoreInfluxValueSubstringSize": [
+		"ref: 187DC20; addr: 479437",
+		512
+	],
+	"FIntDataStoreKeyLengthLimit": [
+		"ref: 187DACC; addr: 479477",
+		50
+	],
+	"FIntDataStoreMaxKeysToFetch": [
+		"ref: 187DAB4; addr: 479497",
+		100
+	],
+	"FIntDataStoreMaxPageSize": [
+		"ref: 187DAE4; addr: 4794B7",
+		100
+	],
+	"FIntDataStoreMaxValueSize": [
+		"ref: 187DAFC; addr: 4794D7",
+		65536
+	],
+	"FIntDataStoreSameKeyPerMinute": [
+		"ref: 187DB34; addr: 479517",
+		10
+	],
+	"FIntDataStoreTouchTimeoutInSeconds": [
+		"ref: 187DB14; addr: 479537",
+		5
+	],
+	"FIntDataStorelastSetByKeySize": [
+		"ref: 187DB9C; addr: 479577",
+		512
+	],
+	"FIntHttpCacheCleanIfGBLessThan": [
+		"ref: 187F0EC; addr: 4799F7",
+		5
+	],
+	"FIntHttpCacheCleanMaxFilesToKeep": [
+		"ref: 187F0AC; addr: 479A17",
+		1500
+	],
+	"FIntHttpCacheCleanMinFilesRequired": [
+		"ref: 187F08C; addr: 479A37",
+		3000
+	],
+	"FIntHttpCacheSendStatsEveryXSeconds": [
+		"ref: 187F0CC; addr: 479A57",
+		60
+	],
+	"FIntHttpCurlDeepErrorReportingCount": [
+		"ref: 187F124; addr: 479A97",
+		0
+	],
+	"FIntHttpMaxRedirects": [
+		"ref: 187F05C; addr: 479B47",
+		10
+	],
+	"FIntBroadPhaseIslandBufferZoneMinPartLimit": [
+		"ref: 1881494; addr: 47BE57",
+		20
+	],
+	"FIntBroadPhaseIslandMaxPartLinearFactorTenth": [
+		"ref: 18814BC; addr: 47BE77",
+		10
+	],
+	"FIntTattletaleReportToRCCCooldownSeconds": [
+		"ref: 188213C; addr: 47C0E7",
+		30
+	],
+	"FIntInfluxOverUDPThreshold": [
+		"ref: 18822F4; addr: 47C2D7",
+		1400
+	],
+	"FIntTelegrafTCPPort": [
+		"ref: 188231C; addr: 47C367",
+		8094
+	],
+	"FIntTelegrafUDPPort": [
+		"ref: 188230C; addr: 47C387",
+		8092
+	],
+	"FIntPhysicsDecompSerialVersion": [
+		"ref: 18830F0; addr: 47C417",
+		3
+	],
+	"FIntRunningBaseAltitudeD": [
+		"ref: 1883378; addr: 47C4C7",
+		100
+	],
+	"FIntRunningBaseAltitudeP": [
+		"ref: 1883360; addr: 47C4E7",
+		3000
+	],
+	"FIntRunningBaseGravityReductionFactorHundredth": [
+		"ref: 18833AC; addr: 47C527",
+		100
+	],
+	"FIntRunningBaseMaxAcceleration": [
+		"ref: 1883344; addr: 47C547",
+		5000
+	],
+	"FIntRunningBaseOrientationP": [
+		"ref: 188332C; addr: 47C567",
+		100
+	],
+	"FIntHttpClientHandlerFixed": [
+		"ref: 1883D9C; addr: 47C787",
+		1
+	],
+	"FIntHttpCurlMaxCachedHandlesPerHost": [
+		"ref: 1883D7C; addr: 47C7A7",
+		16
+	],
+	"FIntNavigationServiceAnalyticsIntervalMillisec": [
+		"ref: 18854D4; addr: 47C8C7",
+		60000
+	],
+	"FIntNavigationServicePercentStatsReported": [
+		"ref: 1885500; addr: 47C8E7",
+		20
+	],
+	"FIntNavigationAgentHeight": [
+		"ref: 18856F8; addr: 47C947",
+		5
+	],
+	"FIntNavigationAgentJumpDistance": [
+		"ref: 1885730; addr: 47C967",
+		7
+	],
+	"FIntNavigationAgentJumpHeight": [
+		"ref: 188574C; addr: 47C987",
+		6
+	],
+	"FIntNavigationAgentMaxDrop": [
+		"ref: 1885768; addr: 47C9A7",
+		100
+	],
+	"FIntNavigationAgentRadius": [
+		"ref: 18856E0; addr: 47C9C7",
+		2
+	],
+	"FIntNavigationAgentWalkableClimb": [
+		"ref: 1885710; addr: 47C9E7",
+		1
+	],
+	"FIntNavigationJobMaxTimeBudgetMS": [
+		"ref: 188568C; addr: 47CAA7",
+		100
+	],
+	"FIntNavigationJobRunsPerSecond": [
+		"ref: 1885670; addr: 47CAC7",
+		10
+	],
+	"FIntNavigationSearchTileOffset": [
+		"ref: 18856AC; addr: 47CB27",
+		2
+	],
+	"FIntUIQuadTreeCellAreaMin": [
+		"ref: 1885B54; addr: 47CBE7",
+		20000
+	],
+	"FIntSmoothTerrainPhysicsCacheSize": [
+		"ref: 1885C64; addr: 47CC27",
+		16777216
+	],
+	"FIntContentProviderJobDutyCycleMicroseconds": [
+		"ref: 1886374; addr: 47CCA7",
+		1000
+	],
+	"FIntMaxContentProviderRunsAccumulated": [
+		"ref: 1886350; addr: 47CCC7",
+		20
+	],
+	"FIntMaxContentProviderRunsPerStep": [
+		"ref: 1886330; addr: 47CCE7",
+		10
+	],
+	"FIntIkDraggerSolveIterations": [
+		"ref: 1887148; addr: 47CE97",
+		16
+	],
+	"FIntLinearToVSquaredVelocityThresholdMaxTenths": [
+		"ref: 1887AF0; addr: 47CF17",
+		100
+	],
+	"FIntLinearToVSquaredVelocityThresholdMinTenths": [
+		"ref: 1887AC4; addr: 47CF37",
+		20
+	],
+	"FIntMaxViscousForceGravityTimesMult": [
+		"ref: 1887B3C; addr: 47CF57",
+		100
+	],
+	"FIntNumberFramesSubmergedBeforeVSquareBlendFrames": [
+		"ref: 1887A94; addr: 47CF77",
+		10
+	],
+	"FIntNumberFramesSubmergedBeforeVSquaredViscocity": [
+		"ref: 1887A64; addr: 47CF97",
+		32
+	],
+	"FIntWaterViscosityDragFudgeFactor": [
+		"ref: 1887B1C; addr: 47CFD7",
+		10
+	],
+	"FIntDataRequestInQueueTime": [
+		"ref: 18C33FC; addr: 47D037",
+		10
+	],
+	"FIntWaitGetInQueueTime": [
+		"ref: 18C3414; addr: 47D057",
+		200
+	],
+	"FIntLandedBalanceD": [
+		"ref: 18C36A8; addr: 47D077",
+		50
+	],
+	"FIntLandedBalanceP": [
+		"ref: 18C3698; addr: 47D097",
+		7500
+	],
+	"FIntGettingUpBalanceD": [
+		"ref: 18C3810; addr: 47D0B7",
+		50
+	],
+	"FIntGettingUpBalanceP": [
+		"ref: 18C37FC; addr: 47D0D7",
+		2250
+	],
+	"FIntFreeFallBalanceP": [
+		"ref: 18C3B44; addr: 47D137",
+		5000
+	],
+	"FIntFreeFallOrientationP": [
+		"ref: 18C3B2C; addr: 47D157",
+		100
+	],
+	"FIntMaximumFreefallMoveTimeInTenths": [
+		"ref: 18C3A78; addr: 47D177",
+		1
+	],
+	"FIntMaximumUnstickForceInGs": [
+		"ref: 18C3AD0; addr: 47D197",
+		4
+	],
+	"FIntMinimumFreefallMoveDistanceInTenths": [
+		"ref: 18C3A54; addr: 47D1B7",
+		5
+	],
+	"FIntUnstickForceAttackInTenths": [
+		"ref: 18C3AB4; addr: 47D1D7",
+		1
+	],
+	"FIntUnstickForceDecayInTenths": [
+		"ref: 18C3A98; addr: 47D1F7",
+		9
+	],
+	"FIntUnstickForceEpsilonInHundredths": [
+		"ref: 18C3AE8; addr: 47D217",
+		1
+	],
+	"FIntPGSJumpForceAdjustment": [
+		"ref: 18C3BBC; addr: 47D257",
+		520
+	],
+	"FIntHttpCacheRedirectsTimeoutMs": [
+		"ref: 18C3EF8; addr: 47D2B7",
+		30000
+	],
+	"FIntBgUpdateRedirectsHttpErrInfluxHundredthsPercentage": [
+		"ref: 18C4068; addr: 47D377",
+		0
+	],
+	"FIntBgUpdateRedirectsRejectInfluxHundredthsPercentage": [
+		"ref: 18C4034; addr: 47D3B7",
+		0
+	],
+	"FIntHttpBatchAssetV1HundredthsPercentage": [
+		"ref: 18C4110; addr: 47D3D7",
+		0
+	],
+	"FIntHttpBatchDelayMs": [
+		"ref: 18C40EC; addr: 47D3F7",
+		3000
+	],
+	"FIntHttpBatchLimit": [
+		"ref: 18C40DC; addr: 47D417",
+		128
+	],
+	"FIntPGSAlign2AxesCorrectionDamping": [
+		"ref: 18CCAC8; addr: 47D457",
+		10
+	],
+	"FIntPGSAlign2AxesPStageFrictionConstant": [
+		"ref: 18CCD98; addr: 47D477",
+		1
+	],
+	"FIntPGSAlign2AxesVStageFrictionConstant": [
+		"ref: 18CCD74; addr: 47D497",
+		2
+	],
+	"FIntPGSAngularDampingPermilPersecond": [
+		"ref: 18CCB0C; addr: 47D4B7",
+		402
+	],
+	"FIntPGSBallInSocketCorrectionDamping": [
+		"ref: 18CCAE8; addr: 47D4D7",
+		10
+	],
+	"FIntPGSFrictionUpdatePeriod": [
+		"ref: 18CCB54; addr: 47D4F7",
+		4
+	],
+	"FIntPGSGyroscopicEffectPrecisionPercent": [
+		"ref: 18CCB30; addr: 47D517",
+		5
+	],
+	"FIntPGSInsideOfSpherePenetrationResolutionDamping": [
+		"ref: 18CCB6C; addr: 47D537",
+		7
+	],
+	"FIntPGSPStageStiffnessAggressiveValue": [
+		"ref: 18CCCD8; addr: 47D557",
+		99500
+	],
+	"FIntPGSPStageStiffnessBestFitnessThreshold": [
+		"ref: 18CCCB0; addr: 47D577",
+		1
+	],
+	"FIntPGSPStageStiffnessConservativeValue": [
+		"ref: 18CCCFC; addr: 47D597",
+		90000
+	],
+	"FIntPGSPStageStiffnessEasingDownToConservative": [
+		"ref: 18CCD48; addr: 47D5B7",
+		10
+	],
+	"FIntPGSPStageStiffnessEasingUpToAggressive": [
+		"ref: 18CCD20; addr: 47D5D7",
+		1
+	],
+	"FIntPGSPStageStiffnessWorseFitnessThreshold": [
+		"ref: 18CCC88; addr: 47D5F7",
+		2
+	],
+	"FIntPGSPenetrationMarginMaxBump": [
+		"ref: 18CCA68; addr: 47D617",
+		5
+	],
+	"FIntPGSPenetrationMarginMax": [
+		"ref: 18CCA38; addr: 47D637",
+		50000
+	],
+	"FIntPGSPenetrationMarginMin": [
+		"ref: 18CCA50; addr: 47D657",
+		100
+	],
+	"FIntPGSPenetrationResolutionDamping": [
+		"ref: 18CCA84; addr: 47D677",
+		7
+	],
+	"FIntPGSPenetrationVelocityForMinMargin": [
+		"ref: 18CCAA4; addr: 47D697",
+		20
+	],
+	"FIntPGSVStageStiffnessAggressiveValue": [
+		"ref: 18CCBEC; addr: 47D6B7",
+		99995
+	],
+	"FIntPGSVStageStiffnessBestFitnessThreshold": [
+		"ref: 18CCBC4; addr: 47D6D7",
+		1
+	],
+	"FIntPGSVStageStiffnessConservativeValue": [
+		"ref: 18CCC10; addr: 47D6F7",
+		99000
+	],
+	"FIntPGSVStageStiffnessEasingDownToConservative": [
+		"ref: 18CCC5C; addr: 47D717",
+		100
+	],
+	"FIntPGSVStageStiffnessEasingUpToAggressive": [
+		"ref: 18CCC34; addr: 47D737",
+		10
+	],
+	"FIntPGSVStageStiffnessWorseFitnessThreshold": [
+		"ref: 18CCB9C; addr: 47D757",
+		2
+	],
+	"FIntSmoothTerrainPhysicsRayAabbSlop": [
+		"ref: 18CCEE0; addr: 47D777",
+		1
+	],
+	"FIntDefaultBalanceD": [
+		"ref: 18CCF3C; addr: 47D797",
+		50
+	],
+	"FIntDefaultBalanceP": [
+		"ref: 18CCF2C; addr: 47D7B7",
+		2250
+	],
+	"FIntDebugNavigationMaxMemoryUsageInBytes": [
+		"ref: 18CD444; addr: 47D9F7",
+		52428800
+	],
+	"FIntNavigationPolygonMergePasses": [
+		"ref: 18CDADC; addr: 47DA97",
+		2
+	],
+	"FIntCSGVoxelizerFadeRadius": [
+		"ref: 18F3BF0; addr: 47DAD7",
+		300
+	],
+	"FIntMaxSpeedDeltaMillis": [
+		"ref: 1911A98; addr: 47E017",
+		300
+	],
+	"FIntSpeedCountCap": [
+		"ref: 1911AAC; addr: 47E037",
+		5
+	],
+	"FIntSpeedTestPeriodMillis": [
+		"ref: 1911A80; addr: 47E057",
+		1000
+	],
+	"FIntTaskSchedulerTasksDefaultMaxCountPerCycle": [
+		"ref: 1915654; addr: 47E467",
+		16
+	],
+	"FIntTaskSchedulerTasksDefaultMaxTimeMsPerCycle": [
+		"ref: 1915680; addr: 47E487",
+		10
+	],
+	"FIntRakNetDatagramMessageIdArrayLength": [
+		"ref: 19179F8; addr: 47EBF7",
+		512
+	],
+	"FIntRakNetNakResendDelayMs": [
+		"ref: 19179A4; addr: 47EC57",
+		0
+	],
+	"FIntRakNetNakResendDelayMsMax": [
+		"ref: 19179DC; addr: 47EC77",
+		0
+	],
+	"FIntRakNetNakResendDelayRttPercent": [
+		"ref: 19179BC; addr: 47EC97",
+		0
+	],
+	"FIntRakNetResendBufferArrayLength": [
+		"ref: 1917A1C; addr: 47ECB7",
+		512
+	],
+	"FIntServerConfigScriptTimeoutSeconds": [
+		"ref: 1917EFC; addr: 47F1A7",
+		10
+	],
+	"FIntDisconnectInfluxHundredthsPercentage": [
+		"ref: 191833C; addr: 47F557",
+		0
+	],
+	"FIntJoinInfluxHundredthsPercentage": [
+		"ref: 19182EC; addr: 47F647",
+		0
+	],
+	"FIntJoinTimeCounters_JoinInfluxHundredthsPercentage": [
+		"ref: 191830C; addr: 47F687",
+		0
+	],
+	"FIntOnDisconnectHTTPTimeout": [
+		"ref: 1918468; addr: 47F837",
+		2000
+	],
+	"FIntSendJoinTimeDeltasToDiag_HundredthsPercentage": [
+		"ref: 1918638; addr: 47F9C7",
+		0
+	],
+	"FIntSendJoinTimeStatsToDiag_HundredthsPercentage": [
+		"ref: 1918508; addr: 47FA57",
+		0
+	],
+	"FIntSendJoinTimesToDiag_HundredthsPercentage": [
+		"ref: 19184DC; addr: 47FA97",
+		0
+	],
+	"FIntClientNetworkInfluxHundredthsPercentage": [
+		"ref: 1919E1C; addr: 480967",
+		0
+	],
+	"FIntDebugClientNetworkUnthrottledGAForDatacenterId": [
+		"ref: 1919DC8; addr: 4809A7",
+		0
+	],
+	"FIntTeamCreateTimeOutInSec": [
+		"ref: 1919E44; addr: 4809E7",
+		60
+	],
+	"FIntConnectionMTUSize": [
+		"ref: 191A720; addr: 480BD7",
+		0
+	],
+	"FIntDebugInternetSimulatorLatencyMS": [
+		"ref: 191A754; addr: 480C17",
+		0
+	],
+	"FIntDebugInternetSimulatorLatencyVariance": [
+		"ref: 191A774; addr: 480C37",
+		0
+	],
+	"FIntDebugInternetSimulatorPacketlossHundredth": [
+		"ref: 191A79C; addr: 480C57",
+		0
+	],
+	"FIntRakNetLoopMs": [
+		"ref: 191A7EC; addr: 480CD7",
+		10
+	],
+	"FIntStepsToJoin": [
+		"ref: 191A828; addr: 480D57",
+		5
+	],
+	"FIntGAThrottlingEventThresholdHundredthCat1": [
+		"ref: 191B0AC; addr: 480DC7",
+		90
+	],
+	"FIntGAThrottlingEventThresholdHundredthCat2": [
+		"ref: 191B084; addr: 480DE7",
+		75
+	],
+	"FIntGAThrottlingEventThresholdHundredthCat3": [
+		"ref: 191B05C; addr: 480E07",
+		50
+	],
+	"FIntGamePerfMonitorPercentage": [
+		"ref: 191AF54; addr: 480E97",
+		2
+	],
+	"FIntGamePerfMonitorReportTimer": [
+		"ref: 191AF70; addr: 480EB7",
+		10
+	],
+	"FIntMemoryPlaceIDReportThreshold": [
+		"ref: 191AFC8; addr: 480ED7",
+		600
+	],
+	"FIntPrimStatsGANumDelimited": [
+		"ref: 191AF8C; addr: 480EF7",
+		1000
+	],
+	"FIntClientInstanceQuotaCap": [
+		"ref: 191B5EC; addr: 4810B7",
+		10000
+	],
+	"FIntClientInstanceQuotaInitial": [
+		"ref: 191B604; addr: 4810D7",
+		2000
+	],
+	"FIntTimePermyriad": [
+		"ref: 191B650; addr: 481117",
+		100
+	],
+	"FIntAdditionalReportingPermyriad": [
+		"ref: 191C06C; addr: 4812F7",
+		100
+	],
+	"FIntInfluxReportFeOnStartupErrorPermyriad": [
+		"ref: 191C0C0; addr: 481337",
+		0
+	],
+	"FIntMaxClients": [
+		"ref: 191C0E8; addr: 481357",
+		128
+	],
+	"FIntReportFeOnStartupPermyriad": [
+		"ref: 191C08C; addr: 4813F7",
+		0
+	],
+	"FIntClusterCompressionLevel": [
+		"ref: 191CBA8; addr: 481827",
+		1
+	],
+	"FIntClusterEstimatedCompressionRatioHundredths": [
+		"ref: 191CBC0; addr: 481847",
+		200
+	],
+	"FIntDepthLimit": [
+		"ref: 191CC80; addr: 4818C7",
+		4000
+	],
+	"FIntEventReportLagThrottleHundredThousandths": [
+		"ref: 191CE48; addr: 481907",
+		0
+	],
+	"FIntGlobalFill": [
+		"ref: 191CC44; addr: 481947",
+		0
+	],
+	"FIntGlobalLeak": [
+		"ref: 191CC14; addr: 481967",
+		100000000
+	],
+	"FIntMaxClusterKBPerSecond": [
+		"ref: 191CE30; addr: 4819A7",
+		40
+	],
+	"FIntMaxClusterSendStepsAccumulated": [
+		"ref: 191C900; addr: 4819C7",
+		15
+	],
+	"FIntMaxClusterSendStepsPerCyclic": [
+		"ref: 191C8C8; addr: 4819E7",
+		5
+	],
+	"FIntMaxDataOutJobScaling": [
+		"ref: 191C920; addr: 481A07",
+		10
+	],
+	"FIntMaxDataPacketPerSend": [
+		"ref: 191CE74; addr: 481A27",
+		1
+	],
+	"FIntMaxDataStepsAccumulated": [
+		"ref: 191C898; addr: 481A47",
+		15
+	],
+	"FIntMaxDataStepsPerCyclic": [
+		"ref: 191C854; addr: 481A67",
+		5
+	],
+	"FIntMaxProcessPacketsJobScaling": [
+		"ref: 191CD08; addr: 481A87",
+		10
+	],
+	"FIntMaxProcessPacketsStepsAccumulated": [
+		"ref: 191CCD4; addr: 481AA7",
+		15
+	],
+	"FIntMaxProcessPacketsStepsPerCyclic": [
+		"ref: 191CCB4; addr: 481AC7",
+		5
+	],
+	"FIntMaxWaitTimeBeforeForcePacketProcessMS": [
+		"ref: 191CC8C; addr: 481AE7",
+		0
+	],
+	"FIntPacketErrorInfluxHundredthsPercentage": [
+		"ref: 191CE8C; addr: 481BF7",
+		10000
+	],
+	"FIntPpjCapacity": [
+		"ref: 191CD54; addr: 481C37",
+		100
+	],
+	"FIntPpjEtrFill": [
+		"ref: 191CD24; addr: 481C77",
+		10
+	],
+	"FIntPpjEtrThreshold": [
+		"ref: 191CD80; addr: 481C97",
+		6
+	],
+	"FIntPpjLeak": [
+		"ref: 191CD4C; addr: 481CB7",
+		10
+	],
+	"FIntPpjPmFill": [
+		"ref: 191CD40; addr: 481CD7",
+		10
+	],
+	"FIntPpjPmThreshold": [
+		"ref: 191CD90; addr: 481CF7",
+		0
+	],
+	"FIntQKick": [
+		"ref: 191CC64; addr: 481D57",
+		3072
+	],
+	"FIntQLimit": [
+		"ref: 191CC5C; addr: 481D77",
+		3072
+	],
+	"FIntRatePermyriad": [
+		"ref: 191CBEC; addr: 481DB7",
+		0
+	],
+	"FIntReplicatorMaxPacketBytesSentToInfluxOnError": [
+		"ref: 191C86C; addr: 481DD7",
+		1024
+	],
+	"FIntReportFill": [
+		"ref: 191CC50; addr: 481E17",
+		0
+	],
+	"FIntReportLeak": [
+		"ref: 191CC20; addr: 481E37",
+		100000000
+	],
+	"FIntRxRlEn2": [
+		"ref: 191CC6C; addr: 481E77",
+		0
+	],
+	"FIntRxRlReport": [
+		"ref: 191CC74; addr: 481E97",
+		15
+	],
+	"FIntSendRakNetStatsInterval": [
+		"ref: 191C8B0; addr: 481ED7",
+		300
+	],
+	"FIntSendRakNetStatsThrottle": [
+		"ref: 191C8E8; addr: 481EF7",
+		1
+	],
+	"FIntSoundFill": [
+		"ref: 191CC2C; addr: 481F37",
+		0
+	],
+	"FIntSoundLeak": [
+		"ref: 191CBFC; addr: 481F57",
+		100000000
+	],
+	"FIntSpecialFill": [
+		"ref: 191CC38; addr: 481F77",
+		0
+	],
+	"FIntSpecialLeak": [
+		"ref: 191CC08; addr: 481F97",
+		100000000
+	],
+	"FIntMaxDataPayloadSize": [
+		"ref: 191EE8C; addr: 482217",
+		32000000
+	],
+	"FIntMaxLearnDescriptors": [
+		"ref: 191EE78; addr: 482237",
+		8192
+	],
+	"FIntPhysicsCompressionSizeFilter": [
+		"ref: 191EE58; addr: 482257",
+		50
+	],
+	"FIntAntiSpamSpamLimit": [
+		"ref: 191F1E8; addr: 4822F7",
+		1000
+	],
+	"FIntDisconnectReportPermyriad": [
+		"ref: 191F0DC; addr: 482357",
+		0
+	],
+	"FIntGuiPermyriad2": [
+		"ref: 191F1D8; addr: 4823D7",
+		0
+	],
+	"FIntRtl7InfluxHundredthsPercentage": [
+		"ref: 191F1FC; addr: 482497",
+		100
+	],
+	"FIntServerPlayerFilterConfig": [
+		"ref: 191F114; addr: 4824D7",
+		0
+	],
+	"FIntServerPlayerFilterPermyriad": [
+		"ref: 191F0F8; addr: 4824F7",
+		0
+	],
+	"FIntUS20162": [
+		"ref: 191F21C; addr: 482527",
+		0
+	],
+	"FIntUS20162Permyriad": [
+		"ref: 191F224; addr: 482547",
+		0
+	],
+	"FIntDebugSendDistInSteps": [
+		"ref: 191FCE4; addr: 4825B7",
+		5
+	],
+	"FIntDebugSendMomentInSteps": [
+		"ref: 191FAAC; addr: 4825D7",
+		6
+	],
+	"FIntMaxFramesToSend": [
+		"ref: 191FCB0; addr: 482677",
+		255
+	],
+	"FIntNumPhysicsTouchPacketsPerStep": [
+		"ref: 191FB0C; addr: 4826B7",
+		1
+	],
+	"FIntPercentSentAlways": [
+		"ref: 191FB84; addr: 4826D7",
+		50
+	],
+	"FIntPhysicsPacketsPerStepAdjustPeriodTenths": [
+		"ref: 191FB5C; addr: 482717",
+		30
+	],
+	"FIntS2NumPhysicsPacketsPerStep": [
+		"ref: 191FB2C; addr: 482737",
+		20
+	],
+	"FIntS2PhysicsSenderRate": [
+		"ref: 191FB48; addr: 482757",
+		15
+	],
+	"FIntRakNetConnectionStartWindow_HundredthsPercentage": [
+		"ref: 192008C; addr: 482A47",
+		0
+	],
+	"FIntRakNetResendMaxThresholdTimeInUs": [
+		"ref: 1920068; addr: 482A67",
+		2000000
+	],
+	"FIntRakNetResendScaleBackFactorHundredthsPercent": [
+		"ref: 19200C0; addr: 482A87",
+		0
+	],
+	"FIntRakNetUseSlidingWindow2_maxSpeed": [
+		"ref: 19202E4; addr: 482AB7",
+		0
+	],
+	"FIntRakNetUseSlidingWindow2_minRtt": [
+		"ref: 19202A0; addr: 482AD7",
+		30000
+	],
+	"FIntRakNetUseSlidingWindow2_minSpeed": [
+		"ref: 19202C0; addr: 482AF7",
+		1536
+	],
+	"FIntRakNetUseSlidingWindow2_rangeCount": [
+		"ref: 1920208; addr: 482B17",
+		10
+	],
+	"FIntRakNetUseSlidingWindow2_startFactor": [
+		"ref: 1920254; addr: 482B37",
+		200
+	],
+	"FIntRakNetUseSlidingWindow2_startInitSpeed": [
+		"ref: 192022C; addr: 482B57",
+		200000
+	],
+	"FIntRakNetUseSlidingWindow2_startUpdateMs": [
+		"ref: 1920278; addr: 482B77",
+		10
+	],
+	"FIntRakNetUseSlidingWindow2_trackLengthMs": [
+		"ref: 19201E0; addr: 482B97",
+		2500
+	],
+	"FIntWeldPermyriad": [
+		"ref: 192054C; addr: 482D67",
+		0
+	],
+	"FIntNetworkSchemaCompressionRatio": [
+		"ref: 192098C; addr: 482FD7",
+		9
+	],
+	"FIntMaxConsecutiveStreamJobWorkLoad": [
+		"ref: 1920AF4; addr: 483077",
+		1
+	],
+	"FIntMaxServerStreamRegionRadius": [
+		"ref: 1920AB4; addr: 483097",
+		16
+	],
+	"FIntMaxStreamPacketsPerStep": [
+		"ref: 1920A9C; addr: 4830B7",
+		16
+	],
+	"FIntStreamJobMaxBufferHealthThresholdHundredths": [
+		"ref: 1920B58; addr: 4830F7",
+		90
+	],
+	"FIntStreamJobMinBufferHealthThresholdHundredths": [
+		"ref: 1920B2C; addr: 483117",
+		50
+	],
+	"FIntStreamJobPriorityAmplifierRadius": [
+		"ref: 1920AD0; addr: 483137",
+		0
+	],
+	"FIntDebugRestrictGCDistance": [
+		"ref: 19213F4; addr: 483297",
+		0
+	],
+	"FIntJoinDataCompressionLevel": [
+		"ref: 1921470; addr: 4832B7",
+		1
+	],
+	"FIntNetworkStreamingGCMaxMicroSecondLimit": [
+		"ref: 192148C; addr: 4832F7",
+		4000
+	],
+	"FIntPartStreamingGCMinRegionLength": [
+		"ref: 1921424; addr: 483317",
+		2
+	],
+	"FIntStreamOutCompressionIdListLengthThreshold": [
+		"ref: 1921444; addr: 483337",
+		250
+	],
+	"FIntStreamedRegionGCFactor": [
+		"ref: 19213DC; addr: 483357",
+		250
+	],
+	"FIntFRMRecomputeDistanceFrameDelay": [
+		"ref: 1929614; addr: 483D87",
+		100
+	],
+	"FIntOutlineBrightnessMax": [
+		"ref: 1929D90; addr: 483F17",
+		160
+	],
+	"FIntOutlineBrightnessMin": [
+		"ref: 1929D78; addr: 483F37",
+		50
+	],
+	"FIntOutlineThickness": [
+		"ref: 1929DA8; addr: 483F57",
+		40
+	],
+	"FIntRenderShadowIntensity": [
+		"ref: 1929DBC; addr: 483F97",
+		75
+	],
+	"FIntRobloxGuiBlurIntensity": [
+		"ref: 1929DD4; addr: 483FB7",
+		24
+	],
+	"FIntDebugForceMSAASamples": [
+		"ref: 192C130; addr: 4841C7",
+		0
+	],
+	"FIntFastClusterUpdateWaitingBudgetMs": [
+		"ref: 192C710; addr: 4843F7",
+		4
+	],
+	"FIntJointTime_TextureCooldown": [
+		"ref: 192CE78; addr: 4844D7",
+		2
+	],
+	"FIntPreloadTextureTimeBuget": [
+		"ref: 192D370; addr: 4845A7",
+		1000
+	],
+	"FIntRenderTextureManagerBudgetFor4k": [
+		"ref: 192D320; addr: 4845E7",
+		0
+	],
+	"FIntRenderTextureManagerBudget": [
+		"ref: 192D388; addr: 484607",
+		0
+	],
+	"FIntTexAtlasUpdateLineHeight": [
+		"ref: 192E6EC; addr: 484997",
+		150
+	],
+	"FIntSSAOMipLevels": [
+		"ref: 192FC10; addr: 484CF7",
+		4
+	],
+	"FIntRenderMaxParticleSize": [
+		"ref: 192FD8C; addr: 484DB7",
+		200
+	],
+	"FIntSuperClusterFastClusterSize": [
+		"ref: 19309C0; addr: 484FF7",
+		1000
+	],
+	"FIntGraphicsVulkanAdrenoArghVersion": [
+		"ref: 1971FE8; addr: 487B67",
+		24
+	],
+	"FIntGraphicsOculusDetectTimeout": [
+		"ref: 1972C94; addr: 487D37",
+		0
+	],
+	"FStringStudioGameSettingsExperimentalModeToolTip": [
+		"ref: 14625B4; addr: 407627",
+		"When turned on, the game server is not authoritative of changes, meaning that LocalScripts on clients can take any arbitrary actions they like. It is highly recommended to turn off Experimental Mode before opening a game to the public."
+	],
+	"FStringDebugStudioPlayerConnectToServerIPAddress": [
+		"ref: 1465978; addr: 407F17",
+		""
+	],
+	"FStringStudioTeamCreateHelpUrl": [
+		"ref: 1466CD8; addr: 408417",
+		"https://wiki.roblox.com/index.php?title=Team_Create"
+	],
+	"FStringStudioDebugBTID": [
+		"ref: 148D5E4; addr: 40A687",
+		"StudioDebugBTID"
+	],
+	"FStringStudioShareFromRibbonBarABTest": [
+		"ref: 148D618; addr: 40A717",
+		"AllUsers.Studio.ShareFromRibbonBar"
+	],
+	"FStringStudioCookieConstraintUrlFragment": [
+		"ref: 17E3698; addr: 40E527",
+		"fulfillconstraint"
+	],
+	"FStringStudioDefaultNewTemplatePlaceId": [
+		"ref: 17E36C8; addr: 40E597",
+		"95206881"
+	],
+	"FStringStudioTutorialsSeeAllUrl": [
+		"ref: 17FF12C; addr: 40F637",
+		"https://wiki.roblox.com/index.php?title=AllTutorials"
+	],
+	"FStringStudioTutorialsTOCUrl": [
+		"ref: 17FF0A4; addr: 40F6A7",
+		"https://wiki.roblox.com/index.php?title=Studio_Tutorials_Landing&studiomode=true"
+	],
+	"FStringStudioTutorialsUrl": [
+		"ref: 17FF198; addr: 40F717",
+		"https://wiki.roblox.com/index.php?title=Studio_Tutorials_Test&studiomode=true"
+	],
+	"FStringStudioUserNotificationPath": [
+		"ref: 1809018; addr: 411D47",
+		"/notifications"
+	],
+	"FStringStudioUserNotificationTopSubdomain": [
+		"ref: 1809040; addr: 411DD7",
+		"realtime"
+	],
+	"FStringWorkspaceMessageLink": [
+		"ref: 180CAC8; addr: 4123A7",
+		"http://www.roblox.com"
+	],
+	"FStringWorkspaceMessageText": [
+		"ref: 180CA98; addr: 412417",
+		"Test Me - Please Remove"
+	],
+	"FStringPerformanceSendMeasurementAPISubdomain": [
+		"ref: 181150C; addr: 412F27",
+		"www"
+	],
+	"FStringAvatarJointPositionsArtistIntent": [
+		"ref: 1813F84; addr: 415697",
+		"ArtistIntent"
+	],
+	"FStringAvatarJointPositionsFixed": [
+		"ref: 1813FB0; addr: 415747",
+		"Fixed"
+	],
+	"FStringAvatarJointPositionsTypeField": [
+		"ref: 1813FE4; addr: 4157B7",
+		"jointPositioningType"
+	],
+	"FStringCollideInnerBox": [
+		"ref: 1814030; addr: 415847",
+		"InnerBox"
+	],
+	"FStringCollideOuterBox": [
+		"ref: 1814058; addr: 4158B7",
+		"OuterBox"
+	],
+	"FStringCustomAnimationField": [
+		"ref: 1814080; addr: 415927",
+		"allowCustomAnimations"
+	],
+	"FStringCustomAnimationTypeAllow": [
+		"ref: 18140B0; addr: 415997",
+		"True"
+	],
+	"FStringDefaultCustomAnimationType": [
+		"ref: 18140CC; addr: 415B77",
+		"True"
+	],
+	"FStringR15CollisionTypeField": [
+		"ref: 1814134; addr: 415D27",
+		"r15CollisionType"
+	],
+	"FStringServerConfigCloudEditServerSaveUrl": [
+		"ref: 18144D8; addr: 415E37",
+		"/ide/publish/UploadFromCloudEdit"
+	],
+	"FStringXboxSaleAvatarPackageIds": [
+		"ref: 1819A3C; addr: 41A237",
+		""
+	],
+	"FStringLuaAppsDiagErrorCounter": [
+		"ref: 181EF5C; addr: 41DB87",
+		"LuaAppsErrorCount"
+	],
+	"FStringLuaAppsDiagPageLoadTimeGames": [
+		"ref: 181EF90; addr: 41DBF7",
+		"LuaAppsPageLoadTimeGames"
+	],
+	"FStringLuaAppsDiagPageLoadTimeHome": [
+		"ref: 181EFC8; addr: 41DC67",
+		"LuaAppsPageLoadTimeHome"
+	],
+	"FStringLuaErrorsInfluxSeries": [
+		"ref: 181EFF4; addr: 41DCD7",
+		"LuaShellErrors"
+	],
+	"FStringAnthroStandardPartIds": [
+		"ref: 183365C; addr: 4397C7",
+		"532219986;532219997"
+	],
+	"FStringGetUserIdUrl": [
+		"ref: 1833374; addr: 4398F7",
+		"users/get-by-username?username=%s"
+	],
+	"FStringHttpInfluxDatabase": [
+		"ref: 1834684; addr: 43AD97",
+		"Default"
+	],
+	"FStringGetPlayerImageDefaultTimeout": [
+		"ref: 1834D70; addr: 43B137",
+		"12"
+	],
+	"FStringGetUserThumbnailAsyncRetryTime": [
+		"ref: 1834D3C; addr: 43B1A7",
+		"4"
+	],
+	"FStringCrashUploadToBacktraceBlackholeToken": [
+		"ref: 183685C; addr: 43D267",
+		"7705528468a303e4e34a13fbcf9e42e219633ed6868e143e5ab16cd33bd2a069"
+	],
+	"FStringCrashUploadToBacktraceLinuxRCCToken": [
+		"ref: 1836714; addr: 43D2D7",
+		"82fc562ca79e6df76a1add3c37aca015601a7326f48d4476fdc37bfe85e44673"
+	],
+	"FStringCrashUploadToBacktraceMacPlayerToken": [
+		"ref: 183677C; addr: 43D347",
+		"24cb37449e120c3a0618b1bf0585e339571828cae4dc73c7b8c99f67fcd751e9"
+	],
+	"FStringCrashUploadToBacktraceMacStudioToken": [
+		"ref: 18367EC; addr: 43D3B7",
+		"71f38d9e22eac3ed9fdb80607d798f829e051303baa63cb9766e6f2e9d0584d8"
+	],
+	"FStringCrashUploadToBacktraceToBacktraceBaseUrl": [
+		"ref: 1836598; addr: 43D447",
+		"https://roblox.sp.backtrace.io:8443/post?format=minidump"
+	],
+	"FStringCrashUploadToBacktraceWindowsPlayerToken": [
+		"ref: 183660C; addr: 43D4B7",
+		"417ecb0fbc032ce087e6af3b780c298e3356089f050c8130d2318109e80417a4"
+	],
+	"FStringCrashUploadToBacktraceWindowsRCCToken": [
+		"ref: 18366EC; addr: 43D527",
+		"82fc562ca79e6df76a1add3c37aca015601a7326f48d4476fdc37bfe85e44673"
+	],
+	"FStringCrashUploadToBacktraceWindowsStudioToken": [
+		"ref: 183667C; addr: 43D597",
+		"8608fce9cad86072eee36b7d1d9dc56d68101a6b1f783c7bf568d80972ee1837"
+	],
+	"FStringAdditionalBlacklistHeaders": [
+		"ref: 183BC40; addr: 447437",
+		""
+	],
+	"FStringLocalizationServiceOverrideLocale": [
+		"ref: 183D2E0; addr: 4485C7",
+		"es"
+	],
+	"FStringHttpRequestImplType": [
+		"ref: 183E078; addr: 4490D7",
+		""
+	],
+	"FStringHttpRbxApiBlacklistedEndpoints": [
+		"ref: 183F0C8; addr: 4494D7",
+		""
+	],
+	"FStringDiabolicalModeWhiteLists": [
+		"ref: 1850328; addr: 457167",
+		""
+	],
+	"FStringGoogleAnalyticsAccountPropertyIDLuaShell": [
+		"ref: 1850F90; addr: 4578F7",
+		"UA-43420590-18"
+	],
+	"FStringGoogleAnalyticsAccountPropertyLuaTest": [
+		"ref: 1850FCC; addr: 457967",
+		"UA-43420590-19"
+	],
+	"FStringRobloxAnalyticsSubDomain": [
+		"ref: 1850F48; addr: 4579F7",
+		"ecsv2"
+	],
+	"FStringRobloxAnalyticsURL": [
+		"ref: 1850F34; addr: 457A67",
+		"http://test.public.ecs.roblox.com/"
+	],
+	"FStringHttpResultsApprovedUserIDs": [
+		"ref: 1858C9C; addr: 45FF77",
+		""
+	],
+	"FStringFilterTextSubdomain": [
+		"ref: 1866B40; addr: 466077",
+		"textfilter"
+	],
+	"FStringModerationFilterTextUrlV2": [
+		"ref: 1866B08; addr: 466187",
+		"moderation/v2/filtertext"
+	],
+	"FStringFriendsOnlineUrl": [
+		"ref: 18680B8; addr: 466BA7",
+		"/my/friendsonline"
+	],
+	"FStringDataStoreThrottleMsg": [
+		"ref: 186A0E0; addr: 467E17",
+		"Request was throttled. Try sending fewer requests. Key = "
+	],
+	"FStringApolloServerUrl": [
+		"ref: 1873624; addr: 46EB27",
+		"http://127.0.0.1:8001"
+	],
+	"FStringCopyrightKey": [
+		"ref: 187F1A8; addr: 4799B7",
+		"RBX-Content-Protected"
+	],
+	"FStringHttpCurlProxyHostAndPort": [
+		"ref: 187F070; addr: 479B07",
+		""
+	],
+	"FStringTelegrafAddress": [
+		"ref: 18822D4; addr: 47C347",
+		"ec2-54-165-151-168.compute-1.amazonaws.com"
+	],
+	"FStringAssetPurchasePath": [
+		"ref: 1885020; addr: 47C817",
+		"marketplace/purchase"
+	],
+	"FStringDeveloperProductPurchasePath": [
+		"ref: 1885050; addr: 47C887",
+		"marketplace/submitpurchase"
+	],
+	"FStringBgUpdateRedirectsDisable": [
+		"ref: 18C40C0; addr: 47D337",
+		""
+	],
+	"FStringClientExternalBrowserUserAgent": [
+		"ref: 1917DD4; addr: 47EE97",
+		"Roblox/WinInet"
+	],
+	"FStringServerConfigAbuseReportUrl": [
+		"ref: 1917F44; addr: 47F117",
+		"/AbuseReport/InGameChatHandler.ashx"
+	],
+	"FStringServerConfigChatFilterUrl": [
+		"ref: 1917F78; addr: 47F187",
+		"/Game/ChatFilter.ashx"
+	],
+	"FStringAnalyticsSessionIdName": [
+		"ref: 19186A0; addr: 47F317",
+		"AnalyticsSessionId"
+	],
+	"FStringDebugSpoofGameLocaleId": [
+		"ref: 1918714; addr: 47F4C7",
+		"de-de"
+	],
+	"FStringDebugSpoofRobloxLocaleId": [
+		"ref: 19186D8; addr: 47F537",
+		"es-es"
+	],
+	"FStringGameLocaleIdName": [
+		"ref: 19185C8; addr: 47F5E7",
+		"GameLocale"
+	],
+	"FStringSendJoinTimeDeltasHundPrecCountryOverride": [
+		"ref: 191860C; addr: 47F9A7",
+		""
+	],
+	"FStringSendJoinTimeStatsHundPrecCountryOverride": [
+		"ref: 1918538; addr: 47FA37",
+		""
+	],
+	"FStringGamePerfMonitorPercentageCountryOverride": [
+		"ref: 191B0D4; addr: 480E77",
+		""
+	],
+	"FStringOverrideSendRakNetStatsThrottleCountries": [
+		"ref: 191C938; addr: 481BD7",
+		""
+	],
+	"FStringGraphicsVulkanBlacklist": [
+		"ref: 1968C8C; addr: 4876D7",
+		""
+	],
+	"FLogAuthenticationHelper": [
+		"ref: 1441EB0; addr: 403707",
+		0
+	],
+	"FLogAutoSave": [
+		"ref: 1444718; addr: 4051E7",
+		0
+	],
+	"FLogTrackPublishingHashOutput": [
+		"ref: 1447004; addr: 4055D7",
+		0
+	],
+	"FLogFileWatcherDebugLog": [
+		"ref: 1459944; addr: 4069F7",
+		0
+	],
+	"FLogStudioNetwork": [
+		"ref: 1464F04; addr: 407E87",
+		0
+	],
+	"FLogStudioABTests": [
+		"ref: 148D5D4; addr: 40A5F7",
+		0
+	],
+	"FLogStudioFlagEditor": [
+		"ref: 148D990; addr: 40A847",
+		0
+	],
+	"FLogLoginManager": [
+		"ref: 148F7A8; addr: 40AE67",
+		0
+	],
+	"FLogStudioRPC": [
+		"ref: 1492E88; addr: 40B307",
+		0
+	],
+	"FLogStudioRobloxChatWidget": [
+		"ref: 17CE3DC; addr: 40B8B7",
+		0
+	],
+	"FLogStudioDebugLog": [
+		"ref: 17D15B4; addr: 40BD3A",
+		776
+	],
+	"FLogStudioLastActions": [
+		"ref: 17D15C4; addr: 40BD5A",
+		3019898883
+	],
+	"FLogReflectionMetadata": [
+		"ref: 17D7B44; addr: 40CAA7",
+		1
+	],
+	"FLogBrowserActivity": [
+		"ref: 17D9678; addr: 40D6F7",
+		0
+	],
+	"FLogRobloxCookieJar": [
+		"ref: 17DA098; addr: 40D9F7",
+		0
+	],
+	"FLogRenderRequest": [
+		"ref: 17FF5D8; addr: 40F837",
+		0
+	],
+	"FLogStudioAnalytics": [
+		"ref: 18052BC; addr: 410647",
+		1
+	],
+	"FLogUserNotificationClient": [
+		"ref: 1808FF0; addr: 411DF7",
+		0
+	],
+	"FLogErrorDescription": [
+		"ref: 1810488; addr: 4126E7",
+		0
+	],
+	"FLogPlaceLauncher": [
+		"ref: 1810380; addr: 4127E7",
+		0
+	],
+	"FLogInstanceTreeManipulation": [
+		"ref: 1812284; addr: 4132E7",
+		0
+	],
+	"FLogCyclicExecutiveThrottling": [
+		"ref: 18144FC; addr: 4159B7",
+		0
+	],
+	"FLogCyclicExecutiveTiming": [
+		"ref: 1814570; addr: 4159D7",
+		0
+	],
+	"FLogLogStepTimeAndNetworkUsage": [
+		"ref: 1813730; addr: 415C37",
+		0
+	],
+	"FLogR15Character": [
+		"ref: 181414C; addr: 415CB7",
+		0
+	],
+	"FLogThreadRefCounts": [
+		"ref: 181C758; addr: 41CBD7",
+		1
+	],
+	"FLogHttpTrace": [
+		"ref: 181CA80; addr: 41D077",
+		0
+	],
+	"FLogAnalyticsDeferredEphemeralReportingDiagnostic": [
+		"ref: 181F108; addr: 41DA57",
+		0
+	],
+	"FLogGoogleAnalyticsTracking": [
+		"ref: 181F028; addr: 41DB17",
+		0
+	],
+	"FLogChangeHistoryService": [
+		"ref: 181F5F0; addr: 41E2A7",
+		0
+	],
+	"FLogPreloadLinkedScriptsTiming": [
+		"ref: 1822824; addr: 423567",
+		0
+	],
+	"FLogTrackScriptEditorLocking": [
+		"ref: 1822840; addr: 423587",
+		0
+	],
+	"FLogCharacterLoadTime": [
+		"ref: 1823F70; addr: 424237",
+		134217734
+	],
+	"FLogPlayerChatInfoExponentialBackoffLimitMultiplier": [
+		"ref: 1823F08; addr: 4243F7",
+		1545
+	],
+	"FLogText": [
+		"ref: 182F6BC; addr: 439187",
+		0
+	],
+	"FLogInfluxDbLog": [
+		"ref: 1834668; addr: 43ADB7",
+		0
+	],
+	"FLogSerializer": [
+		"ref: 183475C; addr: 43ADF7",
+		0
+	],
+	"FLogAdornRenderStats": [
+		"ref: 1835EDC; addr: 43C7F7",
+		0
+	],
+	"FLogAdornVB": [
+		"ref: 1835F18; addr: 43C817",
+		0
+	],
+	"FLogAdornableLifetime": [
+		"ref: 1835EC8; addr: 43C837",
+		0
+	],
+	"FLogCOMCalls": [
+		"ref: 1835DF8; addr: 43C857",
+		4160815361
+	],
+	"FLogClientSettings": [
+		"ref: 148DA7C; addr: 43C877",
+		1653342209
+	],
+	"FLogCloseDataModel": [
+		"ref: 18360F4; addr: 43C897",
+		1744896257
+	],
+	"FLogContentProviderRequests": [
+		"ref: 1836104; addr: 43C8B7",
+		0
+	],
+	"FLogCoreScripts": [
+		"ref: 1836178; addr: 43C8D7",
+		2204133377
+	],
+	"FLogCrashReporterInit": [
+		"ref: 1835E28; addr: 43C8F7",
+		2203973633
+	],
+	"FLogDataModelJobs": [
+		"ref: 1835FD8; addr: 43C917",
+		16843010
+	],
+	"FLogDeviceLost": [
+		"ref: 1835EBC; addr: 43C997",
+		0
+	],
+	"FLogDisableInvalidateOnUnbind": [
+		"ref: 1836080; addr: 43C9B7",
+		0
+	],
+	"FLogDistanceMetricP1": [
+		"ref: 1836244; addr: 43C9D7",
+		0
+	],
+	"FLogDragProfile": [
+		"ref: 1835E74; addr: 43C9F7",
+		0
+	],
+	"FLogExplorer": [
+		"ref: 17EB174; addr: 43CA17",
+		0
+	],
+	"FLogFRM": [
+		"ref: 1463E68; addr: 43CA37",
+		0
+	],
+	"FLogFullRenderObjects": [
+		"ref: 1835FE8; addr: 43CA57",
+		0
+	],
+	"FLogFullWindowMessages": [
+		"ref: 1835E04; addr: 43CA77",
+		0
+	],
+	"FLogGameExplorer": [
+		"ref: 1835E3C; addr: 43CA97",
+		0
+	],
+	"FLogGfxClustersFull": [
+		"ref: 1836034; addr: 43CAB7",
+		0
+	],
+	"FLogGfxClusters": [
+		"ref: 1836028; addr: 43CAD7",
+		335675650
+	],
+	"FLogGoldenHashes": [
+		"ref: 1835EAC; addr: 43CAF7",
+		872481281
+	],
+	"FLogGuiTargetLifetime": [
+		"ref: 1835E80; addr: 43CB17",
+		0
+	],
+	"FLogHardwareMouse": [
+		"ref: 181A634; addr: 43CB37",
+		16908546
+	],
+	"FLogHttp": [
+		"ref: 18362A0; addr: 43CB57",
+		0
+	],
+	"FLogHttpQueue": [
+		"ref: 18361BC; addr: 43CB77",
+		0
+	],
+	"FLogJoinSendExtraItemCount": [
+		"ref: 1836214; addr: 43CB97",
+		499147777
+	],
+	"FLogJointInstanceLifetime": [
+		"ref: 1835F74; addr: 43CBB7",
+		0
+	],
+	"FLogJointLifetime": [
+		"ref: 1835FA0; addr: 43CBD7",
+		0
+	],
+	"FLogLegacyLock": [
+		"ref: 1814FB4; addr: 43CBF7",
+		0
+	],
+	"FLogLuaMemoryPool": [
+		"ref: 1836184; addr: 43CC17",
+		0
+	],
+	"FLogLuaScriptTimeoutSeconds": [
+		"ref: 1836194; addr: 43CC37",
+		0
+	],
+	"FLogMachineIdUploader": [
+		"ref: 183628C; addr: 43CC57",
+		66305
+	],
+	"FLogMaxJoinDataSizeKB": [
+		"ref: 1836264; addr: 43CC77",
+		2115879012
+	],
+	"FLogMaxNetworkReadTimeInCS": [
+		"ref: 183622C; addr: 43CC97",
+		0
+	],
+	"FLogMegaClusterInit": [
+		"ref: 1836044; addr: 43CCB7",
+		1611923969
+	],
+	"FLogMegaClusterNetworkInit": [
+		"ref: 1836068; addr: 43CCD7",
+		16843009
+	],
+	"FLogMegaClusterNetwork": [
+		"ref: 1836054; addr: 43CCF7",
+		2204111874
+	],
+	"FLogMouseCommand": [
+		"ref: 183611C; addr: 43CD17",
+		0
+	],
+	"FLogMouseCommandLifetime": [
+		"ref: 1835E94; addr: 43CD37",
+		0
+	],
+	"FLogNativeStartPage": [
+		"ref: 1835E4C; addr: 43CD57",
+		0
+	],
+	"FLogNetworkCache": [
+		"ref: 18361C8; addr: 43CD77",
+		3227779329
+	],
+	"FLogNetwork": [
+		"ref: 18153D0; addr: 43CD97",
+		0
+	],
+	"FLogNetworkInstances": [
+		"ref: 18361F0; addr: 43CDB7",
+		0
+	],
+	"FLogNetworkJoin": [
+		"ref: 1836278; addr: 43CDD7",
+		0
+	],
+	"FLogNetworkReadItem": [
+		"ref: 1836204; addr: 43CDF7",
+		0
+	],
+	"FLogNetworkTrace": [
+		"ref: 18361AC; addr: 43CE17",
+		0
+	],
+	"FLogPartInstanceLifetime": [
+		"ref: 1835F5C; addr: 43CE37",
+		0
+	],
+	"FLogPhysics": [
+		"ref: 181532C; addr: 43CE57",
+		0
+	],
+	"FLogPlayer": [
+		"ref: 17E1DC0; addr: 43CE77",
+		1677787393
+	],
+	"FLogPlayerShutdownLuaTimeoutSeconds": [
+		"ref: 18362B4; addr: 43CE97",
+		0
+	],
+	"FLogPlugins": [
+		"ref: 180A764; addr: 43CEB7",
+		0
+	],
+	"FLogPrimitiveLifetime": [
+		"ref: 1835F8C; addr: 43CED7",
+		0
+	],
+	"FLogPushPixels": [
+		"ref: 1835F28; addr: 43CEF7",
+		0
+	],
+	"FLogQML": [
+		"ref: 1835E5C; addr: 43CF17",
+		0
+	],
+	"FLogRbxMegaClusterInit": [
+		"ref: 1836014; addr: 43CF37",
+		33620482
+	],
+	"FLogRbxMegaClustersUpdate": [
+		"ref: 1835FFC; addr: 43CF57",
+		2204054530
+	],
+	"FLogRenderBreakdownDetails": [
+		"ref: 1835FC0; addr: 43CF77",
+		1597243906
+	],
+	"FLogRenderBreakdown": [
+		"ref: 1835FB0; addr: 43CF97",
+		872546818
+	],
+	"FLogRenderStatsOnLogs": [
+		"ref: 1835F34; addr: 43CFB7",
+		33686018
+	],
+	"FLogReplicationDataLifetime": [
+		"ref: 18361D8; addr: 43CFD7",
+		0
+	],
+	"FLogRobloxWndInit": [
+		"ref: 1835E18; addr: 43CFF7",
+		1576534273
+	],
+	"FLogSSAO": [
+		"ref: 1835F20; addr: 43D017",
+		0
+	],
+	"FLogScriptContextAdd": [
+		"ref: 183612C; addr: 43D037",
+		0
+	],
+	"FLogScriptContextClose": [
+		"ref: 1836154; addr: 43D057",
+		1617428737
+	],
+	"FLogScriptContext": [
+		"ref: 17D797C; addr: 43D077",
+		0
+	],
+	"FLogScriptContextRemove": [
+		"ref: 1836140; addr: 43D097",
+		0
+	],
+	"FLogScriptPrint": [
+		"ref: 18362A8; addr: 43D0B7",
+		2348810499
+	],
+	"FLogThumbnailRender": [
+		"ref: 1835F08; addr: 43D0D7",
+		0
+	],
+	"FLogUS14116": [
+		"ref: 1836284; addr: 43D0F7",
+		0
+	],
+	"FLogUserInputProfile": [
+		"ref: 1835E60; addr: 43D117",
+		0
+	],
+	"FLogVerbs": [
+		"ref: 1835DF0; addr: 43D137",
+		0
+	],
+	"FLogVideoCapture": [
+		"ref: 1835DE0; addr: 43D157",
+		0
+	],
+	"FLogViewRbxBase": [
+		"ref: 1835EF0; addr: 43D177",
+		2788425986
+	],
+	"FLogViewRbxInit": [
+		"ref: 1835EFC; addr: 43D197",
+		2175153153
+	],
+	"FLogVisualEngineInit": [
+		"ref: 1835F48; addr: 43D1B7",
+		0
+	],
+	"FLogWeakThreadRef": [
+		"ref: 1836168; addr: 43D1D7",
+		0
+	],
+	"FLogttMetricP1": [
+		"ref: 1836258; addr: 43D1F7",
+		0
+	],
+	"FLogHeartBeatFailure": [
+		"ref: 18369F0; addr: 43D5D7",
+		0
+	],
+	"FLogPhysicsStepsPerSecond": [
+		"ref: 1836A04; addr: 43D617",
+		0
+	],
+	"FLogHttpRbxApiBudget": [
+		"ref: 183F0E8; addr: 4494F7",
+		0
+	],
+	"FLogPathfindingDetail": [
+		"ref: 1841074; addr: 44A9B7",
+		0
+	],
+	"FLogPathfindingPerf": [
+		"ref: 1841088; addr: 44A9D7",
+		0
+	],
+	"FLogGetLatestAssetVersionErrors": [
+		"ref: 1842C1C; addr: 44C867",
+		0
+	],
+	"FLogABTestManager": [
+		"ref: 1843B20; addr: 44DBC7",
+		0
+	],
+	"FLogTerrainCellListener": [
+		"ref: 1844700; addr: 44E197",
+		0
+	],
+	"FLogTeleport": [
+		"ref: 1848FE0; addr: 452F87",
+		0
+	],
+	"FLogFMOD": [
+		"ref: 184CE2C; addr: 4561C7",
+		0
+	],
+	"FLogSoundCheckResult": [
+		"ref: 184CE4C; addr: 4562A7",
+		0
+	],
+	"FLogSound": [
+		"ref: 180462C; addr: 4562E7",
+		0
+	],
+	"FLogSoundTiming": [
+		"ref: 184CE34; addr: 456387",
+		0
+	],
+	"FLogSoundTrace": [
+		"ref: 184CE40; addr: 4563A7",
+		0
+	],
+	"FLogDiabolicalMode": [
+		"ref: 1850318; addr: 4570B7",
+		0
+	],
+	"FLogDeferredVoxelUpdates": [
+		"ref: 185491C; addr: 45D647",
+		0
+	],
+	"FLogAppShellReporter": [
+		"ref: 1858084; addr: 45F7F7",
+		0
+	],
+	"FLogLuaTypeErrors": [
+		"ref: 185F3CC; addr: 460A77",
+		0
+	],
+	"FLogSlowHttpRequest": [
+		"ref: 1862458; addr: 463447",
+		0
+	],
+	"FLogCyclicExecutiveWorldSteps": [
+		"ref: 1864BB4; addr: 463897",
+		0
+	],
+	"FLogPhysicsImprovedCyclicExecutiveThrottleData": [
+		"ref: 1864D44; addr: 463937",
+		0
+	],
+	"FLogWorldStepsBehindG": [
+		"ref: 1864D0C; addr: 463A37",
+		0
+	],
+	"FLogWorldStepsBehind": [
+		"ref: 1864CF8; addr: 463A57",
+		0
+	],
+	"FLogChatFiltering": [
+		"ref: 1866A9C; addr: 465F27",
+		0
+	],
+	"FLogWebChatFiltering": [
+		"ref: 1866A40; addr: 466327",
+		0
+	],
+	"FLogFriendServiceCache": [
+		"ref: 18680CC; addr: 466A77",
+		0
+	],
+	"FLogFriendServiceCallbacks": [
+		"ref: 18680FC; addr: 466AD7",
+		0
+	],
+	"FLogFriendServiceLocalRequests": [
+		"ref: 1868114; addr: 466AF7",
+		6
+	],
+	"FLogFriendServiceWebRequests": [
+		"ref: 18680E0; addr: 466B37",
+		0
+	],
+	"FLogDataStoreBudget": [
+		"ref: 186A0F8; addr: 467B47",
+		0
+	],
+	"FLogHumanoidPlatformsLog": [
+		"ref: 186B1E8; addr: 468447",
+		0
+	],
+	"FLogNewNetworkPhysicsLog": [
+		"ref: 186B1D0; addr: 468587",
+		0
+	],
+	"FLogLayoutErrors": [
+		"ref: 1871CE0; addr: 46DBF7",
+		3
+	],
+	"FLogDataStore": [
+		"ref: 181CD20; addr: 479457",
+		0
+	],
+	"FLogHttpTraceLight": [
+		"ref: 187F04C; addr: 479B67",
+		0
+	],
+	"FLogAnalyticsLog": [
+		"ref: 18802B0; addr: 479E07",
+		0
+	],
+	"FLogHumanoidFloorProcess": [
+		"ref: 18832D8; addr: 47C4A7",
+		0
+	],
+	"FLogNavigationDetail": [
+		"ref: 188565C; addr: 47CA07",
+		0
+	],
+	"FLogNavigation": [
+		"ref: 183CF5C; addr: 47CA87",
+		0
+	],
+	"FLogLuaBridge": [
+		"ref: 1860398; addr: 47CD07",
+		0
+	],
+	"FLogVoxelizer": [
+		"ref: 18F3BE4; addr: 47DB37",
+		0
+	],
+	"FLogScopedConnection": [
+		"ref: 18F3E80; addr: 47DB97",
+		0
+	],
+	"FLogDXVideoMemory": [
+		"ref: 19119CC; addr: 47DFA7",
+		1028
+	],
+	"FLogSystemUtil": [
+		"ref: 19119DC; addr: 47DFC7",
+		3422552068
+	],
+	"FLogCrash": [
+		"ref: 144C86C; addr: 47E257",
+		1
+	],
+	"FLogHangDetection": [
+		"ref: 191222C; addr: 47E277",
+		0
+	],
+	"FLogISteppedLifetime": [
+		"ref: 191223C; addr: 47E297",
+		0
+	],
+	"FLogMutexLifetime": [
+		"ref: 1912250; addr: 47E2B7",
+		0
+	],
+	"FLogTaskSchedulerInit": [
+		"ref: 1912260; addr: 47E2D7",
+		0
+	],
+	"FLogTaskSchedulerRun": [
+		"ref: 1912274; addr: 47E2F7",
+		0
+	],
+	"FLogCSGDetails": [
+		"ref: 1916E2C; addr: 47EA07",
+		0
+	],
+	"FLogCSGErrors": [
+		"ref: 1916E20; addr: 47EA27",
+		0
+	],
+	"FLogJoinTimeLog": [
+		"ref: 191843C; addr: 47F6A7",
+		1677721604
+	],
+	"FLogPartStreamingRequests": [
+		"ref: 191B620; addr: 4810F7",
+		0
+	],
+	"FLogReportFeOnStartup": [
+		"ref: 191C018; addr: 4813D7",
+		0
+	],
+	"FLogTeamTest": [
+		"ref: 17E2050; addr: 481437",
+		0
+	],
+	"FLogNetworkPacketsReceive": [
+		"ref: 191CE08; addr: 481B27",
+		0
+	],
+	"FLogNetworkStatsReport": [
+		"ref: 191CDBC; addr: 481B47",
+		0
+	],
+	"FLogNetworkStepsMultipliers": [
+		"ref: 191CDD0; addr: 481B67",
+		0
+	],
+	"FLogTeamCreateServerScriptChanges": [
+		"ref: 191CDE8; addr: 481FB7",
+		0
+	],
+	"FLogPhysicsNetwork": [
+		"ref: 191FCC0; addr: 4826F7",
+		0
+	],
+	"FLogNetworkItemQueueDtor": [
+		"ref: 1920940; addr: 482FA7",
+		0
+	],
+	"FLogNetworkStreaming": [
+		"ref: 1920A88; addr: 4830D7",
+		0
+	],
+	"FLogGraphics": [
+		"ref: 19299D0; addr: 483E67",
+		0
+	],
+	"FLogVR": [
+		"ref: 19299DC; addr: 483E87",
+		0
+	],
+	"FLogRenderTextureCompositorBudget": [
+		"ref: 192CDF0; addr: 484517",
+		0
+	],
+	"FLogRenderTextureCompositor": [
+		"ref: 192CDD8; addr: 484537",
+		0
+	],
+	"FLogTextureManager": [
+		"ref: 192D360; addr: 484627",
+		0
+	],
+	"FLogRenderMeshManager": [
+		"ref: 192D70C; addr: 484697",
+		0
+	],
+	"FLogRenderLightGridAgeProportion": [
+		"ref: 192EA94; addr: 484AB7",
+		5
+	],
+	"FLogRenderLightGrid": [
+		"ref: 192EA84; addr: 484AD7",
+		0
+	],
+	"FLogRenderFastCluster": [
+		"ref: 1930124; addr: 484F67",
+		0
+	],
+	"FLogRenderInstancedCluster": [
+		"ref: 19309DC; addr: 485017",
+		0
+	],
+	"FLogRenderInstancedCluster2": [
+		"ref: 1930F48; addr: 4850C7",
+		0
+	]
+}
