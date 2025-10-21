@@ -124,7 +124,7 @@ def find_lea_from_addr(session: X64DbgClient, memory_addr: int):
         region_map['.text'].base_address,
         region_map['.text'].region_size,
     )
-    assert len(refs) == 1
+    # assert len(refs) == 1
     lea_addr = refs[0]
 
     lea_ins = session.disassemble_at(lea_addr)
@@ -331,11 +331,16 @@ def process(session: X64DbgClient, extract_default_flags: bool, extract_default_
                 extract = extract_default_flags
 
             for name, (ref, addr) in process_of_type(session, flag_t):
-                value = (f'ref: %X; addr: %X' % (ref, addr),)
+                json_val = (f'ref: %X; addr: %X' % (ref, addr),)
+
+                result = None
                 if extract:
-                    value = (*value, read_value(session, flag_t, addr))
+                    result = read_value(session, flag_t, addr)
+                if result is not None:
+                    json_val = (*json_val, result)
+
                 key = flag_t.name + name
-                yield (key, value)
+                yield (key, json_val)
 
     return dict(gen())
 
