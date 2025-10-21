@@ -6249,11 +6249,11 @@
 	],
 	"FLogStudioDebugLog": [
 		"ref: 17D15B4; addr: 40BD3A",
-		776
+		8
 	],
 	"FLogStudioLastActions": [
 		"ref: 17D15C4; addr: 40BD5A",
-		3019898883
+		3
 	],
 	"FLogReflectionMetadata": [
 		"ref: 17D7B44; addr: 40CAA7",
@@ -6337,11 +6337,11 @@
 	],
 	"FLogCharacterLoadTime": [
 		"ref: 1823F70; addr: 424237",
-		134217734
+		6
 	],
 	"FLogPlayerChatInfoExponentialBackoffLimitMultiplier": [
 		"ref: 1823F08; addr: 4243F7",
-		1545
+		9
 	],
 	"FLogText": [
 		"ref: 182F6BC; addr: 439187",
@@ -6369,15 +6369,15 @@
 	],
 	"FLogCOMCalls": [
 		"ref: 1835DF8; addr: 43C857",
-		4160815361
+		1
 	],
 	"FLogClientSettings": [
 		"ref: 148DA7C; addr: 43C877",
-		1653342209
+		1
 	],
 	"FLogCloseDataModel": [
 		"ref: 18360F4; addr: 43C897",
-		1744896257
+		1
 	],
 	"FLogContentProviderRequests": [
 		"ref: 1836104; addr: 43C8B7",
@@ -6385,15 +6385,15 @@
 	],
 	"FLogCoreScripts": [
 		"ref: 1836178; addr: 43C8D7",
-		2204133377
+		1
 	],
 	"FLogCrashReporterInit": [
 		"ref: 1835E28; addr: 43C8F7",
-		2203973633
+		1
 	],
 	"FLogDataModelJobs": [
 		"ref: 1835FD8; addr: 43C917",
-		16843010
+		2
 	],
 	"FLogDeviceLost": [
 		"ref: 1835EBC; addr: 43C997",
@@ -6437,11 +6437,11 @@
 	],
 	"FLogGfxClusters": [
 		"ref: 1836028; addr: 43CAD7",
-		335675650
+		2
 	],
 	"FLogGoldenHashes": [
 		"ref: 1835EAC; addr: 43CAF7",
-		872481281
+		1
 	],
 	"FLogGuiTargetLifetime": [
 		"ref: 1835E80; addr: 43CB17",
@@ -6449,7 +6449,7 @@
 	],
 	"FLogHardwareMouse": [
 		"ref: 181A634; addr: 43CB37",
-		16908546
+		2
 	],
 	"FLogHttp": [
 		"ref: 18362A0; addr: 43CB57",
@@ -6461,7 +6461,7 @@
 	],
 	"FLogJoinSendExtraItemCount": [
 		"ref: 1836214; addr: 43CB97",
-		499147777
+		1
 	],
 	"FLogJointInstanceLifetime": [
 		"ref: 1835F74; addr: 43CBB7",
@@ -6485,11 +6485,11 @@
 	],
 	"FLogMachineIdUploader": [
 		"ref: 183628C; addr: 43CC57",
-		66305
+		1
 	],
 	"FLogMaxJoinDataSizeKB": [
 		"ref: 1836264; addr: 43CC77",
-		2115879012
+		100
 	],
 	"FLogMaxNetworkReadTimeInCS": [
 		"ref: 183622C; addr: 43CC97",
@@ -6497,15 +6497,15 @@
 	],
 	"FLogMegaClusterInit": [
 		"ref: 1836044; addr: 43CCB7",
-		1611923969
+		1
 	],
 	"FLogMegaClusterNetworkInit": [
 		"ref: 1836068; addr: 43CCD7",
-		16843009
+		1
 	],
 	"FLogMegaClusterNetwork": [
 		"ref: 1836054; addr: 43CCF7",
-		2204111874
+		2
 	],
 	"FLogMouseCommand": [
 		"ref: 183611C; addr: 43CD17",
@@ -6521,7 +6521,7 @@
 	],
 	"FLogNetworkCache": [
 		"ref: 18361C8; addr: 43CD77",
-		3227779329
+		1
 	],
 	"FLogNetwork": [
 		"ref: 18153D0; addr: 43CD97",
@@ -6553,7 +6553,7 @@
 	],
 	"FLogPlayer": [
 		"ref: 17E1DC0; addr: 43CE77",
-		1677787393
+		1
 	],
 	"FLogPlayerShutdownLuaTimeoutSeconds": [
 		"ref: 18362B4; addr: 43CE97",
@@ -6577,23 +6577,23 @@
 	],
 	"FLogRbxMegaClusterInit": [
 		"ref: 1836014; addr: 43CF37",
-		33620482
+		2
 	],
 	"FLogRbxMegaClustersUpdate": [
 		"ref: 1835FFC; addr: 43CF57",
-		2204054530
+		2
 	],
 	"FLogRenderBreakdownDetails": [
 		"ref: 1835FC0; addr: 43CF77",
-		1597243906
+		2
 	],
 	"FLogRenderBreakdown": [
 		"ref: 1835FB0; addr: 43CF97",
-		872546818
+		2
 	],
 	"FLogRenderStatsOnLogs": [
 		"ref: 1835F34; addr: 43CFB7",
-		33686018
+		2
 	],
 	"FLogReplicationDataLifetime": [
 		"ref: 18361D8; addr: 43CFD7",
@@ -6601,7 +6601,7 @@
 	],
 	"FLogRobloxWndInit": [
 		"ref: 1835E18; addr: 43CFF7",
-		1576534273
+		1
 	],
 	"FLogSSAO": [
 		"ref: 1835F20; addr: 43D017",
@@ -6613,7 +6613,7 @@
 	],
 	"FLogScriptContextClose": [
 		"ref: 1836154; addr: 43D057",
-		1617428737
+		1
 	],
 	"FLogScriptContext": [
 		"ref: 17D797C; addr: 43D077",
@@ -6625,7 +6625,7 @@
 	],
 	"FLogScriptPrint": [
 		"ref: 18362A8; addr: 43D0B7",
-		2348810499
+		3
 	],
 	"FLogThumbnailRender": [
 		"ref: 1835F08; addr: 43D0D7",
@@ -6649,11 +6649,11 @@
 	],
 	"FLogViewRbxBase": [
 		"ref: 1835EF0; addr: 43D177",
-		2788425986
+		2
 	],
 	"FLogViewRbxInit": [
 		"ref: 1835EFC; addr: 43D197",
-		2175153153
+		1
 	],
 	"FLogVisualEngineInit": [
 		"ref: 1835F48; addr: 43D1B7",
@@ -6837,11 +6837,11 @@
 	],
 	"FLogDXVideoMemory": [
 		"ref: 19119CC; addr: 47DFA7",
-		1028
+		4
 	],
 	"FLogSystemUtil": [
 		"ref: 19119DC; addr: 47DFC7",
-		3422552068
+		4
 	],
 	"FLogCrash": [
 		"ref: 144C86C; addr: 47E257",
@@ -6877,7 +6877,7 @@
 	],
 	"FLogJoinTimeLog": [
 		"ref: 191843C; addr: 47F6A7",
-		1677721604
+		4
 	],
 	"FLogPartStreamingRequests": [
 		"ref: 191B620; addr: 4810F7",

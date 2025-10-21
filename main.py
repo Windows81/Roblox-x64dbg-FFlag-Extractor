@@ -245,17 +245,20 @@ def get_string_load_places(session: X64DbgClient):
 def read_value(session: X64DbgClient, flag_t: flag_type, name_addr: int):
     (val_offset, val_ref) = find_mem_lea_from_name_lea(session, name_addr)
     assert val_ref is not None
-    match flag_t.get_value_type():
+    match flag_t:
 
-        case builtins.bool:
+        case flag_type.FFlag:
             val = session.read_memory(val_ref, 1)[0]
             assert val | 0b0001
             return val > 0
 
-        case builtins.int:
+        case flag_type.FInt:
             return session.read_dword(val_ref)
 
-        case builtins.str:
+        case flag_type.FLog:
+            return session.read_memory(val_ref, 1)[0]
+
+        case flag_type.FString:
             places = get_string_load_places(session)
             orig_ref = places.get(val_ref, None)
             if orig_ref is None:

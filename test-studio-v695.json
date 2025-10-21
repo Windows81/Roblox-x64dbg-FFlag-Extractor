@@ -46614,4410 +46614,4410 @@
 	],
 	"FLogBackendConfigCacheManager": [
 		"ref: 7FF78ADA3E48; addr: 7FF783B738CD",
-		1286
+		6
 	],
 	"FLogBackendConfigFetcher": [
 		"ref: 7FF78ADA43F8; addr: 7FF783B7DE5D",
-		1030
+		6
 	],
 	"FLogBackendConfigManager": [
 		"ref: 7FF78ADA4C20; addr: 7FF783B8382D",
-		1286
+		6
 	],
 	"FLogRobloxTeamCreateWidget": [
 		"ref: 7FF78ADA5840; addr: 7FF783B99D6D",
-		1030
+		6
 	],
 	"FLogActivityHistoryEventManagerLog": [
 		"ref: 7FF78ADA8B78; addr: 7FF783BA4B2D",
-		1030
+		6
 	],
 	"FLogJoinConfigFetcher": [
 		"ref: 7FF78ADA9008; addr: 7FF783BABF1D",
-		1030
+		6
 	],
 	"FLogTeamCreateConnectionIndicatorNew": [
 		"ref: 7FF78ADA94B0; addr: 7FF783BBCC8D",
-		768
+		0
 	],
 	"FLogTeamCreateConnectionMonitorComponent": [
 		"ref: 7FF78ADAA400; addr: 7FF783C0033D",
-		774
+		6
 	],
 	"FLogTeamCreateDataModelWorker": [
 		"ref: 7FF78ADAD2C0; addr: 7FF783C17F6D",
-		1030
+		6
 	],
 	"FLogTeamCreateManager": [
 		"ref: 7FF78ADAD5F0; addr: 7FF783C1EEBD",
-		1030
+		6
 	],
 	"FLogTeamCreateReconnectManager": [
 		"ref: 7FF78ADADDB0; addr: 7FF783C2987D",
-		1030
+		6
 	],
 	"FLogTeamCreateSaver": [
 		"ref: 7FF78ADAE0D8; addr: 7FF783C3055D",
-		1030
+		6
 	],
 	"FLogTeamCreateTeamTestDisconnectionHandler": [
 		"ref: 7FF78ADAE578; addr: 7FF783C3855D",
-		1030
+		6
 	],
 	"FLogTeamTestManager": [
 		"ref: 7FF78ADAFB38; addr: 7FF783C5004D",
-		1030
+		6
 	],
 	"FLogTeamTestStarter": [
 		"ref: 7FF78ADB0180; addr: 7FF783C5C45D",
-		1030
+		6
 	],
 	"FLogTeamTestWorkflowManager": [
 		"ref: 7FF78ADB0968; addr: 7FF783C61FAD",
-		1030
+		6
 	],
 	"FLogStudioFeatureActivityTrackerLog": [
 		"ref: 7FF78ADB1418; addr: 7FF783C6A6FD",
-		768
+		0
 	],
 	"FLogRuntimeContext": [
 		"ref: 7FF78ADB1D48; addr: 7FF783C6CAAD",
-		774
+		6
 	],
 	"FLogUserActivityTracker": [
 		"ref: 7FF78ADB29D0; addr: 7FF783C8611D",
-		768
+		0
 	],
 	"FLogAutoSaveDelayOnUserInputLog": [
 		"ref: 7FF78ADB38D0; addr: 7FF783C8A11D",
-		1030
+		6
 	],
 	"FLogAnrDetector": [
 		"ref: 7FF78ADB3C70; addr: 7FF783C8E5FD",
-		1030
+		6
 	],
 	"FLogStudioHardwareSleepListenerLog": [
 		"ref: 7FF78ADB4630; addr: 7FF783C9187D",
-		768
+		0
 	],
 	"FLogStudioInstanceChecker": [
 		"ref: 7FF78ADB47C0; addr: 7FF783C9658D",
-		1030
+		6
 	],
 	"FLogRobloxMainWindow": [
 		"ref: 7FF78ADB78A8; addr: 7FF783CA94ED",
-		1030
+		6
 	],
 	"FLogStudioNotificationService": [
 		"ref: 7FF78ADB9508; addr: 7FF783CB394D",
-		768
+		0
 	],
 	"FLogFileOpenEventHandler": [
 		"ref: 7FF78ADB9CA0; addr: 7FF783CB9B1D",
-		1030
+		6
 	],
 	"FLogPlaceManager": [
 		"ref: 7FF78ADBAA18; addr: 7FF783CDAE8D",
-		1030
+		6
 	],
 	"FLogPlaceSessionStateController": [
 		"ref: 7FF78ADBCC88; addr: 7FF783CF68CD",
-		1030
+		6
 	],
 	"FLogPlaceSessionTaskRegister": [
 		"ref: 7FF78ADBE260; addr: 7FF783D0177D",
-		1030
+		6
 	],
 	"FLogStudioGuac": [
 		"ref: 7FF78ADC0920; addr: 7FF783D2479D",
-		1030
+		6
 	],
 	"FLogScriptingProductivityTelemetryLog": [
 		"ref: 7FF78ADC1028; addr: 7FF783D2E90D",
-		768
+		0
 	],
 	"FLogBetaFeatures": [
 		"ref: 7FF78ADC1F88; addr: 7FF783D4E09D",
-		1030
+		6
 	],
 	"FLogTestModeModifiedScriptSavePreferenceController": [
 		"ref: 7FF78ADC2688; addr: 7FF783D5234D",
-		1030
+		6
 	],
 	"FLogTestModeModifiedScriptController": [
 		"ref: 7FF78ADC3B68; addr: 7FF783D625DD",
-		1030
+		6
 	],
 	"FLogSharedMemoryManager": [
 		"ref: 7FF78ADC3EA8; addr: 7FF783D6593D",
-		1030
+		6
 	],
 	"FLogSystemCheck": [
 		"ref: 7FF78ADC4428; addr: 7FF783D6812D",
-		1030
+		6
 	],
 	"FLogUpdateManager": [
 		"ref: 7FF78ADC49B8; addr: 7FF783D76C0D",
-		1030
+		6
 	],
 	"FLogPlaceSessionContext": [
 		"ref: 7FF78ADCA7C8; addr: 7FF783DBBA6D",
-		1030
+		6
 	],
 	"FLogAvatarAutosetup": [
 		"ref: 7FF78ADCAA40; addr: 7FF783DDF64D",
-		768
+		0
 	],
 	"FLogSessionTracker": [
 		"ref: 7FF78ADCDD50; addr: 7FF783DF53ED",
-		768
+		0
 	],
 	"FLogStudioNotifications": [
 		"ref: 7FF78ADD0928; addr: 7FF783E1E88D",
-		774
+		6
 	],
 	"FLogActivityHistory": [
 		"ref: 7FF78ADD0F78; addr: 7FF783E268BD",
-		774
+		6
 	],
 	"FLogAssetAccessDataModelObserver": [
 		"ref: 7FF78ADD1500; addr: 7FF783E2C6AD",
-		774
+		6
 	],
 	"FLogAssetAccessPasteHook": [
 		"ref: 7FF78ADD1AB8; addr: 7FF783E32A5D",
-		774
+		6
 	],
 	"FLogAssetDataModelPluginLoaderWaiting": [
 		"ref: 7FF78ADD2E08; addr: 7FF783E5989D",
-		1030
+		6
 	],
 	"FLogBasicComponentTemplate": [
 		"ref: 7FF78ADD46D8; addr: 7FF783E7086D",
-		774
+		6
 	],
 	"FLogCancellableDialogManager": [
 		"ref: 7FF78ADD4868; addr: 7FF783E7967D",
-		1030
+		6
 	],
 	"FLogClipboardContextProvider": [
 		"ref: 7FF78ADD5628; addr: 7FF783E8567D",
-		774
+		6
 	],
 	"FLogStudioContext": [
 		"ref: 7FF78ADD57B0; addr: 7FF783E8900D",
-		774
+		6
 	],
 	"FLogStudioHangingScriptLogs": [
 		"ref: 7FF78ADD5EC8; addr: 7FF783E9686D",
-		1030
+		6
 	],
 	"FLogAssetDataModelManager": [
 		"ref: 7FF78ADD6578; addr: 7FF783EA007D",
-		1030
+		6
 	],
 	"FLogDataModelAutoSaver": [
 		"ref: 7FF78ADD7720; addr: 7FF783EB021D",
-		1030
+		6
 	],
 	"FLogDataModelLocalFileSaver": [
 		"ref: 7FF78ADD8100; addr: 7FF783EBD59D",
-		1030
+		6
 	],
 	"FLogObjectBrowserManager": [
 		"ref: 7FF78ADD9388; addr: 7FF783EC8BAD",
-		1030
+		6
 	],
 	"FLogNativeWatcherWin": [
 		"ref: 7FF78ADDA7C0; addr: 7FF783EDFD5D",
-		774
+		6
 	],
 	"FLogDraggableDecalPasteRegister": [
 		"ref: 7FF78ADDC400; addr: 7FF783F0EFAD",
-		774
+		6
 	],
 	"FLogPasteDataModelActions": [
 		"ref: 7FF78ADDC9D0; addr: 7FF783F1867D",
-		774
+		6
 	],
 	"FLogStudioLinkedSourceMigrator": [
 		"ref: 7FF78ADDE250; addr: 7FF783F36D1D",
-		774
+		6
 	],
 	"FLogFileSyncM3Logging": [
 		"ref: 7FF78ADE06D8; addr: 7FF783FB62DD",
-		774
+		6
 	],
 	"FLogModerationControllerTest": [
 		"ref: 7FF78ADE5018; addr: 7FF784039D4D",
-		1030
+		6
 	],
 	"FLogPageWidgetsManager": [
 		"ref: 7FF78ADE6EB8; addr: 7FF784066E1D",
-		1030
+		6
 	],
 	"FLogPageWidgetsPlaceListener": [
 		"ref: 7FF78ADE7040; addr: 7FF784067B9D",
-		1030
+		6
 	],
 	"FLogPluginDebugLog": [
 		"ref: 7FF78ADE7F28; addr: 7FF784084F7D",
-		1030
+		6
 	],
 	"FLogPluginLoaderCache": [
 		"ref: 7FF78ADE7F10; addr: 7FF784084F9D",
-		1030
+		6
 	],
 	"FLogPlaceSessionPluginWidgetsView": [
 		"ref: 7FF78ADE9DE0; addr: 7FF784092B9D",
-		774
+		6
 	],
 	"FLogPluginWidgetCleanup": [
 		"ref: 7FF78ADE9E20; addr: 7FF784092BBD",
-		774
+		6
 	],
 	"FLogPluginElementHost": [
 		"ref: 7FF78ADEA860; addr: 7FF78409785D",
-		1030
+		6
 	],
 	"FLogPluginRibbonActionHost": [
 		"ref: 7FF78ADEB4E0; addr: 7FF7840B2FAD",
-		1030
+		6
 	],
 	"FLogRenderSchedulerState": [
 		"ref: 7FF78ADECFA0; addr: 7FF7840C3A8D",
-		1030
+		6
 	],
 	"FLogStudioWindowManager": [
 		"ref: 7FF78ADED660; addr: 7FF7840C751D",
-		774
+		6
 	],
 	"FLogShutdownCoordinator": [
 		"ref: 7FF78ADEFC20; addr: 7FF7840E929D",
-		1030
+		6
 	],
 	"FLogStandaloneDataModelLifecycle": [
 		"ref: 7FF78ADF08D8; addr: 7FF7840F39DD",
-		768
+		0
 	],
 	"FLogSystemMenu": [
 		"ref: 7FF78ADF5528; addr: 7FF78413B97D",
-		774
+		6
 	],
 	"FLogStudioActions": [
 		"ref: 7FF78ADF79C8; addr: 7FF78416821D",
-		768
+		0
 	],
 	"FLogActionsBridge": [
 		"ref: 7FF78ADF87F0; addr: 7FF784181A6D",
-		774
+		6
 	],
 	"FLogActionsBridgeExtra": [
 		"ref: 7FF78ADF8920; addr: 7FF784181A8D",
-		1030
+		6
 	],
 	"FLogDataModelQIconProvider": [
 		"ref: 7FF78ADF91F8; addr: 7FF7841863DD",
-		774
+		6
 	],
 	"FLogSettingsBridge": [
 		"ref: 7FF78ADF9650; addr: 7FF784199ACD",
-		768
+		0
 	],
 	"FLogWidgetsManager": [
 		"ref: 7FF78ADFA1C0; addr: 7FF7841A859D",
-		774
+		6
 	],
 	"FLogFileLockManager": [
 		"ref: 7FF78ADFA7A8; addr: 7FF7841ABBBD",
-		1030
+		6
 	],
 	"FLogRobloxIDEDoc": [
 		"ref: 7FF78ADEB500; addr: 7FF7841DB7CD",
-		1030
+		6
 	],
 	"FLogStudioUpdate3DView": [
 		"ref: 7FF78ADFB128; addr: 7FF7841DB8CD",
-		768
+		0
 	],
 	"FLogTwoWayCommunicator": [
 		"ref: 7FF78ADFF768; addr: 7FF7841EF74D",
-		1030
+		6
 	],
 	"FLogStudioShortcutInteractionTelemetry": [
 		"ref: 7FF78ADFFB38; addr: 7FF7841F15DD",
-		774
+		6
 	],
 	"FLogStudioInteractionTelemetry": [
 		"ref: 7FF78ADFFE10; addr: 7FF7841F54CD",
-		774
+		6
 	],
 	"FLogStudioCommands": [
 		"ref: 7FF78AE00308; addr: 7FF7841F8FED",
-		774
+		6
 	],
 	"FLogGenerativeAIAssetThumbnailLoading": [
 		"ref: 7FF78AE04C48; addr: 7FF7842ABDDD",
-		768
+		0
 	],
 	"FLogNativeDialogManagerLog": [
 		"ref: 7FF78AE06658; addr: 7FF7842C6A0D",
-		1542
+		6
 	],
 	"FLogPluginHangMonitorLog": [
 		"ref: 7FF78AE06CC0; addr: 7FF7842D602D",
-		262
+		6
 	],
 	"FLogPluginHangMonitorIxpCheck": [
 		"ref: 7FF78AE07668; addr: 7FF7842D772D",
-		262
+		6
 	],
 	"FLogStudioAeroMeshProcessing": [
 		"ref: 7FF78AE07828; addr: 7FF7842E29ED",
-		1030
+		6
 	],
 	"FLogPlayTestModesController": [
 		"ref: 7FF78AE08290; addr: 7FF7842E97ED",
-		1030
+		6
 	],
 	"FLogRibbonFileSystemHelper": [
 		"ref: 7FF78AE08A20; addr: 7FF7842ED8ED",
-		774
+		6
 	],
 	"FLogRibbonConfigImpl": [
 		"ref: 7FF78AE09508; addr: 7FF7842F536D",
-		774
+		6
 	],
 	"FLogSecretsController": [
 		"ref: 7FF78AE09948; addr: 7FF7842FE7ED",
-		1030
+		6
 	],
 	"FLogStudioHangMonitor": [
 		"ref: 7FF78AE09EE0; addr: 7FF784302ACD",
-		1030
+		6
 	],
 	"FLogDataModelSoundManager": [
 		"ref: 7FF78AE0B310; addr: 7FF784312EED",
-		1286
+		6
 	],
 	"FLogCustomizedDefaultInstancesLogs": [
 		"ref: 7FF78AE0D7E0; addr: 7FF78434E95D",
-		1030
+		6
 	],
 	"FLogLoginController": [
 		"ref: 7FF78AE0ECA0; addr: 7FF784369ECD",
-		1030
+		6
 	],
 	"FLogLoginUIManager": [
 		"ref: 7FF78AE10898; addr: 7FF78437305D",
-		1030
+		6
 	],
 	"FLogLoginPageStateMachine": [
 		"ref: 7FF78AE119B0; addr: 7FF78437709D",
-		774
+		6
 	],
 	"FLogSelectAllComponentLog": [
 		"ref: 7FF78AE14000; addr: 7FF784398A2D",
-		1030
+		6
 	],
 	"FLogUpdateManagerContinueAction": [
 		"ref: 7FF78AE14468; addr: 7FF78439A7BD",
-		1030
+		6
 	],
 	"FLogDownloadPlaceCopyAction": [
 		"ref: 7FF78AE14918; addr: 7FF78439FF3D",
-		774
+		6
 	],
 	"FLogTeamTestStartAction": [
 		"ref: 7FF78AE14F20; addr: 7FF7843A4F3D",
-		1030
+		6
 	],
 	"FLogStudioWindowHierarchy": [
 		"ref: 7FF78AE15B70; addr: 7FF7843AA03D",
-		1030
+		6
 	],
 	"FLogQuickOpenLog": [
 		"ref: 7FF78AE18AB8; addr: 7FF7843CD4AD",
-		768
+		0
 	],
 	"FLogPasteVerbPermission": [
 		"ref: 7FF78AE1AB18; addr: 7FF7843E6B3D",
-		1030
+		6
 	],
 	"FLogStudioDeviceEmulator": [
 		"ref: 7FF78ADC7670; addr: 7FF78447E63D",
-		774
+		6
 	],
 	"FLogStudioPublishService": [
 		"ref: 7FF78AE297A0; addr: 7FF7844961ED",
-		768
+		0
 	],
 	"FLogAssetPrivacyPermissionsManager": [
 		"ref: 7FF78AE2C998; addr: 7FF7844BBF7D",
-		768
+		0
 	],
 	"FLogAutoSave": [
 		"ref: 7FF78AE3A988; addr: 7FF784506F8D",
-		768
+		0
 	],
 	"FLogActivityHistoryManager": [
 		"ref: 7FF78ADD10D8; addr: 7FF7845124ED",
-		774
+		6
 	],
 	"FLogAssetExportController": [
 		"ref: 7FF78AE3C9E0; addr: 7FF78452A3DD",
-		774
+		6
 	],
 	"FLogAssetInsertController": [
 		"ref: 7FF78AE3D010; addr: 7FF784532B8D",
-		774
+		6
 	],
 	"FLogConstraintGizmoManager": [
 		"ref: 7FF78AE3D278; addr: 7FF78453D4ED",
-		774
+		6
 	],
 	"FLogCreatorConfigManager": [
 		"ref: 7FF78AE3D698; addr: 7FF784542F0D",
-		1030
+		6
 	],
 	"FLogCreatorConfigWebBroswerWidget": [
 		"ref: 7FF78AE3D990; addr: 7FF784549D7D",
-		774
+		6
 	],
 	"FLogDragDropDataModelController": [
 		"ref: 7FF78AE3E0F8; addr: 7FF78454F89D",
-		774
+		6
 	],
 	"FLogFindReplace": [
 		"ref: 7FF78AE3E6E8; addr: 7FF784575E9D",
-		774
+		6
 	],
 	"FLogModerationController": [
 		"ref: 7FF78AE41700; addr: 7FF7845DD36D",
-		1286
+		6
 	],
 	"FLogMouseTracker": [
 		"ref: 7FF78AE42018; addr: 7FF7845E53FD",
-		774
+		6
 	],
 	"FLogStudioKeyEvents": [
 		"ref: 7FF78AE42810; addr: 7FF7845F2D7D",
-		1030
+		6
 	],
 	"FLogPackagePublish": [
 		"ref: 7FF78AE439F0; addr: 7FF7845FADDD",
-		518
+		6
 	],
 	"FLogPackagePropertyModDeug": [
 		"ref: 7FF78AE44438; addr: 7FF784603B3D",
-		1286
+		6
 	],
 	"FLogStudioPackageUI": [
 		"ref: 7FF78AE44D60; addr: 7FF784606BED",
-		518
+		6
 	],
 	"FLogPackageMassUpdate": [
 		"ref: 7FF78AE47CB0; addr: 7FF784621C3D",
-		768
+		0
 	],
 	"FLogPropertyItemDelegate": [
 		"ref: 7FF78AE4C6B0; addr: 7FF784640BDD",
-		1286
+		6
 	],
 	"FLogExplorerPaintEvent": [
 		"ref: 7FF78AE4CC50; addr: 7FF78465013D",
-		774
+		6
 	],
 	"FLogExplorer": [
 		"ref: 7FF78AE4E128; addr: 7FF78466F2CD",
-		768
+		0
 	],
 	"FLogExplorerEnhanced": [
 		"ref: 7FF78AE4E138; addr: 7FF78466F2ED",
-		774
+		6
 	],
 	"FLogExplorerPackageIconIxpCheck": [
 		"ref: 7FF78AE4FB18; addr: 7FF7846750CD",
-		1286
+		6
 	],
 	"FLogExplorerFiltering": [
 		"ref: 7FF78AE51630; addr: 7FF78468A27D",
-		768
+		0
 	],
 	"FLogRealtimeNotifier": [
 		"ref: 7FF78AE51F78; addr: 7FF78469DC3D",
-		774
+		6
 	],
 	"FLogPerformanceToolsBridge": [
 		"ref: 7FF78AE52608; addr: 7FF7846B219D",
-		774
+		6
 	],
 	"FLogPlaceVersionHistory": [
 		"ref: 7FF78ADE77D8; addr: 7FF784797D5D",
-		774
+		6
 	],
 	"FLogFileWatcherDebugLog": [
 		"ref: 7FF78AE5E270; addr: 7FF78479A49D",
-		768
+		0
 	],
 	"FLogStudioPluginRelay": [
 		"ref: 7FF78AE60050; addr: 7FF7847C483D",
-		1030
+		6
 	],
 	"FLogPluginDockWidgetRelay": [
 		"ref: 7FF78AE60880; addr: 7FF7847CA28D",
-		1030
+		6
 	],
 	"FLogPropertiesTelemetryLog": [
 		"ref: 7FF78AE68938; addr: 7FF7847F67BD",
-		768
+		0
 	],
 	"FLogPopupImagePickerController": [
 		"ref: 7FF78AE697E8; addr: 7FF78480AB9D",
-		774
+		6
 	],
 	"FLogPropertyPermissionGrant": [
 		"ref: 7FF78AE75BD8; addr: 7FF784861C5D",
-		774
+		6
 	],
 	"FLogInstanceSelectionEditor": [
 		"ref: 7FF78AE79CB0; addr: 7FF78488B1AD",
-		774
+		6
 	],
 	"FLogInstancePicker": [
 		"ref: 7FF78AE7DE00; addr: 7FF7848AF72D",
-		774
+		6
 	],
 	"FLogInventoryFontsRequests": [
 		"ref: 7FF78AE7ECA0; addr: 7FF7848D399D",
-		768
+		0
 	],
 	"FLogStudioRibbonAnalytics": [
 		"ref: 7FF78AE83710; addr: 7FF7848F3D6D",
-		768
+		0
 	],
 	"FLogRidlCommandExample": [
 		"ref: 7FF78AE84080; addr: 7FF7848F8ECD",
-		774
+		6
 	],
 	"FLogSelectAll": [
 		"ref: 7FF78ADEF3B8; addr: 7FF7848FDC9D",
-		774
+		6
 	],
 	"FLogStartPageBridge": [
 		"ref: 7FF78AE842F8; addr: 7FF78490780D",
-		774
+		6
 	],
 	"FLogLoginTelemetry": [
 		"ref: 7FF78AE84668; addr: 7FF78490AD6D",
-		768
+		0
 	],
 	"FLogAccountSwitchingUtils": [
 		"ref: 7FF78AE84A28; addr: 7FF78490C6AD",
-		774
+		6
 	],
 	"FLogStudioMostRecentLoginUtil": [
 		"ref: 7FF78AE84B58; addr: 7FF78490CF8D",
-		774
+		6
 	],
 	"FLogLoginDialog": [
 		"ref: 7FF78AE84FF8; addr: 7FF7849114CD",
-		774
+		6
 	],
 	"FLogStudioDataModelLuaFlagOverrides": [
 		"ref: 7FF78AE87688; addr: 7FF78493893D",
-		774
+		6
 	],
 	"FLogToolboxManager": [
 		"ref: 7FF78AE88C30; addr: 7FF78494E26D",
-		1030
+		6
 	],
 	"FLogToolboxWebBrowserWidget": [
 		"ref: 7FF78AE89210; addr: 7FF784950BAD",
-		774
+		6
 	],
 	"FLogToolboxWebBrowserWidgetV2": [
 		"ref: 7FF78AE89850; addr: 7FF7849511AD",
-		774
+		6
 	],
 	"FLogUserContextController": [
 		"ref: 7FF78AE89C38; addr: 7FF78495865D",
-		774
+		6
 	],
 	"FLogAuthTokenManager": [
 		"ref: 7FF78AE8AF68; addr: 7FF78495F8FD",
-		774
+		6
 	],
 	"FLogWebBrowserWidget": [
 		"ref: 7FF78AE8BBA8; addr: 7FF784964DDD",
-		774
+		6
 	],
 	"FLogWebBrowserManager": [
 		"ref: 7FF78AE8C1F8; addr: 7FF78498D37D",
-		1030
+		6
 	],
 	"FLogWebBrowserContext": [
 		"ref: 7FF78AE8CD98; addr: 7FF784990CFD",
-		1030
+		6
 	],
 	"FLogUIThreadNotifier": [
 		"ref: 7FF78AE8D458; addr: 7FF784994DBD",
-		1030
+		6
 	],
 	"FLogStudioPluginOTA": [
 		"ref: 7FF78AE8E800; addr: 7FF78499DCFD",
-		774
+		6
 	],
 	"FLogStudioPluginOTACVS": [
 		"ref: 7FF78AE8F0C8; addr: 7FF7849A3D7D",
-		1030
+		6
 	],
 	"FLogRemoteCommandService": [
 		"ref: 7FF78AE90808; addr: 7FF7849B4C7D",
-		774
+		6
 	],
 	"FLogUpdateManagerBridge": [
 		"ref: 7FF78AE923F8; addr: 7FF7849CA3BD",
-		774
+		6
 	],
 	"FLogStatusFileManagerLogV2": [
 		"ref: 7FF78AE92A68; addr: 7FF7849CD90D",
-		1030
+		6
 	],
 	"FLogCloudEditController": [
 		"ref: 7FF78AE93AB8; addr: 7FF7849D282D",
-		1030
+		6
 	],
 	"FLogPlayersDataManager": [
 		"ref: 7FF78AE93E58; addr: 7FF7849D57CD",
-		774
+		6
 	],
 	"FLogTeamTestJoinConfig": [
 		"ref: 7FF78AE949E0; addr: 7FF7849DCA9D",
-		1030
+		6
 	],
 	"FLogTeamCreateJoinPayload": [
 		"ref: 7FF78AE95D60; addr: 7FF7849E72ED",
-		1030
+		6
 	],
 	"FLogCloudEditConnectionModel": [
 		"ref: 7FF78AE96378; addr: 7FF7849EF21D",
-		1030
+		6
 	],
 	"FLogUserNotificationClient": [
 		"ref: 7FF78AE974A0; addr: 7FF7849F2FCD",
-		768
+		0
 	],
 	"FLogStudioReplicationSyncDialogTelemetry": [
 		"ref: 7FF78AE98330; addr: 7FF7849F71AD",
-		774
+		6
 	],
 	"FLogPlaceSessionStateTelemetry": [
 		"ref: 7FF78AE98830; addr: 7FF7849FBE6D",
-		1030
+		6
 	],
 	"FLogPlaceOpener": [
 		"ref: 7FF78AE98FB0; addr: 7FF784A08DED",
-		774
+		6
 	],
 	"FLogPlaceSessionContextBridge": [
 		"ref: 7FF78AE99288; addr: 7FF784A10D2D",
-		774
+		6
 	],
 	"FLogPlaceDataDownloadUtil": [
 		"ref: 7FF78AE994F8; addr: 7FF784A15A3D",
-		774
+		6
 	],
 	"FLogThumbnailController": [
 		"ref: 7FF78AE9A4A8; addr: 7FF784A2283D",
-		1286
+		6
 	],
 	"FLogScriptEditorBridge": [
 		"ref: 7FF78AEA61D8; addr: 7FF784AADD8D",
-		774
+		6
 	],
 	"FLogStudioFlagEditor": [
 		"ref: 7FF78AEA84B8; addr: 7FF784ABBE5D",
-		768
+		0
 	],
 	"FLogStudioInternalDebugWidget": [
 		"ref: 7FF78AEA9D40; addr: 7FF784AC015D",
-		768
+		0
 	],
 	"FLogLogFileSyncManager": [
 		"ref: 7FF78AEAA8E8; addr: 7FF784AC9CAD",
-		768
+		0
 	],
 	"FLogPresenceManager": [
 		"ref: 7FF78AEAB428; addr: 7FF784AD19FD",
-		1030
+		6
 	],
 	"FLogCollaboratorAvatarLoader": [
 		"ref: 7FF78AEABC50; addr: 7FF784AD465D",
-		1030
+		6
 	],
 	"FLogAIDiffMessageLog": [
 		"ref: 7FF78AEB0A10; addr: 7FF784B02BDD",
-		768
+		0
 	],
 	"FLogConversationalAI": [
 		"ref: 7FF78AEB1578; addr: 7FF784B4750D",
-		774
+		6
 	],
 	"FLogAssistantApplication": [
 		"ref: 7FF78AEB7540; addr: 7FF784B6B90D",
-		774
+		6
 	],
 	"FLogAssistantBridge": [
 		"ref: 7FF78AEB7B38; addr: 7FF784B7746D",
-		774
+		6
 	],
 	"FLogAssistantExperimentation": [
 		"ref: 7FF78AEB7E10; addr: 7FF784B7CABD",
-		774
+		6
 	],
 	"FLogPlaceVersionCheck": [
 		"ref: 7FF78AEBC770; addr: 7FF784B9B6BD",
-		1030
+		6
 	],
 	"FLogAssetAccessController": [
 		"ref: 7FF78AEC1758; addr: 7FF784BD6CBD",
-		774
+		6
 	],
 	"FLogInsertObjectModel": [
 		"ref: 7FF78AEC1FC0; addr: 7FF784BDD4DD",
-		774
+		6
 	],
 	"FLogInsertObjectUtils": [
 		"ref: 7FF78AEC2E70; addr: 7FF784BEA48D",
-		774
+		6
 	],
 	"FLogInsertObjectDataModelController": [
 		"ref: 7FF78AEC3810; addr: 7FF784BF25FD",
-		774
+		6
 	],
 	"FLogInsertObjectSettings": [
 		"ref: 7FF78AEC3A90; addr: 7FF784C01A0D",
-		774
+		6
 	],
 	"FLogSystemCursor": [
 		"ref: 7FF78AEC5478; addr: 7FF784C0C3CD",
-		774
+		6
 	],
 	"FLogCustomizedDefaultInstances": [
 		"ref: 7FF78AE0D908; addr: 7FF784C1098D",
-		774
+		6
 	],
 	"FLogLocalPlacePublishRequestMediator": [
 		"ref: 7FF78AEC7438; addr: 7FF784C362AD",
-		774
+		6
 	],
 	"FLogPublishMediator": [
 		"ref: 7FF78AEC89B8; addr: 7FF784C403ED",
-		774
+		6
 	],
 	"FLogLSCReplacerLog": [
 		"ref: 7FF78AEDFA28; addr: 7FF784C8C5BD",
-		768
+		0
 	],
 	"FLogBulkImport": [
 		"ref: 7FF78ADDDD50; addr: 7FF784C97EBD",
-		768
+		0
 	],
 	"FLogMeshSplitting": [
 		"ref: 7FF78AEE8778; addr: 7FF784CDDA9D",
-		768
+		0
 	],
 	"FLogMaterialGenerator": [
 		"ref: 7FF78AEF24B8; addr: 7FF784D2962D",
-		774
+		6
 	],
 	"FLogTextureGenerationService": [
 		"ref: 7FF78AEF3618; addr: 7FF784D4EFFD",
-		1030
+		6
 	],
 	"FLogTextureGenerationUnwrappingRequest": [
 		"ref: 7FF78AEF5448; addr: 7FF784D5AA0D",
-		774
+		6
 	],
 	"FLogAssetImport": [
 		"ref: 7FF78AEF7470; addr: 7FF784D7795D",
-		774
+		6
 	],
 	"FLogRenderRequest": [
 		"ref: 7FF78AEFA5E8; addr: 7FF784DC1CED",
-		768
+		0
 	],
 	"FLogStudioApplicationManager": [
 		"ref: 7FF78AEFB5A0; addr: 7FF784DC7E4D",
-		1030
+		6
 	],
 	"FLogStudioRPC": [
 		"ref: 7FF78AEFC600; addr: 7FF784DCCDAD",
-		768
+		0
 	],
 	"FLogCreateGraphicsEngine": [
 		"ref: 7FF78AEFC900; addr: 7FF784DCE24D",
-		1030
+		6
 	],
 	"FLogEngineWidget": [
 		"ref: 7FF78AEFCBC0; addr: 7FF784DD056D",
-		1030
+		6
 	],
 	"FLogAuxiliaryView": [
 		"ref: 7FF78AEFD560; addr: 7FF784DD2F5D",
-		1030
+		6
 	],
 	"FLogVoiceChatRTPStats": [
 		"ref: 7FF78AF035E0; addr: 7FF784E3C25D",
-		768
+		0
 	],
 	"FLogWebRTC": [
 		"ref: 7FF78AF0B298; addr: 7FF784E5692D",
-		768
+		0
 	],
 	"FLogVerboseWebRtcStats": [
 		"ref: 7FF78AF0C2C0; addr: 7FF784E5F91D",
-		768
+		0
 	],
 	"FLogRobloxDocManager": [
 		"ref: 7FF78AF13D70; addr: 7FF784EA388D",
-		1030
+		6
 	],
 	"FLogStudioLocalSaveMD5HashOutput": [
 		"ref: 7FF78AF14460; addr: 7FF784EA782D",
-		768
+		0
 	],
 	"FLogUpdateUIManagerContextMenu": [
 		"ref: 7FF78AF15090; addr: 7FF784EAFA5D",
-		768
+		0
 	],
 	"FLogUpdateUIManager": [
 		"ref: 7FF78AF15080; addr: 7FF784EAFA7D",
-		768
+		0
 	],
 	"FLogStudioDocking": [
 		"ref: 7FF78AF17510; addr: 7FF784EC0FBD",
-		1030
+		6
 	],
 	"FLogStudioDockingLayoutInfo": [
 		"ref: 7FF78AF17540; addr: 7FF784EC0FDD",
-		1030
+		6
 	],
 	"FLogLogQtitanDumpVisualHierarchy": [
 		"ref: 7FF78AF18460; addr: 7FF784EC623D",
-		768
+		0
 	],
 	"FLogParallelOperations": [
 		"ref: 7FF78AF196F0; addr: 7FF784EDA00D",
-		768
+		0
 	],
 	"FLogParallelLSCSearcherLog": [
 		"ref: 7FF78AF197A0; addr: 7FF784EDD24D",
-		768
+		0
 	],
 	"FLogParallelDMLog": [
 		"ref: 7FF78AF19AB8; addr: 7FF784EDEFAD",
-		768
+		0
 	],
 	"FLogCppPluginErrorReporter": [
 		"ref: 7FF78AF1A5E0; addr: 7FF784EF238D",
-		774
+		6
 	],
 	"FLogAssetPluginErrorReporter": [
 		"ref: 7FF78AF1AC00; addr: 7FF784EF745D",
-		774
+		6
 	],
 	"FLogStandalonePluginErrorReporter": [
 		"ref: 7FF78AF1AD78; addr: 7FF784EFA5CD",
-		774
+		6
 	],
 	"FLogDebuggerUIService": [
 		"ref: 7FF78AF1BD58; addr: 7FF784F0DC7D",
-		768
+		0
 	],
 	"FLogXmlUtil": [
 		"ref: 7FF78AF22330; addr: 7FF784F2747D",
-		768
+		0
 	],
 	"FLogLiveScriptingTelemetryTrace": [
 		"ref: 7FF78AF294D8; addr: 7FF784F7084D",
-		768
+		0
 	],
 	"FLogStudioDebuggerV2": [
 		"ref: 7FF78AF3D4A8; addr: 7FF78501801D",
-		768
+		0
 	],
 	"FLogRibbonConfiguration": [
 		"ref: 7FF78AF497E0; addr: 7FF7850942AD",
-		774
+		6
 	],
 	"FLogRibbonJsonSerialization": [
 		"ref: 7FF78AF49EA0; addr: 7FF78509541D",
-		774
+		6
 	],
 	"FLogActions": [
 		"ref: 7FF78AE65F88; addr: 7FF7850BF3DD",
-		774
+		6
 	],
 	"FLogPanels": [
 		"ref: 7FF78AF4AB20; addr: 7FF7850D68BD",
-		774
+		6
 	],
 	"FLogSettings": [
 		"ref: 7FF78AE12B20; addr: 7FF7851049FD",
-		774
+		6
 	],
 	"FLogSpotlight": [
 		"ref: 7FF78AF4D460; addr: 7FF78511E23D",
-		774
+		6
 	],
 	"FLogTools": [
 		"ref: 7FF78AE64704; addr: 7FF78513316D",
-		774
+		6
 	],
 	"FLogWidgets": [
 		"ref: 7FF78AF4DF70; addr: 7FF785149EDD",
-		774
+		6
 	],
 	"FLogDEPRECATED_BetaFeatures": [
 		"ref: 7FF78AF57968; addr: 7FF78517792D",
-		1030
+		6
 	],
 	"FLogStudioUserPreferences": [
 		"ref: 7FF78AF57F08; addr: 7FF78517FF0D",
-		769
+		1
 	],
 	"FLogRibbonBetaIxpCheck": [
 		"ref: 7FF78AF58E50; addr: 7FF785180FAD",
-		1286
+		6
 	],
 	"FLogPlaySoloTiming": [
 		"ref: 7FF78AF5A9B0; addr: 7FF7851928CD",
-		1030
+		6
 	],
 	"FLogStateMachine": [
 		"ref: 7FF78AF5BB80; addr: 7FF7851A925D",
-		1030
+		6
 	],
 	"FLogStudioFontDatabase": [
 		"ref: 7FF78AF5BFE8; addr: 7FF7851AD71D",
-		774
+		6
 	],
 	"FLogStudioApplicationState": [
 		"ref: 7FF78AF5D408; addr: 7FF7851B07ED",
-		1030
+		6
 	],
 	"FLogFirstTimeLoggedInUtil": [
 		"ref: 7FF78AF5D800; addr: 7FF7851B1B8D",
-		768
+		0
 	],
 	"FLogStudioLoadClientCookie": [
 		"ref: 7FF78AF5D948; addr: 7FF7851B25FD",
-		768
+		0
 	],
 	"FLogInteractionTelemetry": [
 		"ref: 7FF78ADFFF58; addr: 7FF7851C26DD",
-		774
+		6
 	],
 	"FLogStudioCmds": [
 		"ref: 7FF78AF6C628; addr: 7FF785257BCD",
-		768
+		0
 	],
 	"FLogSecretsUtils": [
 		"ref: 7FF78AF6D250; addr: 7FF78526E7ED",
-		1030
+		6
 	],
 	"FLogPlaceSessionConfiguration": [
 		"ref: 7FF78AF6D498; addr: 7FF785273B7D",
-		768
+		0
 	],
 	"FLogLiveEditingSession": [
 		"ref: 7FF78AF6F970; addr: 7FF7852B4BFD",
-		1030
+		6
 	],
 	"FLogLiveScriptingDMClient": [
 		"ref: 7FF78AF75660; addr: 7FF7852EF09D",
-		768
+		0
 	],
 	"FLogLSPError": [
 		"ref: 7FF78AF78100; addr: 7FF7853351ED",
-		768
+		0
 	],
 	"FLogLSPJson": [
 		"ref: 7FF78AF780D8; addr: 7FF78533520D",
-		768
+		0
 	],
 	"FLogLSPTrace": [
 		"ref: 7FF78AF780E0; addr: 7FF78533522D",
-		768
+		0
 	],
 	"FLogLSPWarning": [
 		"ref: 7FF78AF780F0; addr: 7FF78533524D",
-		768
+		0
 	],
 	"FLogLiveScriptingService": [
 		"ref: 7FF78AF78B30; addr: 7FF78534F26D",
-		768
+		0
 	],
 	"FLogPatchBundlerFileWatch": [
 		"ref: 7FF78AF7DA18; addr: 7FF78537837D",
-		774
+		6
 	],
 	"FLogLanguageServiceDestructor": [
 		"ref: 7FF78AF7E600; addr: 7FF78539558D",
-		774
+		6
 	],
 	"FLogLanguageServiceLuauExternLogger": [
 		"ref: 7FF78AF7E620; addr: 7FF7853955AD",
-		1030
+		6
 	],
 	"FLogLanguageServiceAnalysisTimeout": [
 		"ref: 7FF78AF83FE0; addr: 7FF78541389D",
-		774
+		6
 	],
 	"FLogAssetPermissionsApiAssetsCheckPermissionsRequest": [
 		"ref: 7FF78AF88090; addr: 7FF78543799D",
-		774
+		6
 	],
 	"FLogInventoryApiIsOwnedRequest": [
 		"ref: 7FF78AF88018; addr: 7FF785437A1D",
-		774
+		6
 	],
 	"FLogMarketplaceFiatServiceCloudGetProduct": [
 		"ref: 7FF78AF88038; addr: 7FF785437A3D",
-		774
+		6
 	],
 	"FLogMarketplaceFiatServiceProductPurchaseRequest": [
 		"ref: 7FF78AF88060; addr: 7FF785437A5D",
-		774
+		6
 	],
 	"FLogPermissionsUtil": [
 		"ref: 7FF78AF88008; addr: 7FF785437A7D",
-		1030
+		6
 	],
 	"FLogStudioTimingLog": [
 		"ref: 7FF78AF8B6C0; addr: 7FF78545B0CD",
-		774
+		6
 	],
 	"FLogStudioPerformanceMeasurementsSummary": [
 		"ref: 7FF78AF8BCA8; addr: 7FF78545C37D",
-		1030
+		6
 	],
 	"FLogStudioDiskInfo": [
 		"ref: 7FF78ADB22C0; addr: 7FF78545F9AD",
-		1030
+		6
 	],
 	"FLogStudioMemoryStatistics": [
 		"ref: 7FF78AF8C2E0; addr: 7FF7854622DD",
-		768
+		0
 	],
 	"FLogStudioAnalytics": [
 		"ref: 7FF78AF8D2D0; addr: 7FF785468A3D",
-		769
+		1
 	],
 	"FLogUserHeartbeats": [
 		"ref: 7FF78AF8D3B0; addr: 7FF78546BBAD",
-		1030
+		6
 	],
 	"FLogLockFreeMutexRegistry": [
 		"ref: 7FF78AF8D4A8; addr: 7FF78546CE7D",
-		1030
+		6
 	],
 	"FLogStudioMemoryLog": [
 		"ref: 7FF78AF8D908; addr: 7FF78546F0FD",
-		774
+		6
 	],
 	"FLogTrackUserActions": [
 		"ref: 7FF78AF8DC48; addr: 7FF7854722AD",
-		768
+		0
 	],
 	"FLogUserLoginTracker": [
 		"ref: 7FF78AF8DE18; addr: 7FF7854738FD",
-		1030
+		6
 	],
 	"FLogBackendConfigLocalBackup": [
 		"ref: 7FF78AF8E340; addr: 7FF785475DCD",
-		1030
+		6
 	],
 	"FLogUpdateRequest": [
 		"ref: 7FF78AF8CC70; addr: 7FF78548043D",
-		1030
+		6
 	],
 	"FLogReflectionMetadata": [
 		"ref: 7FF78AF90518; addr: 7FF78549453D",
-		769
+		1
 	],
 	"FLogStudioHttpRequest": [
 		"ref: 7FF78AF95378; addr: 7FF78549DECD",
-		768
+		0
 	],
 	"FLogStudioEmbeddedWebBrowser": [
 		"ref: 7FF78AF96640; addr: 7FF7854A27AD",
-		768
+		0
 	],
 	"FLogStudioEmbeddedBrowserWebView2": [
 		"ref: 7FF78AF96CA8; addr: 7FF7854B4B3D",
-		768
+		0
 	],
 	"FLogStudioCookieManagerDiagnostics": [
 		"ref: 7FF78AF99BF8; addr: 7FF7854BC48D",
-		768
+		0
 	],
 	"FLogStudioCookieManager": [
 		"ref: 7FF78AF99BE0; addr: 7FF7854BC4AD",
-		1030
+		6
 	],
 	"FLogMultiUserKeyValueStorage": [
 		"ref: 7FF78AF9A270; addr: 7FF7854BDE7D",
-		1030
+		6
 	],
 	"FLogKeyValueStorage": [
 		"ref: 7FF78AF9A360; addr: 7FF7854BE86D",
-		768
+		0
 	],
 	"FLogCancellableResultWaiter": [
 		"ref: 7FF78AF9A588; addr: 7FF7854C182D",
-		1030
+		6
 	],
 	"FLogDataModelMultiplexer": [
 		"ref: 7FF78AF9A570; addr: 7FF7854C184D",
-		1030
+		6
 	],
 	"FLogTeamCreatePublishService": [
 		"ref: 7FF78AF9A610; addr: 7FF7854C640D",
-		774
+		6
 	],
 	"FLogInGamePlaceUpload": [
 		"ref: 7FF78AF9B028; addr: 7FF7854CF1AD",
-		774
+		6
 	],
 	"FLogLocalPlaceUpload": [
 		"ref: 7FF78AF9B010; addr: 7FF7854CF22D",
-		774
+		6
 	],
 	"FLogTeamCreatePlaceUpload": [
 		"ref: 7FF78AF9B040; addr: 7FF7854CF3ED",
-		774
+		6
 	],
 	"FLogTeamCreatePublishExtraInfo": [
 		"ref: 7FF78AF9AE98; addr: 7FF7854CF42D",
-		774
+		6
 	],
 	"FLogTrackTeamCreateSaveMD5HashOutput": [
 		"ref: 7FF78AF9AE70; addr: 7FF7854CF48D",
-		774
+		6
 	],
 	"FLogPlaceUpload": [
 		"ref: 7FF78AF9CA60; addr: 7FF7854DCE5D",
-		1030
+		6
 	],
 	"FLogStudioDataModelProxy": [
 		"ref: 7FF78AF9CE28; addr: 7FF7854E686D",
-		1030
+		6
 	],
 	"FLogStudioThemeV1": [
 		"ref: 7FF78AFA0308; addr: 7FF7855115BD",
-		1030
+		6
 	],
 	"FLogInstanceCounter": [
 		"ref: 7FF78AFA24C0; addr: 7FF785514C5D",
-		774
+		6
 	],
 	"FLogCrashHandler_MutexScopeGuard": [
 		"ref: 7FF78AFA2620; addr: 7FF785514E7D",
-		774
+		6
 	],
 	"FLogInterprocessReadWriteLock": [
 		"ref: 7FF78AFA2888; addr: 7FF785515AFD",
-		1030
+		6
 	],
 	"FLogStudioSharedMemory": [
 		"ref: 7FF78AFA29E0; addr: 7FF7855169AD",
-		1030
+		6
 	],
 	"FLogCrashReportLog": [
 		"ref: 7FF78AFA2CE0; addr: 7FF78551847D",
-		1030
+		6
 	],
 	"FLogHangMonitor": [
 		"ref: 7FF78AFA5EE0; addr: 7FF7855324AD",
-		1030
+		6
 	],
 	"FLogGameJoinUtil": [
 		"ref: 7FF78AFA66C8; addr: 7FF78553402D",
-		774
+		6
 	],
 	"FLogTransitionType": [
 		"ref: 7FF78AFA66D8; addr: 7FF78553430D",
-		768
+		0
 	],
 	"FLogStartupController": [
 		"ref: 7FF78AFA76D0; addr: 7FF785538C8D",
-		768
+		0
 	],
 	"FLogRobloxInputGesture": [
 		"ref: 7FF78AFA82F0; addr: 7FF78554A33D",
-		774
+		6
 	],
 	"FLogGameShutdownDebug": [
 		"ref: 7FF78AFAA0C0; addr: 7FF78555587D",
-		262
+		6
 	],
 	"FLogInferredHangTracker": [
 		"ref: 7FF78AFAA210; addr: 7FF785556ACD",
-		774
+		6
 	],
 	"FLogRvVideoRecorder": [
 		"ref: 7FF78AFAA268; addr: 7FF785556F0D",
-		1030
+		6
 	],
 	"FLogSurfaceControllerDebug": [
 		"ref: 7FF78AFAAD58; addr: 7FF78555948D",
-		768
+		0
 	],
 	"FLogSurfaceController": [
 		"ref: 7FF78AFAAD40; addr: 7FF7855594AD",
-		774
+		6
 	],
 	"FLogRegisterBacktraceReporterCallback": [
 		"ref: 7FF78AFAAEE8; addr: 7FF78555D33D",
-		518
+		6
 	],
 	"FLogCookieStorage": [
 		"ref: 7FF78AFAB4C0; addr: 7FF78555F46D",
-		768
+		0
 	],
 	"FLogAppBridge": [
 		"ref: 7FF78AFAB5C8; addr: 7FF7855616ED",
-		768
+		0
 	],
 	"FLogClientRunInfo": [
 		"ref: 7FF78AFABB78; addr: 7FF78556172D",
-		774
+		6
 	],
 	"FLogRequestWrapper": [
 		"ref: 7FF78AFAC708; addr: 7FF785562EFD",
-		768
+		0
 	],
 	"FLogLoggingProtocolCore": [
 		"ref: 7FF78AFACA60; addr: 7FF7855664BD",
-		768
+		0
 	],
 	"FLogIxpFlagLinkedExperimentRegister": [
 		"ref: 7FF78AFAE248; addr: 7FF78557503D",
-		774
+		6
 	],
 	"FLogIxpLayers": [
 		"ref: 7FF78AFAE6F8; addr: 7FF785577BED",
-		774
+		6
 	],
 	"FLogCookieProtocolCore": [
 		"ref: 7FF78AFB0128; addr: 7FF78557C2AD",
-		768
+		0
 	],
 	"FLogExperimentationProtocolCore": [
 		"ref: 7FF78AFB02A8; addr: 7FF7855803CD",
-		768
+		0
 	],
 	"FLogBaseUrlProtocol": [
 		"ref: 7FF78AFB0C70; addr: 7FF785581E7D",
-		518
+		6
 	],
 	"FLogDMNotificationMonitor": [
 		"ref: 7FF78AFB2C38; addr: 7FF785596FED",
-		774
+		6
 	],
 	"FLogSingleSurfaceApp": [
 		"ref: 7FF78AFB2A38; addr: 7FF78559746D",
-		774
+		6
 	],
 	"FLogInferredCrashBacktraceReportLog": [
 		"ref: 7FF78AFB2D20; addr: 7FF785598F6D",
-		518
+		6
 	],
 	"FLogExperienceService": [
 		"ref: 7FF78AFB3330; addr: 7FF78559F2DD",
-		774
+		6
 	],
 	"FLogPerformanceControlUtil": [
 		"ref: 7FF78AFB3ED0; addr: 7FF7855A373D",
-		1030
+		6
 	],
 	"FLogWebLoginProtocol": [
 		"ref: 7FF78AFB5608; addr: 7FF7855AC41D",
-		518
+		6
 	],
 	"FLogUserController": [
 		"ref: 7FF78AFB5A00; addr: 7FF7855AC62D",
-		768
+		0
 	],
 	"FLogExperienceFactory": [
 		"ref: 7FF78AFB5A38; addr: 7FF7855AC64D",
-		518
+		6
 	],
 	"FLogWebLoginController": [
 		"ref: 7FF78AFB6AD0; addr: 7FF7855B400D",
-		768
+		0
 	],
 	"FLogExperienceCoordinator": [
 		"ref: 7FF78AFB6DB8; addr: 7FF7855B4B4D",
-		518
+		6
 	],
 	"FLogLuaAppExperienceController": [
 		"ref: 7FF78AFB6E58; addr: 7FF7855B53BD",
-		518
+		6
 	],
 	"FLogUgcExperienceController": [
 		"ref: 7FF78AFB7320; addr: 7FF7855B5CED",
-		1030
+		6
 	],
 	"FLogCrossExperienceVoiceController": [
 		"ref: 7FF78AFB8508; addr: 7FF7855B641D",
-		1030
+		6
 	],
 	"FLogAudioFocusService": [
 		"ref: 7FF78AFB5E68; addr: 7FF7855B7D7D",
-		1030
+		6
 	],
 	"FLogPerformanceControlService": [
 		"ref: 7FF78AFB6270; addr: 7FF7855B867D",
-		1030
+		6
 	],
 	"FLogExperienceActionObservable": [
 		"ref: 7FF78AFBA358; addr: 7FF7855BA33D",
-		518
+		6
 	],
 	"FLogBaseExperienceController": [
 		"ref: 7FF78AFBA378; addr: 7FF7855BA35D",
-		518
+		6
 	],
 	"FLogAppArchExperimentHelper": [
 		"ref: 7FF78AFBA398; addr: 7FF7855BA37D",
-		518
+		6
 	],
 	"FLogLowMemoryWarning": [
 		"ref: 7FF78AE0A570; addr: 7FF7855BABDD",
-		774
+		6
 	],
 	"FLogUniversalAppMessageLogs": [
 		"ref: 7FF78AFBA658; addr: 7FF7855BAC3D",
-		768
+		0
 	],
 	"FLogAudioFocusManager": [
 		"ref: 7FF78AFBAB40; addr: 7FF7855BBCDD",
-		1030
+		6
 	],
 	"FLogExperienceStateCaptureController": [
 		"ref: 7FF78AFBAC28; addr: 7FF7855BC52D",
-		774
+		6
 	],
 	"FLogMissingDataPing": [
 		"ref: 7FF78AFBC420; addr: 7FF7855FA4DD",
-		518
+		6
 	],
 	"FLogNetworkCluster": [
 		"ref: 7FF78AFBC1D0; addr: 7FF7855FA68D",
-		768
+		0
 	],
 	"FLogNetworkJDIImpact": [
 		"ref: 7FF78AFBC650; addr: 7FF7855FA76D",
-		768
+		0
 	],
 	"FLogNetworkPacketsReceive": [
 		"ref: 7FF78AFBC1B8; addr: 7FF7855FA7AD",
-		768
+		0
 	],
 	"FLogNetworkStatsReport": [
 		"ref: 7FF78AFBC148; addr: 7FF7855FA86D",
-		768
+		0
 	],
 	"FLogNetworkStepsMultipliers": [
 		"ref: 7FF78AFBC160; addr: 7FF7855FA88D",
-		768
+		0
 	],
 	"FLogReplicatorPropertyCoalescing": [
 		"ref: 7FF78AFBC198; addr: 7FF7855FAF4D",
-		768
+		0
 	],
 	"FLogTeamCreateServerScriptChanges": [
 		"ref: 7FF78AFBC178; addr: 7FF7855FB8BD",
-		768
+		0
 	],
 	"FLogClientRecvFromRaknet": [
 		"ref: 7FF78AFC62D8; addr: 7FF78562AFDD",
-		768
+		0
 	],
 	"FLogNetworkClient": [
 		"ref: 7FF78AFC41F8; addr: 7FF78562B1BD",
-		1030
+		6
 	],
 	"FLogRupp": [
 		"ref: 7FF78AFC62F0; addr: 7FF78562B1FD",
-		518
+		6
 	],
 	"FLogJoinDataRxStats": [
 		"ref: 7FF78AFC82F0; addr: 7FF7856442DD",
-		768
+		0
 	],
 	"FLogJoinInstanceTypeBreakdown": [
 		"ref: 7FF78AFC8300; addr: 7FF7856442FD",
-		768
+		0
 	],
 	"FLogPartStreamingRequests": [
 		"ref: 7FF78AFC8250; addr: 7FF78564435D",
-		768
+		0
 	],
 	"FLogShipsInNightGarbageCollection": [
 		"ref: 7FF78AFC8200; addr: 7FF78564452D",
-		774
+		6
 	],
 	"FLogNetworkItemQueueDtor": [
 		"ref: 7FF78AFCD130; addr: 7FF78564CC9D",
-		768
+		0
 	],
 	"FLogNetworkStreaming": [
 		"ref: 7FF78AFCD4E0; addr: 7FF78566705D",
-		768
+		0
 	],
 	"FLogStreamJobLimits": [
 		"ref: 7FF78AFCD518; addr: 7FF78566721D",
-		768
+		0
 	],
 	"FLogStreamMRF": [
 		"ref: 7FF78AFCD618; addr: 7FF7856674DD",
-		768
+		0
 	],
 	"FLogConfigureWithoutRun": [
 		"ref: 7FF78AFD0C10; addr: 7FF7856802FD",
-		768
+		0
 	],
 	"FLogAvatarJoinMetrics": [
 		"ref: 7FF78AFD1730; addr: 7FF78569A01D",
-		768
+		0
 	],
 	"FLogGameJoinLoadTime": [
 		"ref: 7FF78AFD1808; addr: 7FF78569A47D",
-		774
+		6
 	],
 	"FLogJoinTimeLog": [
 		"ref: 7FF78AFD18B8; addr: 7FF78569A53D",
-		772
+		4
 	],
 	"FLogPlayerConfigurer": [
 		"ref: 7FF78AFD1BF0; addr: 7FF78569A6BD",
-		1030
+		6
 	],
 	"FLogReportFeOnStartup": [
 		"ref: 7FF78AFD4B50; addr: 7FF7856A86AD",
-		768
+		0
 	],
 	"FLogTeamTest": [
 		"ref: 7FF78AE08328; addr: 7FF7856A884D",
-		768
+		0
 	],
 	"FLogNetworkSenderStallTracking": [
 		"ref: 7FF78AFD7F10; addr: 7FF7856B6FBD",
-		774
+		6
 	],
 	"FLogPPJProgressHalt": [
 		"ref: 7FF78AFD7EC0; addr: 7FF7856B6FDD",
-		774
+		6
 	],
 	"FLogNetworkBandwidthManagerTrace": [
 		"ref: 7FF78AFD9528; addr: 7FF7856C643D",
-		768
+		0
 	],
 	"FLogUnreliableItems": [
 		"ref: 7FF78AFDE2A0; addr: 7FF7856EA48D",
-		774
+		6
 	],
 	"FLogCharacterModelTrackingForJoin": [
 		"ref: 7FF78AFE05E0; addr: 7FF78571A06D",
-		768
+		0
 	],
 	"FLogMegaReplicatorConnData": [
 		"ref: 7FF78AFE05C8; addr: 7FF78571A38D",
-		768
+		0
 	],
 	"FLogMegaReplicatorLogDisconnectCleanUpLog": [
 		"ref: 7FF78AFE05A0; addr: 7FF78571A3ED",
-		768
+		0
 	],
 	"FLogModelCompleteClient": [
 		"ref: 7FF78AFE0520; addr: 7FF78571A46D",
-		768
+		0
 	],
 	"FLogModelCompleteServer": [
 		"ref: 7FF78AFE0508; addr: 7FF78571A48D",
-		768
+		0
 	],
 	"FLogNetworkSharedQueueCleanup": [
 		"ref: 7FF78AFE0550; addr: 7FF78571A4AD",
-		768
+		0
 	],
 	"FLogNetworkSharedQueue": [
 		"ref: 7FF78AFE0538; addr: 7FF78571A4CD",
-		768
+		0
 	],
 	"FLogNetworkSyncMemoryUsage": [
 		"ref: 7FF78AFE0658; addr: 7FF78571A4ED",
-		768
+		0
 	],
 	"FLogReplicationDataCacheLifetime": [
 		"ref: 7FF78AFE04E8; addr: 7FF78571A5ED",
-		768
+		0
 	],
 	"FLogReplicationJoinBatchLog": [
 		"ref: 7FF78AFE0618; addr: 7FF78571A60D",
-		768
+		0
 	],
 	"FLogSharedStringCacheInfo": [
 		"ref: 7FF78AFE7F28; addr: 7FF7857569ED",
-		774
+		6
 	],
 	"FLogDebugEnableStreamOutToDiskLog": [
 		"ref: 7FF78AFE8760; addr: 7FF78576785D",
-		774
+		6
 	],
 	"FLogStreamPrefetch": [
 		"ref: 7FF78AFE8568; addr: 7FF785767E8D",
-		768
+		0
 	],
 	"FLogPhysicsNetwork": [
 		"ref: 7FF78AFEAAB8; addr: 7FF78577A43D",
-		768
+		0
 	],
 	"FLogStreamingPinLog": [
 		"ref: 7FF78AFEB038; addr: 7FF78578E66D",
-		1286
+		6
 	],
 	"FLogStreamingObserverDetailed": [
 		"ref: 7FF78AFEC128; addr: 7FF78579EACD",
-		768
+		0
 	],
 	"FLogStreamingObserverPrimitiveDetailed": [
 		"ref: 7FF78AFEC148; addr: 7FF78579EB6D",
-		768
+		0
 	],
 	"FLogRCCNetLatency": [
 		"ref: 7FF78AFEF3E8; addr: 7FF7857AE61D",
-		768
+		0
 	],
 	"FLogLargeReplicatorTrace": [
 		"ref: 7FF78AFF1C48; addr: 7FF7857D7DBD",
-		774
+		6
 	],
 	"FLogISRTimestampOffsets": [
 		"ref: 7FF78AFF3CE8; addr: 7FF7857F5E5D",
-		1286
+		6
 	],
 	"FLogRecommendationSystem": [
 		"ref: 7FF78AFF4920; addr: 7FF785804DAD",
-		774
+		6
 	],
 	"FLogModelLodDetailed": [
 		"ref: 7FF78AFF8260; addr: 7FF7858216AD",
-		768
+		0
 	],
 	"FLogModelLod": [
 		"ref: 7FF78AFF8250; addr: 7FF7858216CD",
-		768
+		0
 	],
 	"FLogTextureManager": [
 		"ref: 7FF78AFF8D10; addr: 7FF7858388ED",
-		768
+		0
 	],
 	"FLogTextureQualityLog": [
 		"ref: 7FF78AFF8D20; addr: 7FF78583890D",
-		768
+		0
 	],
 	"FLogRenderTest": [
 		"ref: 7FF78AFFBFD8; addr: 7FF78584C78D",
-		768
+		0
 	],
 	"FLogVRHaptics": [
 		"ref: 7FF78AFFBFC8; addr: 7FF78584CB7D",
-		768
+		0
 	],
 	"FLogUIRenderTextureFlow": [
 		"ref: 7FF78B006498; addr: 7FF7858E5B9D",
-		768
+		0
 	],
 	"FLogVideoManager": [
 		"ref: 7FF78B007910; addr: 7FF78590549D",
-		768
+		0
 	],
 	"FLogRenderInstanceGlob": [
 		"ref: 7FF78B007DC0; addr: 7FF78590A7AD",
-		768
+		0
 	],
 	"FLogRenderMeshManager": [
 		"ref: 7FF78B008640; addr: 7FF78591B8BD",
-		768
+		0
 	],
 	"FLogRenderTextureCompositorBudget": [
 		"ref: 7FF78B009978; addr: 7FF78592495D",
-		768
+		0
 	],
 	"FLogRenderTextureCompositor": [
 		"ref: 7FF78B009960; addr: 7FF78592497D",
-		768
+		0
 	],
 	"FLogRenderAdvSkyGroup": [
 		"ref: 7FF78B020C90; addr: 7FF785942B9D",
-		768
+		0
 	],
 	"FLogRenderEnvMapPBR": [
 		"ref: 7FF78B0216C8; addr: 7FF785952F5D",
-		768
+		0
 	],
 	"FLogBufferPool": [
 		"ref: 7FF78B022748; addr: 7FF78595CF9D",
-		768
+		0
 	],
 	"FLogRenderDoc": [
 		"ref: 7FF78B022890; addr: 7FF78595D0DD",
-		768
+		0
 	],
 	"FLogRenderLightGridAgeProportion": [
 		"ref: 7FF78B024628; addr: 7FF7859B6FDD",
-		773
+		5
 	],
 	"FLogRenderLightGrid": [
 		"ref: 7FF78B024618; addr: 7FF7859B6FFD",
-		768
+		0
 	],
 	"FLogRenderInstancedCluster2": [
 		"ref: 7FF78B025160; addr: 7FF7859CC9BD",
-		768
+		0
 	],
 	"FLogRenderFastCluster": [
 		"ref: 7FF78B026E00; addr: 7FF7859E7D4D",
-		768
+		0
 	],
 	"FLogFastClusterTrace": [
 		"ref: 7FF78B027BC8; addr: 7FF7859F142D",
-		768
+		0
 	],
 	"FLogContentResidency": [
 		"ref: 7FF78B028E70; addr: 7FF785A0C34D",
-		768
+		0
 	],
 	"FLogTexTraceLog": [
 		"ref: 7FF78B028E88; addr: 7FF785A0C58D",
-		1542
+		6
 	],
 	"FLogTextureManager2": [
 		"ref: 7FF78B028E98; addr: 7FF785A0C5CD",
-		768
+		0
 	],
 	"FLogTextureManager2Priority": [
 		"ref: 7FF78B028EA8; addr: 7FF785A0C5ED",
-		768
+		0
 	],
 	"FLogTextureManager2Residency": [
 		"ref: 7FF78B028EC0; addr: 7FF785A0C60D",
-		768
+		0
 	],
 	"FLogGpuGeometryManager": [
 		"ref: 7FF78B02DA00; addr: 7FF785A78D5D",
-		518
+		6
 	],
 	"FLogSlimRenderer": [
 		"ref: 7FF78B02E718; addr: 7FF785A7C4FD",
-		774
+		6
 	],
 	"FLogAvatarMemoryTracker": [
 		"ref: 7FF78B006130; addr: 7FF785AADCCD",
-		768
+		0
 	],
 	"FLogLinkingProtocolCore": [
 		"ref: 7FF78B035DB0; addr: 7FF785B5DEED",
-		768
+		0
 	],
 	"FLogWebView": [
 		"ref: 7FF78B037100; addr: 7FF785B64A8D",
-		774
+		6
 	],
 	"FLogWebViewConfigLogs": [
 		"ref: 7FF78B0373C8; addr: 7FF785B64D6D",
-		768
+		0
 	],
 	"FLogDefaultNativeAdsProtocol": [
 		"ref: 7FF78B037720; addr: 7FF785B6AD1D",
-		774
+		6
 	],
 	"FLogWindowsSystemThemeProtocol": [
 		"ref: 7FF78B037E60; addr: 7FF785B6D3DD",
-		774
+		6
 	],
 	"FLogAppLifecycleManager": [
 		"ref: 7FF78B0383E0; addr: 7FF785B6EEED",
-		774
+		6
 	],
 	"FLogConnectivityProtocolCore": [
 		"ref: 7FF78B038590; addr: 7FF785B700AD",
-		1030
+		6
 	],
 	"FLogCrossExperienceFactory": [
 		"ref: 7FF78B038FB8; addr: 7FF785B7184D",
-		518
+		6
 	],
 	"FLogCrossExperienceExecutor": [
 		"ref: 7FF78B0390A0; addr: 7FF785B7218D",
-		518
+		6
 	],
 	"FLogCrossExperienceContextualizer": [
 		"ref: 7FF78B039148; addr: 7FF785B7314D",
-		518
+		6
 	],
 	"FLogFacialAgeEstimationProtocol": [
 		"ref: 7FF78B039590; addr: 7FF785B744FD",
-		774
+		6
 	],
 	"FLogLocalStorageHandler": [
 		"ref: 7FF78B039680; addr: 7FF785B74A8D",
-		1030
+		6
 	],
 	"FLogPaymentsProtocol": [
 		"ref: 7FF78B039E00; addr: 7FF785B7827D",
-		768
+		0
 	],
 	"FLogDefaultMediaPickerProtocol": [
 		"ref: 7FF78B03AF38; addr: 7FF785B7DA5D",
-		768
+		0
 	],
 	"FLogRealtimeProtocol": [
 		"ref: 7FF78B03CAF8; addr: 7FF785B8A02D",
-		774
+		6
 	],
 	"FLogCallManager": [
 		"ref: 7FF78B03D738; addr: 7FF785B96ACD",
-		774
+		6
 	],
 	"FLogCallAnalytics": [
 		"ref: 7FF78B03E5E0; addr: 7FF785B9D59D",
-		768
+		0
 	],
 	"FLogSessionTrackingStorage": [
 		"ref: 7FF78B03EF70; addr: 7FF785BA61ED",
-		518
+		6
 	],
 	"FLogDefaultAppRatingPromptProtocol": [
 		"ref: 7FF78B03F168; addr: 7FF785BA64BD",
-		774
+		6
 	],
 	"FLogTelemetryService": [
 		"ref: 7FF78B03F328; addr: 7FF785BAA52D",
-		768
+		0
 	],
 	"FLogHttpOpenTelemetryTracing": [
 		"ref: 7FF78B040B90; addr: 7FF785BB9A4D",
-		774
+		6
 	],
 	"FLogStudioTasksUiContextScheduler": [
 		"ref: 7FF78B049A58; addr: 7FF785C03A5D",
-		1030
+		6
 	],
 	"FLogPopupMessageBox": [
 		"ref: 7FF78B04A100; addr: 7FF785C0589D",
-		774
+		6
 	],
 	"FLogStudioTranslator": [
 		"ref: 7FF78B054BA8; addr: 7FF785C193DD",
-		768
+		0
 	],
 	"FLogSerializer": [
 		"ref: 7FF78BB2C888; addr: 7FF785C3AABD",
-		768
+		0
 	],
 	"FLogAuroraScriptAPI": [
 		"ref: 7FF78BB30130; addr: 7FF785C7D1ED",
-		774
+		6
 	],
 	"FLogPluginActivation": [
 		"ref: 7FF78BB31470; addr: 7FF785C8BBDD",
-		774
+		6
 	],
 	"FLogPluginLoadingEnhanced": [
 		"ref: 7FF78BB31458; addr: 7FF785C8BBFD",
-		1030
+		6
 	],
 	"FLogLuaBridge": [
 		"ref: 7FF78BB30288; addr: 7FF785C987ED",
-		768
+		0
 	],
 	"FLogPackage": [
 		"ref: 7FF78ADE6DC8; addr: 7FF785CA96BD",
-		768
+		0
 	],
 	"FLogPreloadLinkedScriptsTiming": [
 		"ref: 7FF78BB396A8; addr: 7FF785CD8A2D",
-		768
+		0
 	],
 	"FLogAuroraScript": [
 		"ref: 7FF78AEC2578; addr: 7FF785D26C7D",
-		774
+		6
 	],
 	"FLogAvatarAutoSetup": [
 		"ref: 7FF78BB523F0; addr: 7FF785D702ED",
-		774
+		6
 	],
 	"FLogInExperienceAvatarCreation": [
 		"ref: 7FF78BB523C0; addr: 7FF785D705DD",
-		774
+		6
 	],
 	"FLogPhoto2Avatar": [
 		"ref: 7FF78BB523E0; addr: 7FF785D7061D",
-		774
+		6
 	],
 	"FLogTextChatFiltering": [
 		"ref: 7FF78BB622D0; addr: 7FF785DD842D",
-		774
+		6
 	],
 	"FLogPackageManager": [
 		"ref: 7FF78BB6F680; addr: 7FF785E2A2ED",
-		768
+		0
 	],
 	"FLogAuroraScriptRollback": [
 		"ref: 7FF78BB6FA80; addr: 7FF785E35F2D",
-		774
+		6
 	],
 	"FLogAuroraScriptService": [
 		"ref: 7FF78BB6FA98; addr: 7FF785E35F4D",
-		774
+		6
 	],
 	"FLogFaceControls": [
 		"ref: 7FF78AE581A0; addr: 7FF785E5B38D",
-		768
+		0
 	],
 	"FLogBaseWrapLogChannel": [
 		"ref: 7FF78BB79F30; addr: 7FF785EBF72D",
-		768
+		0
 	],
 	"FLogAvatarChatServiceTrace": [
 		"ref: 7FF78BB7F558; addr: 7FF785EEED2D",
-		768
+		0
 	],
 	"FLogRemoteDebuggerServer": [
 		"ref: 7FF78BB82638; addr: 7FF785F3975D",
-		768
+		0
 	],
 	"FLogUIDragDetectorLog": [
 		"ref: 7FF78BB87518; addr: 7FF785F5422D",
-		774
+		6
 	],
 	"FLogSafetyLogs": [
 		"ref: 7FF78BB89D38; addr: 7FF785F8545D",
-		768
+		0
 	],
 	"FLogFacialAnimationStreamingServiceV2Verbose": [
 		"ref: 7FF78BB919C8; addr: 7FF785FCE27D",
-		768
+		0
 	],
 	"FLogAvatarSettings": [
 		"ref: 7FF78AE65158; addr: 7FF785FE08FD",
-		768
+		0
 	],
 	"FLogVoxel": [
 		"ref: 7FF78BB71C94; addr: 7FF78601601D",
-		769
+		1
 	],
 	"FLogRtMessagingTrace": [
 		"ref: 7FF78BB96E88; addr: 7FF78602044D",
-		774
+		6
 	],
 	"FLogWrapLogChannel": [
 		"ref: 7FF78BB992A0; addr: 7FF786046FBD",
-		768
+		0
 	],
 	"FLogVoxelizer": [
 		"ref: 7FF78BB9A5C8; addr: 7FF78605B9ED",
-		768
+		0
 	],
 	"FLogRCCLoadInternalModuleInfo": [
 		"ref: 7FF78BB9F9A8; addr: 7FF7860AB01D",
-		774
+		6
 	],
 	"FLogAuroraScriptLOD": [
 		"ref: 7FF78BBA5AA0; addr: 7FF7860E3E9D",
-		774
+		6
 	],
 	"FLogLuaHangedScript": [
 		"ref: 7FF78BBAE3F0; addr: 7FF786138F1D",
-		518
+		6
 	],
 	"FLogTrackerLodControllerTrace": [
 		"ref: 7FF78BBB69D0; addr: 7FF78614FFCD",
-		768
+		0
 	],
 	"FLogDragDetectorLog": [
 		"ref: 7FF78BBB75D8; addr: 7FF7861611CD",
-		774
+		6
 	],
 	"FLogInstanceStitchingLog": [
 		"ref: 7FF78BBB98D0; addr: 7FF7861644ED",
-		1286
+		6
 	],
 	"FLogHSRLogChannel": [
 		"ref: 7FF78BBBA1C8; addr: 7FF78619B18D",
-		768
+		0
 	],
 	"FLogHumanoidFloorProcess": [
 		"ref: 7FF78BBBCC40; addr: 7FF7861C3E6D",
-		768
+		0
 	],
 	"FLogAvatarChatSubsessionAnalyticsV3Trace": [
 		"ref: 7FF78BBBDE58; addr: 7FF7861E6B2D",
-		768
+		0
 	],
 	"FLogWHAM1707StateMachine": [
 		"ref: 7FF78BBC1210; addr: 7FF78620C85D",
-		518
+		6
 	],
 	"FLogFaceAnimatorThreadingTrace": [
 		"ref: 7FF78BBD13F8; addr: 7FF78629FADD",
-		768
+		0
 	],
 	"FLogFaceAnimatorTrace": [
 		"ref: 7FF78BBD13E0; addr: 7FF78629FAFD",
-		768
+		0
 	],
 	"FLogAudioTrackerWorkerThreadTrace": [
 		"ref: 7FF78BBD50A8; addr: 7FF7862A2B1D",
-		768
+		0
 	],
 	"FLogSessionService": [
 		"ref: 7FF78BBD5C50; addr: 7FF7862B567D",
-		768
+		0
 	],
 	"FLogGoogleAnalyticsTracking": [
 		"ref: 7FF78BBD6470; addr: 7FF7862B858D",
-		768
+		0
 	],
 	"FLogStudioPerformanceMeasurements": [
 		"ref: 7FF78AF8BE60; addr: 7FF7862D4CCD",
-		768
+		0
 	],
 	"FLogBatchAssetApiLog": [
 		"ref: 7FF78BBD7B50; addr: 7FF7862DD66D",
-		768
+		0
 	],
 	"FLogIxpController": [
 		"ref: 7FF78BBE7728; addr: 7FF7863376BD",
-		768
+		0
 	],
 	"FLogPackageUtilities": [
 		"ref: 7FF78BBEA498; addr: 7FF786347F8D",
-		768
+		0
 	],
 	"FLogStudioPackages": [
 		"ref: 7FF78AE42DA0; addr: 7FF786347FAD",
-		768
+		0
 	],
 	"FLogWaitForAll": [
 		"ref: 7FF78BBEC100; addr: 7FF786362B5D",
-		1030
+		6
 	],
 	"FLogAppConfiguration": [
 		"ref: 7FF78AE12B30; addr: 7FF786370B2D",
-		768
+		0
 	],
 	"FLogAppMemUsageStatus": [
 		"ref: 7FF78BBF1B88; addr: 7FF7863B49AD",
-		1030
+		6
 	],
 	"FLogHttpPointReporterTrace": [
 		"ref: 7FF78BBF3FF8; addr: 7FF7863BF2CD",
-		768
+		0
 	],
 	"FLogIxpStorageManager": [
 		"ref: 7FF78BBF4410; addr: 7FF7863C229D",
-		1030
+		6
 	],
 	"FLogDynamicFastVariableReloader": [
 		"ref: 7FF78BBF47F8; addr: 7FF7863C308D",
-		1030
+		6
 	],
 	"FLogEventBroadcast": [
 		"ref: 7FF78BBF5EC8; addr: 7FF7863C59ED",
-		768
+		0
 	],
 	"FLogLmsClient": [
 		"ref: 7FF78BBF5F08; addr: 7FF7863C5F7D",
-		768
+		0
 	],
 	"FLogAsyncHttpQueue": [
 		"ref: 7FF78BBF8458; addr: 7FF7863E7E2D",
-		768
+		0
 	],
 	"FLogSlowHttpRequest": [
 		"ref: 7FF78BBF8468; addr: 7FF7863E7F4D",
-		768
+		0
 	],
 	"FLogSessionL2ValidationHelper": [
 		"ref: 7FF78BBF9060; addr: 7FF7863ECDAD",
-		1030
+		6
 	],
 	"FLogSessionAuthenticationController": [
 		"ref: 7FF78BBF91E0; addr: 7FF7863EE7BD",
-		774
+		6
 	],
 	"FLogAssetRequestTrace": [
 		"ref: 7FF78BBF9478; addr: 7FF7863F1AAD",
-		768
+		0
 	],
 	"FLogRobloxLuaOTA": [
 		"ref: 7FF78BBFA2A8; addr: 7FF7863FEE7D",
-		1030
+		6
 	],
 	"FLogMessageBus": [
 		"ref: 7FF78BBFADB0; addr: 7FF78640E96D",
-		768
+		0
 	],
 	"FLogScreenProtocolCore": [
 		"ref: 7FF78BBFBA68; addr: 7FF786413A5D",
-		770
+		2
 	],
 	"FLogAdsLifecycleManager": [
 		"ref: 7FF78BBFBD28; addr: 7FF78641513D",
-		774
+		6
 	],
 	"FLogAdService": [
 		"ref: 7FF78AFED9B8; addr: 7FF78643338D",
-		774
+		6
 	],
 	"FLogOnDemandAdsProviderLogs": [
 		"ref: 7FF78BC00890; addr: 7FF78644F12D",
-		774
+		6
 	],
 	"FLogGmaEligibiltyResponse": [
 		"ref: 7FF78BC01478; addr: 7FF78644FABD",
-		774
+		6
 	],
 	"FLogAdsTelemetryLogs": [
 		"ref: 7FF78BC01650; addr: 7FF78644FC1D",
-		774
+		6
 	],
 	"FLogAdContentLoaderLog": [
 		"ref: 7FF78BC01A98; addr: 7FF7864550ED",
-		774
+		6
 	],
 	"FLogAdOpportunityTracker": [
 		"ref: 7FF78BC01D20; addr: 7FF7864569FD",
-		1286
+		6
 	],
 	"FLogServeAdResponseDebug": [
 		"ref: 7FF78BC024D8; addr: 7FF78645DADD",
-		774
+		6
 	],
 	"FLogBackendAdsProviderLog": [
 		"ref: 7FF78BC03068; addr: 7FF7864607BD",
-		774
+		6
 	],
 	"FLogAdGuiLog": [
 		"ref: 7FF78BC03A20; addr: 7FF786471B4D",
-		774
+		6
 	],
 	"FLogMarshalFutureResultToDmThread": [
 		"ref: 7FF78BC05758; addr: 7FF786476EAD",
-		774
+		6
 	],
 	"FLogThumbnailVideoStreamTrace": [
 		"ref: 7FF78BC06CC0; addr: 7FF78648259D",
-		768
+		0
 	],
 	"FLogAnimatingEverythingLog": [
 		"ref: 7FF78BC0A278; addr: 7FF7864A9E9D",
-		774
+		6
 	],
 	"FLogFaceChatDebugTrace": [
 		"ref: 7FF78BC0BE08; addr: 7FF7864C36ED",
-		774
+		6
 	],
 	"FLogAnimationStreamTrackTrace": [
 		"ref: 7FF78BC0F3B0; addr: 7FF7864EBF9D",
-		768
+		0
 	],
 	"FLogAnimationClipProvider": [
 		"ref: 7FF78BC123D0; addr: 7FF786511ADD",
-		768
+		0
 	],
 	"FLogFaceAnimatorTelemetryTrace": [
 		"ref: 7FF78BC136B0; addr: 7FF78651417D",
-		768
+		0
 	],
 	"FLogTrackerStreamAnimationTrace": [
 		"ref: 7FF78BC17B28; addr: 7FF78653D27D",
-		768
+		0
 	],
 	"FLogTrackerAnimationStreamSourceTrace": [
 		"ref: 7FF78BC182C8; addr: 7FF7865407BD",
-		1030
+		6
 	],
 	"FLogRemoteAnimationStreamSourceTrace": [
 		"ref: 7FF78BC185E8; addr: 7FF78654202D",
-		768
+		0
 	],
 	"FLogGamePassPrefetchOnGameJoin": [
 		"ref: 7FF78BC1FF78; addr: 7FF7865C327D",
-		768
+		0
 	],
 	"FLogGetUsersPriceLevels": [
 		"ref: 7FF78BC207A8; addr: 7FF7865C33BD",
-		1030
+		6
 	],
 	"FLogProductInfoBatching": [
 		"ref: 7FF78BC206E0; addr: 7FF7865C35BD",
-		768
+		0
 	],
 	"FLogCommerce": [
 		"ref: 7FF78B035CE0; addr: 7FF7865FBD1D",
-		774
+		6
 	],
 	"FLogLoadTesting": [
 		"ref: 7FF78BC2ABA0; addr: 7FF7866017BD",
-		768
+		0
 	],
 	"FLogGenerationService": [
 		"ref: 7FF78AFED2F8; addr: 7FF78665BE2D",
-		774
+		6
 	],
 	"FLogRBXASSERT_CLI140085_LOG": [
 		"ref: 7FF78BC34180; addr: 7FF7866FD5FD",
-		262
+		6
 	],
 	"FLogInstanceTreeManipulation": [
 		"ref: 7FF78BC38BB0; addr: 7FF78675AD8D",
-		768
+		0
 	],
 	"FLogModelDeliveryTrace": [
 		"ref: 7FF78BC3A8F0; addr: 7FF78676B41D",
-		768
+		0
 	],
 	"FLogVideoCaptureEngine": [
 		"ref: 7FF78BC7ED08; addr: 7FF786887D0D",
-		768
+		0
 	],
 	"FLogCaptureEngine": [
 		"ref: 7FF78BC8B4C8; addr: 7FF7868CC33D",
-		768
+		0
 	],
 	"FLogVideoMetrics": [
 		"ref: 7FF78BC8F9A0; addr: 7FF7868DB88D",
-		768
+		0
 	],
 	"FLogVideoBaseTrace": [
 		"ref: 7FF78BC98428; addr: 7FF786902FAD",
-		768
+		0
 	],
 	"FLogVideoReadDataDebugSpew": [
 		"ref: 7FF78BC98C00; addr: 7FF78691AD6D",
-		768
+		0
 	],
 	"FLogVideoStream": [
 		"ref: 7FF78BC98BE0; addr: 7FF78691AE4D",
-		768
+		0
 	],
 	"FLogVideoTrace": [
 		"ref: 7FF78BC98BF0; addr: 7FF78691AFAD",
-		768
+		0
 	],
 	"FLogVideoVP9HardwareDecoder": [
 		"ref: 7FF78BC98C18; addr: 7FF78691AFED",
-		768
+		0
 	],
 	"FLogVideoPlaybackManagerTrace": [
 		"ref: 7FF78BC9AD70; addr: 7FF7869214BD",
-		768
+		0
 	],
 	"FLogVideoFeatureControlTrace": [
 		"ref: 7FF78BC9EE60; addr: 7FF78693371D",
-		768
+		0
 	],
 	"FLogMediaCodecDriver": [
 		"ref: 7FF78BCA0080; addr: 7FF7869372BD",
-		768
+		0
 	],
 	"FLogCreateAssetasync": [
 		"ref: 7FF78BCA21A0; addr: 7FF78697BA3D",
-		774
+		6
 	],
 	"FLogInExperienceCreation": [
 		"ref: 7FF78BCA1F70; addr: 7FF78697BD7D",
-		774
+		6
 	],
 	"FLogJoinApiClient": [
 		"ref: 7FF78BCAB0B8; addr: 7FF786998F2D",
-		768
+		0
 	],
 	"FLogLocalizationServiceVerbose": [
 		"ref: 7FF78BCAC6C8; addr: 7FF7869BC3DD",
-		768
+		0
 	],
 	"FLogLocaleIdVerbose": [
 		"ref: 7FF78BCB2840; addr: 7FF7869D934D",
-		768
+		0
 	],
 	"FLogTranslationLocaleIdVerbose": [
 		"ref: 7FF78BCB2998; addr: 7FF7869DA2FD",
-		768
+		0
 	],
 	"FLogPolicyService": [
 		"ref: 7FF78BCB2B88; addr: 7FF7869E192D",
-		768
+		0
 	],
 	"FLogIntegrityCheckedProcessor": [
 		"ref: 7FF78BCB6E68; addr: 7FF7869F4D0D",
-		768
+		0
 	],
 	"FLogTextScraper": [
 		"ref: 7FF78BCB7128; addr: 7FF7869FD00D",
-		768
+		0
 	],
 	"FLogCloudLocalizationTableVerbose": [
 		"ref: 7FF78BCB9A58; addr: 7FF786A1C1DD",
-		768
+		0
 	],
 	"FLogParameterizeHandler": [
 		"ref: 7FF78BCBA970; addr: 7FF786A21D0D",
-		768
+		0
 	],
 	"FLogDynamicTranslation": [
 		"ref: 7FF78BCBC348; addr: 7FF786A3574D",
-		768
+		0
 	],
 	"FLogCyclicExecutiveThrottling": [
 		"ref: 7FF78BCBCB10; addr: 7FF786A5DDED",
-		768
+		0
 	],
 	"FLogCyclicExecutiveTiming": [
 		"ref: 7FF78BCBCB30; addr: 7FF786A5DE0D",
-		768
+		0
 	],
 	"FLogDMLockTransfer": [
 		"ref: 7FF78BCBCE88; addr: 7FF786A5DE4D",
-		768
+		0
 	],
 	"FLogLogOnDMSetShuttingDown": [
 		"ref: 7FF78BCBCF08; addr: 7FF786A5E60D",
-		768
+		0
 	],
 	"FLogLogStepTimeAndNetworkUsage": [
 		"ref: 7FF78BCBCB48; addr: 7FF786A5E62D",
-		768
+		0
 	],
 	"FLogR15Character": [
 		"ref: 7FF78BCBCA40; addr: 7FF786A5E74D",
-		768
+		0
 	],
 	"FLogTeamCreateAutoSave": [
 		"ref: 7FF78BCBCA50; addr: 7FF786A5EB7D",
-		774
+		6
 	],
 	"FLogTrackPublishingHashOutput": [
 		"ref: 7FF78BCBCBE8; addr: 7FF786A5EBDD",
-		768
+		0
 	],
 	"FLogWriteRequestingThreadLog": [
 		"ref: 7FF78BCBCE68; addr: 7FF786A5ED7D",
-		774
+		6
 	],
 	"FLogHttpRbxApiBudget": [
 		"ref: 7FF78BCC6068; addr: 7FF786A7D21D",
-		768
+		0
 	],
 	"FLogHttpServiceOpenCloud": [
 		"ref: 7FF78BCC7918; addr: 7FF786A93DED",
-		774
+		6
 	],
 	"FLogAppShellReporter": [
 		"ref: 7FF78BCCA358; addr: 7FF786AA107D",
-		768
+		0
 	],
 	"FLogChangeHistoryPerformance": [
 		"ref: 7FF78BCCAC40; addr: 7FF786AADBBD",
-		774
+		6
 	],
 	"FLogAdornRenderStats": [
 		"ref: 7FF78BCCBCB0; addr: 7FF786AB2A9D",
-		768
+		0
 	],
 	"FLogAdornVB": [
 		"ref: 7FF78BCCBCF8; addr: 7FF786AB2ABD",
-		768
+		0
 	],
 	"FLogAdornableLifetime": [
 		"ref: 7FF78BCCBC98; addr: 7FF786AB2ADD",
-		768
+		0
 	],
 	"FLogCOMCalls": [
 		"ref: 7FF78BCCBBA8; addr: 7FF786AB2AFD",
-		769
+		1
 	],
 	"FLogClientSettings": [
 		"ref: 7FF78AEA93E0; addr: 7FF786AB2B1D",
-		769
+		1
 	],
 	"FLogCloseDataModel": [
 		"ref: 7FF78BCCBED0; addr: 7FF786AB2B3D",
-		769
+		1
 	],
 	"FLogClouds": [
 		"ref: 7FF78B02154C; addr: 7FF786AB2B5D",
-		768
+		0
 	],
 	"FLogContentProviderRequests": [
 		"ref: 7FF78BCCBEF0; addr: 7FF786AB2B7D",
-		768
+		0
 	],
 	"FLogCoreScripts": [
 		"ref: 7FF78BCCBF60; addr: 7FF786AB2B9D",
-		769
+		1
 	],
 	"FLogCrashReporterInit": [
 		"ref: 7FF78BCCBBE0; addr: 7FF786AB2BBD",
-		769
+		1
 	],
 	"FLogDataModelJobs": [
 		"ref: 7FF78BCCBDC0; addr: 7FF786AB2BDD",
-		770
+		2
 	],
 	"FLogDeviceLost": [
 		"ref: 7FF78BCCBC88; addr: 7FF786AB2C3D",
-		768
+		0
 	],
 	"FLogDisableInvalidateOnUnbind": [
 		"ref: 7FF78BCCBE78; addr: 7FF786AB2C5D",
-		768
+		0
 	],
 	"FLogDistanceMetricP1": [
 		"ref: 7FF78BCCBFF8; addr: 7FF786AB2C7D",
-		768
+		0
 	],
 	"FLogDragProfile": [
 		"ref: 7FF78BCCBC48; addr: 7FF786AB2C9D",
-		768
+		0
 	],
 	"FLogFRM": [
 		"ref: 7FF78AFFD8C8; addr: 7FF786AB2CBD",
-		768
+		0
 	],
 	"FLogFullRenderObjects": [
 		"ref: 7FF78BCCBDD0; addr: 7FF786AB2CDD",
-		768
+		0
 	],
 	"FLogFullWindowMessages": [
 		"ref: 7FF78BCCBBB8; addr: 7FF786AB2CFD",
-		768
+		0
 	],
 	"FLogGameExplorer": [
 		"ref: 7FF78BCCBBF8; addr: 7FF786AB2D1D",
-		768
+		0
 	],
 	"FLogGfxClusters": [
 		"ref: 7FF78BCCBE18; addr: 7FF786AB2D3D",
-		770
+		2
 	],
 	"FLogGfxClustersFull": [
 		"ref: 7FF78BCCBE28; addr: 7FF786AB2D5D",
-		768
+		0
 	],
 	"FLogGuiTargetLifetime": [
 		"ref: 7FF78BCCBC58; addr: 7FF786AB2D7D",
-		768
+		0
 	],
 	"FLogHardwareMouse": [
 		"ref: 7FF78BCCBC20; addr: 7FF786AB2D9D",
-		770
+		2
 	],
 	"FLogJoinSendExtraItemCount": [
 		"ref: 7FF78BCCBFE0; addr: 7FF786AB2DBD",
-		769
+		1
 	],
 	"FLogJointInstanceLifetime": [
 		"ref: 7FF78BCCBD58; addr: 7FF786AB2DDD",
-		768
+		0
 	],
 	"FLogJointLifetime": [
 		"ref: 7FF78BCCBD88; addr: 7FF786AB2DFD",
-		768
+		0
 	],
 	"FLogLegacyLock": [
 		"ref: 7FF78BCCBEE0; addr: 7FF786AB2E1D",
-		768
+		0
 	],
 	"FLogLuaMemoryPool": [
 		"ref: 7FF78BCCBF70; addr: 7FF786AB2E3D",
-		768
+		0
 	],
 	"FLogMachineIdUploader": [
 		"ref: 7FF78BCCC080; addr: 7FF786AB2E5D",
-		769
+		1
 	],
 	"FLogMaxJoinDataSizeKB": [
 		"ref: 7FF78BCCC020; addr: 7FF786AB2E7D",
-		868
+		100
 	],
 	"FLogMegaClusterInit": [
 		"ref: 7FF78BCCBE38; addr: 7FF786AB2E9D",
-		769
+		1
 	],
 	"FLogMegaClusterNetwork": [
 		"ref: 7FF78BCCBE48; addr: 7FF786AB2EBD",
-		770
+		2
 	],
 	"FLogMegaClusterNetworkInit": [
 		"ref: 7FF78BCCBE60; addr: 7FF786AB2EDD",
-		769
+		1
 	],
 	"FLogMouseCommand": [
 		"ref: 7FF78BCCBF08; addr: 7FF786AB2EFD",
-		768
+		0
 	],
 	"FLogMouseCommandLifetime": [
 		"ref: 7FF78BCCBC70; addr: 7FF786AB2F1D",
-		768
+		0
 	],
 	"FLogNativeStartPage": [
 		"ref: 7FF78BCCBC08; addr: 7FF786AB2F3D",
-		768
+		0
 	],
 	"FLogNetworkCache": [
 		"ref: 7FF78BCCBF90; addr: 7FF786AB2F5D",
-		769
+		1
 	],
 	"FLogNetwork": [
 		"ref: 7FF78AF69C48; addr: 7FF786AB2F7D",
-		768
+		0
 	],
 	"FLogNetworkInstances": [
 		"ref: 7FF78BCCBFB8; addr: 7FF786AB2F9D",
-		768
+		0
 	],
 	"FLogNetworkJoinDetails": [
 		"ref: 7FF78BCCC048; addr: 7FF786AB2FBD",
-		768
+		0
 	],
 	"FLogNetworkJoin": [
 		"ref: 7FF78BCCC038; addr: 7FF786AB2FDD",
-		768
+		0
 	],
 	"FLogNetworkReadItem": [
 		"ref: 7FF78BCCBFD0; addr: 7FF786AB2FFD",
-		768
+		0
 	],
 	"FLogNetworkTrace": [
 		"ref: 7FF78BCCBF80; addr: 7FF786AB301D",
-		768
+		0
 	],
 	"FLogPartInstanceLifetime": [
 		"ref: 7FF78BCCBD40; addr: 7FF786AB303D",
-		768
+		0
 	],
 	"FLogPhysics": [
 		"ref: 7FF78AE07CC0; addr: 7FF786AB305D",
-		768
+		0
 	],
 	"FLogPlayer": [
 		"ref: 7FF78AE0835C; addr: 7FF786AB307D",
-		769
+		1
 	],
 	"FLogPlayerShutdownLuaTimeoutSeconds": [
 		"ref: 7FF78BCCC0B0; addr: 7FF786AB309D",
-		768
+		0
 	],
 	"FLogPlugins": [
 		"ref: 7FF78ADEB4F8; addr: 7FF786AB30BD",
-		768
+		0
 	],
 	"FLogPrimitiveLifetime": [
 		"ref: 7FF78BCCBD70; addr: 7FF786AB30DD",
-		768
+		0
 	],
 	"FLogPushPixels": [
 		"ref: 7FF78BCCBD00; addr: 7FF786AB30FD",
-		768
+		0
 	],
 	"FLogQML": [
 		"ref: 7FF78BCCBC18; addr: 7FF786AB311D",
-		768
+		0
 	],
 	"FLogRbxMegaClusterInit": [
 		"ref: 7FF78BCCBE00; addr: 7FF786AB313D",
-		770
+		2
 	],
 	"FLogRbxMegaClustersUpdate": [
 		"ref: 7FF78BCCBDE8; addr: 7FF786AB315D",
-		770
+		2
 	],
 	"FLogRenderBreakdownDetails": [
 		"ref: 7FF78BCCBDA8; addr: 7FF786AB317D",
-		770
+		2
 	],
 	"FLogRenderBreakdown": [
 		"ref: 7FF78BCCBD98; addr: 7FF786AB319D",
-		770
+		2
 	],
 	"FLogRenderStatsOnLogs": [
 		"ref: 7FF78BCCBD10; addr: 7FF786AB31BD",
-		770
+		2
 	],
 	"FLogReplicationDataCaching": [
 		"ref: 7FF78BCCC060; addr: 7FF786AB31DD",
-		768
+		0
 	],
 	"FLogReplicationDataLifetime": [
 		"ref: 7FF78BCCBFA0; addr: 7FF786AB31FD",
-		768
+		0
 	],
 	"FLogRobloxWndInit": [
 		"ref: 7FF78BCCBBD0; addr: 7FF786AB321D",
-		769
+		1
 	],
 	"FLogSSAO": [
 		"ref: 7FF78B005BF8; addr: 7FF786AB323D",
-		768
+		0
 	],
 	"FLogSafety": [
 		"ref: 7FF78BCCC094; addr: 7FF786AB325D",
-		768
+		0
 	],
 	"FLogScriptContextAdd": [
 		"ref: 7FF78BCCBF18; addr: 7FF786AB327D",
-		768
+		0
 	],
 	"FLogScriptContextClose": [
 		"ref: 7FF78BCCBF48; addr: 7FF786AB329D",
-		769
+		1
 	],
 	"FLogScriptContext": [
 		"ref: 7FF78AF945A0; addr: 7FF786AB32BD",
-		768
+		0
 	],
 	"FLogScriptContextRemove": [
 		"ref: 7FF78BCCBF30; addr: 7FF786AB32DD",
-		768
+		0
 	],
 	"FLogScriptPrint": [
 		"ref: 7FF78BCCC0A0; addr: 7FF786AB32FD",
-		771
+		3
 	],
 	"FLogThumbnailRender": [
 		"ref: 7FF78BCCBCE8; addr: 7FF786AB331D",
-		768
+		0
 	],
 	"FLogUS14116": [
 		"ref: 7FF78BCCC078; addr: 7FF786AB333D",
-		768
+		0
 	],
 	"FLogUserInputProfile": [
 		"ref: 7FF78BCCBC30; addr: 7FF786AB335D",
-		768
+		0
 	],
 	"FLogVerbs": [
 		"ref: 7FF78BCCBBA0; addr: 7FF786AB337D",
-		768
+		0
 	],
 	"FLogVideoCapture": [
 		"ref: 7FF78BC96130; addr: 7FF786AB339D",
-		768
+		0
 	],
 	"FLogViewRbxBase": [
 		"ref: 7FF78BCCBCC8; addr: 7FF786AB33BD",
-		770
+		2
 	],
 	"FLogViewRbxInit": [
 		"ref: 7FF78BCCBCD8; addr: 7FF786AB33DD",
-		769
+		1
 	],
 	"FLogVisualEngineInit": [
 		"ref: 7FF78BCCBD28; addr: 7FF786AB33FD",
-		768
+		0
 	],
 	"FLogWeakThreadRef": [
 		"ref: 7FF78BBBFF00; addr: 7FF786AB341D",
-		768
+		0
 	],
 	"FLogttMetricP1": [
 		"ref: 7FF78BCCC010; addr: 7FF786AB343D",
-		768
+		0
 	],
 	"FLogNetworkOwnershipErrors": [
 		"ref: 7FF78BCCC348; addr: 7FF786AC378D",
-		768
+		0
 	],
 	"FLogRBXASSERT_CLI150537_LOG": [
 		"ref: 7FF78BCCC378; addr: 7FF786AC390D",
-		262
+		6
 	],
 	"FLogAssetCounter": [
 		"ref: 7FF78BCD2660; addr: 7FF786AED92D",
-		768
+		0
 	],
 	"FLogTerrainCellListener": [
 		"ref: 7FF78BCD5538; addr: 7FF786B1123D",
-		768
+		0
 	],
 	"FLogGetLatestAssetVersionErrors": [
 		"ref: 7FF78BCE73A8; addr: 7FF786B7939D",
-		768
+		0
 	],
 	"FLogChatFiltering": [
 		"ref: 7FF78BCE8A48; addr: 7FF786B912DD",
-		768
+		0
 	],
 	"FLogWebChatFiltering": [
 		"ref: 7FF78BCE8A30; addr: 7FF786B919BD",
-		768
+		0
 	],
 	"FLogBrowserServiceDiagnose": [
 		"ref: 7FF78BCEE390; addr: 7FF786BBC9DD",
-		768
+		0
 	],
 	"FLogAppUpdate": [
 		"ref: 7FF78BCEF100; addr: 7FF786BBE15D",
-		768
+		0
 	],
 	"FLogIXPService": [
 		"ref: 7FF78BD1EAB0; addr: 7FF786BD3AAD",
-		768
+		0
 	],
 	"FLogAuroraInputLogging": [
 		"ref: 7FF78BD22158; addr: 7FF786BE81FD",
-		774
+		6
 	],
 	"FLogAuroraRollback": [
 		"ref: 7FF78BD22360; addr: 7FF786BE821D",
-		774
+		6
 	],
 	"FLogExperienceAuthService": [
 		"ref: 7FF78BC84B58; addr: 7FF786C022FD",
-		768
+		0
 	],
 	"FLogBadgeService": [
 		"ref: 7FF78BC87398; addr: 7FF786C0DB1D",
-		518
+		6
 	],
 	"FLogMemoryUsage": [
 		"ref: 7FF78BD27880; addr: 7FF786C11B6D",
-		774
+		6
 	],
 	"FLogAnalyticsService": [
 		"ref: 7FF78BC84408; addr: 7FF786C1836D",
-		768
+		0
 	],
 	"FLogPlayerHydrationService": [
 		"ref: 7FF78AFEDBC8; addr: 7FF786C1D0FD",
-		774
+		6
 	],
 	"FLogFeatureRestrictionManager": [
 		"ref: 7FF78AFED5F0; addr: 7FF786C2357D",
-		774
+		6
 	],
 	"FLogFriendServiceCache": [
 		"ref: 7FF78BD2A328; addr: 7FF786C34FCD",
-		768
+		0
 	],
 	"FLogFriendServiceCallbacks": [
 		"ref: 7FF78BD2A360; addr: 7FF786C34FED",
-		768
+		0
 	],
 	"FLogFriendServiceLocalRequests": [
 		"ref: 7FF78BD2A378; addr: 7FF786C3500D",
-		774
+		6
 	],
 	"FLogFriendServiceWebRequests": [
 		"ref: 7FF78BD2A340; addr: 7FF786C3502D",
-		768
+		0
 	],
 	"FLogModerationService": [
 		"ref: 7FF78AFCFE20; addr: 7FF786C4DC2D",
-		518
+		6
 	],
 	"FLogMatchmakingService": [
 		"ref: 7FF78BD1EBB8; addr: 7FF786C51DCD",
-		1030
+		6
 	],
 	"FLogAbuseReport": [
 		"ref: 7FF78BD31808; addr: 7FF786C55EBD",
-		774
+		6
 	],
 	"FLogDataStoreBudget": [
 		"ref: 7FF78AFCC018; addr: 7FF786C6102D",
-		768
+		0
 	],
 	"FLogAuroraDebugLogs": [
 		"ref: 7FF78BD34878; addr: 7FF786C7293D",
-		774
+		6
 	],
 	"FLogCaptureStorage": [
 		"ref: 7FF78BD3C128; addr: 7FF786C9FD3D",
-		518
+		6
 	],
 	"FLogDataStore": [
 		"ref: 7FF78BB6D170; addr: 7FF786D20CCD",
-		768
+		0
 	],
 	"FLogBootcampCLI113881Log": [
 		"ref: 7FF78BD4FBB0; addr: 7FF786D36A3D",
-		774
+		6
 	],
 	"FLogBootcampCLI123149Log": [
 		"ref: 7FF78BD4FB68; addr: 7FF786D36B5D",
-		774
+		6
 	],
 	"FLogBootcampCLI139737Log": [
 		"ref: 7FF78BD4FBE0; addr: 7FF786D36BDD",
-		774
+		6
 	],
 	"FLogBootcampCLI139810Log": [
 		"ref: 7FF78BD4FC10; addr: 7FF786D36C1D",
-		774
+		6
 	],
 	"FLogBootcampCLI142594Log": [
 		"ref: 7FF78BD4FC40; addr: 7FF786D36C5D",
-		774
+		6
 	],
 	"FLogBootcampCLI147528Log": [
 		"ref: 7FF78BD4FC70; addr: 7FF786D36C9D",
-		774
+		6
 	],
 	"FLogBootcampCLI149079Log": [
 		"ref: 7FF78BD4FCA0; addr: 7FF786D36CFD",
-		774
+		6
 	],
 	"FLogBootcampCLI149697Log": [
 		"ref: 7FF78BD4FD30; addr: 7FF786D36D3D",
-		774
+		6
 	],
 	"FLogBootcampCLI149768Log": [
 		"ref: 7FF78BD4FD00; addr: 7FF786D36D7D",
-		774
+		6
 	],
 	"FLogBootcampCLI149785Log": [
 		"ref: 7FF78BD4FCD0; addr: 7FF786D36DBD",
-		774
+		6
 	],
 	"FLogBootcampCLI151121Log": [
 		"ref: 7FF78BD4FD60; addr: 7FF786D36DFD",
-		774
+		6
 	],
 	"FLogBootcampCLI152170Log": [
 		"ref: 7FF78BD4FDD8; addr: 7FF786D36E3D",
-		774
+		6
 	],
 	"FLogBootcampCLI152211Log": [
 		"ref: 7FF78BD4FDA8; addr: 7FF786D36E7D",
-		774
+		6
 	],
 	"FLogBootcampCLI153169Log": [
 		"ref: 7FF78BD4FE08; addr: 7FF786D36EBD",
-		774
+		6
 	],
 	"FLogBootcampCLI154778Log": [
 		"ref: 7FF78BD4FE38; addr: 7FF786D36EFD",
-		774
+		6
 	],
 	"FLogBootcampCLI154937Log": [
 		"ref: 7FF78BD4FE68; addr: 7FF786D36F3D",
-		774
+		6
 	],
 	"FLogBootcampCLI154979Log": [
 		"ref: 7FF78BD4FE98; addr: 7FF786D36F7D",
-		774
+		6
 	],
 	"FLogBootcampCLI155104Log": [
 		"ref: 7FF78BD4FEF8; addr: 7FF786D36FBD",
-		774
+		6
 	],
 	"FLogBootcampCLI155293Log": [
 		"ref: 7FF78BD4FEB0; addr: 7FF786D36FFD",
-		774
+		6
 	],
 	"FLogBootcampCLI156010Log": [
 		"ref: 7FF78BD4FF28; addr: 7FF786D3703D",
-		774
+		6
 	],
 	"FLogBootcampCLI156540Log": [
 		"ref: 7FF78BD4FF58; addr: 7FF786D3707D",
-		774
+		6
 	],
 	"FLogBootcampCLI157182Log": [
 		"ref: 7FF78BD4FF88; addr: 7FF786D370BD",
-		774
+		6
 	],
 	"FLogBootcampCLI157810Log": [
 		"ref: 7FF78BD4FFB8; addr: 7FF786D370FD",
-		774
+		6
 	],
 	"FLogBootcampCLI158782Log": [
 		"ref: 7FF78BD50040; addr: 7FF786D3713D",
-		774
+		6
 	],
 	"FLogBootcampCLI159433Log": [
 		"ref: 7FF78BD50070; addr: 7FF786D3717D",
-		774
+		6
 	],
 	"FLogBootcampCLI160962Log": [
 		"ref: 7FF78BD500A0; addr: 7FF786D371BD",
-		774
+		6
 	],
 	"FLogBootcampCLI162707Log": [
 		"ref: 7FF78BD500D0; addr: 7FF786D371FD",
-		774
+		6
 	],
 	"FLogBootcampCLI163626Log": [
 		"ref: 7FF78BD501C0; addr: 7FF786D3723D",
-		774
+		6
 	],
 	"FLogBootcampCLI164711Log": [
 		"ref: 7FF78BD501F0; addr: 7FF786D3727D",
-		774
+		6
 	],
 	"FLogBootcampCLI165293Log": [
 		"ref: 7FF78BD50220; addr: 7FF786D372BD",
-		774
+		6
 	],
 	"FLogBootcampCLI165710Log": [
 		"ref: 7FF78BD50268; addr: 7FF786D372FD",
-		774
+		6
 	],
 	"FLogBootcampCLI165942Log": [
 		"ref: 7FF78BD50238; addr: 7FF786D3733D",
-		774
+		6
 	],
 	"FLogBootcampCLI167628Log": [
 		"ref: 7FF78BD50298; addr: 7FF786D3737D",
-		774
+		6
 	],
 	"FLogBootcampCLI172731Log": [
 		"ref: 7FF78BD502C8; addr: 7FF786D373BD",
-		774
+		6
 	],
 	"FLogBootcampCLIDEVOPS163916Log": [
 		"ref: 7FF78BD50170; addr: 7FF786D3747D",
-		774
+		6
 	],
 	"FLogBootcampCLIDEVOPS8654Log": [
 		"ref: 7FF78BD4FFD0; addr: 7FF786D374BD",
-		774
+		6
 	],
 	"FLogBootcampCLIDEVOPS8655Log": [
 		"ref: 7FF78BD50138; addr: 7FF786D374FD",
-		774
+		6
 	],
 	"FLogBootcampCLIDEVOPS8660Log": [
 		"ref: 7FF78BD50008; addr: 7FF786D3753D",
-		774
+		6
 	],
 	"FLogBootcampCLIDEVOPS8772Log": [
 		"ref: 7FF78BD50100; addr: 7FF786D3757D",
-		774
+		6
 	],
 	"FLogHeatmapService": [
 		"ref: 7FF78BD1EA60; addr: 7FF786D3CC5D",
-		774
+		6
 	],
 	"FLogPlaceAssetIdsService": [
 		"ref: 7FF78BD1ED50; addr: 7FF786D3E30D",
-		774
+		6
 	],
 	"FLogCDBLog": [
 		"ref: 7FF78BD56E68; addr: 7FF786D5970D",
-		1030
+		6
 	],
 	"FLogExperienceStateCaptureServiceTraceDebug": [
 		"ref: 7FF78BD59708; addr: 7FF786D759CD",
-		768
+		0
 	],
 	"FLogExperienceStateCaptureServiceVerboseDebug": [
 		"ref: 7FF78BD596D8; addr: 7FF786D759ED",
-		768
+		0
 	],
 	"FLogExperienceStateRecording": [
 		"ref: 7FF78BD5A1D8; addr: 7FF786D77C7D",
-		774
+		6
 	],
 	"FLogExperienceStateDeltasVerboseDebug": [
 		"ref: 7FF78BD5A9F0; addr: 7FF786D7A41D",
-		768
+		0
 	],
 	"FLogExperienceStateDeltasVerboseErrors": [
 		"ref: 7FF78BD5A9C8; addr: 7FF786D7A43D",
-		768
+		0
 	],
 	"FLogInputRecorder": [
 		"ref: 7FF78BD5AC98; addr: 7FF786D7BA8D",
-		774
+		6
 	],
 	"FLogWithDataModelContext": [
 		"ref: 7FF78BD5AD90; addr: 7FF786D7D6FD",
-		1030
+		6
 	],
 	"FLogAuroraScriptGamestep": [
 		"ref: 7FF78BD5B398; addr: 7FF786D8409D",
-		774
+		6
 	],
 	"FLogHeartBeatFailure": [
 		"ref: 7FF78BD5B270; addr: 7FF786D841DD",
-		768
+		0
 	],
 	"FLogPhysicsStepsPerSecond": [
 		"ref: 7FF78BD5B288; addr: 7FF786D841FD",
-		768
+		0
 	],
 	"FLogUnexpectedServiceInstanceCountsLog": [
 		"ref: 7FF78BD5B370; addr: 7FF786D8425D",
-		768
+		0
 	],
 	"FLogChangeMouseCommand": [
 		"ref: 7FF78BD5CDE0; addr: 7FF786D9E3CD",
-		774
+		6
 	],
 	"FLogTouchInputServiceGesture": [
 		"ref: 7FF78BD622D0; addr: 7FF786DC6AED",
-		774
+		6
 	],
 	"FLogCursorCache": [
 		"ref: 7FF78BD62C18; addr: 7FF786DCBEAD",
-		768
+		0
 	],
 	"FLogVRService": [
 		"ref: 7FF78BC56078; addr: 7FF786DCFF5D",
-		768
+		0
 	],
 	"FLogSerialization": [
 		"ref: 7FF78BD64118; addr: 7FF786DF5F7D",
-		768
+		0
 	],
 	"FLogVersionHistory": [
 		"ref: 7FF78BD67A10; addr: 7FF786E131FD",
-		774
+		6
 	],
 	"FLogTestServiceLog": [
 		"ref: 7FF78BD6A5F8; addr: 7FF786E3213D",
-		1030
+		6
 	],
 	"FLogTeleport": [
 		"ref: 7FF78AFD3338; addr: 7FF786E53A7D",
-		768
+		0
 	],
 	"FLogVIPTeleport": [
 		"ref: 7FF78BD6EBD0; addr: 7FF786E53DCD",
-		774
+		6
 	],
 	"FLogVideoFrame": [
 		"ref: 7FF78ADDBD60; addr: 7FF786E5C62D",
-		768
+		0
 	],
 	"FLogVideoFrameTrace": [
 		"ref: 7FF78BD71380; addr: 7FF786E5C6CD",
-		768
+		0
 	],
 	"FLogVoiceChatError": [
 		"ref: 7FF78BD74BA0; addr: 7FF786E68A6D",
-		768
+		0
 	],
 	"FLogVoiceChatRequestTrace": [
 		"ref: 7FF78BD74B88; addr: 7FF786E68ACD",
-		768
+		0
 	],
 	"FLogJoinBackTeleport": [
 		"ref: 7FF78BD7B4C8; addr: 7FF786E90BAD",
-		774
+		6
 	],
 	"FLogPlayerFeedbackPromptLog": [
 		"ref: 7FF78BD7CAF0; addr: 7FF786EB380D",
-		768
+		0
 	],
 	"FLogSocialService": [
 		"ref: 7FF78AFED7C8; addr: 7FF786EB384D",
-		774
+		6
 	],
 	"FLogAssetPreloading": [
 		"ref: 7FF78BD7F8F8; addr: 7FF786EB50CD",
-		768
+		0
 	],
 	"FLogTeleportHistoryButtonsLog": [
 		"ref: 7FF78BD7FC68; addr: 7FF786EB681D",
-		1286
+		6
 	],
 	"FLogThirdPartyUserService": [
 		"ref: 7FF78BC7FC98; addr: 7FF786EB862D",
-		774
+		6
 	],
 	"FLogTool": [
 		"ref: 7FF78ADFE338; addr: 7FF786EC473D",
-		768
+		0
 	],
 	"FLogSkinMorph": [
 		"ref: 7FF78BD8CA30; addr: 7FF786EFFBFD",
-		518
+		6
 	],
 	"FLogRBXASSERT_CLI140468_LOG": [
 		"ref: 7FF78BD95A20; addr: 7FF786F1E1ED",
-		262
+		6
 	],
 	"FLogWebStreamClient": [
 		"ref: 7FF78BC9BC40; addr: 7FF786F2994D",
-		774
+		6
 	],
 	"FLogSlimServiceLog": [
 		"ref: 7FF78BD9BEF8; addr: 7FF786F3E9FD",
-		262
+		6
 	],
 	"FLogAssetsUploadApiFlow": [
 		"ref: 7FF78BD9D600; addr: 7FF786F4FB4D",
-		774
+		6
 	],
 	"FLogPerformanceTelemetry": [
 		"ref: 7FF78BD9F4D0; addr: 7FF786F5AB1D",
-		768
+		0
 	],
 	"FLogPathfindingDetail": [
 		"ref: 7FF78BD9FAA0; addr: 7FF786F5DAAD",
-		768
+		0
 	],
 	"FLogPathfindingPerf": [
 		"ref: 7FF78BD9FAB8; addr: 7FF786F5DACD",
-		768
+		0
 	],
 	"FLogNavigationHang": [
 		"ref: 7FF78BDA0770; addr: 7FF786F6A44D",
-		774
+		6
 	],
 	"FLogNavigationDetail": [
 		"ref: 7FF78BDA16D0; addr: 7FF786F7946D",
-		768
+		0
 	],
 	"FLogNavigation": [
 		"ref: 7FF78ADFFE50; addr: 7FF786F7948D",
-		768
+		0
 	],
 	"FLogDeferredVoxelUpdates": [
 		"ref: 7FF78BDA6958; addr: 7FF786FBFEFD",
-		768
+		0
 	],
 	"FLogRBXASSERT_CLI139490_LOG": [
 		"ref: 7FF78BDA69E0; addr: 7FF786FC005D",
-		262
+		6
 	],
 	"FLogAerodynamicsLogs": [
 		"ref: 7FF78BDA78F0; addr: 7FF786FCD5AD",
-		518
+		6
 	],
 	"FLogCyclicExecutiveWorldSteps": [
 		"ref: 7FF78BDAAD20; addr: 7FF786FF06BD",
-		768
+		0
 	],
 	"FLogPhysicsImprovedCyclicExecutiveThrottleData": [
 		"ref: 7FF78BDAAD70; addr: 7FF786FF089D",
-		768
+		0
 	],
 	"FLogWorldStepsBehind": [
 		"ref: 7FF78BDAAD40; addr: 7FF786FF0EDD",
-		768
+		0
 	],
 	"FLogWorldStepsBehindG": [
 		"ref: 7FF78BDAAD58; addr: 7FF786FF0EFD",
-		768
+		0
 	],
 	"FLogHumanoidPlatformsLog": [
 		"ref: 7FF78BDAC5A0; addr: 7FF78700710D",
-		768
+		0
 	],
 	"FLogNewNetworkPhysicsLog": [
 		"ref: 7FF78BDAC588; addr: 7FF78700738D",
-		768
+		0
 	],
 	"FLogSpatialFilterSanity": [
 		"ref: 7FF78BDAE518; addr: 7FF7870194AD",
-		768
+		0
 	],
 	"FLogTransformIdentityFailLog": [
 		"ref: 7FF78BDAF1A8; addr: 7FF78702F23D",
-		262
+		6
 	],
 	"FLogPrefetchProtocol": [
 		"ref: 7FF78BDB82E0; addr: 7FF7870B67ED",
-		768
+		0
 	],
 	"FLogModelTranscoder": [
 		"ref: 7FF78BDB8D60; addr: 7FF7870CA68D",
-		1542
+		6
 	],
 	"FLogTeamCreateUserSave": [
 		"ref: 7FF78BDC6A70; addr: 7FF787180ACD",
-		774
+		6
 	],
 	"FLogCharacterLoadTime": [
 		"ref: 7FF78BDC92B8; addr: 7FF78719BCCD",
-		774
+		6
 	],
 	"FLogNetworkPauseLogging": [
 		"ref: 7FF78BDC9318; addr: 7FF78719C24D",
-		768
+		0
 	],
 	"FLogPlayerLocaleIdVerbose": [
 		"ref: 7FF78BDC93A8; addr: 7FF78719C32D",
-		768
+		0
 	],
 	"FLogPlayerCharacterLoadingLog": [
 		"ref: 7FF78BDCC6C8; addr: 7FF7871C10ED",
-		768
+		0
 	],
 	"FLogThumbnailPlayerCharacterLoadingLog": [
 		"ref: 7FF78BDCC6E8; addr: 7FF7871C122D",
-		768
+		0
 	],
 	"FLogGuiClassUsageAnalytics": [
 		"ref: 7FF78BDD2538; addr: 7FF7871E59DD",
-		768
+		0
 	],
 	"FLogNotificationLogs": [
 		"ref: 7FF78BDD2A60; addr: 7FF7871E5B9D",
-		768
+		0
 	],
 	"FLogSafeAreaInsetChanges": [
 		"ref: 7FF78BDD2830; addr: 7FF7871E5C9D",
-		768
+		0
 	],
 	"FLogCaptureService": [
 		"ref: 7FF78AFEDC70; addr: 7FF78722900D",
-		768
+		0
 	],
 	"FLogPlayerGui": [
 		"ref: 7FF78AEC2FF0; addr: 7FF787251F3D",
-		774
+		6
 	],
 	"FLogDebugQuadTreeLogging2": [
 		"ref: 7FF78BDEAFF8; addr: 7FF7872A9D0D",
-		768
+		0
 	],
 	"FLogText": [
 		"ref: 7FF78ADF894C; addr: 7FF7872C1C8D",
-		768
+		0
 	],
 	"FLogLayoutErrors": [
 		"ref: 7FF78BDFC320; addr: 7FF7872F53DD",
-		771
+		3
 	],
 	"FLogDebugLayoutNode": [
 		"ref: 7FF78BE02A80; addr: 7FF78731AB0D",
-		768
+		0
 	],
 	"FLogUIOcclusionMetrics": [
 		"ref: 7FF78BE06600; addr: 7FF78732954D",
-		768
+		0
 	],
 	"FLogSlimPropertySetLog": [
 		"ref: 7FF78BE15110; addr: 7FF7873997ED",
-		1030
+		6
 	],
 	"FLogPropertySet": [
 		"ref: 7FF78BE152D0; addr: 7FF78739AA1D",
-		774
+		6
 	],
 	"FLogAudioTextToSpeech": [
 		"ref: 7FF78BD1E518; addr: 7FF7873FD4ED",
-		774
+		6
 	],
 	"FLogRccSoundLength": [
 		"ref: 7FF78BE1FB88; addr: 7FF7873FD9ED",
-		262
+		6
 	],
 	"FLogAudioEmitter": [
 		"ref: 7FF78BD1E450; addr: 7FF787417CED",
-		1286
+		6
 	],
 	"FLogAudioDeviceInputLog": [
 		"ref: 7FF78BE2BB68; addr: 7FF7874346AD",
-		774
+		6
 	],
 	"FLogAudioGraph": [
 		"ref: 7FF78BE2D670; addr: 7FF78744588D",
-		768
+		0
 	],
 	"FLogInteractionGroup": [
 		"ref: 7FF78BE2DA08; addr: 7FF787448ADD",
-		1286
+		6
 	],
 	"FLogAudioListener": [
 		"ref: 7FF78BD1E490; addr: 7FF78744D43D",
-		768
+		0
 	],
 	"FLogAudioSpeechToTextLog": [
 		"ref: 7FF78BE419F8; addr: 7FF7874A68AD",
-		774
+		6
 	],
 	"FLogDataModelPatchConfigurer": [
 		"ref: 7FF78BE44850; addr: 7FF7874C2F2D",
-		768
+		0
 	],
 	"FLogDataModelPatchConfig": [
 		"ref: 7FF78BE44820; addr: 7FF7874C730D",
-		768
+		0
 	],
 	"FLogDataModelPatchAnalytics": [
 		"ref: 7FF78BE463C8; addr: 7FF7874D3ECD",
-		768
+		0
 	],
 	"FLogRbxmFileManager": [
 		"ref: 7FF78BE46BA0; addr: 7FF7874DB93D",
-		1030
+		6
 	],
 	"FLogDataModelPatchConfigCollection": [
 		"ref: 7FF78BE47B00; addr: 7FF7874DF53D",
-		768
+		0
 	],
 	"FLogDataModelPatchService": [
 		"ref: 7FF78BD1E770; addr: 7FF7874E48CD",
-		768
+		0
 	],
 	"FLogLogFileSyncItem": [
 		"ref: 7FF78BE4A240; addr: 7FF787511D5D",
-		768
+		0
 	],
 	"FLogAssetDeliveryProxy": [
 		"ref: 7FF78BD1E350; addr: 7FF78751A14D",
-		768
+		0
 	],
 	"FLogSignalRNotification": [
 		"ref: 7FF78BE4DB50; addr: 7FF78752ED1D",
-		768
+		0
 	],
 	"FLogDebugSignalRNotificationVerbose": [
 		"ref: 7FF78BE4E528; addr: 7FF787533F8D",
-		768
+		0
 	],
 	"FLogSignalRNotificationVerbose": [
 		"ref: 7FF78BE4E508; addr: 7FF78753408D",
-		768
+		0
 	],
 	"FLogCSGDetails": [
 		"ref: 7FF78BE52E10; addr: 7FF787589FCD",
-		768
+		0
 	],
 	"FLogCSGErrors": [
 		"ref: 7FF78BE52E00; addr: 7FF787589FED",
-		768
+		0
 	],
 	"FLogCSG3Debug": [
 		"ref: 7FF78BE53D40; addr: 7FF78759B82D",
-		768
+		0
 	],
 	"FLogCSG3Stats": [
 		"ref: 7FF78BE53D30; addr: 7FF78759B84D",
-		768
+		0
 	],
 	"FLogCSG3Details": [
 		"ref: 7FF78BE55850; addr: 7FF7875A2FED",
-		768
+		0
 	],
 	"FLogCSG3Errors": [
 		"ref: 7FF78BE55840; addr: 7FF7875A300D",
-		768
+		0
 	],
 	"FLogPermissions": [
 		"ref: 7FF78ADFCC60; addr: 7FF7875A39BD",
-		768
+		0
 	],
 	"FLogMeshLODDetails": [
 		"ref: 7FF78BE55E18; addr: 7FF7875A8B8D",
-		768
+		0
 	],
 	"FLogMeshSimplificationMemoryCheck": [
 		"ref: 7FF78BE55E40; addr: 7FF7875A8BAD",
-		774
+		6
 	],
 	"FLogStylingPropertiesPanel": [
 		"ref: 7FF78BE56E40; addr: 7FF7875C876D",
-		774
+		6
 	],
 	"FLogFontProviderTimings": [
 		"ref: 7FF78BE5A680; addr: 7FF7876082DD",
-		768
+		0
 	],
 	"FLogGlyphProviderCreation": [
 		"ref: 7FF78BE5A640; addr: 7FF78760837D",
-		768
+		0
 	],
 	"FLogGlyphProviderCreationModernLogVersion": [
 		"ref: 7FF78BE5A658; addr: 7FF78760839D",
-		1030
+		6
 	],
 	"FLogFlagCache": [
 		"ref: 7FF78BE6B820; addr: 7FF787630A2D",
-		1030
+		6
 	],
 	"FLogLoadSettingsZstdDictionary": [
 		"ref: 7FF78BE6B8C8; addr: 7FF787632CCD",
-		774
+		6
 	],
 	"FLogTombstoneCache": [
 		"ref: 7FF78BE6BD88; addr: 7FF7876330DD",
-		1030
+		6
 	],
 	"FLogSettingsSecurity": [
 		"ref: 7FF78BE6C100; addr: 7FF787633C8D",
-		1030
+		6
 	],
 	"FLogAssetReader": [
 		"ref: 7FF78BE6D458; addr: 7FF787648C3D",
-		1030
+		6
 	],
 	"FLogAssetReadLogger": [
 		"ref: 7FF78BE6D710; addr: 7FF78764A73D",
-		774
+		6
 	],
 	"FLogDevRpc": [
 		"ref: 7FF78BE86700; addr: 7FF78785A57D",
-		774
+		6
 	],
 	"FLogAssetProvider": [
 		"ref: 7FF78BE876E8; addr: 7FF78787FC7D",
-		1030
+		6
 	],
 	"FLogJsonRpc": [
 		"ref: 7FF78BEA4848; addr: 7FF7878BEB1D",
-		768
+		0
 	],
 	"FLogJsonRpcVerbose": [
 		"ref: 7FF78BEA4850; addr: 7FF7878BEB3D",
-		768
+		0
 	],
 	"FLogNetworkIxp": [
 		"ref: 7FF78BEB0940; addr: 7FF78796D15D",
-		768
+		0
 	],
 	"FLogRakNetConnectTrace": [
 		"ref: 7FF78BEB08C0; addr: 7FF78796D2FD",
-		768
+		0
 	],
 	"FLogRakNetMissingPingPong": [
 		"ref: 7FF78BEB0868; addr: 7FF78796D41D",
-		518
+		6
 	],
 	"FLogRakNetPktTrace": [
 		"ref: 7FF78BEB0AA0; addr: 7FF78796D5BD",
-		768
+		0
 	],
 	"FLogRakNetStoppedProduction": [
 		"ref: 7FF78BEB0BF8; addr: 7FF78796D65D",
-		518
+		6
 	],
 	"FLogRaknetDeferredQueue": [
 		"ref: 7FF78BEB0908; addr: 7FF78796D71D",
-		768
+		0
 	],
 	"FLogRaknetJoinOrDisconnectRequest": [
 		"ref: 7FF78BEB0920; addr: 7FF78796D79D",
-		768
+		0
 	],
 	"FLogSessionCrypto": [
 		"ref: 7FF78BEB09A8; addr: 7FF78796D97D",
-		768
+		0
 	],
 	"FLogNetworkDetailed": [
 		"ref: 7FF78BEB5338; addr: 7FF78797808D",
-		768
+		0
 	],
 	"FLogNetworkSocketReceiveError": [
 		"ref: 7FF78BEB5360; addr: 7FF7879780AD",
-		518
+		6
 	],
 	"FLogNetworkSocketSendError": [
 		"ref: 7FF78BEB5348; addr: 7FF7879780CD",
-		768
+		0
 	],
 	"FLogReliabilityLayerLog": [
 		"ref: 7FF78BEB5BD8; addr: 7FF787986ECD",
-		518
+		6
 	],
 	"FLogTxBwStatLog": [
 		"ref: 7FF78BEB5BF0; addr: 7FF787986F2D",
-		768
+		0
 	],
 	"FLogTraceDebugLog": [
 		"ref: 7FF78BEB7D50; addr: 7FF78798CD0D",
-		768
+		0
 	],
 	"FLogAsyncCodecTrace": [
 		"ref: 7FF78BEB88C0; addr: 7FF78799375D",
-		768
+		0
 	],
 	"FLogAsyncCodecTraceVerbose": [
 		"ref: 7FF78BEB88D0; addr: 7FF78799377D",
-		768
+		0
 	],
 	"FLogVideoCodec": [
 		"ref: 7FF78BEB88B0; addr: 7FF78799399D",
-		774
+		6
 	],
 	"FLogVideoCache": [
 		"ref: 7FF78BEB9188; addr: 7FF78799C03D",
-		774
+		6
 	],
 	"FLogRVideoMemLogging": [
 		"ref: 7FF78BEB9F48; addr: 7FF7879A870D",
-		768
+		0
 	],
 	"FLogRVideoTrace": [
 		"ref: 7FF78BEB9F28; addr: 7FF7879A872D",
-		768
+		0
 	],
 	"FLogRVideoWarning": [
 		"ref: 7FF78BEB9F38; addr: 7FF7879A874D",
-		768
+		0
 	],
 	"FLogVideoSelfTest": [
 		"ref: 7FF78BEBA228; addr: 7FF7879AC63D",
-		768
+		0
 	],
 	"FLogVideoMemoryPool": [
 		"ref: 7FF78BEBBAE8; addr: 7FF7879C367D",
-		774
+		6
 	],
 	"FLogVideoAdaption": [
 		"ref: 7FF78BEBC2F0; addr: 7FF7879C7A8D",
-		774
+		6
 	],
 	"FLogRVideoBufferPool": [
 		"ref: 7FF78BEBC688; addr: 7FF7879C8B0D",
-		768
+		0
 	],
 	"FLogVideoPlaylistSelector": [
 		"ref: 7FF78BEC7FD0; addr: 7FF7879DBDED",
-		774
+		6
 	],
 	"FLogCameraTrace": [
 		"ref: 7FF78BEC8428; addr: 7FF7879DEB7D",
-		768
+		0
 	],
 	"FLogVideoWinCodec": [
 		"ref: 7FF78BECB8B8; addr: 7FF7879FF72D",
-		518
+		6
 	],
 	"FLogRealtimeCoreNotification": [
 		"ref: 7FF78C009EE8; addr: 7FF787F2755D",
-		768
+		0
 	],
 	"FLogSignalRCoreNetworkHandler": [
 		"ref: 7FF78C00AB98; addr: 7FF787F2856D",
-		768
+		0
 	],
 	"FLogRealtimeReliabilityMeasurement": [
 		"ref: 7FF78C00ADA0; addr: 7FF787F29A4D",
-		518
+		6
 	],
 	"FLogSignalRCore": [
 		"ref: 7FF78C00B348; addr: 7FF787F2EC6D",
-		768
+		0
 	],
 	"FLogSignalRCoreError": [
 		"ref: 7FF78C00B358; addr: 7FF787F2EC8D",
-		768
+		0
 	],
 	"FLogCrashMetricStorage": [
 		"ref: 7FF78C1C9328; addr: 7FF7880FA2AD",
-		774
+		6
 	],
 	"FLogPerformanceControlIXP": [
 		"ref: 7FF78C1CA2C8; addr: 7FF7881031BD",
-		1030
+		6
 	],
 	"FLogCoordinatorMemoryPressure": [
 		"ref: 7FF78C1CA640; addr: 7FF78811668D",
-		1030
+		6
 	],
 	"FLogPerformanceControlExecution": [
 		"ref: 7FF78C1CA668; addr: 7FF788116F2D",
-		768
+		0
 	],
 	"FLogPerformanceControlInference": [
 		"ref: 7FF78C1CA620; addr: 7FF78811715D",
-		1286
+		6
 	],
 	"FLogPerformanceControlHarmonyComputeCoordinator": [
 		"ref: 7FF78C1CC290; addr: 7FF7881228FD",
-		774
+		6
 	],
 	"FLogPerformanceControlPlanner": [
 		"ref: 7FF78C1CD8B0; addr: 7FF78813A79D",
-		768
+		0
 	],
 	"FLogPerformanceControlProbesTrace": [
 		"ref: 7FF78C1CD980; addr: 7FF78813F39D",
-		768
+		0
 	],
 	"FLogModelBundleTrace": [
 		"ref: 7FF78C1CE5D8; addr: 7FF78814A1AD",
-		768
+		0
 	],
 	"FLogSerializationTrace": [
 		"ref: 7FF78C1CE788; addr: 7FF78814AECD",
-		768
+		0
 	],
 	"FLogGraphics": [
 		"ref: 7FF78B02C8D8; addr: 7FF7882EE49D",
-		768
+		0
 	],
 	"FLogVR": [
 		"ref: 7FF78AFFD440; addr: 7FF7882EE5FD",
-		768
+		0
 	],
 	"FLogRobloxVR": [
 		"ref: 7FF78C1DFAB0; addr: 7FF7882F65ED",
-		774
+		6
 	],
 	"FLogGraphicsTextureReductionD3D11": [
 		"ref: 7FF78C1E0F68; addr: 7FF788301B4D",
-		768
+		0
 	],
 	"FLogOPENXR": [
 		"ref: 7FF78C1E150C; addr: 7FF78830A3ED",
-		768
+		0
 	],
 	"FLogOPENXRHaptics": [
 		"ref: 7FF78C1E1518; addr: 7FF78830A40D",
-		768
+		0
 	],
 	"FLogGraphicsTextureReductionOpenGL": [
 		"ref: 7FF78C1EBD00; addr: 7FF78833804D",
-		768
+		0
 	],
 	"FLogGraphicsTextureReductionVulkan": [
 		"ref: 7FF78C1F52E0; addr: 7FF7883461FD",
-		768
+		0
 	],
 	"FLogPhysicsMeshCompression": [
 		"ref: 7FF78C1FC7E0; addr: 7FF7883B198D",
-		774
+		6
 	],
 	"FLogCDEC": [
 		"ref: 7FF78C1FCBC0; addr: 7FF7883B4FBD",
-		774
+		6
 	],
 	"FLogSkinningSubsets": [
 		"ref: 7FF78C203868; addr: 7FF7883E9E4D",
-		774
+		6
 	],
 	"FLogFileMeshDataChunkReaderLogChannel": [
 		"ref: 7FF78C2042E0; addr: 7FF7883F494D",
-		768
+		0
 	],
 	"FLogMeshCompressionLog": [
 		"ref: 7FF78C2049E0; addr: 7FF7883FC14D",
-		774
+		6
 	],
 	"FLogMeshSimplificationStats": [
 		"ref: 7FF78C205070; addr: 7FF78840FDFD",
-		768
+		0
 	],
 	"FLogAudio": [
 		"ref: 7FF78AE6C654; addr: 7FF7885B918D",
-		774
+		6
 	],
 	"FLogFMOD": [
 		"ref: 7FF78C21D4A8; addr: 7FF7885C275D",
-		774
+		6
 	],
 	"FLogSoundCheckResult": [
 		"ref: 7FF78C21D4B0; addr: 7FF7885C2B1D",
-		774
+		6
 	],
 	"FLogSound": [
 		"ref: 7FF78AE7EBC4; addr: 7FF7885C2B3D",
-		774
+		6
 	],
 	"FLogSoundTrace": [
 		"ref: 7FF78C21D4C8; addr: 7FF7885C2B5D",
-		774
+		6
 	],
 	"FLogVoiceChatControlPlaneTracingLogs": [
 		"ref: 7FF78C240320; addr: 7FF788706EAD",
-		1030
+		6
 	],
 	"FLogVoiceChatLogs": [
 		"ref: 7FF78C240310; addr: 7FF788706EED",
-		1030
+		6
 	],
 	"FLogTelemetryProtocol": [
 		"ref: 7FF78C242958; addr: 7FF78871C02D",
-		768
+		0
 	],
 	"FLogDebugDurationLogging": [
 		"ref: 7FF78C243208; addr: 7FF7887261CD",
-		768
+		0
 	],
 	"FLogLogReporter": [
 		"ref: 7FF78C245550; addr: 7FF78872AA8D",
-		1542
+		6
 	],
 	"FLogBacktraceReporter": [
 		"ref: 7FF78C2456C8; addr: 7FF7887306ED",
-		1542
+		6
 	],
 	"FLogRuppTokenClientLog2": [
 		"ref: 7FF78C2F53E0; addr: 7FF788AAB02D",
-		518
+		6
 	],
 	"FLogRuppTokenLog": [
 		"ref: 7FF78C2F5520; addr: 7FF788AAB75D",
-		769
+		1
 	],
 	"FLogComponentManager": [
 		"ref: 7FF78C2F5C88; addr: 7FF788AC980D",
-		774
+		6
 	],
 	"FLogRBXASSERT_CLI155121_LOG": [
 		"ref: 7FF78C2FB3D8; addr: 7FF788AED17D",
-		262
+		6
 	],
 	"FLogRBXASSERT_CLI155122_LOG": [
 		"ref: 7FF78C2FB408; addr: 7FF788AED1DD",
-		262
+		6
 	],
 	"FLogAnalyticsDeferredEphemeralReportingDiagnostic": [
 		"ref: 7FF78C2FB5E8; addr: 7FF788AF37ED",
-		768
+		0
 	],
 	"FLogAnalyticsDeferredReporterDiagnostic": [
 		"ref: 7FF78C2FC238; addr: 7FF788AFD07D",
-		768
+		0
 	],
 	"FLogAnalyticsLog": [
 		"ref: 7FF78C2FD230; addr: 7FF788B08D1D",
-		768
+		0
 	],
 	"FLogAppTracing": [
 		"ref: 7FF78AFB9C30; addr: 7FF788B0AA5D",
-		768
+		0
 	],
 	"FLogInstancePool": [
 		"ref: 7FF78C2FD9F0; addr: 7FF788B0F52D",
-		774
+		6
 	],
 	"FLogKeyRing": [
 		"ref: 7FF78C30D168; addr: 7FF788BD9C9D",
-		768
+		0
 	],
 	"FLogKeyRingUpdate": [
 		"ref: 7FF78C30D170; addr: 7FF788BD9DDD",
-		768
+		0
 	],
 	"FLogTtiTelemetryIntegrationCheck": [
 		"ref: 7FF78C30F018; addr: 7FF788BF34CD",
-		1030
+		6
 	],
 	"FLogRobloxTelemetry": [
 		"ref: 7FF78AFACAD8; addr: 7FF788BF4D1D",
-		774
+		6
 	],
 	"FLogRobloxTelemetryBatchedReporter": [
 		"ref: 7FF78C30F808; addr: 7FF788BF9C7D",
-		774
+		6
 	],
 	"FLogDebugHttpTrace": [
 		"ref: 7FF78C311590; addr: 7FF788C1D7AD",
-		768
+		0
 	],
 	"FLogHttpCache": [
 		"ref: 7FF78BBE56F8; addr: 7FF788C4536D",
-		768
+		0
 	],
 	"FLogHttpCacheTrace": [
 		"ref: 7FF78C313A48; addr: 7FF788C453ED",
-		768
+		0
 	],
 	"FLogHttpTrace": [
 		"ref: 7FF78C3139F0; addr: 7FF788C45C3D",
-		768
+		0
 	],
 	"FLogHttpTraceError": [
 		"ref: 7FF78C313A10; addr: 7FF788C45C5D",
-		768
+		0
 	],
 	"FLogHttpTraceLight": [
 		"ref: 7FF78C313A00; addr: 7FF788C45C7D",
-		768
+		0
 	],
 	"FLogHttpTraceNew": [
 		"ref: 7FF78C3139E0; addr: 7FF788C45C9D",
-		518
+		6
 	],
 	"FLogNetworkAudit": [
 		"ref: 7FF78C313A38; addr: 7FF788C45D5D",
-		768
+		0
 	],
 	"FLogTrackHttpRequest": [
 		"ref: 7FF78C313A20; addr: 7FF788C45DDD",
-		768
+		0
 	],
 	"FLogHttpCookieProtocol": [
 		"ref: 7FF78C315FE0; addr: 7FF788C5544D",
-		768
+		0
 	],
 	"FLogDebugWebSocketTrace": [
 		"ref: 7FF78C316E80; addr: 7FF788C6587D",
-		768
+		0
 	],
 	"FLogWebSocketTrace": [
 		"ref: 7FF78C316E40; addr: 7FF788C658DD",
-		768
+		0
 	],
 	"FLogWebSocketTraceError": [
 		"ref: 7FF78C316E68; addr: 7FF788C658FD",
-		768
+		0
 	],
 	"FLogWebSocketTraceLight": [
 		"ref: 7FF78C316E50; addr: 7FF788C6591D",
-		768
+		0
 	],
 	"FLogBackPressureThrottling": [
 		"ref: 7FF78C3185C0; addr: 7FF788C7552D",
-		768
+		0
 	],
 	"FLogHttpRetryOverrides": [
 		"ref: 7FF78C318A38; addr: 7FF788C7CEED",
-		768
+		0
 	],
 	"FLogRbxStorage": [
 		"ref: 7FF78C319760; addr: 7FF788C8A40D",
-		518
+		6
 	],
 	"FLogSQLite": [
 		"ref: 7FF78C31FDB8; addr: 7FF788CAE3ED",
-		518
+		6
 	],
 	"FLogStudioMessagePassing": [
 		"ref: 7FF78C3635B8; addr: 7FF788F687FD",
-		1030
+		6
 	],
 	"FLogStudioTaskRegistry": [
 		"ref: 7FF78C363A20; addr: 7FF788F6D3DD",
-		1030
+		6
 	],
 	"FLogStudioTaskRunner": [
 		"ref: 7FF78C363BC0; addr: 7FF788F6E7AD",
-		1030
+		6
 	],
 	"FLogStudioTasks": [
 		"ref: 7FF78C363DD0; addr: 7FF788F6F1CD",
-		774
+		6
 	],
 	"FLogDXVideoMemory": [
 		"ref: 7FF78C365368; addr: 7FF788F7384D",
-		772
+		4
 	],
 	"FLogMacroprofile": [
 		"ref: 7FF78C366998; addr: 7FF788F98BED",
-		785
+		17
 	],
 	"FLogInfluxDbLog": [
 		"ref: 7FF78C3680C0; addr: 7FF788FACD8D",
-		768
+		0
 	],
 	"FLogInfluxTrace": [
 		"ref: 7FF78C3680D0; addr: 7FF788FACDAD",
-		768
+		0
 	],
 	"FLogNamedMutex": [
 		"ref: 7FF78C368ED8; addr: 7FF788FB4C5D",
-		769
+		1
 	],
 	"FLogLocalStorage": [
 		"ref: 7FF78C36BF40; addr: 7FF788FCD2AD",
-		768
+		0
 	],
 	"FLogTelemetrySeveritySetting": [
 		"ref: 7FF78C36D460; addr: 7FF788FD51BD",
-		262
+		6
 	],
 	"FLogFileCulling": [
 		"ref: 7FF78C36DB18; addr: 7FF788FD8E8D",
-		518
+		6
 	],
 	"FLogBuildBacktraceData": [
 		"ref: 7FF78C36E370; addr: 7FF788FDF7AD",
-		1542
+		6
 	],
 	"FLogInferredCrash": [
 		"ref: 7FF78C36E360; addr: 7FF788FDF9AD",
-		768
+		0
 	],
 	"FLogMemoryPressureCallbackManager": [
 		"ref: 7FF78C36E9B8; addr: 7FF788FE267D",
-		774
+		6
 	],
 	"FLogSessionTransitionFSM": [
 		"ref: 7FF78C36F830; addr: 7FF788FEC77D",
-		768
+		0
 	],
 	"FLogRomarkScreenshot": [
 		"ref: 7FF78C36FC48; addr: 7FF788FF0E2D",
-		768
+		0
 	],
 	"FLogHangDetectionJob": [
 		"ref: 7FF78C3703C8; addr: 7FF788FF56ED",
-		768
+		0
 	],
 	"FLogTDigest": [
 		"ref: 7FF78C3705B8; addr: 7FF788FF922D",
-		768
+		0
 	],
 	"FLogConnectionStatusMonitor": [
 		"ref: 7FF78C370828; addr: 7FF788FFB89D",
-		768
+		0
 	],
 	"FLogPercentileReportStats": [
 		"ref: 7FF78C399E28; addr: 7FF78901CF7D",
-		768
+		0
 	],
 	"FLogPercentileReportverbose": [
 		"ref: 7FF78C399E40; addr: 7FF78901CF9D",
-		768
+		0
 	],
 	"FLogBandwidthTrackerDetail": [
 		"ref: 7FF78C3A1160; addr: 7FF78902D73D",
-		768
+		0
 	],
 	"FLogBandwidthTracker": [
 		"ref: 7FF78C3A1148; addr: 7FF78902D75D",
-		768
+		0
 	],
 	"FLogSystemUtil": [
 		"ref: 7FF78C3A26E8; addr: 7FF789034A4D",
-		772
+		4
 	],
 	"FLogWmiWrapper": [
 		"ref: 7FF78C3A2E50; addr: 7FF78903A55D",
-		768
+		0
 	],
 	"FLogMemory": [
 		"ref: 7FF78AEFE288; addr: 7FF7890409DD",
-		774
+		6
 	],
 	"FLogMemoryLifetime": [
 		"ref: 7FF78C3A35D8; addr: 7FF7890409FD",
-		768
+		0
 	],
 	"FLogRBXAssert": [
 		"ref: 7FF78C3A38C0; addr: 7FF789042FFD",
-		1286
+		6
 	],
 	"FLogScopedConnection": [
 		"ref: 7FF78C3A4870; addr: 7FF78904C60D",
-		768
+		0
 	],
 	"FLogWriteOnlyBuffer": [
 		"ref: 7FF78C3A6898; addr: 7FF7890675AD",
-		518
+		6
 	],
 	"FLogFastLogValueChanged": [
 		"ref: 7FF78C3A6D48; addr: 7FF789074C3D",
-		768
+		0
 	],
 	"FLogIxpParsingWarning": [
 		"ref: 7FF78C3A6DB0; addr: 7FF789074C7D",
-		774
+		6
 	],
 	"FLogMultiFilterWarning": [
 		"ref: 7FF78C3A6D78; addr: 7FF789074C9D",
-		768
+		0
 	],
 	"FLogResetPlaceFilters": [
 		"ref: 7FF78C3A6D60; addr: 7FF789074DFD",
-		768
+		0
 	],
 	"FLogRolloutWarning": [
 		"ref: 7FF78C3A6DC8; addr: 7FF789074E3D",
-		774
+		6
 	],
 	"FLogStagedRolloutParsingWarning": [
 		"ref: 7FF78C3A6D90; addr: 7FF789074E5D",
-		774
+		6
 	],
 	"FLogQtUIThread": [
 		"ref: 7FF78C4C0C30; addr: 7FF78935AB3D",
-		774
+		6
 	],
 	"FLogRobloxTaskScheduler": [
 		"ref: 7FF78C4C1338; addr: 7FF78935D0BD",
-		774
+		6
 	],
 	"FLogAssetSaveQueueProcessorError": [
 		"ref: 7FF78C4C3188; addr: 7FF78936D2FD",
-		518
+		6
 	],
 	"FLogDataModelChangeTracking": [
 		"ref: 7FF78C4C3390; addr: 7FF78936D63D",
-		774
+		6
 	],
 	"FLogRTAnimationTrackerTrace": [
 		"ref: 7FF78C4D2120; addr: 7FF7893C9FFD",
-		774
+		6
 	],
 	"FLogAudioInputProcessorTrace": [
 		"ref: 7FF78C4D3990; addr: 7FF7893CE49D",
-		774
+		6
 	],
 	"FLogLoomTrackerEngineTrace": [
 		"ref: 7FF78C4D4000; addr: 7FF7893D216D",
-		774
+		6
 	],
 	"FLogVideoInputProcessorTrace": [
 		"ref: 7FF78C4D4828; addr: 7FF7893D6B4D",
-		774
+		6
 	],
 	"FLogMLService": [
 		"ref: 7FF78BD1EB78; addr: 7FF7893FF66D",
-		774
+		6
 	],
 	"FLogVideoThumbnailGeneratorTrace": [
 		"ref: 7FF78C4E1568; addr: 7FF78942009D",
-		768
+		0
 	],
 	"FLogVideoDeviceInputTrace": [
 		"ref: 7FF78C4ED038; addr: 7FF789448ACD",
-		768
+		0
 	],
 	"FLogDynFloodChecker": [
 		"ref: 7FF78C4EF060; addr: 7FF789457A5D",
-		768
+		0
 	],
 	"FLogWebViewService": [
 		"ref: 7FF78BD1F2E8; addr: 7FF789457DAD",
-		518
+		6
 	],
 	"FLogSystemThemeService": [
 		"ref: 7FF78BD1F0E0; addr: 7FF78945803D",
-		518
+		6
 	],
 	"FLogAppRatingPromptService": [
 		"ref: 7FF78BD1E338; addr: 7FF7894580ED",
-		518
+		6
 	],
 	"FLogMemoryStoreService": [
 		"ref: 7FF78BCD2170; addr: 7FF78948F83D",
-		768
+		0
 	],
 	"FLogMemoryStore": [
 		"ref: 7FF78C4FA848; addr: 7FF78949DB2D",
-		768
+		0
 	],
 	"FLogMessagingService": [
 		"ref: 7FF78BD1EC60; addr: 7FF7894AAD7D",
-		768
+		0
 	],
 	"FLogTextToSpeech": [
 		"ref: 7FF78C500948; addr: 7FF7894D1B4D",
-		774
+		6
 	],
 	"FLogSpeechToText": [
 		"ref: 7FF78C500EA0; addr: 7FF7894D9CDD",
-		774
+		6
 	],
 	"FLogPlayerViewServiceTrace": [
 		"ref: 7FF78C504C58; addr: 7FF7894E492D",
-		768
+		0
 	],
 	"FLogWebSocketClient": [
 		"ref: 7FF78BD1F2C0; addr: 7FF7894F755D",
-		774
+		6
 	],
 	"FLogCsmConnectionManager": [
 		"ref: 7FF78C510898; addr: 7FF78951634D",
-		768
+		0
 	],
 	"FLogRbxNNTensorTrace": [
 		"ref: 7FF78C511460; addr: 7FF78951812D",
-		768
+		0
 	],
 	"FLogNCNNBackendTrace": [
 		"ref: 7FF78C5115D8; addr: 7FF78951B43D",
-		768
+		0
 	],
 	"FLogStudioMain": [
 		"ref: 7FF78C5119C0; addr: 7FF78951EF5D",
-		1030
+		6
 	],
 	"FLogActivityHistoryEventService": [
 		"ref: 7FF78AFCFE50; addr: 7FF7895275BD",
-		1286
+		6
 	],
 	"FLogChangeHistoryStreamingService": [
 		"ref: 7FF78AFCFE70; addr: 7FF78952DA7D",
-		1286
+		6
 	],
 	"FLogScriptCommitService": [
 		"ref: 7FF78AFCFE38; addr: 7FF78953258D",
-		768
+		0
 	],
 	"FLogEngineAPINotificationClient": [
 		"ref: 7FF78D1916D8; addr: 7FF78953B96D",
-		768
+		0
 	],
 	"FLogStartupUpdateUtils": [
 		"ref: 7FF78D191EC8; addr: 7FF789540CCD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryFilterLogging": [
 		"ref: 7FF78D192508; addr: 7FF7895426FD",
-		774
+		6
 	],
 	"FLogStudioQtCategoryLog_default": [
 		"ref: 7FF78D192540; addr: 7FF78954271D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa": [
 		"ref: 7FF78D192668; addr: 7FF78954273D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_application": [
 		"ref: 7FF78D193108; addr: 7FF78954275D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_backingstore": [
 		"ref: 7FF78D1926B0; addr: 7FF78954277D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_backingstore_iosurface": [
 		"ref: 7FF78D192708; addr: 7FF78954279D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_cocoa_notifications": [
 		"ref: 7FF78D192778; addr: 7FF7895427BD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_drawing": [
 		"ref: 7FF78D192800; addr: 7FF7895427DD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_events": [
 		"ref: 7FF78D192858; addr: 7FF7895427FD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_fonts": [
 		"ref: 7FF78D1928A8; addr: 7FF78954281D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_gl": [
 		"ref: 7FF78D1928F8; addr: 7FF78954283D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_input_gestures": [
 		"ref: 7FF78D192940; addr: 7FF78954285D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_input_mouse": [
 		"ref: 7FF78D1929C8; addr: 7FF78954287D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_mime": [
 		"ref: 7FF78D192A68; addr: 7FF78954289D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_openglcontext": [
 		"ref: 7FF78D192AB0; addr: 7FF7895428BD",
-		774
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_screen": [
 		"ref: 7FF78D192B10; addr: 7FF7895428DD",
-		774
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_screen_updates": [
 		"ref: 7FF78D192B60; addr: 7FF7895428FD",
-		518
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_ui_automation": [
 		"ref: 7FF78D192BC0; addr: 7FF78954291D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_window": [
 		"ref: 7FF78D192C20; addr: 7FF78954293D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_qpa_windows": [
 		"ref: 7FF78D192C70; addr: 7FF78954295D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_text_drawing": [
 		"ref: 7FF78D192E30; addr: 7FF78954297D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_text_font_db": [
 		"ref: 7FF78D192E88; addr: 7FF78954299D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_text_font_match": [
 		"ref: 7FF78D192EE0; addr: 7FF7895429BD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_text_layout": [
 		"ref: 7FF78D192F60; addr: 7FF7895429DD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qt_widgets_painting": [
 		"ref: 7FF78D193000; addr: 7FF7895429FD",
-		774
+		6
 	],
 	"FLogStudioQtCategoryLog_qtitan_docking": [
 		"ref: 7FF78D193058; addr: 7FF789542A1D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryLog_qtitan_docking_gc": [
 		"ref: 7FF78D1930B0; addr: 7FF789542A3D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_default": [
 		"ref: 7FF78D192560; addr: 7FF789542A5D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa": [
 		"ref: 7FF78D192688; addr: 7FF789542A7D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_application": [
 		"ref: 7FF78D193130; addr: 7FF789542A9D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_backingstore": [
 		"ref: 7FF78D1926D8; addr: 7FF789542ABD",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_backingstore_iosurface": [
 		"ref: 7FF78D192740; addr: 7FF789542ADD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_cocoa_notifications": [
 		"ref: 7FF78D1927A8; addr: 7FF789542AFD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_drawing": [
 		"ref: 7FF78D192828; addr: 7FF789542B1D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_events": [
 		"ref: 7FF78D192880; addr: 7FF789542B3D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_fonts": [
 		"ref: 7FF78D1928D0; addr: 7FF789542B5D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_gl": [
 		"ref: 7FF78D192918; addr: 7FF789542B7D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_input_gestures": [
 		"ref: 7FF78D192970; addr: 7FF789542B9D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_input_mouse": [
 		"ref: 7FF78D1929F0; addr: 7FF789542BBD",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_mime": [
 		"ref: 7FF78D192A88; addr: 7FF789542BDD",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_openglcontext": [
 		"ref: 7FF78D192AE0; addr: 7FF789542BFD",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_screen": [
 		"ref: 7FF78D192B38; addr: 7FF789542C1D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_screen_updates": [
 		"ref: 7FF78D192B90; addr: 7FF789542C3D",
-		518
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_ui_automation": [
 		"ref: 7FF78D192BF0; addr: 7FF789542C5D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_window": [
 		"ref: 7FF78D192C48; addr: 7FF789542C7D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_qpa_windows": [
 		"ref: 7FF78D192C98; addr: 7FF789542C9D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_text_drawing": [
 		"ref: 7FF78D192E58; addr: 7FF789542CBD",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_text_font_db": [
 		"ref: 7FF78D192EB0; addr: 7FF789542CDD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_text_font_match": [
 		"ref: 7FF78D192F08; addr: 7FF789542CFD",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_text_layout": [
 		"ref: 7FF78D192F88; addr: 7FF789542D1D",
-		1030
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qt_widgets_painting": [
 		"ref: 7FF78D193028; addr: 7FF789542D3D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qtitan_docking": [
 		"ref: 7FF78D193080; addr: 7FF789542D5D",
-		774
+		6
 	],
 	"FLogStudioQtCategoryTelemetry_qtitan_docking_gc": [
 		"ref: 7FF78D1930D8; addr: 7FF789542D7D",
-		774
+		6
 	],
 	"FLogStudioQtCategory_js": [
 		"ref: 7FF78D192588; addr: 7FF789542D9D",
-		774
+		6
 	],
 	"FLogStudioQtCategory_qt_accessibility_cache": [
 		"ref: 7FF78D1925A0; addr: 7FF789542DBD",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_core_filesystemwatcher": [
 		"ref: 7FF78D1925C8; addr: 7FF789542DDD",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_gui_icc": [
 		"ref: 7FF78D1925F8; addr: 7FF789542DFD",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_gui_shortcutmap": [
 		"ref: 7FF78D192618; addr: 7FF789542E1D",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_opengl_diskcache": [
 		"ref: 7FF78D192640; addr: 7FF789542E3D",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_qpa_dialogs": [
 		"ref: 7FF78D1927E0; addr: 7FF789542E5D",
-		774
+		6
 	],
 	"FLogStudioQtCategory_qt_qpa_input_devices": [
 		"ref: 7FF78D192A20; addr: 7FF789542E7D",
-		774
+		6
 	],
 	"FLogStudioQtCategory_qt_qpa_input_methods": [
 		"ref: 7FF78D1929A0; addr: 7FF789542E9D",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_qpa_menus": [
 		"ref: 7FF78D192A48; addr: 7FF789542EBD",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_scaling": [
 		"ref: 7FF78D192CC8; addr: 7FF789542EDD",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_scenegraph_general": [
 		"ref: 7FF78D192CE8; addr: 7FF789542EFD",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_scenegraph_renderloop": [
 		"ref: 7FF78D192D10; addr: 7FF789542F1D",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_scenegraph_time_compilation": [
 		"ref: 7FF78D192D40; addr: 7FF789542F3D",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_scenegraph_time_glyph": [
 		"ref: 7FF78D192D70; addr: 7FF789542F5D",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_scenegraph_time_renderer": [
 		"ref: 7FF78D192DA0; addr: 7FF789542F7D",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_scenegraph_time_renderloop": [
 		"ref: 7FF78D192DD0; addr: 7FF789542F9D",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_scenegraph_time_texture": [
 		"ref: 7FF78D192E00; addr: 7FF789542FBD",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_text_hittest": [
 		"ref: 7FF78D192F38; addr: 7FF789542FDD",
-		1030
+		6
 	],
 	"FLogStudioQtCategory_qt_v4_asm": [
 		"ref: 7FF78D192FB8; addr: 7FF789542FFD",
-		774
+		6
 	],
 	"FLogStudioQtCategory_qt_widgets_gestures": [
 		"ref: 7FF78D192FD8; addr: 7FF78954301D",
-		1030
+		6
 	],
 	"FLogStudioQtLogging": [
 		"ref: 7FF78D1924E0; addr: 7FF78954303D",
-		1030
+		6
 	],
 	"FLogStudioQtTelemetry": [
 		"ref: 7FF78D1924F0; addr: 7FF78954305D",
-		1030
+		6
 	],
 	"FLogStudioDocking_NewDocking": [
 		"ref: 7FF78D194110; addr: 7FF7895483BD",
-		1030
+		6
 	],
 	"FLogStudioPluginRelay_NewDocking": [
 		"ref: 7FF78D1940F0; addr: 7FF78954845D",
-		1030
+		6
 	],
 	"FLogStudioQtitanDocking_NewDocking": [
 		"ref: 7FF78D1940D0; addr: 7FF7895484DD",
-		1030
+		6
 	],
 	"FLogFbxMemoryAllocator": [
 		"ref: 7FF78D196220; addr: 7FF78955F30D",
-		768
+		0
 	],
 	"FLogLSPFileSyncService": [
 		"ref: 7FF78BCF0210; addr: 7FF78956A1FD",
-		768
+		0
 	],
 	"FLogStudioInstanceCounter": [
 		"ref: 7FF78D198D50; addr: 7FF78956CE7D",
-		1030
+		6
 	],
 	"FLogOpenCloudService": [
 		"ref: 7FF78BD1EC90; addr: 7FF7895779DD",
-		768
+		0
 	],
 	"FLogPlayerData": [
 		"ref: 7FF78BD1ED80; addr: 7FF7895783AD",
-		768
+		0
 	],
 	"FLogConfigService": [
 		"ref: 7FF78BD1E6B8; addr: 7FF7895784DD",
-		774
+		6
 	],
 	"FLogCreatorConfigProvider": [
 		"ref: 7FF78D19CC68; addr: 7FF789580D6D",
-		774
+		6
 	],
 	"FLogCreatorExperimentationProvider": [
 		"ref: 7FF78D19CFE8; addr: 7FF789581A1D",
-		774
+		6
 	],
 	"FLogPlaceAnnotations": [
 		"ref: 7FF78AF6B828; addr: 7FF7895BB48D",
-		774
+		6
 	],
 	"FLogStudioWidget": [
 		"ref: 7FF78BCF03A0; addr: 7FF7895CB70D",
-		774
+		6
 	]
 }

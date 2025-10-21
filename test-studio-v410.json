@@ -10345,11 +10345,11 @@
 	],
 	"FLogStudioDebugLog": [
 		"ref: 7FF7A4918BD8; addr: 7FF7A2CB6301",
-		776
+		8
 	],
 	"FLogStudioLastActions": [
 		"ref: 7FF7A4918BE8; addr: 7FF7A2CB6331",
-		4026531843
+		3
 	],
 	"FLogTrackPublishingHashOutput": [
 		"ref: 7FF7A491DEA8; addr: 7FF7A2CB69C1",
@@ -10485,7 +10485,7 @@
 	],
 	"FLogJoinTimeLog": [
 		"ref: 7FF7A4A2F7A0; addr: 7FF7A2CD1BD1",
-		1540
+		4
 	],
 	"FLogPartStreamingRequests": [
 		"ref: 7FF7A4A32370; addr: 7FF7A2CD22A1",
@@ -10593,7 +10593,7 @@
 	],
 	"FLogCOMCalls": [
 		"ref: 7FF7A4A67AB0; addr: 7FF7A2CE3E61",
-		33620225
+		1
 	],
 	"FLogClientSettings": [
 		"ref: 7FF7A48DE5C8; addr: 7FF7A2CE3E91",
@@ -10601,7 +10601,7 @@
 	],
 	"FLogCloseDataModel": [
 		"ref: 7FF7A4A67DF8; addr: 7FF7A2CE3EC1",
-		16843009
+		1
 	],
 	"FLogContentProviderRequests": [
 		"ref: 7FF7A4A67E18; addr: 7FF7A2CE3EF1",
@@ -10609,15 +10609,15 @@
 	],
 	"FLogCoreScripts": [
 		"ref: 7FF7A4A67E98; addr: 7FF7A2CE3F21",
-		16843009
+		1
 	],
 	"FLogCrashReporterInit": [
 		"ref: 7FF7A4A67AE8; addr: 7FF7A2CE3F51",
-		33620481
+		1
 	],
 	"FLogDataModelJobs": [
 		"ref: 7FF7A4A67CC8; addr: 7FF7A2CE3F81",
-		33686018
+		2
 	],
 	"FLogDeviceLost": [
 		"ref: 7FF7A4A67B90; addr: 7FF7A2CE4041",
@@ -10661,11 +10661,11 @@
 	],
 	"FLogGfxClusters": [
 		"ref: 7FF7A4A67D20; addr: 7FF7A2CE4221",
-		2684485890
+		2
 	],
 	"FLogGoldenHashes": [
 		"ref: 7FF7A4A67B80; addr: 7FF7A2CE4251",
-		33620481
+		1
 	],
 	"FLogGuiTargetLifetime": [
 		"ref: 7FF7A4A67B50; addr: 7FF7A2CE4281",
@@ -10673,7 +10673,7 @@
 	],
 	"FLogHardwareMouse": [
 		"ref: 7FF7A4A67B18; addr: 7FF7A2CE42B1",
-		16908546
+		2
 	],
 	"FLogHttp": [
 		"ref: 7FF7A4A67FC4; addr: 7FF7A2CE42E1",
@@ -10685,7 +10685,7 @@
 	],
 	"FLogJoinSendExtraItemCount": [
 		"ref: 7FF7A4A67F28; addr: 7FF7A2CE4341",
-		2103993345
+		1
 	],
 	"FLogJointInstanceLifetime": [
 		"ref: 7FF7A4A67C60; addr: 7FF7A2CE4371",
@@ -10705,11 +10705,11 @@
 	],
 	"FLogMachineIdUploader": [
 		"ref: 7FF7A4A67FB0; addr: 7FF7A2CE4431",
-		66305
+		1
 	],
 	"FLogMaxJoinDataSizeKB": [
 		"ref: 7FF7A4A67F80; addr: 7FF7A2CE4461",
-		2793236580
+		100
 	],
 	"FLogMaxNetworkReadTimeInCS": [
 		"ref: 7FF7A4A67F40; addr: 7FF7A2CE4491",
@@ -10717,15 +10717,15 @@
 	],
 	"FLogMegaClusterInit": [
 		"ref: 7FF7A4A67D40; addr: 7FF7A2CE44C1",
-		2090861057
+		1
 	],
 	"FLogMegaClusterNetworkInit": [
 		"ref: 7FF7A4A67D68; addr: 7FF7A2CE44F1",
-		16843009
+		1
 	],
 	"FLogMegaClusterNetwork": [
 		"ref: 7FF7A4A67D50; addr: 7FF7A2CE4521",
-		2793185282
+		2
 	],
 	"FLogMouseCommand": [
 		"ref: 7FF7A4A67E30; addr: 7FF7A2CE4551",
@@ -10741,7 +10741,7 @@
 	],
 	"FLogNetworkCache": [
 		"ref: 7FF7A4A67ED8; addr: 7FF7A2CE45E1",
-		1751384321
+		1
 	],
 	"FLogNetwork": [
 		"ref: 7FF7A4A26860; addr: 7FF7A2CE4611",
@@ -10773,7 +10773,7 @@
 	],
 	"FLogPlayer": [
 		"ref: 7FF7A490E81C; addr: 7FF7A2CE4761",
-		1677787393
+		1
 	],
 	"FLogPlayerShutdownLuaTimeoutSeconds": [
 		"ref: 7FF7A4A67FE0; addr: 7FF7A2CE4791",
@@ -10797,23 +10797,23 @@
 	],
 	"FLogRbxMegaClusterInit": [
 		"ref: 7FF7A4A67D08; addr: 7FF7A2CE4881",
-		33620482
+		2
 	],
 	"FLogRbxMegaClustersUpdate": [
 		"ref: 7FF7A4A67CF0; addr: 7FF7A2CE48B1",
-		16908802
+		2
 	],
 	"FLogRenderBreakdownDetails": [
 		"ref: 7FF7A4A67CB0; addr: 7FF7A2CE48E1",
-		33686018
+		2
 	],
 	"FLogRenderBreakdown": [
 		"ref: 7FF7A4A67CA0; addr: 7FF7A2CE4911",
-		33686018
+		2
 	],
 	"FLogRenderStatsOnLogs": [
 		"ref: 7FF7A4A67C18; addr: 7FF7A2CE4941",
-		2793058306
+		2
 	],
 	"FLogReplicationDataLifetime": [
 		"ref: 7FF7A4A67EE8; addr: 7FF7A2CE4971",
@@ -10821,7 +10821,7 @@
 	],
 	"FLogRobloxWndInit": [
 		"ref: 7FF7A4A67AD8; addr: 7FF7A2CE49A1",
-		16908545
+		1
 	],
 	"FLogSSAO": [
 		"ref: 7FF7A4A586C0; addr: 7FF7A2CE49D1",
@@ -10833,7 +10833,7 @@
 	],
 	"FLogScriptContextClose": [
 		"ref: 7FF7A4A67E70; addr: 7FF7A2CE4A31",
-		16843009
+		1
 	],
 	"FLogScriptContext": [
 		"ref: 7FF7A4923160; addr: 7FF7A2CE4A61",
@@ -10845,7 +10845,7 @@
 	],
 	"FLogScriptPrint": [
 		"ref: 7FF7A4A67FD0; addr: 7FF7A2CE4AC1",
-		259
+		3
 	],
 	"FLogThumbnailRender": [
 		"ref: 7FF7A4A67BF0; addr: 7FF7A2CE4AF1",
@@ -10869,11 +10869,11 @@
 	],
 	"FLogViewRbxBase": [
 		"ref: 7FF7A4A67BD0; addr: 7FF7A2CE4BE1",
-		2952921346
+		2
 	],
 	"FLogViewRbxInit": [
 		"ref: 7FF7A4A67BE0; addr: 7FF7A2CE4C11",
-		2058355201
+		1
 	],
 	"FLogVisualEngineInit": [
 		"ref: 7FF7A4A67C30; addr: 7FF7A2CE4C41",
@@ -10921,7 +10921,7 @@
 	],
 	"FLogPlayerChatInfoExponentialBackoffLimitMultiplier": [
 		"ref: 7FF7A4A84CA8; addr: 7FF7A2CFBCF1",
-		1545
+		9
 	],
 	"FLogPreloadLinkedScriptsTiming": [
 		"ref: 7FF7A4A91900; addr: 7FF7A2D0B8A1",
@@ -11205,7 +11205,7 @@
 	],
 	"FLogDXVideoMemory": [
 		"ref: 7FF7A4C5A440; addr: 7FF7A2DFC331",
-		1028
+		4
 	],
 	"FLogSystemUtil": [
 		"ref: 7FF7A4C5A450; addr: 7FF7A2DFC361",
