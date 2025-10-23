@@ -115,7 +115,7 @@ def find_string_in_memory(session: X64DbgClient, s: bytes):
     region_map = organise_map(session)
     assert session.cmd_sync('find %x,"%s"' % (
         region_map['.rdata'].base_address,
-        (b'\0' + s + b'\0').hex(),
+        (b'\0%s\0' % s).hex(),
     ))
     (word_base, _) = session.eval_sync('$result')
     assert word_base > 0
@@ -138,11 +138,11 @@ def find_lea_from_addr(session: X64DbgClient, memory_addr: int):
     assert lea_ins is not None
     lea_ptr = get_memory_ptr(lea_ins)
     assert lea_ptr is not None
-    return (lea_ptr, lea_addr)
+    return (lea_addr, lea_ptr)
 
 
 @functools.cache
-def find_mem_lea_from_name_lea(session: X64DbgClient, lea_addr: int):
+def find_mem_lea_from_name_lea(session: X64DbgClient, name_lea_addr: int):
     '''
     Definitions that I made up:
     - `name_lea`: the memory-read instruction with an address to the *name* of the flag.
@@ -156,15 +156,15 @@ def find_mem_lea_from_name_lea(session: X64DbgClient, lea_addr: int):
 
     This has been validated in various Studio versions from 347 up to 695.
     '''
-    lea_ins = session.disassemble_at(lea_addr)
+    lea_ins = session.disassemble_at(name_lea_addr)
     assert lea_ins is not None
-    offset = -lea_ins.instr_size
+    addr = name_lea_addr - lea_ins.instr_size
 
-    ins = session.disassemble_at(lea_addr+offset)
+    ins = session.disassemble_at(addr)
     assert ins is not None
-    ref = get_memory_ptr(ins)
-    assert ref is not None
-    return (offset, ref)
+    ptr = get_memory_ptr(ins)
+    assert ptr is not None
+    return (addr, ptr)
 
 
 def read_string(session: X64DbgClient, addr: int, can_start_in_middle: bool = False):
@@ -185,9 +185,9 @@ def trace_down_until_branches(session: X64DbgClient, base_addr: int, skip_curren
     Generates a list of branch statements which follow `base_addr`.
     Limited by `count`, which if set to -1, can run up to the next `int3` instruction
     '''
-    offset = 0
+    addr = base_addr
     while True:
-        ins = session.disassemble_at(base_addr + offset)
+        ins = session.disassemble_at(addr)
         assert ins is not None
 
         if ins.instruction == 'int3':
@@ -195,14 +195,14 @@ def trace_down_until_branches(session: X64DbgClient, base_addr: int, skip_curren
 
         if (
             ins.type == DisasmInstrType.Branch and
-            not (skip_current and offset == 0)
+            not (skip_current and addr == base_addr)
         ):
-            yield (offset, ins)
+            yield (addr, ins)
             count -= 1
             if count == 0:
                 return
 
-        offset += ins.instr_size
+        addr += ins.instr_size
         continue
 
 
@@ -235,11 +235,11 @@ def process_call_stuff(session: X64DbgClient, call_arg: int, load_offset: int, o
 @functools.cache
 def get_string_load_places(session: X64DbgClient):
     flag_name_mem_addr = find_string_in_memory(session, b'FriendsOnlineUrl')
-    (_, flag_name_addr) = find_lea_from_addr(session, flag_name_mem_addr)
+    (flag_name_addr, _) = find_lea_from_addr(session, flag_name_mem_addr)
     (_, flag_load_ref) = find_mem_lea_from_name_lea(session, flag_name_addr)
 
     default_val_mem_addr = find_string_in_memory(session, b'/my/friendsonline')
-    (_, default_val_addr) = find_lea_from_addr(session, default_val_mem_addr)
+    (default_val_addr, _) = find_lea_from_addr(session, default_val_mem_addr)
 
     lea_addr = min(
         iterate_ref(
@@ -262,15 +262,20 @@ def get_string_load_places(session: X64DbgClient):
         process_call_stuff(
             session,
             call_ins.arg[0].constant,
-            lea_offset,
-            lea_offset + default_offset,
+            call_addr - lea_addr,
+            call_addr - lea_addr + default_offset,
         )
-        for (lea_offset, call_ins) in call_stuff
+        for (call_addr, call_ins) in call_stuff
     )))
 
 
-def read_value(session: X64DbgClient, flag_t: flag_type, name_addr: int):
-    (val_offset, val_ref) = find_mem_lea_from_name_lea(session, name_addr)
+def read_value(session: X64DbgClient, flag_t: flag_type, mem_addr: int):
+    ins = session.disassemble_at(mem_addr)
+    assert ins is not None
+
+    val_ref = get_memory_ptr(ins)
+    assert val_ref is not None
+
     assert val_ref is not None
     match flag_t:
 
@@ -310,14 +315,14 @@ def find_addrs_into_branch(session: X64DbgClient, func_addr: int, lea_offset: in
     region_map = organise_map(session)
 
     def gen():
-        for a in iterate_ref(
+        for lea_addr in iterate_ref(
             session,
             func_addr,
             region_map['.text'].base_address,
             region_map['.text'].region_size,
         ):
 
-            lea_addr = a - lea_offset
+            lea_addr = lea_addr - lea_offset
             lea_ins = session.disassemble_at(lea_addr)
             assert lea_ins is not None
 
@@ -329,81 +334,95 @@ def find_addrs_into_branch(session: X64DbgClient, func_addr: int, lea_offset: in
     return list(gen())
 
 
-def process_of_type(session: X64DbgClient, flag_t: flag_type):
+def get_flags_of_type(session: X64DbgClient, flag_t: flag_type):
     flag_name_addr = find_string_in_memory(session, flag_t.value)
     eprint(
-        '[%s] template flag `%s` found at :$%X' %
+        '    [%s] template flag `%s` found at :$%X' %
         (
             flag_t.name,
             flag_t.value.decode(),
             to_rva(session, flag_name_addr),
         )
     )
-    (_, lea_addr) = find_lea_from_addr(session, flag_name_addr)
+    (lea_addr, _) = find_lea_from_addr(session, flag_name_addr)
     eprint(
-        '[%s] lea for flag name found at :$%X' %
+        '    [%s] lea for flag name found at :$%X' %
         (
             flag_t.name,
             to_rva(session, lea_addr),
         )
     )
-    (call_offset, call_ins) = next(trace_down_until_branches(session, lea_addr))
-    call_addr = call_ins.arg[0].constant
+    (call_addr, call_ins) = next(trace_down_until_branches(session, lea_addr))
+    call_ptr = call_ins.arg[0].constant
+    call_offset = call_addr - lea_addr
     eprint(
-        '[%s] jmp/call found from :$%X to :$%X' %
+        '    [%s] jmp/call found from :$%X to :$%X' %
         (
             flag_t.name,
-            to_rva(session, lea_addr + call_offset),
             to_rva(session, call_addr),
+            to_rva(session, call_ptr),
         )
     )
-    flag_name_addrs = find_addrs_into_branch(session, call_addr, call_offset)
+    flag_name_addrs = find_addrs_into_branch(session, call_ptr, call_offset)
     eprint(
-        '[%s] a number of %d refs are found' %
+        '    [%s] a number of %d refs are found' %
         (flag_t.name, len(flag_name_addrs))
     )
     flag_names = (
         (read_string(session, ptr) or b'').decode()
         for (_, ptr) in flag_name_addrs
     )
-    return zip(flag_names, flag_name_addrs)
+    flag_mem_addrs = (
+        find_mem_lea_from_name_lea(session, addr)
+        for (addr, _) in flag_name_addrs
+    )
+    return zip(flag_names, flag_name_addrs, flag_mem_addrs)
 
 
-def process(session: X64DbgClient, extract_default_flags: bool, extract_default_strings: bool):
-    def gen():
-        for flag_t in flag_type:
-            if flag_t.get_value_type() == builtins.str:
-                extract = extract_default_strings
-            else:
-                extract = extract_default_flags
+def process(session: X64DbgClient, extract_default_flags: bool, extract_default_strings: bool, add_flag_labels: bool):
+    for flag_t in flag_type:
+        if flag_t.get_value_type() == builtins.str:
+            extract_default = extract_default_strings
+        else:
+            extract_default = extract_default_flags
 
-            for name, (addr, ptr) in process_of_type(session, flag_t):
-                addr_str = 'addr = :$%X; ptr = :$%X' % (
-                    to_rva(session, addr),
-                    to_rva(session, ptr),
+        flags_of_type = get_flags_of_type(session, flag_t)
+        for name, (name_addr, name_ptr), (val_addr, val_ptr) in flags_of_type:
+
+            addr_str = 'load = :$%X; mem_val = :$%X; mem_name = :$%X' % (
+                to_rva(session, val_addr),
+                to_rva(session, val_ptr),
+                to_rva(session, name_ptr),
+            )
+            json_val = (addr_str,)
+
+            result = None
+            if extract_default:
+                result = read_value(session, flag_t, val_addr)
+
+            if result is not None:
+                json_val = (*json_val, result)
+            json_key = '%s%s' % (flag_t.name, name)
+
+            if add_flag_labels:
+                session.set_label_at(
+                    val_ptr,
+                    '%s::%s' % (flag_t.name, name),
                 )
-                json_val = (addr_str,)
 
-                result = None
-                if extract:
-                    result = read_value(session, flag_t, addr)
-
-                if result is not None:
-                    json_val = (*json_val, result)
-
-                key = flag_t.name + name
-                yield (key, json_val)
-
-    return dict(gen())
+            yield (json_key, json_val)
 
 
 def run(debug_path: str, *a, **kwa) -> None:
     session = X64DbgClient('x64dbg' if is_exe_64_bit(debug_path) else 'x32dbg')
     try:
+        eprint('>>> "%s"' % debug_path)
         session.start_session(debug_path)
         session.wait_until_debugging()
 
-        print(json.dumps(process(session, *a, **kwa), indent='\t'))
+        result = dict(process(session, *a, **kwa))
+        print(json.dumps(result, indent='\t'))
+        eprint('<<< "%s"' % debug_path)
     finally:
         session.terminate_session()
 
@@ -421,6 +440,11 @@ if __name__ == '__main__':
         '-ds',
         action='store_true',
     )
+    parser.add_argument(
+        '--add_flag_labels',
+        help='Adds the flag-name labels to your x64dbg database',
+        action='store_true',
+    )
     args = parser.parse_args()
-    run(**args.__dict__)
     # r'c:\Users\USER\Projects\FilteringDisabled\Roblox\v463\Studio\RobloxStudioBeta.exe'
+    run(**args.__dict__)
