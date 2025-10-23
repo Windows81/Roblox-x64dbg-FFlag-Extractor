@@ -1,0 +1,6194 @@
+{
+	"FFlagCloudEditGARespectsThrottling": [
+		"addr = :$31B7; ptr = :$CBB7AC",
+		false
+	],
+	"FFlagCloudEditLogFailuresWithInflux": [
+		"addr = :$31D7; ptr = :$CBB7EC",
+		false
+	],
+	"FFlagCloudEditSaveFailureExtraInfo": [
+		"addr = :$31F7; ptr = :$CBB7CC",
+		false
+	],
+	"FFlagAllowMultipleHangReports": [
+		"addr = :$339A; ptr = :$CBC0BC",
+		false
+	],
+	"FFlagCrashReporterNew": [
+		"addr = :$33DA; ptr = :$CBC0D8",
+		false
+	],
+	"FFlagExitAfterHangDetection2": [
+		"addr = :$33FA; ptr = :$CBC0EC",
+		false
+	],
+	"FFlagStudioCacheRecentAction": [
+		"addr = :$343A; ptr = :$CBC08C",
+		false
+	],
+	"FFlagStudioReportCachedRecentActions": [
+		"addr = :$34BA; ptr = :$CBC06C",
+		false
+	],
+	"FFlagCrashUploadIgnoreLocalBuilds": [
+		"addr = :$39F7; ptr = :$CBE4F4",
+		false
+	],
+	"FFlagUS1248p1": [
+		"addr = :$3A67; ptr = :$CBE75C",
+		false
+	],
+	"FFlagUS1248p3": [
+		"addr = :$3AA7; ptr = :$CBE774",
+		false
+	],
+	"FFlagUS2k1": [
+		"addr = :$3AC7; ptr = :$CBE788",
+		false
+	],
+	"FFlagUS2k": [
+		"addr = :$3AE7; ptr = :$CBE780",
+		false
+	],
+	"FFlagUS30484p1": [
+		"addr = :$3B07; ptr = :$CBE744",
+		false
+	],
+	"FFlagRCCMonitoringSupportRetryWithExponentialBackoff": [
+		"addr = :$3B67; ptr = :$CBE8F8",
+		false
+	],
+	"FFlagRccServiceProperLstatusSuccessChecks": [
+		"addr = :$3C3A; ptr = :$CBF8D4",
+		false
+	],
+	"FFlagDebugCrashOnFailToLoadClientSettings": [
+		"addr = :$3D27; ptr = :$CBFFC8",
+		false
+	],
+	"FFlagDebugDisableRCCLogPrefix": [
+		"addr = :$3D47; ptr = :$CC00D4",
+		false
+	],
+	"FFlagNoBestFitMalloc": [
+		"addr = :$3DA7; ptr = :$CC010C",
+		false
+	],
+	"FFlagRCCAlwaysSelfContainedMode": [
+		"addr = :$3DC7; ptr = :$CC00F0",
+		false
+	],
+	"FFlagRccClosedTooEarly": [
+		"addr = :$3EC7; ptr = :$CC011C",
+		false
+	],
+	"FFlagUseNewSecurityKeyApi": [
+		"addr = :$3F17; ptr = :$CBFFF0",
+		false
+	],
+	"FFlagServiceAskSetParent": [
+		"addr = :$4497; ptr = :$CC4A8C",
+		false
+	],
+	"FFlagServiceVsp2": [
+		"addr = :$44B7; ptr = :$CC4AA0",
+		false
+	],
+	"FFlagCLI15496": [
+		"addr = :$4B17; ptr = :$CC4C0C",
+		false
+	],
+	"FFlagCleanUpLegacyParseChatCommand": [
+		"addr = :$4B57; ptr = :$CC4E44",
+		false
+	],
+	"FFlagDebugThumbnailForceFailure": [
+		"addr = :$4B77; ptr = :$CC4D7C",
+		false
+	],
+	"FFlagFixMissingStandardAnthroParts": [
+		"addr = :$4B97; ptr = :$CC4E24",
+		false
+	],
+	"FFlagPassUserLocaleOnFilterMessage": [
+		"addr = :$4CE7; ptr = :$CC4C44",
+		false
+	],
+	"FFlagRecordInGameDeaths": [
+		"addr = :$4D07; ptr = :$CC5340",
+		true
+	],
+	"FFlagServerGenPlayerXboxFixTag": [
+		"addr = :$4D27; ptr = :$CC4E64",
+		false
+	],
+	"FFlagStudioStartServerGuestAppearance": [
+		"addr = :$4D87; ptr = :$CC4BE8",
+		false
+	],
+	"FFlagTheStarsAreBright": [
+		"addr = :$4DA7; ptr = :$CC5354",
+		false
+	],
+	"FFlagThrottleGetUserThumbnailAsync": [
+		"addr = :$4DC7; ptr = :$CC4CAC",
+		false
+	],
+	"FFlagVerifyIncomingFriendRequestsBeforeNotifying": [
+		"addr = :$4DF7; ptr = :$CC4C18",
+		false
+	],
+	"FFlagDebugHttpAsyncCallsForStatsReporting": [
+		"addr = :$6317; ptr = :$CC66DC",
+		true
+	],
+	"FFlagHttpReportStatisticsOnce": [
+		"addr = :$63D7; ptr = :$CC6750",
+		false
+	],
+	"FFlagInfluxEnabled": [
+		"addr = :$6597; ptr = :$CC6E3C",
+		true
+	],
+	"FFlagAnalyticsDeferredEventIngestShutdown": [
+		"addr = :$6617; ptr = :$CC70E8",
+		false
+	],
+	"FFlagDebugAnalyticsForceLotteryWin": [
+		"addr = :$66D7; ptr = :$CC6FF0",
+		false
+	],
+	"FFlagUseHttpsAnalyticsUrls": [
+		"addr = :$68F7; ptr = :$CC7194",
+		false
+	],
+	"FFlagUseNewGoogleAnalyticsImpl2": [
+		"addr = :$6917; ptr = :$CC7010",
+		false
+	],
+	"FFlagUseHttpDefaultUrlSchema": [
+		"addr = :$6EB7; ptr = :$CC76A8",
+		false
+	],
+	"FFlagAvatarJointPositionsEnabled": [
+		"addr = :$7297; ptr = :$CC7A48",
+		false
+	],
+	"FFlagBadCoreScriptCrashFixEnabled": [
+		"addr = :$7397; ptr = :$CC7AD0",
+		false
+	],
+	"FFlagDataModelForwardForceLocaleIds": [
+		"addr = :$7687; ptr = :$CC7E7C",
+		false
+	],
+	"FFlagDataModelForwardGameLocaleId": [
+		"addr = :$76A7; ptr = :$CC7EB4",
+		false
+	],
+	"FFlagDontLoadCoreScriptsFromRenderScheduler": [
+		"addr = :$7757; ptr = :$CC7ED4",
+		false
+	],
+	"FFlagEnableLoadingScreenPlaceIconTween": [
+		"addr = :$7777; ptr = :$CC7F08",
+		false
+	],
+	"FFlagLetLocalOverrideFlag": [
+		"addr = :$77B7; ptr = :$CC7F70",
+		false
+	],
+	"FFlagLogClientLoadToAvatarLoad": [
+		"addr = :$77D7; ptr = :$CC7F2C",
+		false
+	],
+	"FFlagPresetInGameGuiInset": [
+		"addr = :$7837; ptr = :$CC7FA0",
+		false
+	],
+	"FFlagProcessStarterGuiInEditMode": [
+		"addr = :$7857; ptr = :$CC7F48",
+		false
+	],
+	"FFlagReportJoinAllCount": [
+		"addr = :$7927; ptr = :$CC7FD4",
+		false
+	],
+	"FFlagReportRuntimeJoinCount": [
+		"addr = :$7947; ptr = :$CC7FE8",
+		false
+	],
+	"FFlagSolverHotSwappingEnabled": [
+		"addr = :$7A17; ptr = :$CC7FB8",
+		false
+	],
+	"FFlagUseConvertToHex": [
+		"addr = :$9347; ptr = :$CCB744",
+		false
+	],
+	"FFlagDebugDisableTimeoutDisconnect": [
+		"addr = :$98F7; ptr = :$CCC08C",
+		false
+	],
+	"FFlagDebugHumanoidRendering": [
+		"addr = :$9917; ptr = :$CCC074",
+		false
+	],
+	"FFlagDebugLocalRccServerConnection": [
+		"addr = :$9937; ptr = :$CCC0AC",
+		false
+	],
+	"FFlagFixParentChildInsert": [
+		"addr = :$A487; ptr = :$CCC60C",
+		false
+	],
+	"FFlagInsertInstanceRecommendedList": [
+		"addr = :$A4A7; ptr = :$CCC5EC",
+		false
+	],
+	"FFlagLockViolationInstanceCrash": [
+		"addr = :$A507; ptr = :$CCC590",
+		false
+	],
+	"FFlagLockViolationInstanceCrashStudio": [
+		"addr = :$A527; ptr = :$CCC5AC",
+		false
+	],
+	"FFlagCheckMultipleLoadCharacterCalls": [
+		"addr = :$C877; ptr = :$CCDD48",
+		false
+	],
+	"FFlagDebugDoNotLoadHumanoidSounds": [
+		"addr = :$C897; ptr = :$CCDA58",
+		false
+	],
+	"FFlagEnableGetAvailableForExperimentAPI": [
+		"addr = :$C8B7; ptr = :$CCDB9C",
+		false
+	],
+	"FFlagErrorForFailedRequestsInThumbnailLogic": [
+		"addr = :$C8D7; ptr = :$CCDAA0",
+		false
+	],
+	"FFlagFireCharacterAddedAfterSpawn": [
+		"addr = :$C8F7; ptr = :$CCDA10",
+		false
+	],
+	"FFlagFixCharacterAppearanceLoadedEvent2": [
+		"addr = :$C917; ptr = :$CCDE68",
+		false
+	],
+	"FFlagFixCharacterAppearanceLoadedEvent": [
+		"addr = :$C937; ptr = :$CCDDCC",
+		false
+	],
+	"FFlagFixPlayerlistFollowing": [
+		"addr = :$C957; ptr = :$CCDB64",
+		false
+	],
+	"FFlagGetJoinDataEnable": [
+		"addr = :$C977; ptr = :$CCDE00",
+		false
+	],
+	"FFlagGetTeamLazyEvaluation": [
+		"addr = :$C997; ptr = :$CCDB34",
+		false
+	],
+	"FFlagGuestFriendCheckFailImmediate": [
+		"addr = :$C9B7; ptr = :$CCDB04",
+		false
+	],
+	"FFlagNoInfiniteLoopOnChatInfoLoadFailure": [
+		"addr = :$C9D7; ptr = :$CCDC94",
+		false
+	],
+	"FFlagPlayHereFix": [
+		"addr = :$C9F7; ptr = :$CCDE14",
+		false
+	],
+	"FFlagRemoveDeadCode": [
+		"addr = :$CA57; ptr = :$CCDB24",
+		false
+	],
+	"FFlagReportCharacterLoadTimeMetrics2": [
+		"addr = :$CA77; ptr = :$CCDAD8",
+		false
+	],
+	"FFlagUseAdvancedCharacterScales3": [
+		"addr = :$CAC7; ptr = :$CCDCFC",
+		false
+	],
+	"FFlagUseCachedFriendChecksForPlayerIsFriendsWith": [
+		"addr = :$CAE7; ptr = :$CCDCD0",
+		false
+	],
+	"FFlagUseNonCollidableRootR15": [
+		"addr = :$CB07; ptr = :$CCDD30",
+		false
+	],
+	"FFlagContentProviderTempDirWithPid2": [
+		"addr = :$122A7; ptr = :$CD240C",
+		false
+	],
+	"FFlagFixAssetPathsUnderJunctions": [
+		"addr = :$122E7; ptr = :$CD23F0",
+		false
+	],
+	"FFlagForceUseProductionForAssetFetching": [
+		"addr = :$12307; ptr = :$CD23CC",
+		false
+	],
+	"FFlagNoCacheForLocalContent": [
+		"addr = :$12327; ptr = :$CD2394",
+		false
+	],
+	"FFlagRequireRbxSig2": [
+		"addr = :$12597; ptr = :$CD242C",
+		false
+	],
+	"FFlagAvatarEditorDefaultTabSelection": [
+		"addr = :$12A77; ptr = :$CD3608",
+		false
+	],
+	"FFlagAvatarEditorRecomputeCameraLookAt": [
+		"addr = :$12A97; ptr = :$CD3650",
+		false
+	],
+	"FFlagAvatarEditorSelectivelyUseDefaultAsset": [
+		"addr = :$12AB7; ptr = :$CD3628",
+		false
+	],
+	"FFlagAvatarEditorUseArtistIntentFolder": [
+		"addr = :$12AD7; ptr = :$CD2D0C",
+		false
+	],
+	"FFlagAvatarEditorUseNewR15Model": [
+		"addr = :$12AF7; ptr = :$CD2CF0",
+		false
+	],
+	"FFlagBackpackScriptUseFormatByKey": [
+		"addr = :$12B17; ptr = :$CD34E8",
+		false
+	],
+	"FFlagChatServiceInstallerExemptLocalizationFromAnalytics": [
+		"addr = :$12B37; ptr = :$CD2D30",
+		false
+	],
+	"FFlagConvertMyPlaceNameInXboxApp": [
+		"addr = :$12B57; ptr = :$CD3204",
+		true
+	],
+	"FFlagCoreScriptTranslateGameText": [
+		"addr = :$12B77; ptr = :$CD3348",
+		false
+	],
+	"FFlagCoreScriptsUseLocalizationModule": [
+		"addr = :$12B97; ptr = :$CD3508",
+		false
+	],
+	"FFlagEnableAEAndroidBackButton": [
+		"addr = :$12BB7; ptr = :$CD36A8",
+		false
+	],
+	"FFlagEnableLoadingHUDOniOSForGameShare": [
+		"addr = :$12BD7; ptr = :$CD311C",
+		false
+	],
+	"FFlagEnableLuaAppFormFactorAndPlatform": [
+		"addr = :$12BF7; ptr = :$CD317C",
+		false
+	],
+	"FFlagEnableLuaEventStreamRelease": [
+		"addr = :$12C17; ptr = :$CD31A0",
+		false
+	],
+	"FFlagEnableNewDevConsole": [
+		"addr = :$12C37; ptr = :$CD2F5C",
+		false
+	],
+	"FFlagEnableWebServerOnStart": [
+		"addr = :$12C57; ptr = :$CD3364",
+		false
+	],
+	"FFlagFixUsersReducerDataLoss": [
+		"addr = :$12C97; ptr = :$CD3474",
+		false
+	],
+	"FFlagFriendPlayerPromptUseFormatByKey": [
+		"addr = :$12CB7; ptr = :$CD3584",
+		false
+	],
+	"FFlagGetDefaultClothesFromWeb": [
+		"addr = :$12CD7; ptr = :$CD3674",
+		false
+	],
+	"FFlagLoadingScreenUseLocalizationTable": [
+		"addr = :$12D17; ptr = :$CD348C",
+		false
+	],
+	"FFlagLuaAppFriendshipCreatedSignalREnabled": [
+		"addr = :$12D37; ptr = :$CD3154",
+		false
+	],
+	"FFlagLuaAppLegacyInputDisabledGlobally2": [
+		"addr = :$12D57; ptr = :$CD35C4",
+		false
+	],
+	"FFlagLuaAppPeopleListV1": [
+		"addr = :$12D77; ptr = :$CD3040",
+		false
+	],
+	"FFlagLuaChatAssetCardsSelfTerminateConnection": [
+		"addr = :$12D97; ptr = :$CD2D64",
+		false
+	],
+	"FFlagLuaChatCreateChatEnabled": [
+		"addr = :$12DB7; ptr = :$CD2E30",
+		false
+	],
+	"FFlagLuaChatDisconnectBackButtonWhenOffScreen": [
+		"addr = :$12DD7; ptr = :$CD2E88",
+		false
+	],
+	"FFlagLuaChatGroupChatIconEnabled": [
+		"addr = :$12DF7; ptr = :$CD2E4C",
+		false
+	],
+	"FFlagLuaChatPerformanceTracking": [
+		"addr = :$12E17; ptr = :$CD2DF8",
+		false
+	],
+	"FFlagLuaChatRefactoredChatInputBar": [
+		"addr = :$12EB7; ptr = :$CD2DD8",
+		false
+	],
+	"FFlagLuaChatShareGameToChatFromChat": [
+		"addr = :$12ED7; ptr = :$CD2DB8",
+		false
+	],
+	"FFlagLuaChatUseCppTextTruncation": [
+		"addr = :$12EF7; ptr = :$CD2E14",
+		false
+	],
+	"FFlagLuaChatUseNewFriendsAndPresenceEndpoint": [
+		"addr = :$12F17; ptr = :$CD2D90",
+		false
+	],
+	"FFlagLuaHomePageFriendWindowing": [
+		"addr = :$12F57; ptr = :$CD3054",
+		false
+	],
+	"FFlagLuaUseUtf8TextTruncation": [
+		"addr = :$12F77; ptr = :$CD35A8",
+		false
+	],
+	"FFlagNotificationScript2UseFormatByKey": [
+		"addr = :$12FF7; ptr = :$CD3560",
+		false
+	],
+	"FFlagRefactoringAvatarEditorSetup": [
+		"addr = :$13017; ptr = :$CD35E8",
+		false
+	],
+	"FFlagRemoveLoadingHUDOniOS": [
+		"addr = :$13037; ptr = :$CD3104",
+		false
+	],
+	"FFlagReportAbuseMenuDescriptionFix": [
+		"addr = :$13057; ptr = :$CD34C8",
+		false
+	],
+	"FFlagSettingsHubBarsRefactor2": [
+		"addr = :$13077; ptr = :$CD337C",
+		false
+	],
+	"FFlagSettingsHubInviteToGameAndroid": [
+		"addr = :$130B7; ptr = :$CD33F0",
+		false
+	],
+	"FFlagSettingsHubInviteToGameIOS": [
+		"addr = :$130D7; ptr = :$CD33D4",
+		false
+	],
+	"FFlagSettingsHubInviteToGameInStudio2": [
+		"addr = :$130F7; ptr = :$CD342C",
+		false
+	],
+	"FFlagSettingsHubInviteToGameOSX": [
+		"addr = :$13117; ptr = :$CD33B8",
+		false
+	],
+	"FFlagSettingsHubInviteToGameUWP": [
+		"addr = :$13137; ptr = :$CD3410",
+		false
+	],
+	"FFlagSettingsHubInviteToGameWindows": [
+		"addr = :$13157; ptr = :$CD3398",
+		false
+	],
+	"FFlagSettingsHubPlayersHorizontalScroll": [
+		"addr = :$13177; ptr = :$CD353C",
+		false
+	],
+	"FFlagShareGameToChatStatusAnalytics": [
+		"addr = :$13197; ptr = :$CD2E68",
+		false
+	],
+	"FFlagStatUtilsUseFormatByKey": [
+		"addr = :$131B7; ptr = :$CD34B0",
+		false
+	],
+	"FFlagUseLuaAppStarterScriptOniOS": [
+		"addr = :$131D7; ptr = :$CD2FC4",
+		false
+	],
+	"FFlagUseLuaGamesPageOnAndroidPhone": [
+		"addr = :$131F7; ptr = :$CD30E4",
+		false
+	],
+	"FFlagUseLuaGamesPageOnAndroidTablet": [
+		"addr = :$13217; ptr = :$CD30A4",
+		false
+	],
+	"FFlagUseLuaGamesPageOniPad": [
+		"addr = :$13237; ptr = :$CD2FF8",
+		false
+	],
+	"FFlagUseLuaGamesPageOniPhone": [
+		"addr = :$13257; ptr = :$CD3028",
+		false
+	],
+	"FFlagUseLuaHomePageOnAndroidPhone": [
+		"addr = :$13277; ptr = :$CD30C4",
+		false
+	],
+	"FFlagUseLuaHomePageOnAndroidTablet": [
+		"addr = :$13297; ptr = :$CD3084",
+		false
+	],
+	"FFlagUseLuaHomePageOniPad": [
+		"addr = :$132B7; ptr = :$CD2FE0",
+		false
+	],
+	"FFlagUseLuaHomePageOniPhone": [
+		"addr = :$132D7; ptr = :$CD3010",
+		false
+	],
+	"FFlagUseNewAELoadTimeMetrics": [
+		"addr = :$132F7; ptr = :$CD3690",
+		false
+	],
+	"FFlagUseSafeZoneOffsets": [
+		"addr = :$13317; ptr = :$CD3140",
+		false
+	],
+	"FFlagXboxRecommendedPeople2": [
+		"addr = :$133B7; ptr = :$CD31EC",
+		false
+	],
+	"FFlagXboxRoduxScreenFocus": [
+		"addr = :$133D7; ptr = :$CD31D4",
+		false
+	],
+	"FFlagXboxUpdateBadgeEndpoints": [
+		"addr = :$13467; ptr = :$CD3238",
+		false
+	],
+	"FFlagXboxUseCuratedGameSort2": [
+		"addr = :$13487; ptr = :$CD3220",
+		false
+	],
+	"FFlagXboxUseUnlinkCallback": [
+		"addr = :$134A7; ptr = :$CD31BC",
+		false
+	],
+	"FFlagDebugCrashEnabled": [
+		"addr = :$13CD7; ptr = :$CD409C",
+		false
+	],
+	"FFlagEnableYieldAsWaitTracking": [
+		"addr = :$13CF7; ptr = :$CD414C",
+		false
+	],
+	"FFlagLockViolationScriptCrash": [
+		"addr = :$13D17; ptr = :$CD4118",
+		false
+	],
+	"FFlagOtherUrlConstructionV2": [
+		"addr = :$13D77; ptr = :$CD4134",
+		false
+	],
+	"FFlagStudioScriptPerformanceWidgetRefactor": [
+		"addr = :$13DD7; ptr = :$CD40D8",
+		false
+	],
+	"FFlagStudioSkipLuaBalanceCheckOnScriptError": [
+		"addr = :$13DF7; ptr = :$CD40B0",
+		false
+	],
+	"FFlagWebParserAnalyticsWriteNanInf": [
+		"addr = :$13FA7; ptr = :$CD52C8",
+		false
+	],
+	"FFlagDebugAnalyticsSendUserId": [
+		"addr = :$14127; ptr = :$CD552C",
+		true
+	],
+	"FFlagDeprecatableBroadcasts": [
+		"addr = :$143C7; ptr = :$CD5684",
+		false
+	],
+	"FFlagUrlReconstructRejectInvalidSchemes": [
+		"addr = :$143E7; ptr = :$CD569C",
+		false
+	],
+	"FFlagUrlSupportNewGamesAPI": [
+		"addr = :$14407; ptr = :$CD56C0",
+		false
+	],
+	"FFlagLuaMathLibUseNewRNG": [
+		"addr = :$14437; ptr = :$CD65A0",
+		false
+	],
+	"FFlagLuaStrlibLimitMatchDepth": [
+		"addr = :$14457; ptr = :$CD5EA0",
+		true
+	],
+	"FFlagStudioDebuggerCheckBothTableAndArrayLength": [
+		"addr = :$144E7; ptr = :$CD72F0",
+		false
+	],
+	"FFlagJoinTime_ThreadedCacheableContentProvider": [
+		"addr = :$15087; ptr = :$CD77D4",
+		false
+	],
+	"FFlagHttpServiceRequestAsync2": [
+		"addr = :$151C7; ptr = :$CD7BDC",
+		false
+	],
+	"FFlagDebugReportElevatedPhysicsFPSToGA": [
+		"addr = :$15A77; ptr = :$CD8A18",
+		true
+	],
+	"FFlagGridMaterial": [
+		"addr = :$15AB7; ptr = :$CD8ABC",
+		false
+	],
+	"FFlagNullCheckInReEnableWeldConstraint": [
+		"addr = :$15AD7; ptr = :$CD8A98",
+		false
+	],
+	"FFlagPGSAlwaysActiveMasterSwitch": [
+		"addr = :$15AF7; ptr = :$CD8A7C",
+		false
+	],
+	"FFlagPhysicsAnalyzerUsed": [
+		"addr = :$15B17; ptr = :$CD8AF4",
+		false
+	],
+	"FFlagPreventReturnOfElevatedPhysicsFPS": [
+		"addr = :$15B37; ptr = :$CD89F4",
+		false
+	],
+	"FFlagRbxFormatMultiByteSizeFix": [
+		"addr = :$16C77; ptr = :$CD9840",
+		false
+	],
+	"FFlagChatServiceAnalyticsOnFilterStringCalls": [
+		"addr = :$16D67; ptr = :$CD9D20",
+		false
+	],
+	"FFlagChatServiceSubscribePlayerRemove": [
+		"addr = :$16DA7; ptr = :$CD9CF0",
+		false
+	],
+	"FFlagChatServiceTargetedFilterStringResponse2": [
+		"addr = :$16DC7; ptr = :$CD9C3C",
+		false
+	],
+	"FFlagChatServiceTargetedFilterStringResponseFinalize2": [
+		"addr = :$16DE7; ptr = :$CD9C68",
+		false
+	],
+	"FFlagFilterStringForBroadcastConsideredPublic": [
+		"addr = :$16E07; ptr = :$CD98E0",
+		false
+	],
+	"FFlagHandlePlayerBlockListsInternalPermissive": [
+		"addr = :$16E97; ptr = :$CD9CC4",
+		false
+	],
+	"FFlagHandlePlayerBlockListsInternalStrict": [
+		"addr = :$16EB7; ptr = :$CD9C9C",
+		false
+	],
+	"FFlagPassIsPublicChatOnFilterMessage": [
+		"addr = :$16FA7; ptr = :$CD98C0",
+		false
+	],
+	"FFlagUserInGameChatUseNewFilterAPIV2": [
+		"addr = :$170E7; ptr = :$CD98A0",
+		false
+	],
+	"FFlagAnchoredSendPositionUpdate": [
+		"addr = :$190A7; ptr = :$CDB3A0",
+		false
+	],
+	"FFlagDebugEnableRenderCSGTriangles": [
+		"addr = :$190C7; ptr = :$CDB41C",
+		false
+	],
+	"FFlagNotMyNetworkOwner2": [
+		"addr = :$19107; ptr = :$CDB5B4",
+		false
+	],
+	"FFlagPartInstanceCofMPropertyExposed": [
+		"addr = :$19127; ptr = :$CDB524",
+		false
+	],
+	"FFlagShowBufferCount": [
+		"addr = :$19187; ptr = :$CDB564",
+		false
+	],
+	"FFlagSpecificGravityDummyFunctionGA": [
+		"addr = :$191A7; ptr = :$CDB484",
+		true
+	],
+	"FFlagSpecificGravityDummyReturnsZero": [
+		"addr = :$191C7; ptr = :$CDB4A4",
+		false
+	],
+	"FFlagDisableHopperBin": [
+		"addr = :$1A6A7; ptr = :$CDC450",
+		false
+	],
+	"FFlagTrackHopperBinUsage2": [
+		"addr = :$1A6E7; ptr = :$CDC464",
+		false
+	],
+	"FFlagClampCharacterScales": [
+		"addr = :$1BEA7; ptr = :$CDD048",
+		false
+	],
+	"FFlagEnableReplaceBodyPartR15": [
+		"addr = :$1C0A7; ptr = :$CDD0C8",
+		false
+	],
+	"FFlagFixHeadScales": [
+		"addr = :$1C0C7; ptr = :$CDD038",
+		false
+	],
+	"FFlagFixScalingValueRename": [
+		"addr = :$1C0E7; ptr = :$CDCFC4",
+		false
+	],
+	"FFlagFixScalingValueReplication": [
+		"addr = :$1C107; ptr = :$CDCFDC",
+		false
+	],
+	"FFlagFixSphereHeads": [
+		"addr = :$1C127; ptr = :$CDD010",
+		false
+	],
+	"FFlagHumanoidScalingFixHipHeightDuplication": [
+		"addr = :$1C1A7; ptr = :$CDCF88",
+		false
+	],
+	"FFlagNPCUnequipTools": [
+		"addr = :$1C1E7; ptr = :$CDD0A0",
+		false
+	],
+	"FFlagNamesOccludedAsDefault": [
+		"addr = :$1C207; ptr = :$CDDA08",
+		false
+	],
+	"FFlagPhysicsSkipNonRealTimeHumanoidForceCalc": [
+		"addr = :$1C227; ptr = :$CDD9D0",
+		false
+	],
+	"FFlagScaleAllAccessories2": [
+		"addr = :$1C247; ptr = :$CDD078",
+		false
+	],
+	"FFlagUseR15PartsCache2": [
+		"addr = :$1C267; ptr = :$CDCF4C",
+		false
+	],
+	"FFlagUserPreloadAnimations": [
+		"addr = :$1C287; ptr = :$CDD060",
+		false
+	],
+	"FFlagDisableFriendServiceLoadFriendRequests": [
+		"addr = :$20F87; ptr = :$CDE940",
+		false
+	],
+	"FFlagFriendServiceTargetedFriendEventReplicating": [
+		"addr = :$21047; ptr = :$CDE968",
+		false
+	],
+	"FFlagAllowLocaleIdForcing": [
+		"addr = :$21347; ptr = :$CDF680",
+		false
+	],
+	"FFlagDoLocalizationServiceOverrideLocale": [
+		"addr = :$21367; ptr = :$CDF544",
+		false
+	],
+	"FFlagLoadAvatarEditorTranslations": [
+		"addr = :$21387; ptr = :$CDF590",
+		false
+	],
+	"FFlagLocalizationAnaltyicsInstanceBased": [
+		"addr = :$213A7; ptr = :$CDF60C",
+		false
+	],
+	"FFlagLocalizationAnalyticsLetterContentOnly": [
+		"addr = :$213C7; ptr = :$CDF630",
+		false
+	],
+	"FFlagLocalizationAppendFunctionsAlwaysAppend": [
+		"addr = :$21407; ptr = :$CDF6F4",
+		false
+	],
+	"FFlagLocalizationServiceDoNotExcludeChat": [
+		"addr = :$21427; ptr = :$CDF6B4",
+		false
+	],
+	"FFlagLocalizationUseGameLocaleId": [
+		"addr = :$214B7; ptr = :$CDF698",
+		false
+	],
+	"FFlagSystemErrorMessageLocalize": [
+		"addr = :$214D7; ptr = :$CDF5D0",
+		false
+	],
+	"FFlagTranslatorTranslateEnabled": [
+		"addr = :$214F7; ptr = :$CDF6D8",
+		false
+	],
+	"FFlagUseNotificationsLocalization": [
+		"addr = :$21517; ptr = :$CDF5EC",
+		false
+	],
+	"FFlagUsePurchasePromptLocalization": [
+		"addr = :$21537; ptr = :$CDF5B0",
+		false
+	],
+	"FFlagHttpRbxApiWithWhitelistedDomains": [
+		"addr = :$22777; ptr = :$CE0488",
+		false
+	],
+	"FFlagAllowTheTardisToSetItsLoadingScreenBeforeFlyingThroughTheTimeVortex": [
+		"addr = :$22CB7; ptr = :$CE0DE0",
+		false
+	],
+	"FFlagCalculateExpirationOnTheDestinationServer": [
+		"addr = :$22CD7; ptr = :$CE0CF4",
+		false
+	],
+	"FFlagCheckRequestingTeleportAtTeleportImplBeginning": [
+		"addr = :$22CF7; ptr = :$CE0D9C",
+		false
+	],
+	"FFlagDonotAllowTeleportInRobloxStudio": [
+		"addr = :$22D17; ptr = :$CE0D54",
+		false
+	],
+	"FFlagGroupTeleportMetricsByGroupSizeV2": [
+		"addr = :$22D37; ptr = :$CE0D20",
+		false
+	],
+	"FFlagGroupTeleportMetricsSuccessAndFailure": [
+		"addr = :$22D57; ptr = :$CE0CCC",
+		false
+	],
+	"FFlagLogCorectTeleportFailureMessage2": [
+		"addr = :$22D77; ptr = :$CE0D78",
+		false
+	],
+	"FFlagLogGroupTeleportInfluxDB": [
+		"addr = :$22D97; ptr = :$CE0E24",
+		false
+	],
+	"FFlagPlaceLauncherUsePOST": [
+		"addr = :$22DD7; ptr = :$CE0C0C",
+		true
+	],
+	"FFlagTeleportPartyAsyncEnable": [
+		"addr = :$22E57; ptr = :$CE0CB0",
+		false
+	],
+	"FFlagHttpCacheCleanBasedOnMemory": [
+		"addr = :$25C97; ptr = :$CE43F8",
+		false
+	],
+	"FFlagHttpFirstCaching": [
+		"addr = :$25DE7; ptr = :$CE444C",
+		true
+	],
+	"FFlagHttpZeroLatencyCaching": [
+		"addr = :$25E47; ptr = :$CE4434",
+		false
+	],
+	"FFlagUseTLSv1_2_a": [
+		"addr = :$25E67; ptr = :$CE4460",
+		false
+	],
+	"FFlagDebugDisableLogServiceExecuteScript": [
+		"addr = :$26057; ptr = :$CE52B8",
+		false
+	],
+	"FFlagInfluxOverTCP": [
+		"addr = :$26BA7; ptr = :$CE5668",
+		false
+	],
+	"FFlagDebugDisplayFPS": [
+		"addr = :$26FA7; ptr = :$CE60F0",
+		false
+	],
+	"FFlagAllowDuplicateWeldConstraintsAnalytics": [
+		"addr = :$27387; ptr = :$CE7E0C",
+		false
+	],
+	"FFlagAllowDuplicateWeldConstraints": [
+		"addr = :$273A7; ptr = :$CE7DEC",
+		false
+	],
+	"FFlagCyclicExecutiveThrottlingCancelWorldStepAccum": [
+		"addr = :$27427; ptr = :$CE7CFC",
+		false
+	],
+	"FFlagFixJointInstanceDeleteOnPGSEnable": [
+		"addr = :$27467; ptr = :$CE7E80",
+		false
+	],
+	"FFlagOneSimpleStepToOptimizeContactBufferZone": [
+		"addr = :$274A7; ptr = :$CE7EA4",
+		false
+	],
+	"FFlagTheseAnalyticsAreBigEnoughForTheTwoOfUs": [
+		"addr = :$27547; ptr = :$CE7E58",
+		false
+	],
+	"FFlagThisJointAintBigEnoughForTheTwoOfUs": [
+		"addr = :$27567; ptr = :$CE7E34",
+		false
+	],
+	"FFlagEnableOnboardingMemoryAPI": [
+		"addr = :$278A7; ptr = :$CE8700",
+		false
+	],
+	"FFlagFixCameraControlSetting": [
+		"addr = :$278C7; ptr = :$CE871C",
+		false
+	],
+	"FFlagUserEnableDynamicThumbstickIntro": [
+		"addr = :$278E7; ptr = :$CE86DC",
+		false
+	],
+	"FFlagFreeCameraAPI": [
+		"addr = :$29787; ptr = :$CE9604",
+		false
+	],
+	"FFlagUseOptimizedGetPartsObscuringTarget": [
+		"addr = :$297A7; ptr = :$CE95E0",
+		false
+	],
+	"FFlagUserAllCamerasInLua": [
+		"addr = :$297C7; ptr = :$CE95B4",
+		false
+	],
+	"FFlagUserNewPoppercam": [
+		"addr = :$297E7; ptr = :$CE9614",
+		false
+	],
+	"FFlagUserPortraitPopperFix": [
+		"addr = :$29807; ptr = :$CE95C8",
+		false
+	],
+	"FFlagCacheWayPointDataSize": [
+		"addr = :$2A5F7; ptr = :$CE9B3C",
+		false
+	],
+	"FFlagStayOutOfMySandbox2": [
+		"addr = :$2B877; ptr = :$CEA49C",
+		false
+	],
+	"FFlagStudioFixPropertySyncIssues": [
+		"addr = :$2B897; ptr = :$CEA480",
+		false
+	],
+	"FFlagFixBindActivateStackOrderCAS": [
+		"addr = :$2C6B7; ptr = :$CEB1AC",
+		false
+	],
+	"FFlagFixButtonR2MouseClickOnGui": [
+		"addr = :$2C6D7; ptr = :$CEB17C",
+		false
+	],
+	"FFlagFixInputCanSinkCAS": [
+		"addr = :$2C6F7; ptr = :$CEB198",
+		false
+	],
+	"FFlagFixPlayerActionTypeOverride": [
+		"addr = :$2C717; ptr = :$CEB160",
+		false
+	],
+	"FFlagPreserveJointsOnSpawn": [
+		"addr = :$2DBF7; ptr = :$CEBF98",
+		false
+	],
+	"FFlagMouseScrollingIsNowGood": [
+		"addr = :$2E377; ptr = :$CEC6E8",
+		false
+	],
+	"FFlagAdvancedMouseSensitivityEnabled": [
+		"addr = :$2E9F7; ptr = :$CECDCC",
+		false
+	],
+	"FFlagFixOutOfBoundsMouseLocation": [
+		"addr = :$2EA17; ptr = :$CECD98",
+		false
+	],
+	"FFlagIsGamepadButtonDownEnabled": [
+		"addr = :$2EA37; ptr = :$CECE28",
+		false
+	],
+	"FFlagRemoveRedundantFakeMouseCode": [
+		"addr = :$2EA57; ptr = :$CECE54",
+		false
+	],
+	"FFlagTextBoxOverrideManualFocusRelease": [
+		"addr = :$2EA77; ptr = :$CECE04",
+		false
+	],
+	"FFlagUseNewAppBridgeXbone2": [
+		"addr = :$2EA97; ptr = :$CECDB4",
+		false
+	],
+	"FFlagUserNoCameraClickToMove": [
+		"addr = :$2EAB7; ptr = :$CECDEC",
+		false
+	],
+	"FFlagAvatarEditorAnthroSlidersUIOnly": [
+		"addr = :$30917; ptr = :$CED59C",
+		false
+	],
+	"FFlagAvatarEditorCatalogRecommended": [
+		"addr = :$30937; ptr = :$CED5BC",
+		false
+	],
+	"FFlagAvatarEditorHideSliderHighlightOnInit": [
+		"addr = :$30957; ptr = :$CED554",
+		false
+	],
+	"FFlagAvatarEditorSliderUIAdjustments": [
+		"addr = :$30977; ptr = :$CED5DC",
+		false
+	],
+	"FFlagAvatarEditorTabResizing": [
+		"addr = :$30997; ptr = :$CED5FC",
+		false
+	],
+	"FFlagAvatarEditorUsesBrowserWindowCall": [
+		"addr = :$309B7; ptr = :$CED484",
+		false
+	],
+	"FFlagAvatarEditorWhiteLineFix": [
+		"addr = :$309D7; ptr = :$CED538",
+		false
+	],
+	"FFlagConnectionScriptEnabled": [
+		"addr = :$30A17; ptr = :$CED748",
+		false
+	],
+	"FFlagEnableResponsiveUIFix": [
+		"addr = :$30A37; ptr = :$CED6B0",
+		false
+	],
+	"FFlagEnabledAppShell3D": [
+		"addr = :$30A57; ptr = :$CED470",
+		false
+	],
+	"FFlagFixInactiveSelectorArrows": [
+		"addr = :$30A77; ptr = :$CED72C",
+		false
+	],
+	"FFlagFixLoadingScreenJankiness": [
+		"addr = :$30A97; ptr = :$CED668",
+		false
+	],
+	"FFlagHelpMenuShowPlaceVersion": [
+		"addr = :$30B97; ptr = :$CED614",
+		false
+	],
+	"FFlagLoadTheLoadingScreenFaster": [
+		"addr = :$30BB7; ptr = :$CED630",
+		false
+	],
+	"FFlagLoadingScreenNewTextLayout": [
+		"addr = :$30BD7; ptr = :$CED684",
+		false
+	],
+	"FFlagLuaChatAssetCards": [
+		"addr = :$30BF7; ptr = :$CED6DC",
+		false
+	],
+	"FFlagLuaChatDisplayInFront": [
+		"addr = :$30C17; ptr = :$CED520",
+		false
+	],
+	"FFlagLuaChatNotificationButtonEnabled": [
+		"addr = :$30C37; ptr = :$CED708",
+		false
+	],
+	"FFlagLuaChatSearchFeedBack": [
+		"addr = :$30C57; ptr = :$CED6F0",
+		false
+	],
+	"FFlagPreventFriendingRemovedPlayers2": [
+		"addr = :$30C77; ptr = :$CED4A8",
+		false
+	],
+	"FFlagSetGuiInsetInLoadingScript3": [
+		"addr = :$30C97; ptr = :$CED64C",
+		false
+	],
+	"FFlagFixCurrentScreenOrientation": [
+		"addr = :$323F7; ptr = :$CEE354",
+		false
+	],
+	"FFlagUnlockedTopbarTransparency": [
+		"addr = :$32437; ptr = :$CEE338",
+		false
+	],
+	"FFlagWarnOnNoCoreFunction": [
+		"addr = :$32457; ptr = :$CEE2E8",
+		false
+	],
+	"FFlagFixTextLayoutWithUIScaleAssert": [
+		"addr = :$32B67; ptr = :$CEEE5C",
+		false
+	],
+	"FFlagLineHeightEnabled": [
+		"addr = :$32B87; ptr = :$CEEE20",
+		false
+	],
+	"FFlagSplitTypesetter2": [
+		"addr = :$32BC7; ptr = :$CEEE0C",
+		false
+	],
+	"FFlagTextMeasureTemporaryPatch": [
+		"addr = :$32C27; ptr = :$CEEEA4",
+		false
+	],
+	"FFlagTextTruncationEnabled": [
+		"addr = :$32C47; ptr = :$CEEE34",
+		false
+	],
+	"FFlagEnableGuiLayerCollectorResetOnRespawn": [
+		"addr = :$32F07; ptr = :$CEF450",
+		false
+	],
+	"FFlagFixDualGuiLayerCollectorRendering2": [
+		"addr = :$32F27; ptr = :$CEF408",
+		false
+	],
+	"FFlagFixDualGuiLayerCollectorRendering3": [
+		"addr = :$32F47; ptr = :$CEF42C",
+		false
+	],
+	"FFlagFixGuiStateTransitions2": [
+		"addr = :$32F67; ptr = :$CEF478",
+		false
+	],
+	"FFlagGuiObjectNotRegisteringKeys2": [
+		"addr = :$32F87; ptr = :$CEF490",
+		false
+	],
+	"FFlagLuaChatUsesZIndexSibling": [
+		"addr = :$32FA7; ptr = :$CEF3EC",
+		false
+	],
+	"FFlagBadgeReadDisabledFromInfo": [
+		"addr = :$33307; ptr = :$CEFA8C",
+		false
+	],
+	"FFlagAllowClientFallback": [
+		"addr = :$345C7; ptr = :$CF0B58",
+		true
+	],
+	"FFlagAllowPlayerArgs2": [
+		"addr = :$345E7; ptr = :$CF0C88",
+		false
+	],
+	"FFlagCheckMarketplaceAvailable": [
+		"addr = :$34607; ptr = :$CF0ADC",
+		false
+	],
+	"FFlagDelayPurchasePromptActivation": [
+		"addr = :$34627; ptr = :$CF0C68",
+		false
+	],
+	"FFlagFixDesktopRobuxUpsell": [
+		"addr = :$34667; ptr = :$CF0BE0",
+		false
+	],
+	"FFlagOrder66": [
+		"addr = :$346A7; ptr = :$CF0AF8",
+		false
+	],
+	"FFlagReportInGameAssetSales": [
+		"addr = :$34707; ptr = :$CF0B94",
+		false
+	],
+	"FFlagReportRobuxUpsellEnabled": [
+		"addr = :$34727; ptr = :$CF0B78",
+		true
+	],
+	"FFlagRestrictSales2": [
+		"addr = :$34747; ptr = :$CF0B48",
+		false
+	],
+	"FFlagThwartPurchasePromptScamsGamepad": [
+		"addr = :$34767; ptr = :$CF0C34",
+		false
+	],
+	"FFlagThwartPurchasePromptScams": [
+		"addr = :$34787; ptr = :$CF0C18",
+		false
+	],
+	"FFlagDataStoreAutoHttpRetry": [
+		"addr = :$36437; ptr = :$CF3A64",
+		false
+	],
+	"FFlagDataStoresP50": [
+		"addr = :$36767; ptr = :$CF3A54",
+		false
+	],
+	"FFlagTeamCreateDataStorePerKeyThrottleFixEnabled": [
+		"addr = :$367A7; ptr = :$CF3A28",
+		false
+	],
+	"FFlagFixGamepadNavigationInVR": [
+		"addr = :$37057; ptr = :$CF477C",
+		false
+	],
+	"FFlagFixTextAsserts5": [
+		"addr = :$37E27; ptr = :$CF4AAC",
+		false
+	],
+	"FFlagShowPlaceholderTextWhileFocused2": [
+		"addr = :$37E47; ptr = :$CF4ABC",
+		false
+	],
+	"FFlagTextBoxManualFocusRelease": [
+		"addr = :$37E67; ptr = :$CF4A68",
+		false
+	],
+	"FFlagUseTextLayout5": [
+		"addr = :$37E87; ptr = :$CF4A84",
+		false
+	],
+	"FFlagTweenInt64Fix": [
+		"addr = :$38447; ptr = :$CF51BC",
+		false
+	],
+	"FFlagUseLDLPGSSolver": [
+		"addr = :$38E67; ptr = :$CF59FC",
+		false
+	],
+	"FFlagBroadPhaseIslandsCalcDepth": [
+		"addr = :$38EC7; ptr = :$CF5B70",
+		false
+	],
+	"FFlagTerrainRaycastsRespectCollisionGroups": [
+		"addr = :$38F67; ptr = :$CF5B20",
+		false
+	],
+	"FFlagTestForBadNormal": [
+		"addr = :$38F87; ptr = :$CF5B0C",
+		false
+	],
+	"FFlagDebugAdvancedNetworkedVisualizer": [
+		"addr = :$38FC7; ptr = :$CF6094",
+		true
+	],
+	"FFlagDebugAllowMultiRotationInterpolation": [
+		"addr = :$38FE7; ptr = :$CF5DE0",
+		true
+	],
+	"FFlagDebugDisable180DegreeFlip": [
+		"addr = :$39007; ptr = :$CF60CC",
+		false
+	],
+	"FFlagDebugDisableAngularVelocityInterpolationComponent": [
+		"addr = :$39027; ptr = :$CF5E08",
+		false
+	],
+	"FFlagDebugEnableInterpolationVisualizer": [
+		"addr = :$39047; ptr = :$CF6034",
+		false
+	],
+	"FFlagDebugMechanismInterpolationWorldSpace": [
+		"addr = :$39067; ptr = :$CF600C",
+		false
+	],
+	"FFlagDebugVisualizationImprovements": [
+		"addr = :$390A7; ptr = :$CF6074",
+		true
+	],
+	"FFlagInterpolationAwareTargetTime": [
+		"addr = :$39107; ptr = :$CF5DC0",
+		false
+	],
+	"FFlagUseDeltaForFBAdorn": [
+		"addr = :$392E7; ptr = :$CF60B8",
+		false
+	],
+	"FFlagDebugBreakOnFMODErrors": [
+		"addr = :$39BE7; ptr = :$CF6C10",
+		true
+	],
+	"FFlagDoNotLoadSoundsOnServer": [
+		"addr = :$39C07; ptr = :$CF6B70",
+		false
+	],
+	"FFlagFixPreferredSoundDeviceVR": [
+		"addr = :$39C67; ptr = :$CF6C78",
+		false
+	],
+	"FFlagOnlyEnableSoundRecordingOnRequest": [
+		"addr = :$39C87; ptr = :$CF6C94",
+		false
+	],
+	"FFlagSimplifiedSoundLoading7": [
+		"addr = :$39CC7; ptr = :$CF6C60",
+		false
+	],
+	"FFlagSoundServiceCleanBuggyTempSoundFilePath": [
+		"addr = :$39D87; ptr = :$CF6CF4",
+		false
+	],
+	"FFlagSoundServiceFixCachePath": [
+		"addr = :$39DA7; ptr = :$CF6CD8",
+		false
+	],
+	"FFlagTotallyDisableSoundRecording": [
+		"addr = :$39E27; ptr = :$CF6CB8",
+		false
+	],
+	"FFlagDebugStudioFlagState": [
+		"addr = :$3A537; ptr = :$CFA1BC",
+		false
+	],
+	"FFlagScreenGuiOnTopOfCoreBlur": [
+		"addr = :$3B0B7; ptr = :$CFABE0",
+		false
+	],
+	"FFlagBorderSizeRespectUIScale": [
+		"addr = :$3BF77; ptr = :$CFB39C",
+		false
+	],
+	"FFlagDebugPrintGuiStateTransitions": [
+		"addr = :$3BF97; ptr = :$CFB35C",
+		false
+	],
+	"FFlagFixFolderDescendantSelection": [
+		"addr = :$3BFB7; ptr = :$CFB33C",
+		false
+	],
+	"FFlagRecalculateAbsolutePlacementFix": [
+		"addr = :$3BFF7; ptr = :$CFB37C",
+		false
+	],
+	"FFlagCFrameFromMatrix": [
+		"addr = :$3E0E7; ptr = :$CFE0D8",
+		false
+	],
+	"FFlagLuaAtomicBridgeCheckSpace": [
+		"addr = :$3E107; ptr = :$CFE108",
+		false
+	],
+	"FFlagRandomType": [
+		"addr = :$3E127; ptr = :$CFE0CC",
+		false
+	],
+	"FFlagFreeCameraForAdmins": [
+		"addr = :$3E147; ptr = :$CFF324",
+		false
+	],
+	"FFlagFreeCameraForDevelopers": [
+		"addr = :$3E167; ptr = :$CFF338",
+		false
+	],
+	"FFlagPlayerAcceptPlayerScriptsStatus": [
+		"addr = :$3E187; ptr = :$CFF304",
+		false
+	],
+	"FFlagServerNotifyPlayerScriptsStatus": [
+		"addr = :$3E1A7; ptr = :$CFF2E4",
+		false
+	],
+	"FFlagUseNewStructurePlayerScripts": [
+		"addr = :$3E1E7; ptr = :$CFF350",
+		false
+	],
+	"FFlagLocalizationCustomAtoiOptimization": [
+		"addr = :$3E8F7; ptr = :$CFF6CC",
+		false
+	],
+	"FFlagEnableWakingPGSJointsForNonSolverPrimitives": [
+		"addr = :$408E7; ptr = :$D00228",
+		false
+	],
+	"FFlagFixSloppyWeakPtrs": [
+		"addr = :$43F57; ptr = :$D02F68",
+		false
+	],
+	"FFlagEnforceSlaveStateEnabledStatus": [
+		"addr = :$474D7; ptr = :$D05020",
+		false
+	],
+	"FFlagFixCharacterJitterDownStairs": [
+		"addr = :$474F7; ptr = :$D04FE4",
+		false
+	],
+	"FFlagFixFirstPersonSwimmingStateChange": [
+		"addr = :$47517; ptr = :$D04FA4",
+		false
+	],
+	"FFlagHumanoidWithPGSConstraintsUsePhysicsState": [
+		"addr = :$47537; ptr = :$D04F64",
+		false
+	],
+	"FFlagImprovedAutoJump": [
+		"addr = :$47557; ptr = :$D04F50",
+		false
+	],
+	"FFlagReduceTrussSearchDistance": [
+		"addr = :$47597; ptr = :$D05004",
+		false
+	],
+	"FFlagSafeSwimmingJump2": [
+		"addr = :$475B7; ptr = :$D04F90",
+		false
+	],
+	"FFlagUserFixCharacterSoundIssues": [
+		"addr = :$475F7; ptr = :$D04FC8",
+		false
+	],
+	"FFlagKeyframeSequenceApplyZeroWeight": [
+		"addr = :$476E7; ptr = :$D05B28",
+		false
+	],
+	"FFlagKeyframeSequenceCacheMemoryOptimization": [
+		"addr = :$47707; ptr = :$D05AD8",
+		false
+	],
+	"FFlagKeyframeSequenceEnableFrozen": [
+		"addr = :$47727; ptr = :$D05AB8",
+		false
+	],
+	"FFlagKeyframeSequenceIgnoreContainerPoses": [
+		"addr = :$47747; ptr = :$D05B00",
+		false
+	],
+	"FFlagKeyframeSequenceReportInstanceLoading": [
+		"addr = :$47787; ptr = :$D05B48",
+		false
+	],
+	"FFlagFixHandlesMouseEvents": [
+		"addr = :$47C87; ptr = :$D061D8",
+		true
+	],
+	"FFlagFixIncorrectScrollingFrameBounds": [
+		"addr = :$48BD7; ptr = :$D074DC",
+		false
+	],
+	"FFlagFixMouseWheelScrollingFrame": [
+		"addr = :$48BF7; ptr = :$D0752C",
+		false
+	],
+	"FFlagFixScrollbarNotBeingDraggableWithUIPadding": [
+		"addr = :$48C17; ptr = :$D07500",
+		false
+	],
+	"FFlagFixScrollingFrameClipRect": [
+		"addr = :$48C37; ptr = :$D07404",
+		false
+	],
+	"FFlagFixVRScrollingFrames": [
+		"addr = :$48C57; ptr = :$D074C4",
+		false
+	],
+	"FFlagScrollBarWellRounded": [
+		"addr = :$48C77; ptr = :$D074AC",
+		false
+	],
+	"FFlagScrollingFrameCacheValues": [
+		"addr = :$48C97; ptr = :$D07490",
+		false
+	],
+	"FFlagUIScrollBarBoarder1PixelOff": [
+		"addr = :$48CB7; ptr = :$D07444",
+		false
+	],
+	"FFlagUIScrollingNewElastic2": [
+		"addr = :$48CD7; ptr = :$D07460",
+		false
+	],
+	"FFlagUIScrollingNewElasticEx": [
+		"addr = :$48CF7; ptr = :$D07478",
+		false
+	],
+	"FFlagUIShiftScrollHorizontal": [
+		"addr = :$48D17; ptr = :$D0742C",
+		false
+	],
+	"FFlagStudioTerrainHideBasePartProperties": [
+		"addr = :$49F27; ptr = :$D086F0",
+		false
+	],
+	"FFlagRenderConstraintsWithDepth": [
+		"addr = :$4BFF7; ptr = :$D09D00",
+		false
+	],
+	"FFlagCSGAllowUnorderedProperties": [
+		"addr = :$4D8E7; ptr = :$D0B2A4",
+		false
+	],
+	"FFlagCSGLoadBlocking": [
+		"addr = :$4D907; ptr = :$D0B274",
+		false
+	],
+	"FFlagCSGLoadFromCDN": [
+		"addr = :$4D927; ptr = :$D0B264",
+		false
+	],
+	"FFlagCSGUnionsSizeShouldNeverBe000": [
+		"addr = :$4D947; ptr = :$D0B284",
+		false
+	],
+	"FFlagRenderMeshReturnsCorrectly": [
+		"addr = :$4D987; ptr = :$D0B2C0",
+		false
+	],
+	"FFlagSetCollisionFidelityPropertyBasedOnData": [
+		"addr = :$4D9A7; ptr = :$D0B2DC",
+		false
+	],
+	"FFlagFixTweenReverseOvershoot": [
+		"addr = :$4DA97; ptr = :$D0C360",
+		false
+	],
+	"FFlagMoreAudioChecks": [
+		"addr = :$4E487; ptr = :$D0CEFC",
+		false
+	],
+	"FFlagPhysicsAnalyzerAnalyticsEnabled": [
+		"addr = :$4E517; ptr = :$D0D548",
+		false
+	],
+	"FFlagGoodbyeChoiceActiveProperty": [
+		"addr = :$4F4C7; ptr = :$D0D804",
+		false
+	],
+	"FFlagAccoutrementWeldingFilteringEnabled": [
+		"addr = :$4F937; ptr = :$D0E024",
+		false
+	],
+	"FFlagEnableTrackingAccessoryDestoyedWithLiveSignals": [
+		"addr = :$4F957; ptr = :$D0E048",
+		false
+	],
+	"FFlagAllowPlayerArgs": [
+		"addr = :$500F7; ptr = :$D0E450",
+		false
+	],
+	"FFlagClickDetectorCursorIconEnabled": [
+		"addr = :$50117; ptr = :$D0E430",
+		false
+	],
+	"FFlagCLI16089_2": [
+		"addr = :$543C7; ptr = :$D1073C",
+		false
+	],
+	"FFlagEnableSitNilProtection": [
+		"addr = :$543E7; ptr = :$D10760",
+		false
+	],
+	"FFlagFixCheckSeatTransitionEnabled": [
+		"addr = :$54407; ptr = :$D10778",
+		false
+	],
+	"FFlagFixCustomWeldSeatPart": [
+		"addr = :$54427; ptr = :$D10748",
+		false
+	],
+	"FFlagSmootherVehicleSeatControlSystem": [
+		"addr = :$546E7; ptr = :$D10EF0",
+		false
+	],
+	"FFlagUserNoUpdateOnLoop": [
+		"addr = :$55C07; ptr = :$D1221C",
+		false
+	],
+	"FFlagAnimationEditorCreateKeyframesForUndoAndExport": [
+		"addr = :$566B7; ptr = :$D12564",
+		false
+	],
+	"FFlagAnimationEditorCutCopyEntireKeyframes": [
+		"addr = :$566D7; ptr = :$D12594",
+		false
+	],
+	"FFlagAnimationEditorDeleteFix": [
+		"addr = :$566F7; ptr = :$D12548",
+		false
+	],
+	"FFlagAnimationEditorLuaWidgetsVersion": [
+		"addr = :$56717; ptr = :$D124AC",
+		false
+	],
+	"FFlagAnimationEditorMaxLengthRestriction": [
+		"addr = :$56737; ptr = :$D125D8",
+		false
+	],
+	"FFlagAnimationEditorNewWikiDocumentation": [
+		"addr = :$56757; ptr = :$D125FC",
+		false
+	],
+	"FFlagAnimationEditorRenameKeyFrame": [
+		"addr = :$56777; ptr = :$D124D0",
+		false
+	],
+	"FFlagAnimationEditorRigNameFix": [
+		"addr = :$56797; ptr = :$D125BC",
+		false
+	],
+	"FFlagAnimationEditorScrubbingPlayingMatch": [
+		"addr = :$567B7; ptr = :$D124F0",
+		false
+	],
+	"FFlagAnimationEditorSnapIncrementsDivideByZeroFix": [
+		"addr = :$567D7; ptr = :$D12518",
+		false
+	],
+	"FFlagAnimatorOnSteppedKeepAlive": [
+		"addr = :$567F7; ptr = :$D128F0",
+		false
+	],
+	"FFlagDoNotRunAnimationEditorInPlayMode": [
+		"addr = :$56817; ptr = :$D12464",
+		false
+	],
+	"FFlagJoinTime_LocalUserAnimationPriority": [
+		"addr = :$56837; ptr = :$D12488",
+		false
+	],
+	"FFlagStudioAnimationEditorChangePopupStyle": [
+		"addr = :$56857; ptr = :$D127EC",
+		false
+	],
+	"FFlagStudioAnimationEditorClipCutoffFix": [
+		"addr = :$56877; ptr = :$D128CC",
+		false
+	],
+	"FFlagStudioAnimationEditorDefinedBoundaryNotches": [
+		"addr = :$56897; ptr = :$D12620",
+		false
+	],
+	"FFlagStudioAnimationEditorKeyframeIndicators": [
+		"addr = :$568B7; ptr = :$D1273C",
+		false
+	],
+	"FFlagStudioAnimationEditorMultiSelectAreaOffsetFix": [
+		"addr = :$568D7; ptr = :$D12814",
+		false
+	],
+	"FFlagStudioAnimationEditorMultiSelectEasingOptions": [
+		"addr = :$568F7; ptr = :$D12764",
+		false
+	],
+	"FFlagStudioAnimationEditorMultiSelectJoints": [
+		"addr = :$56917; ptr = :$D128A4",
+		false
+	],
+	"FFlagStudioAnimationEditorParentScaledDragArea": [
+		"addr = :$56937; ptr = :$D126A4",
+		false
+	],
+	"FFlagStudioAnimationEditorPlayFromBeginningIfAtEnd": [
+		"addr = :$56957; ptr = :$D12874",
+		false
+	],
+	"FFlagStudioAnimationEditorPoseDragSnapping": [
+		"addr = :$56977; ptr = :$D127C4",
+		false
+	],
+	"FFlagStudioAnimationEditorResetLockedJoints": [
+		"addr = :$56997; ptr = :$D1264C",
+		false
+	],
+	"FFlagStudioAnimationEditorRightClickMenuPositionFix": [
+		"addr = :$569B7; ptr = :$D12844",
+		false
+	],
+	"FFlagStudioAnimationEditorSetIntervalFix": [
+		"addr = :$569D7; ptr = :$D12718",
+		false
+	],
+	"FFlagStudioAnimationEditorStayActiveWithOtherPlugins": [
+		"addr = :$569F7; ptr = :$D12794",
+		false
+	],
+	"FFlagStudioAnimationEditorTimePrecisionFix": [
+		"addr = :$56A17; ptr = :$D126F0",
+		false
+	],
+	"FFlagStudioAnimationEditorWarnForPastingOutOfBounds": [
+		"addr = :$56A37; ptr = :$D12674",
+		false
+	],
+	"FFlagFixJointDestroyedPrimitiveInsert2": [
+		"addr = :$56C07; ptr = :$D12E08",
+		false
+	],
+	"FFlagSpringConstraintInGameAdornFix": [
+		"addr = :$59B77; ptr = :$D15540",
+		false
+	],
+	"FFlagWeldConstraintAdornHighlightConnectedParts": [
+		"addr = :$5BEB7; ptr = :$D161EC",
+		false
+	],
+	"FFlagWeldConstraintAdornImprovements": [
+		"addr = :$5BEF7; ptr = :$D161CC",
+		false
+	],
+	"FFlagOrientationConstraintPrimaryAxisOnlyFix": [
+		"addr = :$5CD37; ptr = :$D16D84",
+		false
+	],
+	"FFlagAvoidFindFirstChildCallsInGuiBase2d": [
+		"addr = :$5D867; ptr = :$D17888",
+		false
+	],
+	"FFlagFixStaleBillboardGuiPosition2": [
+		"addr = :$5DCC7; ptr = :$D17F8C",
+		false
+	],
+	"FFlagFixSmallSurfaceGuiMouseInput": [
+		"addr = :$5E547; ptr = :$D18370",
+		false
+	],
+	"FFlagFixSurfaceGuisBreakingAfterRespawn": [
+		"addr = :$5E567; ptr = :$D18390",
+		false
+	],
+	"FFlagProtectCameraNullAccess": [
+		"addr = :$5E587; ptr = :$D183B4",
+		false
+	],
+	"FFlagImageHandleAdornUseGuiImage": [
+		"addr = :$62127; ptr = :$D1ACC4",
+		false
+	],
+	"FFlagAnthroArtistIntentFBXImporterEnabled": [
+		"addr = :$628A7; ptr = :$D1BDA8",
+		false
+	],
+	"FFlagAnthroArtistIntentFBXImporterIntermediateState": [
+		"addr = :$628C7; ptr = :$D1BE00",
+		true
+	],
+	"FFlagDebugStudioRigImporter": [
+		"addr = :$628E7; ptr = :$D1BD90",
+		false
+	],
+	"FFlagR15ToArtistIntentAssetMigratorEnabled": [
+		"addr = :$62907; ptr = :$D1BE30",
+		false
+	],
+	"FFlagRefactorStudioPluginHost": [
+		"addr = :$62927; ptr = :$D1BE58",
+		false
+	],
+	"FFlagStudioTrackPluginButtonSetActive": [
+		"addr = :$62947; ptr = :$D1BE74",
+		false
+	],
+	"FFlagStudioTrackPluginButtonSetActiveThrottled": [
+		"addr = :$62967; ptr = :$D1BE98",
+		false
+	],
+	"FFlagLuaDebuggerBreakOnError": [
+		"addr = :$64547; ptr = :$D1D034",
+		false
+	],
+	"FFlagLuaDebuggerGetGlobalsBalanceStack": [
+		"addr = :$64567; ptr = :$D1D068",
+		false
+	],
+	"FFlagLuaDebugger": [
+		"addr = :$64587; ptr = :$D1D010",
+		false
+	],
+	"FFlagLuaDebuggerN2UpdateHookFix": [
+		"addr = :$645A7; ptr = :$D1D04C",
+		false
+	],
+	"FFlagMoreLuaDebuggerStackLeakFixes": [
+		"addr = :$645C7; ptr = :$D1D08C",
+		false
+	],
+	"FFlagUserUseSoundDispatcher": [
+		"addr = :$66537; ptr = :$D1E480",
+		false
+	],
+	"FFlagDSPLeakDueToGCofParent": [
+		"addr = :$677A7; ptr = :$D1F72C",
+		false
+	],
+	"FFlagNoDSPOnServer": [
+		"addr = :$677C7; ptr = :$D1F744",
+		false
+	],
+	"FFlagDisableListLayoutCacheCheck": [
+		"addr = :$68DC7; ptr = :$D206C4",
+		false
+	],
+	"FFlagThrottleDeveloperConsoleEvents": [
+		"addr = :$69E37; ptr = :$D212CC",
+		false
+	],
+	"FFlagXboxUseNewValidUsernameCheck2": [
+		"addr = :$6A237; ptr = :$D2161C",
+		false
+	],
+	"FFlagDataStoreReportNonParsableData": [
+		"addr = :$6A7F7; ptr = :$D218E4",
+		false
+	],
+	"FFlagDataStoreUseLRUCachedKeys": [
+		"addr = :$6A857; ptr = :$D21890",
+		false
+	],
+	"FFlagNonJsonParseType": [
+		"addr = :$6A897; ptr = :$D2187C",
+		false
+	],
+	"FFlagHttpSkipQueueIfCached": [
+		"addr = :$6ABA7; ptr = :$D22DDC",
+		false
+	],
+	"FFlagHttpTrackSuccessfulUrls": [
+		"addr = :$6ABC7; ptr = :$D22DF4",
+		false
+	],
+	"FFlagHttpUseContentCacheFlag3": [
+		"addr = :$6ABE7; ptr = :$D22DA8",
+		false
+	],
+	"FFlagJoinTime_HttpQueuePrio": [
+		"addr = :$6AC07; ptr = :$D22DC4",
+		false
+	],
+	"FFlagFileSystemGetCacheDirectoryLikeAndroid": [
+		"addr = :$6ACB7; ptr = :$D22F60",
+		false
+	],
+	"FFlagDebugTracebackOptionalCoroutineArg": [
+		"addr = :$6AD87; ptr = :$D23698",
+		false
+	],
+	"FFlagTuplesTooTerrible": [
+		"addr = :$6AED7; ptr = :$D44DD4",
+		false
+	],
+	"FFlagStudioDraggerSafeYDropFail": [
+		"addr = :$6AFC7; ptr = :$D453DC",
+		false
+	],
+	"FFlagPGSSolverDetectHighMassRatiosEnabled": [
+		"addr = :$6B037; ptr = :$D45734",
+		false
+	],
+	"FFlagPGSSolverDetectUnstableConstraintsEnabled": [
+		"addr = :$6B057; ptr = :$D45708",
+		false
+	],
+	"FFlagPGSSolverFileDump": [
+		"addr = :$6B077; ptr = :$D456B0",
+		false
+	],
+	"FFlagPGSSolverIntegrateOnlyPositionsEnabled": [
+		"addr = :$6B097; ptr = :$D456E0",
+		false
+	],
+	"FFlagPGSSolverSimIslandsEnabled2": [
+		"addr = :$6B0B7; ptr = :$D456C4",
+		false
+	],
+	"FFlagBroadPhaseIslandBufferZone5": [
+		"addr = :$6B197; ptr = :$D45B14",
+		false
+	],
+	"FFlagDebugBroadPhaseIslandBufferZoneApplyPartLimit": [
+		"addr = :$6B1F7; ptr = :$D45B30",
+		true
+	],
+	"FFlagDontCallOnMovingAssemblyRoot": [
+		"addr = :$6B217; ptr = :$D45AF4",
+		false
+	],
+	"FFlagEnableImageTilingInGUI": [
+		"addr = :$6B2C7; ptr = :$D46CC0",
+		false
+	],
+	"FFlagDebugIgnoreVolumeIsZeroAssert": [
+		"addr = :$6B2E7; ptr = :$D46D70",
+		false
+	],
+	"FFlagFixMeshNormalsForNonUniformScaling": [
+		"addr = :$6B307; ptr = :$D46DAC",
+		false
+	],
+	"FFlagFixSmallBoundingBoxes2": [
+		"addr = :$6B327; ptr = :$D46DD0",
+		false
+	],
+	"FFlagClampHeightAboveFloorForce": [
+		"addr = :$6B3F7; ptr = :$D4709C",
+		false
+	],
+	"FFlagRunningBaseClampAcceleration": [
+		"addr = :$6B477; ptr = :$D470B8",
+		false
+	],
+	"FFlagRunningBaseUseNewAltitudePD": [
+		"addr = :$6B4F7; ptr = :$D4713C",
+		false
+	],
+	"FFlagDialectPreferenceOrder": [
+		"addr = :$6B527; ptr = :$D47200",
+		false
+	],
+	"FFlagLocalizationTableImportStrict": [
+		"addr = :$6B547; ptr = :$D47218",
+		false
+	],
+	"FFlagCleanCacheMoveMutex": [
+		"addr = :$6D017; ptr = :$D47D88",
+		false
+	],
+	"FFlagBgUpdateRedirectsHttpErrBase64Body": [
+		"addr = :$6D0D7; ptr = :$D47F3C",
+		false
+	],
+	"FFlagBgUpdateRedirects": [
+		"addr = :$6D117; ptr = :$D47EC0",
+		false
+	],
+	"FFlagHttpBatchSecure": [
+		"addr = :$6D1B7; ptr = :$D47FA0",
+		false
+	],
+	"FFlagPGSWakeOtherAssemblyForJoints": [
+		"addr = :$6D217; ptr = :$D50D40",
+		false
+	],
+	"FFlagPGSWakeOtherIfOneAssemblyIsAwake": [
+		"addr = :$6D237; ptr = :$D50D60",
+		false
+	],
+	"FFlagDebugShowTextBounds": [
+		"addr = :$6D257; ptr = :$D50F60",
+		false
+	],
+	"FFlagFixBillboardTextSizeRounding": [
+		"addr = :$6D277; ptr = :$D50F74",
+		false
+	],
+	"FFlagFixUIScaleTextBlowingUpFontAtlas": [
+		"addr = :$6D297; ptr = :$D50F94",
+		false
+	],
+	"FFlagHarfbuzzEnabled5": [
+		"addr = :$6D2D7; ptr = :$D50F4C",
+		false
+	],
+	"FFlagTypesetterSubstituteOnReject": [
+		"addr = :$6D2F7; ptr = :$D50FB8",
+		false
+	],
+	"FFlagFixLiteralEdgeCaseQuadTree": [
+		"addr = :$6D317; ptr = :$D51138",
+		false
+	],
+	"FFlagQuantumGui": [
+		"addr = :$6D3F7; ptr = :$D51174",
+		false
+	],
+	"FFlagRoundInAdorn": [
+		"addr = :$6D417; ptr = :$D51180",
+		false
+	],
+	"FFlagFixMouseXYScrolling": [
+		"addr = :$6D557; ptr = :$D52164",
+		false
+	],
+	"FFlagFixScrollingTouchInputEnded": [
+		"addr = :$6D577; ptr = :$D52178",
+		false
+	],
+	"FFlagScrollToTopShortDistanceResponseFix": [
+		"addr = :$6D597; ptr = :$D52140",
+		false
+	],
+	"FFlagScrollingToTopFix": [
+		"addr = :$6D5B7; ptr = :$D5212C",
+		false
+	],
+	"FFlagDebugCountSimBodyAllocations": [
+		"addr = :$6D5D7; ptr = :$D522DC",
+		false
+	],
+	"FFlagDebugReportAnchoredSimBodyUpdatedFromSolver": [
+		"addr = :$6D5F7; ptr = :$D522FC",
+		false
+	],
+	"FFlagUseMatrix3ForInertiaTensor2": [
+		"addr = :$6D617; ptr = :$D522C0",
+		false
+	],
+	"FFlagRunDraggerTerrainTestHitDoNotIgnoreWater": [
+		"addr = :$6D657; ptr = :$D52840",
+		false
+	],
+	"FFlagRotationalViscocityEnabled2": [
+		"addr = :$6D777; ptr = :$D52DFC",
+		false
+	],
+	"FFlagFixRaysInWedges": [
+		"addr = :$6D8F7; ptr = :$D53DD8",
+		false
+	],
+	"FFlagTighterCylinderBoundingSpheres": [
+		"addr = :$6D917; ptr = :$D53E04",
+		false
+	],
+	"FFlagPGSAdaptiveCollisionMarginFixEnabled": [
+		"addr = :$6D937; ptr = :$D53FB0",
+		false
+	],
+	"FFlagPGSAlign2AxesInitBasis": [
+		"addr = :$6D957; ptr = :$D53FD8",
+		false
+	],
+	"FFlagFixCharacterStuckInFreefall": [
+		"addr = :$6D9F7; ptr = :$D54440",
+		false
+	],
+	"FFlagFixFreefallStuckIgnoreSelfContact": [
+		"addr = :$6DA17; ptr = :$D54510",
+		false
+	],
+	"FFlagJumpingTorsoShouldCollide": [
+		"addr = :$6DB37; ptr = :$D545DC",
+		false
+	],
+	"FFlagSmoothTerrainFixHoles": [
+		"addr = :$6DB77; ptr = :$D54928",
+		false
+	],
+	"FFlagStudioClearSelectionExitsAttachmentTool": [
+		"addr = :$6DB97; ptr = :$D54C84",
+		false
+	],
+	"FFlagNavigationServiceAnalytics": [
+		"addr = :$6DC07; ptr = :$D54EA8",
+		false
+	],
+	"FFlagNavigationServiceTimingAnalytics": [
+		"addr = :$6DC67; ptr = :$D54EC4",
+		false
+	],
+	"FFlagNavigationFixCheckOcclusionAsyncV2": [
+		"addr = :$6DD87; ptr = :$D55140",
+		false
+	],
+	"FFlagNavigationFixShutdown": [
+		"addr = :$6DDA7; ptr = :$D55128",
+		false
+	],
+	"FFlagNavigationUseJumpLinksV3": [
+		"addr = :$6DEA7; ptr = :$D5510C",
+		false
+	],
+	"FFlagUserNavigationFixClickToMoveInterruption": [
+		"addr = :$6DEC7; ptr = :$D55164",
+		false
+	],
+	"FFlagUserNavigationFixClickToMoveJump": [
+		"addr = :$6DEE7; ptr = :$D55190",
+		false
+	],
+	"FFlagUserUseNewClickToMove": [
+		"addr = :$6DF07; ptr = :$D55054",
+		false
+	],
+	"FFlagBestProximatePartFix": [
+		"addr = :$6DF27; ptr = :$D55598",
+		false
+	],
+	"FFlagFindClosestHandleHitTestFixEnabled": [
+		"addr = :$6DF67; ptr = :$D55750",
+		false
+	],
+	"FFlagDebugRenderDragAxis": [
+		"addr = :$6E3A7; ptr = :$D558B4",
+		false
+	],
+	"FFlagIkDraggerEnabledInRunMode": [
+		"addr = :$6E3C7; ptr = :$D558C8",
+		false
+	],
+	"FFlagFixMultiSelectScaleWeldConstraints": [
+		"addr = :$6E3E7; ptr = :$D558F8",
+		false
+	],
+	"FFlagSafeScalePartFail": [
+		"addr = :$6E407; ptr = :$D558E4",
+		false
+	],
+	"FFlagFixFreefallRepelWithCanCollideFalse": [
+		"addr = :$6E7A7; ptr = :$D57C50",
+		false
+	],
+	"FFlagFixHumanoidEmbeddedInGround4": [
+		"addr = :$6E7C7; ptr = :$D57C10",
+		false
+	],
+	"FFlagDebugNavigationDrawCompactHeightfield": [
+		"addr = :$6E7E7; ptr = :$D7AD68",
+		false
+	],
+	"FFlagDebugNavigationDrawCompactHeightfieldLayerSet": [
+		"addr = :$6E807; ptr = :$D7AD90",
+		false
+	],
+	"FFlagDebugNavigationDrawEnable": [
+		"addr = :$6E827; ptr = :$D7AD0C",
+		true
+	],
+	"FFlagDebugNavigationDrawHeightfield": [
+		"addr = :$6E847; ptr = :$D7AD48",
+		false
+	],
+	"FFlagDebugNavigationDrawNavMeshConnections": [
+		"addr = :$6E867; ptr = :$D7ADDC",
+		true
+	],
+	"FFlagDebugNavigationDrawNavMesh": [
+		"addr = :$6E887; ptr = :$D7ADC0",
+		true
+	],
+	"FFlagDebugNavigationDrawTileBounds": [
+		"addr = :$6E8A7; ptr = :$D7AD28",
+		false
+	],
+	"FFlagNavigationDebugDrawIterateSpiral": [
+		"addr = :$6E907; ptr = :$D7AE2C",
+		false
+	],
+	"FFlagNavigationRasterizeMeshWithTriangleMeshV2": [
+		"addr = :$6E927; ptr = :$D7AE6C",
+		false
+	],
+	"FFlagNavigationRasterizeTriangleFlexibleOrder": [
+		"addr = :$6E947; ptr = :$D7AE98",
+		false
+	],
+	"FFlagGroupDragDontFinishTwice": [
+		"addr = :$6E9A7; ptr = :$D7B3C8",
+		false
+	],
+	"FFlagEnableSpecialMeshTransformInVoxelizerDescriptors": [
+		"addr = :$6E9E7; ptr = :$D9D908",
+		false
+	],
+	"FFlagSIMDVoxelizerEnabled": [
+		"addr = :$6EA07; ptr = :$D9D93C",
+		false
+	],
+	"FFlagArrayDynamicReserveUsesMoveSemantic": [
+		"addr = :$6EA47; ptr = :$D9D9F8",
+		false
+	],
+	"FFlagRbxFormatPreventNegativeStringSize": [
+		"addr = :$6EAF7; ptr = :$D9DAF0",
+		false
+	],
+	"FFlagRbxFormatStringCleanup3": [
+		"addr = :$6EB17; ptr = :$D9DAD8",
+		false
+	],
+	"FFlagEnableThreadMonitor2": [
+		"addr = :$6EC17; ptr = :$D9DBA8",
+		false
+	],
+	"FFlagHttpUrlDecodeFix": [
+		"addr = :$6EC97; ptr = :$D9DBD0",
+		false
+	],
+	"FFlagHttpUrlPortFix": [
+		"addr = :$6ECB7; ptr = :$D9DBC0",
+		false
+	],
+	"FFlagDataStoreFixReadingNaNInf": [
+		"addr = :$6EEC7; ptr = :$D9DE40",
+		false
+	],
+	"FFlagDebugDisableOnScreenProfiler": [
+		"addr = :$6F027; ptr = :$DBB270",
+		false
+	],
+	"FFlagDebugStartMicroProfilerWebServer": [
+		"addr = :$6F047; ptr = :$DBB29C",
+		false
+	],
+	"FFlagEnableDesktopMicroProfilerApi": [
+		"addr = :$6F067; ptr = :$DBB244",
+		false
+	],
+	"FFlagEnableMobileMicroProfilerWebServerApi": [
+		"addr = :$6F087; ptr = :$DBB20C",
+		false
+	],
+	"FFlagTaskSchedulerRemoveLast": [
+		"addr = :$6F337; ptr = :$DBEC78",
+		false
+	],
+	"FFlagTaskSchedulerSTDThreadwrapper": [
+		"addr = :$6F357; ptr = :$DBEC58",
+		false
+	],
+	"FFlagCSGv2FixOrientationWhenSeparatingNegates": [
+		"addr = :$6F687; ptr = :$DBF3B4",
+		false
+	],
+	"FFlagCSGv2UnionOrientationFromFirstPart": [
+		"addr = :$6F6A7; ptr = :$DBF40C",
+		false
+	],
+	"FFlagCSGv2UnparentPartsBeforeModifyingCFrames": [
+		"addr = :$6F6C7; ptr = :$DBF3E0",
+		false
+	],
+	"FFlagCSGv2BalanceExponents": [
+		"addr = :$6F717; ptr = :$DBF874",
+		false
+	],
+	"FFlagCSGv2UseImprovedSphereAndCylinder": [
+		"addr = :$6F737; ptr = :$DBFAE8",
+		false
+	],
+	"FFlagCSGv2SnapPlanes": [
+		"addr = :$6F797; ptr = :$DC01A8",
+		false
+	],
+	"FFlagCSGv2UseIterativeSimplification": [
+		"addr = :$6F7B7; ptr = :$DC05B8",
+		false
+	],
+	"FFlagDebugRakNetUseUdt": [
+		"addr = :$6FCE7; ptr = :$DC0B98",
+		false
+	],
+	"FFlagLateNightPatchCheckEarly": [
+		"addr = :$6FD07; ptr = :$DC0C80",
+		false
+	],
+	"FFlagLateNightPatchCheckLate": [
+		"addr = :$6FD27; ptr = :$DC0C9C",
+		false
+	],
+	"FFlagLateNightPatchKill": [
+		"addr = :$6FD47; ptr = :$DC0CB4",
+		false
+	],
+	"FFlagRakNetDetectNetUnreachable": [
+		"addr = :$6FDA7; ptr = :$DC0B7C",
+		false
+	],
+	"FFlagRakNetExploitReport": [
+		"addr = :$6FDE7; ptr = :$DC0D3C",
+		false
+	],
+	"FFlagRakNetFixBwCollapse": [
+		"addr = :$6FE07; ptr = :$DC0BC4",
+		false
+	],
+	"FFlagRakNetUseSlidingWindow4": [
+		"addr = :$6FEA7; ptr = :$DC0BAC",
+		false
+	],
+	"FFlagUseUnacknowledgedDatagrams": [
+		"addr = :$6FF17; ptr = :$DC0D20",
+		false
+	],
+	"FFlagIPV6RobloxStudioCleanUp": [
+		"addr = :$6FF97; ptr = :$DC117C",
+		false
+	],
+	"FFlagRCCSupportCloudEdit": [
+		"addr = :$6FFF7; ptr = :$DC1148",
+		false
+	],
+	"FFlagRCCSupportTeamTest": [
+		"addr = :$70017; ptr = :$DC115C",
+		false
+	],
+	"FFlagReplicatorHasCapability": [
+		"addr = :$70037; ptr = :$DC121C",
+		false
+	],
+	"FFlagReportServerWorldStepDtAve": [
+		"addr = :$70097; ptr = :$DC1234",
+		false
+	],
+	"FFlagReportSolverUsageStats": [
+		"addr = :$700B7; ptr = :$DC11D0",
+		false
+	],
+	"FFlagBodyColorsColor3PropertyReplicationEnabled": [
+		"addr = :$70407; ptr = :$DC1D40",
+		false
+	],
+	"FFlagBodyColorsColor3PropertyReplicationLogicEnabled": [
+		"addr = :$70427; ptr = :$DC1DBC",
+		true
+	],
+	"FFlagDebugPrintLagServer": [
+		"addr = :$70487; ptr = :$DC1E3C",
+		false
+	],
+	"FFlagDebugReportPhysicsMissingPlaceSpecific": [
+		"addr = :$704A7; ptr = :$DC1C74",
+		false
+	],
+	"FFlagDebugSendPhysicsFBUpdateRatePlaceSpecific": [
+		"addr = :$704C7; ptr = :$DC1C9C",
+		false
+	],
+	"FFlagDisconnectUseConnectionErrorCode": [
+		"addr = :$70507; ptr = :$DC1CEC",
+		false
+	],
+	"FFlagLogMemoryStatsOnCompressionError": [
+		"addr = :$70587; ptr = :$DC1D98",
+		false
+	],
+	"FFlagNetworkDeserializePacketsInAJob": [
+		"addr = :$70707; ptr = :$DC1E04",
+		false
+	],
+	"FFlagPhysicsResetOsp": [
+		"addr = :$70817; ptr = :$DC2138",
+		false
+	],
+	"FFlagPpjClientBreak": [
+		"addr = :$70857; ptr = :$DC1F14",
+		false
+	],
+	"FFlagPpjServerBreak": [
+		"addr = :$70917; ptr = :$DC1F04",
+		false
+	],
+	"FFlagProtectNullRakPeer": [
+		"addr = :$70937; ptr = :$DC1D6C",
+		false
+	],
+	"FFlagRCCKickDuplicatePlayersOnJoin": [
+		"addr = :$70997; ptr = :$DC21CC",
+		false
+	],
+	"FFlagReportDataPingByDc": [
+		"addr = :$709F7; ptr = :$DC1CC8",
+		false
+	],
+	"FFlagReportPhysicsMissingTiers": [
+		"addr = :$70A57; ptr = :$DC1C58",
+		false
+	],
+	"FFlagSelectiveNegativeTarget": [
+		"addr = :$70AB7; ptr = :$DC1E24",
+		false
+	],
+	"FFlagSendTimeInQueue": [
+		"addr = :$70B17; ptr = :$DC1CDC",
+		false
+	],
+	"FFlagTeamCreateServerTrackScriptChangesFullSource": [
+		"addr = :$70BD7; ptr = :$DC1D10",
+		false
+	],
+	"FFlagThrowOnCompressionError": [
+		"addr = :$70BF7; ptr = :$DC1D80",
+		false
+	],
+	"FFlagUseNativePathWaypoint": [
+		"addr = :$70C27; ptr = :$DC1DEC",
+		true
+	],
+	"FFlagValidateStringLength": [
+		"addr = :$70FE7; ptr = :$DC435C",
+		false
+	],
+	"FFlagCLI120342": [
+		"addr = :$710A7; ptr = :$DC465C",
+		false
+	],
+	"FFlagCLI120342p2": [
+		"addr = :$710C7; ptr = :$DC4668",
+		false
+	],
+	"FFlagDebugClientNetworkPerPlaceMetrics": [
+		"addr = :$71107; ptr = :$DC45DC",
+		false
+	],
+	"FFlagDelayLocalPlayerParenting": [
+		"addr = :$71147; ptr = :$DC4640",
+		false
+	],
+	"FFlagUseUNSPEC1": [
+		"addr = :$71197; ptr = :$DC45A0",
+		false
+	],
+	"FFlagAdditionalNewReporting": [
+		"addr = :$71377; ptr = :$DC52E4",
+		false
+	],
+	"FFlagAniCoalesce": [
+		"addr = :$71397; ptr = :$DC4E30",
+		false
+	],
+	"FFlagDebugForceRegenerateSchemaBitStream": [
+		"addr = :$71457; ptr = :$DC4CF4",
+		false
+	],
+	"FFlagDebugGameLoadDataStatisticsPerPlace": [
+		"addr = :$71477; ptr = :$DC4DE8",
+		false
+	],
+	"FFlagFilterAllPlayerPropChanges": [
+		"addr = :$714B7; ptr = :$DC4D18",
+		false
+	],
+	"FFlagFilterCheckMap": [
+		"addr = :$714D7; ptr = :$DC4D98",
+		false
+	],
+	"FFlagGameLoadDataStatistics": [
+		"addr = :$714F7; ptr = :$DC4DD0",
+		false
+	],
+	"FFlagGetStatsForGold": [
+		"addr = :$71517; ptr = :$DC4F58",
+		false
+	],
+	"FFlagHashConfigP1": [
+		"addr = :$71557; ptr = :$DC5250",
+		false
+	],
+	"FFlagHashConfigP2": [
+		"addr = :$71577; ptr = :$DC5260",
+		false
+	],
+	"FFlagHashConfigP7": [
+		"addr = :$71597; ptr = :$DC5270",
+		false
+	],
+	"FFlagInWithTheNew": [
+		"addr = :$715D7; ptr = :$DC4E0C",
+		false
+	],
+	"FFlagJoinConfigLog": [
+		"addr = :$71657; ptr = :$DC4EB0",
+		false
+	],
+	"FFlagLogPlayerless": [
+		"addr = :$716F7; ptr = :$DC5358",
+		false
+	],
+	"FFlagNewGsi": [
+		"addr = :$71757; ptr = :$DC5390",
+		false
+	],
+	"FFlagNewRejoinMessage": [
+		"addr = :$71777; ptr = :$DC4E1C",
+		false
+	],
+	"FFlagPpjKick": [
+		"addr = :$71797; ptr = :$DC53B8",
+		false
+	],
+	"FFlagRCC20608": [
+		"addr = :$717B7; ptr = :$DC5370",
+		false
+	],
+	"FFlagRemoveOldTicket": [
+		"addr = :$717F7; ptr = :$DC4D34",
+		false
+	],
+	"FFlagRestrictXmGui": [
+		"addr = :$71817; ptr = :$DC4E4C",
+		false
+	],
+	"FFlagSendPlayerGuiEarly2": [
+		"addr = :$718D7; ptr = :$DC4DA8",
+		false
+	],
+	"FFlagUS1101p1": [
+		"addr = :$71967; ptr = :$DC4E80",
+		false
+	],
+	"FFlagUS1101p2": [
+		"addr = :$71987; ptr = :$DC4E8C",
+		false
+	],
+	"FFlagUS1101p3": [
+		"addr = :$719A7; ptr = :$DC4E98",
+		false
+	],
+	"FFlagUS1101p4": [
+		"addr = :$719C7; ptr = :$DC4EA4",
+		false
+	],
+	"FFlagUS2017": [
+		"addr = :$71AC7; ptr = :$DC5184",
+		false
+	],
+	"FFlagUS28292p0": [
+		"addr = :$71B57; ptr = :$DC51C8",
+		true
+	],
+	"FFlagUS28292p1": [
+		"addr = :$71B77; ptr = :$DC51D4",
+		false
+	],
+	"FFlagUS28292p2": [
+		"addr = :$71B97; ptr = :$DC51E0",
+		true
+	],
+	"FFlagUS28292p3": [
+		"addr = :$71BB7; ptr = :$DC51EC",
+		false
+	],
+	"FFlagUS28814": [
+		"addr = :$71BD7; ptr = :$DC51F8",
+		false
+	],
+	"FFlagUS29001p1": [
+		"addr = :$71BF7; ptr = :$DC5200",
+		false
+	],
+	"FFlagUS29001p2": [
+		"addr = :$71C17; ptr = :$DC520C",
+		false
+	],
+	"FFlagUS29001p3": [
+		"addr = :$71C37; ptr = :$DC5218",
+		false
+	],
+	"FFlagUS29001p4": [
+		"addr = :$71C57; ptr = :$DC5224",
+		false
+	],
+	"FFlagUS29002p1": [
+		"addr = :$71C77; ptr = :$DC5290",
+		false
+	],
+	"FFlagUS29002p2": [
+		"addr = :$71C97; ptr = :$DC529C",
+		false
+	],
+	"FFlagUS29002p3": [
+		"addr = :$71CB7; ptr = :$DC52A8",
+		false
+	],
+	"FFlagUS29003p1": [
+		"addr = :$71CD7; ptr = :$DC52B4",
+		false
+	],
+	"FFlagUS29003p2": [
+		"addr = :$71CF7; ptr = :$DC52C0",
+		false
+	],
+	"FFlagUS29004p1": [
+		"addr = :$71D17; ptr = :$DC52CC",
+		false
+	],
+	"FFlagUS29004p2": [
+		"addr = :$71D37; ptr = :$DC52D8",
+		false
+	],
+	"FFlagUS30605p7c": [
+		"addr = :$72077; ptr = :$DC5128",
+		false
+	],
+	"FFlagUS30605p7l": [
+		"addr = :$72107; ptr = :$DC5140",
+		false
+	],
+	"FFlagDebugEnableInternetSimulator": [
+		"addr = :$722C7; ptr = :$DC7ADC",
+		false
+	],
+	"FFlagDeferJoins": [
+		"addr = :$72347; ptr = :$DC7BC4",
+		false
+	],
+	"FFlagQuitToo": [
+		"addr = :$72367; ptr = :$DC7BA4",
+		false
+	],
+	"FFlagServerCopiesPlayerGui": [
+		"addr = :$723C7; ptr = :$DC7BDC",
+		false
+	],
+	"FFlagServerGeneratesPlayer4": [
+		"addr = :$723E7; ptr = :$DC7BAC",
+		false
+	],
+	"FFlagSimplifyRakNetConnectionHandshake": [
+		"addr = :$72407; ptr = :$DC7B70",
+		false
+	],
+	"FFlagClientUseNewClientTicket": [
+		"addr = :$72567; ptr = :$DC8570",
+		false
+	],
+	"FFlagDebugEnableSpoofGameLocaleId": [
+		"addr = :$72587; ptr = :$DC8338",
+		false
+	],
+	"FFlagDebugEnableSpoofRobloxLocaleId": [
+		"addr = :$725A7; ptr = :$DC87A8",
+		false
+	],
+	"FFlagDebugForceChatDisabled": [
+		"addr = :$725C7; ptr = :$DC8478",
+		false
+	],
+	"FFlagDebugSendAttemptsToDiagCase1": [
+		"addr = :$725E7; ptr = :$DC8654",
+		false
+	],
+	"FFlagDisablePlayerScriptWhenDisconnected": [
+		"addr = :$726E7; ptr = :$DC8358",
+		false
+	],
+	"FFlagGameJoinDeprecateVendorId": [
+		"addr = :$72727; ptr = :$DC86CC",
+		false
+	],
+	"FFlagGetAnalyticsSessionIdFromJoinBlob": [
+		"addr = :$727B7; ptr = :$DC8758",
+		false
+	],
+	"FFlagGetGameLocaleIdFromJoinBlob": [
+		"addr = :$727D7; ptr = :$DC8690",
+		false
+	],
+	"FFlagJoinTimeCounters": [
+		"addr = :$72817; ptr = :$DC84F0",
+		false
+	],
+	"FFlagJoinTime_AvatarFastClusterSignal": [
+		"addr = :$72877; ptr = :$DC84A4",
+		false
+	],
+	"FFlagJoinTime_AvatarTextureCompositorSignal": [
+		"addr = :$72897; ptr = :$DC84C8",
+		false
+	],
+	"FFlagLoadAdditionalCoreScriptsInStudio": [
+		"addr = :$72907; ptr = :$DC8454",
+		true
+	],
+	"FFlagLogJoinTime": [
+		"addr = :$72927; ptr = :$DC8504",
+		false
+	],
+	"FFlagPlaceLauncherIncludePlStartTime": [
+		"addr = :$72A07; ptr = :$DC8538",
+		false
+	],
+	"FFlagReportEngineJoinTimeStats": [
+		"addr = :$72A27; ptr = :$DC8510",
+		false
+	],
+	"FFlagSendJoinTimeDelta": [
+		"addr = :$72AE7; ptr = :$DC86E8",
+		false
+	],
+	"FFlagSendJoinTimesToDiag": [
+		"addr = :$72C27; ptr = :$DC85B8",
+		false
+	],
+	"FFlagUnlockMouseIfKicked": [
+		"addr = :$72C77; ptr = :$DC8490",
+		false
+	],
+	"FFlagUseCorrectCoreCase1Devices": [
+		"addr = :$72C97; ptr = :$DC8674",
+		false
+	],
+	"FFlagUseOldClientTicketNameForNewClientTicket": [
+		"addr = :$72CB7; ptr = :$DC858C",
+		false
+	],
+	"FFlagCLI18241": [
+		"addr = :$73A97; ptr = :$DC8D50",
+		false
+	],
+	"FFlagCLI19115": [
+		"addr = :$73AB7; ptr = :$DC8D5C",
+		false
+	],
+	"FFlagCLI19418": [
+		"addr = :$73AD7; ptr = :$DC8D44",
+		false
+	],
+	"FFlagCLI21289": [
+		"addr = :$73AF7; ptr = :$DC8D68",
+		false
+	],
+	"FFlagTxRlEn": [
+		"addr = :$73B97; ptr = :$DC8D84",
+		false
+	],
+	"FFlagDebugDisableProjectileOwnershipLock": [
+		"addr = :$73D17; ptr = :$DC9790",
+		false
+	],
+	"FFlagDistanceThinningForClient": [
+		"addr = :$73E47; ptr = :$DC9BB4",
+		true
+	],
+	"FFlagDontSendOnContactBuffer": [
+		"addr = :$73E67; ptr = :$DC9BD0",
+		false
+	],
+	"FFlagDontUsePhysicsCache": [
+		"addr = :$73E87; ptr = :$DC9AFC",
+		false
+	],
+	"FFlagImproveTimeStamp": [
+		"addr = :$73EA7; ptr = :$DC9C1C",
+		false
+	],
+	"FFlagNewSortAndFilter": [
+		"addr = :$73EE7; ptr = :$DC9B10",
+		false
+	],
+	"FFlagSendAllPhysicsPackets": [
+		"addr = :$73FC7; ptr = :$DC9AE4",
+		false
+	],
+	"FFlagSetSimulationRadiusInPhysicsSender": [
+		"addr = :$73FE7; ptr = :$DC9B24",
+		false
+	],
+	"FFlagUseBitCountLimit": [
+		"addr = :$74017; ptr = :$DC9BE8",
+		false
+	],
+	"FFlagUseDistanceThinning": [
+		"addr = :$74037; ptr = :$DC9B60",
+		false
+	],
+	"FFlagUseMomentumThinning": [
+		"addr = :$74057; ptr = :$DC9B74",
+		false
+	],
+	"FFlagUseRelativePartTransformsHumanoidPlatforms": [
+		"addr = :$74077; ptr = :$DC9C7C",
+		false
+	],
+	"FFlagUseRoundRobinForClient": [
+		"addr = :$74097; ptr = :$DC9B9C",
+		false
+	],
+	"FFlagUseRoundRobin": [
+		"addr = :$740B7; ptr = :$DC9B50",
+		false
+	],
+	"FFlagUseSortForClient": [
+		"addr = :$740D7; ptr = :$DC9B88",
+		false
+	],
+	"FFlagUseSort": [
+		"addr = :$740F7; ptr = :$DC9B48",
+		false
+	],
+	"FFlagUseVelocityGateForMoment": [
+		"addr = :$74117; ptr = :$DC9C60",
+		false
+	],
+	"FFlagActOnNewCheck": [
+		"addr = :$74217; ptr = :$DC9E74",
+		false
+	],
+	"FFlagAdditionalCheckC0": [
+		"addr = :$74237; ptr = :$DC9E60",
+		false
+	],
+	"FFlagAdditionalCheckC1_2": [
+		"addr = :$74257; ptr = :$DC9E3C",
+		false
+	],
+	"FFlagCheckBackpack": [
+		"addr = :$74277; ptr = :$DC9E50",
+		false
+	],
+	"FFlagDelistPpr": [
+		"addr = :$74297; ptr = :$DC9F30",
+		false
+	],
+	"FFlagDontWhitelistUserInputConnectionCounts": [
+		"addr = :$742B7; ptr = :$DC9EC4",
+		false
+	],
+	"FFlagDropItLikeItsHat2": [
+		"addr = :$742D7; ptr = :$DC9E94",
+		false
+	],
+	"FFlagMoreWeldRestrictions": [
+		"addr = :$742F7; ptr = :$DC9E0C",
+		false
+	],
+	"FFlagNotChristmasTodayEither2": [
+		"addr = :$74317; ptr = :$DC9F14",
+		false
+	],
+	"FFlagOneWeldToRuleThemAll2": [
+		"addr = :$74337; ptr = :$DC9E24",
+		false
+	],
+	"FFlagPlayerGeneratedOnTheServerNoBacksies": [
+		"addr = :$74357; ptr = :$DC9EEC",
+		false
+	],
+	"FFlagWhitelistUserInputEvents": [
+		"addr = :$743A7; ptr = :$DC9EA8",
+		false
+	],
+	"FFlagFavorIPV4Connections": [
+		"addr = :$74557; ptr = :$DCAB28",
+		false
+	],
+	"FFlagFixBoundSocket": [
+		"addr = :$74577; ptr = :$DCAB40",
+		false
+	],
+	"FFlagRakNetSupportIpV6": [
+		"addr = :$745A7; ptr = :$DCAD14",
+		false
+	],
+	"FFlagDebugRakNetNoTimestampInUdt": [
+		"addr = :$74757; ptr = :$DCB050",
+		false
+	],
+	"FFlagUseGsiFilePath": [
+		"addr = :$74A07; ptr = :$DCC154",
+		true
+	],
+	"FFlagDebugEnableReportPlaceIDAboveMemory": [
+		"addr = :$74AD7; ptr = :$DCC2C4",
+		false
+	],
+	"FFlagDebugGAReportThrottledSessions": [
+		"addr = :$74AF7; ptr = :$DCC340",
+		false
+	],
+	"FFlagReportClientMemoryCat": [
+		"addr = :$74C87; ptr = :$DCC308",
+		false
+	],
+	"FFlagUseGamePerfMonitorWithAppShell": [
+		"addr = :$74CB7; ptr = :$DCC320",
+		false
+	],
+	"FFlagDebugStreamingFastRecovery": [
+		"addr = :$75147; ptr = :$DCD1C0",
+		false
+	],
+	"FFlagTSMk2ThrottleStreamJob": [
+		"addr = :$75247; ptr = :$DCD150",
+		false
+	],
+	"FFlagFixG3DFpChecks": [
+		"addr = :$759D7; ptr = :$DCE228",
+		false
+	],
+	"FFlagFixIAdornableCollectorCrash3": [
+		"addr = :$75A87; ptr = :$DD50AC",
+		false
+	],
+	"FFlagDebugGraphicsCrashOnLeaks": [
+		"addr = :$75B37; ptr = :$DD5490",
+		true
+	],
+	"FFlagDebugGraphics": [
+		"addr = :$75B57; ptr = :$DD5480",
+		false
+	],
+	"FFlagDebugGraphicsVsync": [
+		"addr = :$75B77; ptr = :$DD54AC",
+		false
+	],
+	"FFlagDebugAdornsDisabled": [
+		"addr = :$75C07; ptr = :$DD6218",
+		false
+	],
+	"FFlagEnableRobloxGuiEffect": [
+		"addr = :$75C27; ptr = :$DD622C",
+		false
+	],
+	"FFlagRenderFrameCapture": [
+		"addr = :$75CA7; ptr = :$DD62B8",
+		false
+	],
+	"FFlagUseLargerFontAtlasOn3xDevices": [
+		"addr = :$75DA7; ptr = :$DD6C84",
+		false
+	],
+	"FFlagFixSunRaysFlickering": [
+		"addr = :$75E87; ptr = :$DD6E68",
+		false
+	],
+	"FFlagRenderInstanceAcrossRops": [
+		"addr = :$75EA7; ptr = :$DD6E90",
+		false
+	],
+	"FFlagShadowBoxFix": [
+		"addr = :$75EE7; ptr = :$DD6E80",
+		false
+	],
+	"FFlagFixGranny": [
+		"addr = :$760A7; ptr = :$DD7480",
+		false
+	],
+	"FFlagRenderInstancingEnabled8": [
+		"addr = :$760C7; ptr = :$DD7444",
+		false
+	],
+	"FFlagRenderPartInstancingEnabled4": [
+		"addr = :$760E7; ptr = :$DD7460",
+		false
+	],
+	"FFlagJoinTime_AllowFullTexturePrioUpdate": [
+		"addr = :$76127; ptr = :$DD7BD8",
+		false
+	],
+	"FFlagJoinTime_LocalUserTexturePriority": [
+		"addr = :$76147; ptr = :$DD7B94",
+		false
+	],
+	"FFlagJoinTime_PassTexturePriority": [
+		"addr = :$76167; ptr = :$DD7BB8",
+		false
+	],
+	"FFlagDebugRenderDisableWangMobile": [
+		"addr = :$764C7; ptr = :$DD8938",
+		false
+	],
+	"FFlagRefactoredMaterials3": [
+		"addr = :$764E7; ptr = :$DD8958",
+		false
+	],
+	"FFlagFixTextureAtlasLineHeightOn4xDevices": [
+		"addr = :$765F7; ptr = :$DD9424",
+		false
+	],
+	"FFlagFixLineHandleAdornmentsNearPlane": [
+		"addr = :$767E7; ptr = :$DD9C30",
+		false
+	],
+	"FFlagJoinTime_LocalUserClusterPriority": [
+		"addr = :$76BA7; ptr = :$DDAE68",
+		false
+	],
+	"FFlagJoinTime_LocalUserMeshPriority": [
+		"addr = :$76BC7; ptr = :$DDAE48",
+		false
+	],
+	"FFlagRenderInstancingDeferUpdates2": [
+		"addr = :$76C97; ptr = :$DDB6EC",
+		false
+	],
+	"FFlagRenderRestrictHeads4": [
+		"addr = :$78D67; ptr = :$DDDFB0",
+		false
+	],
+	"FFlagG3DRayCylinderintersectionTimeFix": [
+		"addr = :$78DD7; ptr = :$DDEDA0",
+		false
+	],
+	"FFlagDebugSSAOForce": [
+		"addr = :$79777; ptr = :$E1ECF0",
+		false
+	],
+	"FFlagDebugGraphicsForceGL2": [
+		"addr = :$798D7; ptr = :$E1F020",
+		false
+	],
+	"FFlagGraphicsGL3InstancingEnabled2": [
+		"addr = :$798F7; ptr = :$E1F04C",
+		false
+	],
+	"FFlagGraphicsGL3UseUBO3": [
+		"addr = :$79917; ptr = :$E1F038",
+		false
+	],
+	"FFlagDebugGraphicsD3D9ForceSWVP": [
+		"addr = :$79967; ptr = :$E1F340",
+		false
+	],
+	"FFlagGraphicsDX11ReportConstantOffset": [
+		"addr = :$799B7; ptr = :$E1F810",
+		false
+	],
+	"FFlagDebugGraphicsDisableVulkan11": [
+		"addr = :$79A07; ptr = :$E1FAAC",
+		false
+	],
+	"FFlagDebugGraphicsDisableVulkan": [
+		"addr = :$79A27; ptr = :$E1FA90",
+		false
+	],
+	"FFlagGraphicsVulkanBlacklistMali80": [
+		"addr = :$79AB7; ptr = :$E1FB18",
+		false
+	],
+	"FFlagGraphicsVulkanBlacklistPowerVR81": [
+		"addr = :$79AD7; ptr = :$E1FB38",
+		false
+	],
+	"FFlagGraphicsVulkanGpuTime": [
+		"addr = :$79AF7; ptr = :$E1FB00",
+		false
+	],
+	"FFlagGraphicsVulkanUseNewPacks3": [
+		"addr = :$79B17; ptr = :$E1FAE4",
+		false
+	],
+	"FFlagDebugGraphicsGLDisableDiscard": [
+		"addr = :$79B67; ptr = :$E20990",
+		false
+	],
+	"FFlagDebugGraphicsIntelCrash": [
+		"addr = :$79CD7; ptr = :$E2664C",
+		false
+	],
+	"FFlagDebugGraphicsD3D11DisableDriverThreading": [
+		"addr = :$79DB7; ptr = :$E269D4",
+		false
+	],
+	"FFlagDebugGraphicsVulkanDisablePipelineCacheSerialization": [
+		"addr = :$7A037; ptr = :$E29590",
+		false
+	],
+	"FFlagGraphicsVulkanPipelineCacheRobustSerialization": [
+		"addr = :$7A057; ptr = :$E295C8",
+		false
+	],
+	"FFlagDebugRenderVRHUD": [
+		"addr = :$7A0D7; ptr = :$E29AC8",
+		false
+	],
+	"FIntHttpConnectExtendedTimeoutMillis": [
+		"addr = :$3217; ptr = :$CBB73C",
+		600000
+	],
+	"FIntHttpDataSendExtendedTimeoutMillis": [
+		"addr = :$3237; ptr = :$CBB760",
+		600000
+	],
+	"FIntHttpResponseExtendedTimeoutMillis": [
+		"addr = :$3257; ptr = :$CBB6E4",
+		600000
+	],
+	"FIntHttpSendExtendedTimeoutMillis": [
+		"addr = :$3277; ptr = :$CBB71C",
+		600000
+	],
+	"FIntReportTeamCreatePublishFailurePermyriad": [
+		"addr = :$3297; ptr = :$CBB784",
+		100
+	],
+	"FIntHangDetectionTimeoutMs": [
+		"addr = :$341A; ptr = :$CBC0A4",
+		180000
+	],
+	"FIntStudioRecentActionCacheSize": [
+		"addr = :$349A; ptr = :$CBC050",
+		25
+	],
+	"FIntWriteFullDmpPercent": [
+		"addr = :$34DA; ptr = :$CBC03C",
+		0
+	],
+	"FIntCrashUploadArchiveAfterErrorsDelaySeconds": [
+		"addr = :$38A7; ptr = :$CBC690",
+		86400
+	],
+	"FIntCrashUploadErrorInfluxHundredthsPercentage": [
+		"addr = :$38C7; ptr = :$CBC620",
+		1000
+	],
+	"FIntCrashUploadHttpResponseDefaultTimeoutMillis": [
+		"addr = :$38E7; ptr = :$CBC664",
+		80000
+	],
+	"FIntCrashUploadMaxDumpFiles": [
+		"addr = :$3907; ptr = :$CBC64C",
+		3
+	],
+	"FIntRCCInfluxHundredthsPercentage": [
+		"addr = :$3927; ptr = :$CBC600",
+		1000
+	],
+	"FIntUS1248p2": [
+		"addr = :$3A87; ptr = :$CBE768",
+		0
+	],
+	"FIntUS30484p2": [
+		"addr = :$3B27; ptr = :$CBE750",
+		10000
+	],
+	"FIntGameServerInitializationErrorInfluxHundrethsPercentage": [
+		"addr = :$3D87; ptr = :$CC0020",
+		10000
+	],
+	"FIntRCCFailedToEvictPlayerInfluxHundrethsPercentage": [
+		"addr = :$3E27; ptr = :$CC0058",
+		0
+	],
+	"FIntRCCNonJsonExecuteInfluxHundrethsPercentage": [
+		"addr = :$3E47; ptr = :$CC0088",
+		0
+	],
+	"FIntRCCServiceThreadCount": [
+		"addr = :$3EA7; ptr = :$CC0008",
+		1
+	],
+	"FIntReportInfluxHundredthsPercentage": [
+		"addr = :$4247; ptr = :$CC492C",
+		0
+	],
+	"FIntChatSignalMaxCachedRequestMilliseconds": [
+		"addr = :$4B37; ptr = :$CC4C84",
+		5000
+	],
+	"FIntFriendRequestNotificationThrottle": [
+		"addr = :$4BB7; ptr = :$CC531C",
+		5
+	],
+	"FIntGetUserThumbnailAsyncThrottleTime": [
+		"addr = :$4C47; ptr = :$CC4CCC",
+		2000
+	],
+	"FIntGetUserThumbnailExpirationTime": [
+		"addr = :$4C67; ptr = :$CC4CF0",
+		60000
+	],
+	"FIntGetUserThumbnailMapSizeCap": [
+		"addr = :$4C87; ptr = :$CC4D60",
+		500
+	],
+	"FIntGetUserThumbnailMaxThrottle": [
+		"addr = :$4CA7; ptr = :$CC4D10",
+		20000
+	],
+	"FIntGetUserThumbnailThrottleExponent": [
+		"addr = :$4CC7; ptr = :$CC4D3C",
+		1500
+	],
+	"FIntStudioStartServerBoyGuestCharacterAppearance": [
+		"addr = :$4D47; ptr = :$CC5270",
+		15437777
+	],
+	"FIntStudioStartServerGirlGuestCharacterAppearance": [
+		"addr = :$4D67; ptr = :$CC52A0",
+		15437741
+	],
+	"FIntHttpConnectDefaultTimeoutMillis": [
+		"addr = :$6337; ptr = :$CC665C",
+		60000
+	],
+	"FIntHttpGAFailureReportHundredthsPercent": [
+		"addr = :$6377; ptr = :$CC6698",
+		1
+	],
+	"FIntHttpGAFailureReportPercent": [
+		"addr = :$6397; ptr = :$CC66C0",
+		1
+	],
+	"FIntHttpInfluxClientExceptionStatusCode": [
+		"addr = :$63B7; ptr = :$CC672C",
+		0
+	],
+	"FIntHttpResponseDefaultTimeoutMillis": [
+		"addr = :$63F7; ptr = :$CC6638",
+		60000
+	],
+	"FIntHttpSendStatsEveryXSeconds": [
+		"addr = :$6417; ptr = :$CC667C",
+		60
+	],
+	"FIntHttpStudioInfluxHundredthsPercentage": [
+		"addr = :$6437; ptr = :$CC6704",
+		1
+	],
+	"FIntMaxHttpResultResponseSize": [
+		"addr = :$6477; ptr = :$CC678C",
+		500
+	],
+	"FIntSendHttpBodyOnFailureMaxBytes": [
+		"addr = :$6497; ptr = :$CC676C",
+		128
+	],
+	"FIntAnalyticsDeferredEphemeralReportingIntervalSeconds": [
+		"addr = :$65D7; ptr = :$CC702C",
+		30
+	],
+	"FIntAnalyticsDeferredEventIngestReportingIntervalSeconds": [
+		"addr = :$65F7; ptr = :$CC7110",
+		30
+	],
+	"FIntAnalyticsMaxDeferredStats": [
+		"addr = :$6657; ptr = :$CC7060",
+		50
+	],
+	"FIntAnalyticsMaxEventIngestPostArrayLength": [
+		"addr = :$6677; ptr = :$CC716C",
+		900
+	],
+	"FIntAnalyticsMaxSendWaitTimeMs": [
+		"addr = :$6697; ptr = :$CC707C",
+		100
+	],
+	"FIntAnalyticsMaxShutdownWaitTimeMs": [
+		"addr = :$66B7; ptr = :$CC7098",
+		100
+	],
+	"FIntLuaErrorsInfluxThrottling": [
+		"addr = :$68D7; ptr = :$CC6FBC",
+		1
+	],
+	"FIntAvatarJointPositionsDefaultType": [
+		"addr = :$7277; ptr = :$CC7B08",
+		0
+	],
+	"FIntInGameGlobalGuiInset": [
+		"addr = :$7797; ptr = :$CC7AF0",
+		36
+	],
+	"FIntOnCloseTimeoutInSeconds": [
+		"addr = :$7817; ptr = :$CC7B7C",
+		30
+	],
+	"FIntR15DefaultCollisionType": [
+		"addr = :$7907; ptr = :$CC7B94",
+		0
+	],
+	"FIntScriptContextShutdownTimeoutSeconds": [
+		"addr = :$7967; ptr = :$CC7BC4",
+		30
+	],
+	"FIntServerConfigCloudEditSavePeriodSeconds": [
+		"addr = :$7987; ptr = :$CC7BE8",
+		300
+	],
+	"FIntExternalHttpRequestSizeLimitKB": [
+		"addr = :$92E7; ptr = :$CCB704",
+		1024
+	],
+	"FIntExternalHttpResponseSizeLimitKB": [
+		"addr = :$9307; ptr = :$CCB724",
+		4096
+	],
+	"FIntExternalHttpResponseTimeoutMillis": [
+		"addr = :$9327; ptr = :$CCB6E0",
+		30000
+	],
+	"FIntCrashUploadToBacktracePercentage": [
+		"addr = :$9527; ptr = :$CCBA98",
+		0
+	],
+	"FIntWaitForChildWarnTimeOutTime": [
+		"addr = :$A547; ptr = :$CCC5D0",
+		5
+	],
+	"FIntNumDummyJobs": [
+		"addr = :$B6D7; ptr = :$CCCD6C",
+		0
+	],
+	"FIntRenderingThrottleDelayInMS": [
+		"addr = :$B717; ptr = :$CCCD7C",
+		0
+	],
+	"FIntAnthroPercentInHundredths": [
+		"addr = :$C817; ptr = :$CCDD78",
+		0
+	],
+	"FIntApiRateLimit": [
+		"addr = :$C837; ptr = :$CCDA30",
+		200
+	],
+	"FIntRandomSpawnRetryTimes": [
+		"addr = :$CA37; ptr = :$CCDB7C",
+		20
+	],
+	"FIntReportCharacterLoadTimeMetricsInverseProbability": [
+		"addr = :$CA97; ptr = :$CCDBC0",
+		1000
+	],
+	"FIntWideToNarrowScaleInHundredths": [
+		"addr = :$CB27; ptr = :$CCDD94",
+		0
+	],
+	"FIntHttpInfluxHundredthsPercentage": [
+		"addr = :$10C17; ptr = :$CD089C",
+		0
+	],
+	"FIntMsecBetweenTextureMemoryUsageArrayRefresh": [
+		"addr = :$10C37; ptr = :$CD08BC",
+		1000
+	],
+	"FIntContentProviderThreadPoolSize": [
+		"addr = :$122C7; ptr = :$CD23AC",
+		16
+	],
+	"FIntFixForBulkPresenceNotifications": [
+		"addr = :$12C77; ptr = :$CD32E0",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleAndroidPhone3": [
+		"addr = :$12E37; ptr = :$CD2EB4",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleAndroidTablet3": [
+		"addr = :$12E57; ptr = :$CD2EE0",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleiOSPhone3": [
+		"addr = :$12E77; ptr = :$CD2F0C",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleiOSTablet3": [
+		"addr = :$12E97; ptr = :$CD2F34",
+		0
+	],
+	"FIntLuaHomeMaxFriends": [
+		"addr = :$12F37; ptr = :$CD3070",
+		9
+	],
+	"FIntNewDevConsoleMaxGraphCount": [
+		"addr = :$12F97; ptr = :$CD2F70",
+		30
+	],
+	"FIntNewDevConsoleMaxHttpCount": [
+		"addr = :$12FB7; ptr = :$CD2FA8",
+		300
+	],
+	"FIntNewDevConsoleMaxLogCount": [
+		"addr = :$12FD7; ptr = :$CD2F8C",
+		500
+	],
+	"FIntSettingsHubInviteReleaseStreamTime": [
+		"addr = :$13097; ptr = :$CD3450",
+		10
+	],
+	"FIntXboxAvatarPaneRefreshInterval": [
+		"addr = :$13337; ptr = :$CD3284",
+		1800
+	],
+	"FIntXboxGameDetailsRefreshInterval": [
+		"addr = :$13357; ptr = :$CD32A4",
+		1800
+	],
+	"FIntXboxGameSortsUpdateInterval": [
+		"addr = :$13377; ptr = :$CD32C4",
+		1800
+	],
+	"FIntXboxPresencePolling": [
+		"addr = :$13397; ptr = :$CD3270",
+		120
+	],
+	"FIntLuaGcBoost": [
+		"addr = :$13D37; ptr = :$CD4100",
+		1
+	],
+	"FIntLuaGcMaxKb": [
+		"addr = :$13D57; ptr = :$CD410C",
+		100
+	],
+	"FIntReportYieldHundredthsPercentage": [
+		"addr = :$13D97; ptr = :$CD4168",
+		0
+	],
+	"FIntWebParserInfluxWriteNanInfPerMyriad": [
+		"addr = :$13FC7; ptr = :$CD52E8",
+		0
+	],
+	"FIntGoogleAnalyticsLoadLuaShell": [
+		"addr = :$14227; ptr = :$CD55BC",
+		1
+	],
+	"FIntUserHttpRequestsPerMinuteLimit": [
+		"addr = :$151E7; ptr = :$CD7BF8",
+		500
+	],
+	"FIntElevatedPhysicsFPSReportThresholdTenths": [
+		"addr = :$15A97; ptr = :$CD8A54",
+		610
+	],
+	"FIntChatFilterMaxCachedRequestMilliseconds": [
+		"addr = :$16D07; ptr = :$CD9C14",
+		5000
+	],
+	"FIntChatServiceCachedResultCount": [
+		"addr = :$16D87; ptr = :$CD990C",
+		30
+	],
+	"FIntInfluxReportLocalFilterStringPermyriad": [
+		"addr = :$16ED7; ptr = :$CD9BEC",
+		0
+	],
+	"FIntInfluxTattletaleReportCommunitySiftOutputPermyriad": [
+		"addr = :$16EF7; ptr = :$CD9BB8",
+		0
+	],
+	"FIntInfluxTattletaleV2Permyriad": [
+		"addr = :$16F17; ptr = :$CD9A98",
+		10000
+	],
+	"FIntTattletaleFlushIfNotUpdatedForSeconds": [
+		"addr = :$16FC7; ptr = :$CD9998",
+		60
+	],
+	"FIntTattletaleFlushIfOlderThanSeconds": [
+		"addr = :$16FE7; ptr = :$CD99C0",
+		300
+	],
+	"FIntTattletaleMaxInstancePathLength": [
+		"addr = :$17007; ptr = :$CD99E4",
+		512
+	],
+	"FIntTattletaleMaxPendingReports": [
+		"addr = :$17027; ptr = :$CD9A1C",
+		1024
+	],
+	"FIntTattletaleMaxTextLength": [
+		"addr = :$17047; ptr = :$CD9A04",
+		1024
+	],
+	"FIntTattletaleMinimumClientCountWithServerVerification": [
+		"addr = :$17067; ptr = :$CD9964",
+		1
+	],
+	"FIntTattletaleMinimumClientCountWithoutServerVerification": [
+		"addr = :$17087; ptr = :$CD992C",
+		1
+	],
+	"FIntTattletaleReportUnfilteredJobFrequencySeconds": [
+		"addr = :$170A7; ptr = :$CD9A38",
+		30
+	],
+	"FIntTattletaleReportUnfilteredJobMaxReportsPerTick": [
+		"addr = :$170C7; ptr = :$CD9A68",
+		64
+	],
+	"FIntWebChatFilterHttpTimeoutSeconds": [
+		"addr = :$17107; ptr = :$CD9B20",
+		60
+	],
+	"FIntDistToShowBufferCountSqr": [
+		"addr = :$190E7; ptr = :$CDB574",
+		0
+	],
+	"FIntPartMinSizeMul1000": [
+		"addr = :$19147; ptr = :$CDB4C4",
+		200
+	],
+	"FIntPartSizeUnder0P2AnalyticsInfluxHundredthPct": [
+		"addr = :$19167; ptr = :$CDB4D8",
+		0
+	],
+	"FIntHopperBinTrackingPermyriad": [
+		"addr = :$1A6C7; ptr = :$CDC47C",
+		100
+	],
+	"FIntHumanoidFloorManualFrictionVelocityMultValue": [
+		"addr = :$1C167; ptr = :$CDD990",
+		100
+	],
+	"FIntHumanoidFloorTeleportWeightValue": [
+		"addr = :$1C187; ptr = :$CDD954",
+		50
+	],
+	"FIntMotionDiscontinuityThreshold": [
+		"addr = :$1C1C7; ptr = :$CDCF0C",
+		1
+	],
+	"FIntFriendServiceCachedOfflineStatusCount": [
+		"addr = :$20FC7; ptr = :$CDE85C",
+		256
+	],
+	"FIntFriendServiceCachedOfflineStatusMaxAgeSeconds": [
+		"addr = :$20FE7; ptr = :$CDE884",
+		300
+	],
+	"FIntLocalizationAnalyticsSamplesPerMillion": [
+		"addr = :$213E7; ptr = :$CDF658",
+		0
+	],
+	"FIntHttpRbxApiClientPerMinuteRequestLimit": [
+		"addr = :$225F7; ptr = :$CE0330",
+		300
+	],
+	"FIntHttpRbxApiJobFrequencyInSeconds": [
+		"addr = :$22617; ptr = :$CE04E0",
+		1
+	],
+	"FIntHttpRbxApiMaxBudgetMultiplier": [
+		"addr = :$22637; ptr = :$CE0358",
+		1
+	],
+	"FIntHttpRbxApiMaxRetryBudgetPerMinute": [
+		"addr = :$22657; ptr = :$CE03F4",
+		500
+	],
+	"FIntHttpRbxApiMaxRetryCount": [
+		"addr = :$22677; ptr = :$CE0418",
+		10
+	],
+	"FIntHttpRbxApiMaxRetryQueueSize": [
+		"addr = :$22697; ptr = :$CE0430",
+		500
+	],
+	"FIntHttpRbxApiMaxSyncRetries": [
+		"addr = :$226B7; ptr = :$CE044C",
+		3
+	],
+	"FIntHttpRbxApiMaxThrottledQueueSize": [
+		"addr = :$226D7; ptr = :$CE03D4",
+		50
+	],
+	"FIntHttpRbxApiRequestsPerMinutePerPlayerInServerLimit": [
+		"addr = :$226F7; ptr = :$CE03A0",
+		100
+	],
+	"FIntHttpRbxApiRequestsPerMinuteServerLimit": [
+		"addr = :$22717; ptr = :$CE0378",
+		300
+	],
+	"FIntHttpRbxApiSyncRetryWaitTimeMSec": [
+		"addr = :$22757; ptr = :$CE0468",
+		500
+	],
+	"FIntPercentApiRequestsRecordGoogleAnalytics": [
+		"addr = :$22797; ptr = :$CE0308",
+		1
+	],
+	"FIntLogGroupTeleportInfluxPerTenThousand": [
+		"addr = :$22DB7; ptr = :$CE0E60",
+		0
+	],
+	"FIntShowTeleportFailedMessageTimeInMillisecond": [
+		"addr = :$22DF7; ptr = :$CE0C48",
+		3000
+	],
+	"FIntTeleportMethodAnalyticsHundredthPct": [
+		"addr = :$22E37; ptr = :$CE0C24",
+		0
+	],
+	"FIntTeleportPartyExpirationMillisecond": [
+		"addr = :$22E77; ptr = :$CE0C74",
+		180000
+	],
+	"FIntTeleportPollinInterval": [
+		"addr = :$22E97; ptr = :$CE0C98",
+		1000
+	],
+	"FIntTimeBetweenCheckingApiAccessMillis": [
+		"addr = :$239F7; ptr = :$CE2794",
+		5000
+	],
+	"FIntHttpCacheCleanIfGBLessThan": [
+		"addr = :$25CB7; ptr = :$CE43DC",
+		5
+	],
+	"FIntHttpCacheCleanMaxFilesToKeep": [
+		"addr = :$25CD7; ptr = :$CE439C",
+		1500
+	],
+	"FIntHttpCacheCleanMinFilesRequired": [
+		"addr = :$25CF7; ptr = :$CE437C",
+		3000
+	],
+	"FIntHttpCacheSendStatsEveryXSeconds": [
+		"addr = :$25D17; ptr = :$CE43BC",
+		60
+	],
+	"FIntHttpCurlDeepErrorReportingCount": [
+		"addr = :$25D57; ptr = :$CE4414",
+		0
+	],
+	"FIntHttpMaxRedirects": [
+		"addr = :$25E07; ptr = :$CE434C",
+		10
+	],
+	"FIntBadLogInfluxHundredthsPercentage": [
+		"addr = :$26017; ptr = :$CE5288",
+		0
+	],
+	"FIntBadLogMask": [
+		"addr = :$26037; ptr = :$CE52AC",
+		0
+	],
+	"FIntHttpAnalyticsMaxHistory": [
+		"addr = :$26077; ptr = :$CE52DC",
+		256
+	],
+	"FIntMaxLogHistory": [
+		"addr = :$26127; ptr = :$CE5258",
+		512
+	],
+	"FIntInfluxOverUDPThreshold": [
+		"addr = :$26BC7; ptr = :$CE5678",
+		1400
+	],
+	"FIntTelegrafTCPPort": [
+		"addr = :$26C57; ptr = :$CE56A0",
+		8094
+	],
+	"FIntTelegrafUDPPort": [
+		"addr = :$26C77; ptr = :$CE5690",
+		8092
+	],
+	"FIntPhysicsImprovedCyclicExecutiveConsecutivePredictionRequired": [
+		"addr = :$26F47; ptr = :$CE6048",
+		2
+	],
+	"FIntPhysicsImprovedCyclicExecutivePredictiveThrottlingStepsAhead": [
+		"addr = :$26F67; ptr = :$CE6008",
+		20
+	],
+	"FIntPhysicsImprovedCyclicExecutiveThrottleThresholdTenth": [
+		"addr = :$26F87; ptr = :$CE5FD0",
+		8
+	],
+	"FIntNetworkStatRefreshRate": [
+		"addr = :$26FC7; ptr = :$CE6100",
+		1
+	],
+	"FIntBulletContactBreakOrthogonalThresholdActivatePercent": [
+		"addr = :$273C7; ptr = :$CE7C78",
+		200
+	],
+	"FIntBulletContactBreakOrthogonalThresholdPercent": [
+		"addr = :$273E7; ptr = :$CE7C48",
+		200
+	],
+	"FIntBulletContactBreakThresholdPercent": [
+		"addr = :$27407; ptr = :$CE7C24",
+		200
+	],
+	"FIntMaxMissedWorldStepsRemembered": [
+		"addr = :$27487; ptr = :$CE7CDC",
+		12
+	],
+	"FIntPhysicsBulletManifoldPoolSize": [
+		"addr = :$274C7; ptr = :$CE7D2C",
+		1024
+	],
+	"FIntTrackServerPhysicsPerfSessionNMinutes": [
+		"addr = :$27587; ptr = :$CE7DC4",
+		10
+	],
+	"FIntWorldStepDtAveExpFactorHundredth": [
+		"addr = :$275A7; ptr = :$CE7D74",
+		25
+	],
+	"FIntWorldStepMax": [
+		"addr = :$275C7; ptr = :$CE7CB0",
+		30
+	],
+	"FIntWorldStepsOffsetAdjustRate": [
+		"addr = :$27627; ptr = :$CE7CC0",
+		100
+	],
+	"FIntCameraFarZPlane": [
+		"addr = :$29767; ptr = :$CE9628",
+		5000
+	],
+	"FIntZoomOutDistance": [
+		"addr = :$29827; ptr = :$CE9648",
+		200
+	],
+	"FIntTextSizeLimit": [
+		"addr = :$2B8B7; ptr = :$CEA470",
+		16384
+	],
+	"FIntCanHideGuiGroupId": [
+		"addr = :$309F7; ptr = :$CED6C8",
+		3013794
+	],
+	"FIntSendScreenOrientationToEventIngestHundredthsPercentage": [
+		"addr = :$32417; ptr = :$CEE300",
+		0
+	],
+	"FIntTextFilterMaxCachedRequestMilliseconds": [
+		"addr = :$32BE7; ptr = :$CEEE7C",
+		500
+	],
+	"FIntBadgeInfoCooldownTime": [
+		"addr = :$332E7; ptr = :$CEFA74",
+		5
+	],
+	"FIntExpireMarketPlaceServiceCacheSeconds": [
+		"addr = :$34647; ptr = :$CF0B20",
+		60
+	],
+	"FIntPurchaseErrorReportRate": [
+		"addr = :$346C7; ptr = :$CF0BC8",
+		100
+	],
+	"FIntPurchaseMismatchReportRate": [
+		"addr = :$346E7; ptr = :$CF0BAC",
+		100
+	],
+	"FIntMaxAwardPointsHttpCallsPerMinute": [
+		"addr = :$355D7; ptr = :$CF2020",
+		60
+	],
+	"FIntPointBalanceCacheInvalidateTimeMs": [
+		"addr = :$355F7; ptr = :$CF1FFC",
+		1000
+	],
+	"FIntPointsServiceBatchingImplMaxDelaySeconds": [
+		"addr = :$35617; ptr = :$CF20BC",
+		30
+	],
+	"FIntPointsServiceBatchingImplMinuteSeconds": [
+		"addr = :$35637; ptr = :$CF2064",
+		60
+	],
+	"FIntPointsServiceBatchingImplOnUpdateDelaySeconds": [
+		"addr = :$35657; ptr = :$CF208C",
+		5
+	],
+	"FIntSecondsPerBatchAwardPointsCall": [
+		"addr = :$35677; ptr = :$CF2044",
+		10
+	],
+	"FIntCreatePlacePerMinute": [
+		"addr = :$35F97; ptr = :$CF2C14",
+		5
+	],
+	"FIntCreatePlacePerPlayerPerMinute": [
+		"addr = :$35FB7; ptr = :$CF2C2C",
+		1
+	],
+	"FIntSavePlacePerMinute": [
+		"addr = :$35FD7; ptr = :$CF2C4C",
+		10
+	],
+	"FIntDataStore429MinReponseTimeMSec": [
+		"addr = :$363F7; ptr = :$CF3AE0",
+		10000
+	],
+	"FIntDataStoreAnalyticsReportEveryNSeconds": [
+		"addr = :$36417; ptr = :$CF399C",
+		300
+	],
+	"FIntDataStoreBudgetOnCloseBase": [
+		"addr = :$36477; ptr = :$CF3938",
+		150
+	],
+	"FIntDataStoreFetchFrequenceInSeconds": [
+		"addr = :$36497; ptr = :$CF3764",
+		30
+	],
+	"FIntDataStoreFixedRequestLimit": [
+		"addr = :$364B7; ptr = :$CF3788",
+		60
+	],
+	"FIntDataStoreInitialBudget": [
+		"addr = :$364D7; ptr = :$CF37C4",
+		100
+	],
+	"FIntDataStoreJobFrequencyInSeconds": [
+		"addr = :$364F7; ptr = :$CF3744",
+		1
+	],
+	"FIntDataStoreMaxBudgetMultiplier": [
+		"addr = :$36517; ptr = :$CF3918",
+		100
+	],
+	"FIntDataStoreMaxRetriesPerCycle": [
+		"addr = :$36537; ptr = :$CF3AA8",
+		6
+	],
+	"FIntDataStoreMaxRetryCount": [
+		"addr = :$36557; ptr = :$CF3A90",
+		5
+	],
+	"FIntDataStoreMaxThrottledQueue": [
+		"addr = :$36577; ptr = :$CF3980",
+		30
+	],
+	"FIntDataStoreOrderedGetFixedRequestLimit": [
+		"addr = :$36597; ptr = :$CF38A0",
+		5
+	],
+	"FIntDataStoreOrderedGetInitialBudget": [
+		"addr = :$365B7; ptr = :$CF38F4",
+		10
+	],
+	"FIntDataStoreOrderedGetPerPlayerRequestLimit": [
+		"addr = :$365D7; ptr = :$CF38C8",
+		2
+	],
+	"FIntDataStoreOrderedSetFixedRequestLimit": [
+		"addr = :$365F7; ptr = :$CF37DC",
+		30
+	],
+	"FIntDataStoreOrderedSetInitialBudget": [
+		"addr = :$36617; ptr = :$CF3830",
+		50
+	],
+	"FIntDataStoreOrderedSetPerPlayerRequestLimit": [
+		"addr = :$36637; ptr = :$CF3804",
+		5
+	],
+	"FIntDataStorePerPlayerRequestLimit": [
+		"addr = :$36657; ptr = :$CF37A4",
+		10
+	],
+	"FIntDataStoreRefetchFixedRequestLimit": [
+		"addr = :$36677; ptr = :$CF3854",
+		30
+	],
+	"FIntDataStoreRefetchPerPlayerRequestLimit": [
+		"addr = :$36697; ptr = :$CF3878",
+		5
+	],
+	"FIntDataStoreRetryWaitTimeMSec": [
+		"addr = :$366B7; ptr = :$CF3AC4",
+		500
+	],
+	"FIntDataStoreWaitOnYieldingRequestsExpiration": [
+		"addr = :$36747; ptr = :$CF3954",
+		2
+	],
+	"FIntRetryBaseTimeMSec": [
+		"addr = :$36787; ptr = :$CF3A7C",
+		1000
+	],
+	"FIntBroadPhaseIslandAlwaysSimulateDepth": [
+		"addr = :$38E87; ptr = :$CF5BAC",
+		1
+	],
+	"FIntBroadPhaseIslandMaxSortDepth": [
+		"addr = :$38EA7; ptr = :$CF5B8C",
+		2
+	],
+	"FIntIntersectingOthersCallsAllowedOnSpawn": [
+		"addr = :$38F07; ptr = :$CF5AE4",
+		5
+	],
+	"FIntAccErrorDrainedThousandth": [
+		"addr = :$38FA7; ptr = :$CF5F64",
+		100
+	],
+	"FIntDebugNetworkPacketAgeHistory": [
+		"addr = :$39087; ptr = :$CF60E8",
+		30
+	],
+	"FIntInitialAccelerationLatencyMultTenths": [
+		"addr = :$390E7; ptr = :$CF5FA0",
+		20
+	],
+	"FIntInterpolationAwareTargetTimeLerpHundredth": [
+		"addr = :$39127; ptr = :$CF5EBC",
+		13
+	],
+	"FIntInterpolationMaxDelayMSec": [
+		"addr = :$39147; ptr = :$CF5E60",
+		500
+	],
+	"FIntLatencyErrorMultiplierTennths": [
+		"addr = :$39167; ptr = :$CF5F80",
+		20
+	],
+	"FIntMaxAcceptableUpdateDelay": [
+		"addr = :$39187; ptr = :$CF5E7C",
+		15
+	],
+	"FIntMaxAverageFrameDelayExceedFactor": [
+		"addr = :$391A7; ptr = :$CF5F1C",
+		3
+	],
+	"FIntMaxDebugFramesForVisuals": [
+		"addr = :$391C7; ptr = :$CF6058",
+		2000
+	],
+	"FIntMaxFrameBufferSize": [
+		"addr = :$391E7; ptr = :$CF5EE8",
+		10
+	],
+	"FIntNumFramesAllowedToBeAboveError": [
+		"addr = :$39227; ptr = :$CF5FC8",
+		10
+	],
+	"FIntNumFramesToKeepAfterInterpolation": [
+		"addr = :$39247; ptr = :$CF5FE8",
+		1
+	],
+	"FIntOnContactOwnerBufferTimeCentiSec": [
+		"addr = :$39267; ptr = :$CF5E98",
+		300
+	],
+	"FIntSimToInterBufferClearFactorTenths": [
+		"addr = :$39287; ptr = :$CF5F40",
+		3
+	],
+	"FIntTargetTimeDelayFacctorTenths": [
+		"addr = :$392A7; ptr = :$CF5EFC",
+		10
+	],
+	"FIntThrottledVelocityThresholdTenths": [
+		"addr = :$392C7; ptr = :$CF5E3C",
+		20
+	],
+	"FIntAdvancedRCCLoadFMODRetryCount": [
+		"addr = :$39BC7; ptr = :$CF6C28",
+		3
+	],
+	"FIntFMODSoundChannels": [
+		"addr = :$39C47; ptr = :$CF6BA8",
+		100
+	],
+	"FIntReportDeviceInfoRate": [
+		"addr = :$39CA7; ptr = :$CF6C48",
+		0
+	],
+	"FIntSoundServiceCacheCleanupMaxAgeDays": [
+		"addr = :$39D67; ptr = :$CF6D1C",
+		7
+	],
+	"FIntStreamingCriticalLowMemWatermarkMB": [
+		"addr = :$3A2D7; ptr = :$CF9CB8",
+		15
+	],
+	"FIntStreamingLowMemWatermarkMB": [
+		"addr = :$3A2F7; ptr = :$CF9C9C",
+		30
+	],
+	"FIntStreamingMemoryUsagePercent": [
+		"addr = :$3A317; ptr = :$CF9C64",
+		50
+	],
+	"FIntStreamingSafeMemWatermarkMB": [
+		"addr = :$3A337; ptr = :$CF9C80",
+		100
+	],
+	"FIntDelaySwitchingFromRunningToFreefallInHundredths": [
+		"addr = :$474B7; ptr = :$D05040",
+		20
+	],
+	"FIntNoTouchOneSecondYVelocityThresholdInHundredths": [
+		"addr = :$47577; ptr = :$D05070",
+		10
+	],
+	"FIntSwitchFromRunningNoPhysToRunningThresholdInHundredths": [
+		"addr = :$475D7; ptr = :$D050A0",
+		4
+	],
+	"FIntKeyframeSequenceInfluxPermyriad": [
+		"addr = :$47767; ptr = :$D05B70",
+		0
+	],
+	"FIntSmoothTerrainMaxCppRegion": [
+		"addr = :$49EE7; ptr = :$D086D4",
+		67108864
+	],
+	"FIntSmoothTerrainMaxLuaRegion": [
+		"addr = :$49F07; ptr = :$D08560",
+		4194304
+	],
+	"FIntPhysicsDecompForceUpgradeVersion": [
+		"addr = :$4D967; ptr = :$D0B304",
+		3
+	],
+	"FIntMinSoundStreamSizeBytes": [
+		"addr = :$4E467; ptr = :$D0CEE4",
+		512000
+	],
+	"FIntActionStationDebounceTime": [
+		"addr = :$543A7; ptr = :$D10720",
+		2
+	],
+	"FIntWeldConstraintAdornHighlightedPartSize": [
+		"addr = :$5BED7; ptr = :$D16230",
+		2
+	],
+	"FIntWeldConstraintAdornSize": [
+		"addr = :$5BF17; ptr = :$D16218",
+		20
+	],
+	"FIntRemoteDelayedQueueLimit": [
+		"addr = :$66517; ptr = :$D1E468",
+		256
+	],
+	"FIntDataStoreCachedKeysMemSize": [
+		"addr = :$6A6F7; ptr = :$D218AC",
+		8388608
+	],
+	"FIntDataStoreInfluxReportNonParsableDataPerMyriad": [
+		"addr = :$6A717; ptr = :$D21904",
+		0
+	],
+	"FIntDataStoreInfluxValueSubstringSize": [
+		"addr = :$6A737; ptr = :$D21940",
+		512
+	],
+	"FIntDataStoreKeyLengthLimit": [
+		"addr = :$6A777; ptr = :$D217F8",
+		50
+	],
+	"FIntDataStoreMaxKeysToFetch": [
+		"addr = :$6A797; ptr = :$D217E0",
+		100
+	],
+	"FIntDataStoreMaxPageSize": [
+		"addr = :$6A7B7; ptr = :$D21810",
+		100
+	],
+	"FIntDataStoreMaxValueSize": [
+		"addr = :$6A7D7; ptr = :$D21828",
+		65536
+	],
+	"FIntDataStoreSameKeyPerMinute": [
+		"addr = :$6A817; ptr = :$D21860",
+		10
+	],
+	"FIntDataStoreTouchTimeoutInSeconds": [
+		"addr = :$6A837; ptr = :$D21840",
+		5
+	],
+	"FIntDataStorelastSetByKeySize": [
+		"addr = :$6A877; ptr = :$D218C8",
+		512
+	],
+	"FIntCacheDirectoryExceptionInfluxHundredthsPercentage": [
+		"addr = :$6AC97; ptr = :$D22F88",
+		0
+	],
+	"FIntContentProviderJobDutyCycleMicroseconds": [
+		"addr = :$6AEF7; ptr = :$D45160",
+		1000
+	],
+	"FIntMaxContentProviderRunsAccumulated": [
+		"addr = :$6AF17; ptr = :$D4513C",
+		20
+	],
+	"FIntMaxContentProviderRunsPerStep": [
+		"addr = :$6AF37; ptr = :$D4511C",
+		10
+	],
+	"FIntTattletaleReportToRCCCooldownSeconds": [
+		"addr = :$6B0D7; ptr = :$D45980",
+		30
+	],
+	"FIntDraggerMaxMovePercent": [
+		"addr = :$6B157; ptr = :$D45A64",
+		100
+	],
+	"FIntDraggerMaxMoveSteps": [
+		"addr = :$6B177; ptr = :$D45A7C",
+		10000
+	],
+	"FIntBroadPhaseIslandBufferZoneMinPartLimit": [
+		"addr = :$6B1B7; ptr = :$D45B60",
+		20
+	],
+	"FIntBroadPhaseIslandMaxPartLinearFactorTenth": [
+		"addr = :$6B1D7; ptr = :$D45B88",
+		10
+	],
+	"FIntOptimizedContactOverlapGoalMicro": [
+		"addr = :$6B237; ptr = :$D45C3C",
+		0
+	],
+	"FIntOptimizedContactPipelineSpatialHashOverlapToleranceMicro": [
+		"addr = :$6B257; ptr = :$D45C60",
+		10000
+	],
+	"FIntOptimizedContactWakeDepth": [
+		"addr = :$6B277; ptr = :$D45C20",
+		8
+	],
+	"FIntPhysicsDecompSerialVersion": [
+		"addr = :$6B347; ptr = :$D46D90",
+		3
+	],
+	"FIntRunningBaseAltitudeD": [
+		"addr = :$6B437; ptr = :$D47124",
+		100
+	],
+	"FIntRunningBaseAltitudeP": [
+		"addr = :$6B457; ptr = :$D4710C",
+		3000
+	],
+	"FIntRunningBaseGravityReductionFactorHundredth": [
+		"addr = :$6B497; ptr = :$D47158",
+		100
+	],
+	"FIntRunningBaseMaxAcceleration": [
+		"addr = :$6B4B7; ptr = :$D470F0",
+		5000
+	],
+	"FIntRunningBaseOrientationP": [
+		"addr = :$6B4D7; ptr = :$D470D8",
+		100
+	],
+	"FIntHttpCacheRedirectsTimeoutMs": [
+		"addr = :$6D037; ptr = :$D47D9C",
+		30000
+	],
+	"FIntBgUpdateRedirectsHttpErrInfluxHundredthsPercentage": [
+		"addr = :$6D0F7; ptr = :$D47F08",
+		0
+	],
+	"FIntBgUpdateRedirectsRejectInfluxHundredthsPercentage": [
+		"addr = :$6D137; ptr = :$D47ED4",
+		0
+	],
+	"FIntHttpBatchAssetV1HundredthsPercentage": [
+		"addr = :$6D157; ptr = :$D47FB0",
+		0
+	],
+	"FIntHttpBatchDelayMs": [
+		"addr = :$6D177; ptr = :$D47F8C",
+		3000
+	],
+	"FIntHttpBatchLimit": [
+		"addr = :$6D197; ptr = :$D47F7C",
+		128
+	],
+	"FIntHttpClientHandlerFixed": [
+		"addr = :$6D1D7; ptr = :$D50960",
+		1
+	],
+	"FIntHttpCurlMaxCachedHandlesPerHost": [
+		"addr = :$6D1F7; ptr = :$D50940",
+		16
+	],
+	"FIntFontSizePadding": [
+		"addr = :$6D2B7; ptr = :$D50F3C",
+		1
+	],
+	"FIntUIQuadTreeCellAreaMin": [
+		"addr = :$6D337; ptr = :$D51120",
+		20000
+	],
+	"FIntDataRequestInQueueTime": [
+		"addr = :$6D517; ptr = :$D51FB0",
+		10
+	],
+	"FIntWaitGetInQueueTime": [
+		"addr = :$6D537; ptr = :$D51FC8",
+		200
+	],
+	"FIntSmoothTerrainPhysicsCacheSize": [
+		"addr = :$6D677; ptr = :$D52820",
+		16777216
+	],
+	"FIntLinearToVSquaredVelocityThresholdMaxTenths": [
+		"addr = :$6D6D7; ptr = :$D52EA4",
+		100
+	],
+	"FIntLinearToVSquaredVelocityThresholdMinTenths": [
+		"addr = :$6D6F7; ptr = :$D52E78",
+		20
+	],
+	"FIntMaxViscousForceGravityTimesMult": [
+		"addr = :$6D717; ptr = :$D52EF0",
+		100
+	],
+	"FIntNumberFramesSubmergedBeforeVSquareBlendFrames": [
+		"addr = :$6D737; ptr = :$D52E48",
+		10
+	],
+	"FIntNumberFramesSubmergedBeforeVSquaredViscocity": [
+		"addr = :$6D757; ptr = :$D52E18",
+		32
+	],
+	"FIntWaterViscosityDragFudgeFactor": [
+		"addr = :$6D797; ptr = :$D52ED0",
+		10
+	],
+	"FIntLandedBalanceD": [
+		"addr = :$6D977; ptr = :$D54080",
+		50
+	],
+	"FIntLandedBalanceP": [
+		"addr = :$6D997; ptr = :$D54070",
+		7500
+	],
+	"FIntGettingUpBalanceD": [
+		"addr = :$6D9B7; ptr = :$D541FC",
+		50
+	],
+	"FIntGettingUpBalanceP": [
+		"addr = :$6D9D7; ptr = :$D541E8",
+		2250
+	],
+	"FIntFreeFallBalanceP": [
+		"addr = :$6DA37; ptr = :$D5454C",
+		5000
+	],
+	"FIntFreeFallOrientationP": [
+		"addr = :$6DA57; ptr = :$D54534",
+		100
+	],
+	"FIntMaximumFreefallMoveTimeInTenths": [
+		"addr = :$6DA77; ptr = :$D54480",
+		1
+	],
+	"FIntMaximumUnstickForceInGs": [
+		"addr = :$6DA97; ptr = :$D544D8",
+		4
+	],
+	"FIntMinimumFreefallMoveDistanceInTenths": [
+		"addr = :$6DAB7; ptr = :$D5445C",
+		5
+	],
+	"FIntUnstickForceAttackInTenths": [
+		"addr = :$6DAD7; ptr = :$D544BC",
+		1
+	],
+	"FIntUnstickForceDecayInTenths": [
+		"addr = :$6DAF7; ptr = :$D544A0",
+		9
+	],
+	"FIntUnstickForceEpsilonInHundredths": [
+		"addr = :$6DB17; ptr = :$D544F0",
+		1
+	],
+	"FIntPGSJumpForceAdjustment": [
+		"addr = :$6DB57; ptr = :$D545C4",
+		520
+	],
+	"FIntNavigationServiceAnalyticsIntervalMillisec": [
+		"addr = :$6DC27; ptr = :$D54EE8",
+		60000
+	],
+	"FIntNavigationServicePercentStatsReported": [
+		"addr = :$6DC47; ptr = :$D54F14",
+		20
+	],
+	"FIntNavigationAgentHeight": [
+		"addr = :$6DCA7; ptr = :$D55084",
+		5
+	],
+	"FIntNavigationAgentJumpDistance": [
+		"addr = :$6DCC7; ptr = :$D550BC",
+		7
+	],
+	"FIntNavigationAgentJumpHeight": [
+		"addr = :$6DCE7; ptr = :$D550D8",
+		6
+	],
+	"FIntNavigationAgentMaxDrop": [
+		"addr = :$6DD07; ptr = :$D550F4",
+		100
+	],
+	"FIntNavigationAgentRadius": [
+		"addr = :$6DD27; ptr = :$D5506C",
+		2
+	],
+	"FIntNavigationAgentWalkableClimb": [
+		"addr = :$6DD47; ptr = :$D5509C",
+		1
+	],
+	"FIntNavigationJobMaxTimeBudgetMS": [
+		"addr = :$6DE07; ptr = :$D55018",
+		100
+	],
+	"FIntNavigationJobRunsPerSecond": [
+		"addr = :$6DE27; ptr = :$D54FFC",
+		10
+	],
+	"FIntNavigationSearchTileOffset": [
+		"addr = :$6DE87; ptr = :$D55038",
+		2
+	],
+	"FIntIkDraggerAnchorMode": [
+		"addr = :$6DF47; ptr = :$D556B0",
+		0
+	],
+	"FIntPGSAlign2AxesCorrectionDamping": [
+		"addr = :$6E427; ptr = :$D57810",
+		10
+	],
+	"FIntPGSAlign2AxesPStageFrictionConstant": [
+		"addr = :$6E447; ptr = :$D57AE0",
+		1
+	],
+	"FIntPGSAlign2AxesVStageFrictionConstant": [
+		"addr = :$6E467; ptr = :$D57ABC",
+		2
+	],
+	"FIntPGSAngularDampingPermilPersecond": [
+		"addr = :$6E487; ptr = :$D57854",
+		402
+	],
+	"FIntPGSBallInSocketCorrectionDamping": [
+		"addr = :$6E4A7; ptr = :$D57830",
+		10
+	],
+	"FIntPGSFrictionUpdatePeriod": [
+		"addr = :$6E4C7; ptr = :$D5789C",
+		4
+	],
+	"FIntPGSGyroscopicEffectPrecisionPercent": [
+		"addr = :$6E4E7; ptr = :$D57878",
+		5
+	],
+	"FIntPGSInsideOfSpherePenetrationResolutionDamping": [
+		"addr = :$6E507; ptr = :$D578B4",
+		7
+	],
+	"FIntPGSPStageStiffnessAggressiveValue": [
+		"addr = :$6E527; ptr = :$D57A20",
+		99500
+	],
+	"FIntPGSPStageStiffnessBestFitnessThreshold": [
+		"addr = :$6E547; ptr = :$D579F8",
+		1
+	],
+	"FIntPGSPStageStiffnessConservativeValue": [
+		"addr = :$6E567; ptr = :$D57A44",
+		90000
+	],
+	"FIntPGSPStageStiffnessEasingDownToConservative": [
+		"addr = :$6E587; ptr = :$D57A90",
+		10
+	],
+	"FIntPGSPStageStiffnessEasingUpToAggressive": [
+		"addr = :$6E5A7; ptr = :$D57A68",
+		1
+	],
+	"FIntPGSPStageStiffnessWorseFitnessThreshold": [
+		"addr = :$6E5C7; ptr = :$D579D0",
+		2
+	],
+	"FIntPGSPenetrationMarginMaxBump": [
+		"addr = :$6E5E7; ptr = :$D577B0",
+		5
+	],
+	"FIntPGSPenetrationMarginMax": [
+		"addr = :$6E607; ptr = :$D57780",
+		50000
+	],
+	"FIntPGSPenetrationMarginMin": [
+		"addr = :$6E627; ptr = :$D57798",
+		100
+	],
+	"FIntPGSPenetrationResolutionDamping": [
+		"addr = :$6E647; ptr = :$D577CC",
+		7
+	],
+	"FIntPGSPenetrationVelocityForMinMargin": [
+		"addr = :$6E667; ptr = :$D577EC",
+		20
+	],
+	"FIntPGSVStageStiffnessAggressiveValue": [
+		"addr = :$6E687; ptr = :$D57934",
+		99995
+	],
+	"FIntPGSVStageStiffnessBestFitnessThreshold": [
+		"addr = :$6E6A7; ptr = :$D5790C",
+		1
+	],
+	"FIntPGSVStageStiffnessConservativeValue": [
+		"addr = :$6E6C7; ptr = :$D57958",
+		99000
+	],
+	"FIntPGSVStageStiffnessEasingDownToConservative": [
+		"addr = :$6E6E7; ptr = :$D579A4",
+		100
+	],
+	"FIntPGSVStageStiffnessEasingUpToAggressive": [
+		"addr = :$6E707; ptr = :$D5797C",
+		10
+	],
+	"FIntPGSVStageStiffnessWorseFitnessThreshold": [
+		"addr = :$6E727; ptr = :$D578E4",
+		2
+	],
+	"FIntSmoothTerrainPhysicsRayAabbSlop": [
+		"addr = :$6E747; ptr = :$D57BE4",
+		1
+	],
+	"FIntDefaultBalanceD": [
+		"addr = :$6E767; ptr = :$D57C40",
+		50
+	],
+	"FIntDefaultBalanceP": [
+		"addr = :$6E787; ptr = :$D57C30",
+		2250
+	],
+	"FIntDebugNavigationMaxMemoryUsageInBytes": [
+		"addr = :$6E8C7; ptr = :$D7AE04",
+		52428800
+	],
+	"FIntNavigationPolygonMergePasses": [
+		"addr = :$6E967; ptr = :$D7B34C",
+		2
+	],
+	"FIntIkDraggerSolveIterations": [
+		"addr = :$6E987; ptr = :$D7B394",
+		16
+	],
+	"FIntCSGVoxelizerFadeRadius": [
+		"addr = :$6E9C7; ptr = :$D9D8F0",
+		300
+	],
+	"FIntMaxSpeedDeltaMillis": [
+		"addr = :$6EA67; ptr = :$D9DA74",
+		300
+	],
+	"FIntSpeedCountCap": [
+		"addr = :$6EA87; ptr = :$D9DA88",
+		5
+	],
+	"FIntSpeedTestPeriodMillis": [
+		"addr = :$6EAA7; ptr = :$D9DA5C",
+		1000
+	],
+	"FIntTaskSchedulerTasksDefaultMaxCountPerCycle": [
+		"addr = :$6F377; ptr = :$DBEC90",
+		16
+	],
+	"FIntTaskSchedulerTasksDefaultMaxTimeMsPerCycle": [
+		"addr = :$6F397; ptr = :$DBECBC",
+		10
+	],
+	"FIntLateNightPatchMaxRange": [
+		"addr = :$6FD67; ptr = :$DC0CC8",
+		4096
+	],
+	"FIntRakNetDatagramMessageIdArrayLength": [
+		"addr = :$6FD87; ptr = :$DC0C3C",
+		512
+	],
+	"FIntRakNetNakResendDelayMs": [
+		"addr = :$6FE27; ptr = :$DC0BD8",
+		0
+	],
+	"FIntRakNetNakResendDelayMsMax": [
+		"addr = :$6FE47; ptr = :$DC0C20",
+		0
+	],
+	"FIntRakNetNakResendDelayRttPercent": [
+		"addr = :$6FE67; ptr = :$DC0BF0",
+		0
+	],
+	"FIntRakNetResendBufferArrayLength": [
+		"addr = :$6FE87; ptr = :$DC0C60",
+		512
+	],
+	"FIntUnacknowledgedDataGramMin": [
+		"addr = :$6FED7; ptr = :$DC0D04",
+		10
+	],
+	"FIntUnacknowledgedDataGramMultiplier": [
+		"addr = :$6FEF7; ptr = :$DC0CE0",
+		4
+	],
+	"FIntAdditionalReportingPermyriad": [
+		"addr = :$6FF77; ptr = :$DC1194",
+		100
+	],
+	"FIntInfluxReportFeOnStartupErrorPermyriad": [
+		"addr = :$6FFB7; ptr = :$DC11E8",
+		0
+	],
+	"FIntMaxClients": [
+		"addr = :$6FFD7; ptr = :$DC1210",
+		128
+	],
+	"FIntReportFeOnStartupPermyriad": [
+		"addr = :$70077; ptr = :$DC11B4",
+		0
+	],
+	"FIntClusterCompressionLevel": [
+		"addr = :$70447; ptr = :$DC1F44",
+		1
+	],
+	"FIntClusterEstimatedCompressionRatioHundredths": [
+		"addr = :$70467; ptr = :$DC1F5C",
+		200
+	],
+	"FIntDepthLimit": [
+		"addr = :$704E7; ptr = :$DC201C",
+		4000
+	],
+	"FIntEventReportLagThrottleHundredThousandths": [
+		"addr = :$70527; ptr = :$DC2160",
+		0
+	],
+	"FIntGlobalFill": [
+		"addr = :$70547; ptr = :$DC1FE0",
+		0
+	],
+	"FIntGlobalLeak": [
+		"addr = :$70567; ptr = :$DC1FB0",
+		100000000
+	],
+	"FIntMaxClusterKBPerSecond": [
+		"addr = :$705A7; ptr = :$DC2148",
+		40
+	],
+	"FIntMaxClusterSendStepsAccumulated": [
+		"addr = :$705C7; ptr = :$DC2078",
+		15
+	],
+	"FIntMaxClusterSendStepsPerCyclic": [
+		"addr = :$705E7; ptr = :$DC2058",
+		5
+	],
+	"FIntMaxDataOutJobScaling": [
+		"addr = :$70607; ptr = :$DC2098",
+		10
+	],
+	"FIntMaxDataPacketPerSend": [
+		"addr = :$70627; ptr = :$DC218C",
+		1
+	],
+	"FIntMaxDataStepsAccumulated": [
+		"addr = :$70647; ptr = :$DC2040",
+		15
+	],
+	"FIntMaxDataStepsPerCyclic": [
+		"addr = :$70667; ptr = :$DC2028",
+		5
+	],
+	"FIntMaxProcessPacketsJobScaling": [
+		"addr = :$70687; ptr = :$DC1EBC",
+		10
+	],
+	"FIntMaxProcessPacketsStepsAccumulated": [
+		"addr = :$706A7; ptr = :$DC1E98",
+		15
+	],
+	"FIntMaxProcessPacketsStepsPerCyclic": [
+		"addr = :$706C7; ptr = :$DC1E78",
+		5
+	],
+	"FIntMaxWaitTimeBeforeForcePacketProcessMS": [
+		"addr = :$706E7; ptr = :$DC1E50",
+		0
+	],
+	"FIntPacketErrorInfluxHundredthsPercentage": [
+		"addr = :$707F7; ptr = :$DC21A4",
+		10000
+	],
+	"FIntPpjCapacity": [
+		"addr = :$70837; ptr = :$DC1EF8",
+		100
+	],
+	"FIntPpjEtrFill": [
+		"addr = :$70877; ptr = :$DC1ED8",
+		10
+	],
+	"FIntPpjEtrThreshold": [
+		"addr = :$70897; ptr = :$DC1F24",
+		6
+	],
+	"FIntPpjLeak": [
+		"addr = :$708B7; ptr = :$DC1EF0",
+		10
+	],
+	"FIntPpjPmFill": [
+		"addr = :$708D7; ptr = :$DC1EE4",
+		10
+	],
+	"FIntPpjPmThreshold": [
+		"addr = :$708F7; ptr = :$DC1F34",
+		0
+	],
+	"FIntQKick": [
+		"addr = :$70957; ptr = :$DC2000",
+		3072
+	],
+	"FIntQLimit": [
+		"addr = :$70977; ptr = :$DC1FF8",
+		3072
+	],
+	"FIntRatePermyriad": [
+		"addr = :$709B7; ptr = :$DC1F88",
+		0
+	],
+	"FIntReplicatorMaxPacketBytesSentToInfluxOnError": [
+		"addr = :$709D7; ptr = :$DC1BC0",
+		1024
+	],
+	"FIntReportFill": [
+		"addr = :$70A17; ptr = :$DC1FEC",
+		0
+	],
+	"FIntReportLeak": [
+		"addr = :$70A37; ptr = :$DC1FBC",
+		100000000
+	],
+	"FIntRxRlEn2": [
+		"addr = :$70A77; ptr = :$DC2008",
+		0
+	],
+	"FIntRxRlReport": [
+		"addr = :$70A97; ptr = :$DC2010",
+		15
+	],
+	"FIntSendRakNetStatsInterval": [
+		"addr = :$70AD7; ptr = :$DC1BEC",
+		300
+	],
+	"FIntSendRakNetStatsThrottle": [
+		"addr = :$70AF7; ptr = :$DC1C04",
+		1
+	],
+	"FIntSoundFill": [
+		"addr = :$70B37; ptr = :$DC1FC8",
+		0
+	],
+	"FIntSoundLeak": [
+		"addr = :$70B57; ptr = :$DC1F98",
+		100000000
+	],
+	"FIntSpecialFill": [
+		"addr = :$70B77; ptr = :$DC1FD4",
+		0
+	],
+	"FIntSpecialLeak": [
+		"addr = :$70B97; ptr = :$DC1FA4",
+		100000000
+	],
+	"FIntServerConfigScriptTimeoutSeconds": [
+		"addr = :$70ED7; ptr = :$DC40C0",
+		10
+	],
+	"FIntMaxDataPayloadSize": [
+		"addr = :$70F77; ptr = :$DC4348",
+		32000000
+	],
+	"FIntMaxLearnDescriptors": [
+		"addr = :$70F97; ptr = :$DC4334",
+		8192
+	],
+	"FIntPhysicsCompressionSizeFilter": [
+		"addr = :$70FB7; ptr = :$DC4314",
+		50
+	],
+	"FIntClientNetworkInfluxHundredthsPercentage": [
+		"addr = :$710E7; ptr = :$DC4600",
+		0
+	],
+	"FIntDebugClientNetworkUnthrottledGAForDatacenterId": [
+		"addr = :$71127; ptr = :$DC45AC",
+		0
+	],
+	"FIntTeamCreateTimeOutInSec": [
+		"addr = :$71167; ptr = :$DC4628",
+		60
+	],
+	"FIntAacReportPerMyriad": [
+		"addr = :$71357; ptr = :$DC5330",
+		100
+	],
+	"FIntAniCycleCount": [
+		"addr = :$713B7; ptr = :$DC4E3C",
+		3
+	],
+	"FIntAntiSpamSpamLimit": [
+		"addr = :$713D7; ptr = :$DC4E6C",
+		1000
+	],
+	"FIntAslrPmcPermyriad": [
+		"addr = :$713F7; ptr = :$DC531C",
+		100
+	],
+	"FIntCLI120342p3": [
+		"addr = :$71417; ptr = :$DC4F4C",
+		0
+	],
+	"FIntChallengeActions": [
+		"addr = :$71437; ptr = :$DC4F38",
+		2
+	],
+	"FIntDisconnectReportPermyriad": [
+		"addr = :$71497; ptr = :$DC4D44",
+		0
+	],
+	"FIntGuiPermyriad2": [
+		"addr = :$71537; ptr = :$DC4E5C",
+		0
+	],
+	"FIntHashConfigP9": [
+		"addr = :$715B7; ptr = :$DC5280",
+		100
+	],
+	"FIntJoinConfigAndroid": [
+		"addr = :$715F7; ptr = :$DC4ED4",
+		4294967284
+	],
+	"FIntJoinConfigFuture": [
+		"addr = :$71617; ptr = :$DC4EC0",
+		1
+	],
+	"FIntJoinConfigIos": [
+		"addr = :$71637; ptr = :$DC4EE8",
+		4294967284
+	],
+	"FIntJoinConfigOsx": [
+		"addr = :$71677; ptr = :$DC4F18",
+		4294967295
+	],
+	"FIntJoinConfigUwp": [
+		"addr = :$71697; ptr = :$DC4EF8",
+		4294967284
+	],
+	"FIntJoinConfigWin32": [
+		"addr = :$716B7; ptr = :$DC4F28",
+		4294967295
+	],
+	"FIntJoinConfigXbox": [
+		"addr = :$716D7; ptr = :$DC4F08",
+		4294967284
+	],
+	"FIntMscReportPerMyriad": [
+		"addr = :$71717; ptr = :$DC5344",
+		10000
+	],
+	"FIntRCC21289": [
+		"addr = :$717D7; ptr = :$DC5384",
+		0
+	],
+	"FIntRtl6InfluxHundredthsPercentage": [
+		"addr = :$71837; ptr = :$DC5230",
+		100
+	],
+	"FIntRtl7InfluxHundredthsPercentage": [
+		"addr = :$71857; ptr = :$DC4CB8",
+		100
+	],
+	"FIntRtl8InfluxHundredthsPercentage": [
+		"addr = :$71877; ptr = :$DC52FC",
+		10000
+	],
+	"FIntRtl9InfluxHundredthsPercentage": [
+		"addr = :$71897; ptr = :$DC5398",
+		100
+	],
+	"FIntRtlAInfluxHundredthsPercentage": [
+		"addr = :$718B7; ptr = :$DC53C0",
+		100
+	],
+	"FIntServerPlayerFilterConfig": [
+		"addr = :$718F7; ptr = :$DC4D7C",
+		0
+	],
+	"FIntServerPlayerFilterPermyriad": [
+		"addr = :$71917; ptr = :$DC4D60",
+		0
+	],
+	"FIntTestId": [
+		"addr = :$71937; ptr = :$DC5368",
+		4294967295
+	],
+	"FIntUS1436p0": [
+		"addr = :$719E7; ptr = :$DC518C",
+		12
+	],
+	"FIntUS1436p1": [
+		"addr = :$71A07; ptr = :$DC5198",
+		32
+	],
+	"FIntUS1436p2": [
+		"addr = :$71A27; ptr = :$DC51A4",
+		4
+	],
+	"FIntUS1436p3": [
+		"addr = :$71A47; ptr = :$DC51B0",
+		4
+	],
+	"FIntUS1436p4": [
+		"addr = :$71A67; ptr = :$DC51BC",
+		30
+	],
+	"FIntUS20162": [
+		"addr = :$71A87; ptr = :$DC4CD8",
+		0
+	],
+	"FIntUS20162Permyriad": [
+		"addr = :$71AA7; ptr = :$DC4CE0",
+		0
+	],
+	"FIntUS30605p7t": [
+		"addr = :$72127; ptr = :$DC5134",
+		50
+	],
+	"FIntConnectionMTUSize": [
+		"addr = :$722A7; ptr = :$DC7AC8",
+		0
+	],
+	"FIntDebugInternetSimulatorLatencyMS": [
+		"addr = :$722E7; ptr = :$DC7AFC",
+		0
+	],
+	"FIntDebugInternetSimulatorLatencyVariance": [
+		"addr = :$72307; ptr = :$DC7B1C",
+		0
+	],
+	"FIntDebugInternetSimulatorPacketlossHundredth": [
+		"addr = :$72327; ptr = :$DC7B44",
+		0
+	],
+	"FIntRakNetLoopMs": [
+		"addr = :$723A7; ptr = :$DC7B94",
+		10
+	],
+	"FIntStepsToJoin": [
+		"addr = :$72427; ptr = :$DC7BD0",
+		5
+	],
+	"FIntDisconnectInfluxHundredthsPercentage": [
+		"addr = :$72707; ptr = :$DC842C",
+		0
+	],
+	"FIntJoinInfluxHundredthsPercentage": [
+		"addr = :$727F7; ptr = :$DC83DC",
+		0
+	],
+	"FIntJoinTimeCounters_JoinInfluxHundredthsPercentage": [
+		"addr = :$72837; ptr = :$DC83FC",
+		0
+	],
+	"FIntOnDisconnectHTTPTimeout": [
+		"addr = :$729E7; ptr = :$DC8558",
+		2000
+	],
+	"FIntSendJoinTimeDeltasToDiag_HundredthsPercentage": [
+		"addr = :$72B77; ptr = :$DC8728",
+		0
+	],
+	"FIntSendJoinTimeStatsToDiag_HundredthsPercentage": [
+		"addr = :$72C07; ptr = :$DC85F8",
+		0
+	],
+	"FIntSendJoinTimesToDiag_HundredthsPercentage": [
+		"addr = :$72C47; ptr = :$DC85CC",
+		0
+	],
+	"FIntClientInstanceQuotaCap": [
+		"addr = :$73B17; ptr = :$DC8CE8",
+		10000
+	],
+	"FIntClientInstanceQuotaInitial": [
+		"addr = :$73B37; ptr = :$DC8D00",
+		2000
+	],
+	"FIntTimePermyriad": [
+		"addr = :$73B77; ptr = :$DC8D74",
+		100
+	],
+	"FIntDebugSendDistInSteps": [
+		"addr = :$73E07; ptr = :$DC9C30",
+		5
+	],
+	"FIntDebugSendMomentInSteps": [
+		"addr = :$73E27; ptr = :$DC9C48",
+		6
+	],
+	"FIntMaxFramesToSend": [
+		"addr = :$73EC7; ptr = :$DC9BFC",
+		255
+	],
+	"FIntNumPhysicsTouchPacketsPerStep": [
+		"addr = :$73F07; ptr = :$DC9A58",
+		1
+	],
+	"FIntPercentSentAlways": [
+		"addr = :$73F27; ptr = :$DC9AD0",
+		50
+	],
+	"FIntPhysicsPacketsPerStepAdjustPeriodTenths": [
+		"addr = :$73F67; ptr = :$DC9AA8",
+		30
+	],
+	"FIntS2NumPhysicsPacketsPerStep": [
+		"addr = :$73F87; ptr = :$DC9A78",
+		20
+	],
+	"FIntS2PhysicsSenderRate": [
+		"addr = :$73FA7; ptr = :$DC9A94",
+		15
+	],
+	"FIntWeldPermyriad": [
+		"addr = :$74387; ptr = :$DC9E84",
+		0
+	],
+	"FIntRakNetConnectionStartWindow_HundredthsPercentage": [
+		"addr = :$745D7; ptr = :$DCAD54",
+		0
+	],
+	"FIntRakNetResendMaxThresholdTimeInUs": [
+		"addr = :$745F7; ptr = :$DCAD30",
+		2000000
+	],
+	"FIntRakNetResendScaleBackFactorHundredthsPercent": [
+		"addr = :$74617; ptr = :$DCAD88",
+		0
+	],
+	"FIntRakNetUseSlidingWindow2_maxSpeed": [
+		"addr = :$74647; ptr = :$DCAFB0",
+		0
+	],
+	"FIntRakNetUseSlidingWindow2_minRtt": [
+		"addr = :$74667; ptr = :$DCAF6C",
+		30000
+	],
+	"FIntRakNetUseSlidingWindow2_minSpeed": [
+		"addr = :$74687; ptr = :$DCAF8C",
+		1536
+	],
+	"FIntRakNetUseSlidingWindow2_rangeCount": [
+		"addr = :$746A7; ptr = :$DCAED4",
+		10
+	],
+	"FIntRakNetUseSlidingWindow2_startFactor": [
+		"addr = :$746C7; ptr = :$DCAF20",
+		200
+	],
+	"FIntRakNetUseSlidingWindow2_startInitSpeed": [
+		"addr = :$746E7; ptr = :$DCAEF8",
+		200000
+	],
+	"FIntRakNetUseSlidingWindow2_startUpdateMs": [
+		"addr = :$74707; ptr = :$DCAF44",
+		10
+	],
+	"FIntRakNetUseSlidingWindow2_trackLengthMs": [
+		"addr = :$74727; ptr = :$DCAEAC",
+		2500
+	],
+	"FIntNetworkSchemaCompressionRatio": [
+		"addr = :$74827; ptr = :$DCB424",
+		9
+	],
+	"FIntHashConfigP3": [
+		"addr = :$748A7; ptr = :$DCC164",
+		4
+	],
+	"FIntHashConfigP4": [
+		"addr = :$748C7; ptr = :$DCC174",
+		1000
+	],
+	"FIntHashConfigP5": [
+		"addr = :$748E7; ptr = :$DCC184",
+		1
+	],
+	"FIntHashConfigP6": [
+		"addr = :$74907; ptr = :$DCC194",
+		1
+	],
+	"FIntHashConfigP8": [
+		"addr = :$74927; ptr = :$DCC1A4",
+		64
+	],
+	"FIntProcessPendingCredit": [
+		"addr = :$74947; ptr = :$DCC11C",
+		1
+	],
+	"FIntProcessPendingRefresh": [
+		"addr = :$74967; ptr = :$DCC134",
+		100
+	],
+	"FIntGAThrottlingEventThresholdHundredthCat1": [
+		"addr = :$74B17; ptr = :$DCC3B0",
+		90
+	],
+	"FIntGAThrottlingEventThresholdHundredthCat2": [
+		"addr = :$74B37; ptr = :$DCC388",
+		75
+	],
+	"FIntGAThrottlingEventThresholdHundredthCat3": [
+		"addr = :$74B57; ptr = :$DCC360",
+		50
+	],
+	"FIntGamePerfMonitorPercentage": [
+		"addr = :$74BE7; ptr = :$DCC274",
+		2
+	],
+	"FIntGamePerfMonitorReportTimer": [
+		"addr = :$74C07; ptr = :$DCC290",
+		10
+	],
+	"FIntMemoryPlaceIDReportThreshold": [
+		"addr = :$74C27; ptr = :$DCC2E8",
+		600
+	],
+	"FIntPrimStatsGANumDelimited": [
+		"addr = :$74C47; ptr = :$DCC2AC",
+		1000
+	],
+	"FIntMaxConsecutiveStreamJobWorkLoad": [
+		"addr = :$75167; ptr = :$DCD130",
+		1
+	],
+	"FIntMaxServerStreamRegionRadius": [
+		"addr = :$75187; ptr = :$DCD0F0",
+		16
+	],
+	"FIntMaxStreamPacketsPerStep": [
+		"addr = :$751A7; ptr = :$DCD0D8",
+		16
+	],
+	"FIntStreamJobMaxBufferHealthThresholdHundredths": [
+		"addr = :$751E7; ptr = :$DCD194",
+		90
+	],
+	"FIntStreamJobMinBufferHealthThresholdHundredths": [
+		"addr = :$75207; ptr = :$DCD168",
+		50
+	],
+	"FIntStreamJobPriorityAmplifierRadius": [
+		"addr = :$75227; ptr = :$DCD10C",
+		0
+	],
+	"FIntDebugRestrictGCDistance": [
+		"addr = :$75557; ptr = :$DCDDE0",
+		0
+	],
+	"FIntJoinDataCompressionLevel": [
+		"addr = :$75577; ptr = :$DCDD84",
+		1
+	],
+	"FIntNetworkStreamingGCMaxMicroSecondLimit": [
+		"addr = :$755B7; ptr = :$DCDDA0",
+		4000
+	],
+	"FIntPartStreamingGCMinRegionLength": [
+		"addr = :$755D7; ptr = :$DCDD38",
+		2
+	],
+	"FIntStreamOutCompressionIdListLengthThreshold": [
+		"addr = :$755F7; ptr = :$DCDD58",
+		250
+	],
+	"FIntStreamedRegionGCFactor": [
+		"addr = :$75617; ptr = :$DCDDC8",
+		250
+	],
+	"FIntOutlineBrightnessMax": [
+		"addr = :$75C47; ptr = :$DD625C",
+		160
+	],
+	"FIntOutlineBrightnessMin": [
+		"addr = :$75C67; ptr = :$DD6244",
+		50
+	],
+	"FIntOutlineThickness": [
+		"addr = :$75C87; ptr = :$DD6274",
+		40
+	],
+	"FIntRenderShadowIntensity": [
+		"addr = :$75CC7; ptr = :$DD6288",
+		75
+	],
+	"FIntRobloxGuiBlurIntensity": [
+		"addr = :$75CE7; ptr = :$DD62A0",
+		24
+	],
+	"FIntDebugForceMSAASamples": [
+		"addr = :$75E67; ptr = :$DD6E50",
+		0
+	],
+	"FIntFastClusterUpdateWaitingBudgetMs": [
+		"addr = :$76087; ptr = :$DD7420",
+		4
+	],
+	"FIntJointTime_TextureCooldown": [
+		"addr = :$76187; ptr = :$DD7BFC",
+		2
+	],
+	"FIntPreloadTextureTimeBuget": [
+		"addr = :$76257; ptr = :$DD8080",
+		1000
+	],
+	"FIntRenderTextureManagerBudgetFor4k": [
+		"addr = :$76297; ptr = :$DD80B4",
+		0
+	],
+	"FIntRenderTextureManagerBudget": [
+		"addr = :$762B7; ptr = :$DD8098",
+		0
+	],
+	"FIntTexAtlasUpdateLineHeight": [
+		"addr = :$76617; ptr = :$DD9408",
+		150
+	],
+	"FIntSSAOMipLevels": [
+		"addr = :$76977; ptr = :$DDA920",
+		4
+	],
+	"FIntRenderMaxParticleSize": [
+		"addr = :$76A37; ptr = :$DDAA9C",
+		200
+	],
+	"FIntSuperClusterFastClusterSize": [
+		"addr = :$76C57; ptr = :$DDB6B8",
+		1000
+	],
+	"FIntNumSmoothingPasses": [
+		"addr = :$78F27; ptr = :$E1E52C",
+		0
+	],
+	"FIntRegLambda": [
+		"addr = :$78F47; ptr = :$E1E540",
+		3294967296
+	],
+	"FIntFRMRecomputeDistanceFrameDelay": [
+		"addr = :$79797; ptr = :$E1ED00",
+		100
+	],
+	"FIntGraphicsVulkanAdrenoArghVersion": [
+		"addr = :$79F27; ptr = :$E28E30",
+		24
+	],
+	"FIntGraphicsOculusDetectTimeout": [
+		"addr = :$7A0F7; ptr = :$E29ADC",
+		0
+	],
+	"FStringAnthroStandardPartIds": [
+		"addr = :$4AF7; ptr = :$CC4E0C",
+		"532219986;532219997"
+	],
+	"FStringGetUserIdUrl": [
+		"addr = :$4C27; ptr = :$CC5304",
+		"users/get-by-username?username=%s"
+	],
+	"FStringHttpInfluxDatabase": [
+		"addr = :$6557; ptr = :$CC6E4C",
+		"Default"
+	],
+	"FStringLuaAppsDiagErrorCounter": [
+		"addr = :$6767; ptr = :$CC6F0C",
+		"LuaAppsErrorCount"
+	],
+	"FStringLuaAppsDiagPageLoadTimeGames": [
+		"addr = :$67D7; ptr = :$CC6F40",
+		"LuaAppsPageLoadTimeGames"
+	],
+	"FStringLuaAppsDiagPageLoadTimeHome": [
+		"addr = :$6847; ptr = :$CC6F78",
+		"LuaAppsPageLoadTimeHome"
+	],
+	"FStringLuaErrorsInfluxSeries": [
+		"addr = :$68B7; ptr = :$CC6FA4",
+		"LuaShellErrors"
+	],
+	"FStringAvatarJointPositionsArtistIntent": [
+		"addr = :$7257; ptr = :$CC7C68",
+		"ArtistIntent"
+	],
+	"FStringAvatarJointPositionsFixed": [
+		"addr = :$7307; ptr = :$CC7CAC",
+		"Fixed"
+	],
+	"FStringAvatarJointPositionsTypeField": [
+		"addr = :$7377; ptr = :$CC7CE0",
+		"jointPositioningType"
+	],
+	"FStringCollideInnerBox": [
+		"addr = :$7407; ptr = :$CC7D0C",
+		"InnerBox"
+	],
+	"FStringCollideOuterBox": [
+		"addr = :$7477; ptr = :$CC7D40",
+		"OuterBox"
+	],
+	"FStringCustomAnimationField": [
+		"addr = :$74E7; ptr = :$CC7D68",
+		"allowCustomAnimations"
+	],
+	"FStringCustomAnimationTypeAllow": [
+		"addr = :$7557; ptr = :$CC7DF0",
+		"True"
+	],
+	"FStringDefaultCustomAnimationType": [
+		"addr = :$7737; ptr = :$CC7E24",
+		"True"
+	],
+	"FStringR15CollisionTypeField": [
+		"addr = :$78E7; ptr = :$CC7E54",
+		"r15CollisionType"
+	],
+	"FStringServerConfigCloudEditServerSaveUrl": [
+		"addr = :$79F7; ptr = :$CC803C",
+		"/ide/publish/UploadFromCloudEdit"
+	],
+	"FStringCrashUploadToBacktraceBlackholeToken": [
+		"addr = :$93B7; ptr = :$CCBA34",
+		"7705528468a303e4e34a13fbcf9e42e219633ed6868e143e5ab16cd33bd2a069"
+	],
+	"FStringCrashUploadToBacktraceLinuxRCCToken": [
+		"addr = :$9427; ptr = :$CCB8E8",
+		"82fc562ca79e6df76a1add3c37aca015601a7326f48d4476fdc37bfe85e44673"
+	],
+	"FStringCrashUploadToBacktraceMacPlayerToken": [
+		"addr = :$9497; ptr = :$CCB954",
+		"24cb37449e120c3a0618b1bf0585e339571828cae4dc73c7b8c99f67fcd751e9"
+	],
+	"FStringCrashUploadToBacktraceMacStudioToken": [
+		"addr = :$9507; ptr = :$CCB9C4",
+		"71f38d9e22eac3ed9fdb80607d798f829e051303baa63cb9766e6f2e9d0584d8"
+	],
+	"FStringCrashUploadToBacktraceToBacktraceBaseUrl": [
+		"addr = :$9597; ptr = :$CCBAF8",
+		"https://roblox.sp.backtrace.io:8443/post?format=minidump"
+	],
+	"FStringCrashUploadToBacktraceWindowsPlayerToken": [
+		"addr = :$9607; ptr = :$CCBB6C",
+		"417ecb0fbc032ce087e6af3b780c298e3356089f050c8130d2318109e80417a4"
+	],
+	"FStringCrashUploadToBacktraceWindowsRCCToken": [
+		"addr = :$9677; ptr = :$CCBC4C",
+		"82fc562ca79e6df76a1add3c37aca015601a7326f48d4476fdc37bfe85e44673"
+	],
+	"FStringCrashUploadToBacktraceWindowsStudioToken": [
+		"addr = :$96E7; ptr = :$CCBBDC",
+		"8608fce9cad86072eee36b7d1d9dc56d68101a6b1f783c7bf568d80972ee1837"
+	],
+	"FStringXboxSaleAvatarPackageIds": [
+		"addr = :$13447; ptr = :$CD3254",
+		""
+	],
+	"FStringGoogleAnalyticsAccountPropertyIDLuaShell": [
+		"addr = :$14197; ptr = :$CD5558",
+		"UA-43420590-18"
+	],
+	"FStringGoogleAnalyticsAccountPropertyLuaTest": [
+		"addr = :$14207; ptr = :$CD5594",
+		"UA-43420590-19"
+	],
+	"FStringRobloxAnalyticsSubDomain": [
+		"addr = :$14297; ptr = :$CD5510",
+		"ecsv2"
+	],
+	"FStringRobloxAnalyticsURL": [
+		"addr = :$14307; ptr = :$CD54FC",
+		"http://test.public.ecs.roblox.com/"
+	],
+	"FStringAdditionalBlacklistHeaders": [
+		"addr = :$151A7; ptr = :$CD7C18",
+		""
+	],
+	"FStringFilterTextSubdomain": [
+		"addr = :$16E77; ptr = :$CD9BA4",
+		"textfilter"
+	],
+	"FStringModerationFilterTextUrlV2": [
+		"addr = :$16F87; ptr = :$CD9B7C",
+		"moderation/v2/filtertext"
+	],
+	"FStringFriendsOnlineUrl": [
+		"addr = :$210D7; ptr = :$CDE8C8",
+		"/my/friendsonline"
+	],
+	"FStringLocalizationServiceOverrideLocale": [
+		"addr = :$21497; ptr = :$CDF56C",
+		"es"
+	],
+	"FStringHttpRbxApiBlacklistedEndpoints": [
+		"addr = :$225B7; ptr = :$CE04AC",
+		""
+	],
+	"FStringCopyrightKey": [
+		"addr = :$25C77; ptr = :$CE4488",
+		"RBX-Content-Protected"
+	],
+	"FStringHttpCurlProxyHostAndPort": [
+		"addr = :$25DC7; ptr = :$CE4360",
+		""
+	],
+	"FStringHttpResultsApprovedUserIDs": [
+		"addr = :$260E7; ptr = :$CE52F4",
+		""
+	],
+	"FStringTelegrafAddress": [
+		"addr = :$26C37; ptr = :$CE5658",
+		"ec2-54-165-151-168.compute-1.amazonaws.com"
+	],
+	"FStringGetPlayerImageDefaultTimeout": [
+		"addr = :$30B07; ptr = :$CED500",
+		"12"
+	],
+	"FStringGetUserThumbnailAsyncRetryTime": [
+		"addr = :$30B77; ptr = :$CED4CC",
+		"4"
+	],
+	"FStringDataStoreThrottleMsg": [
+		"addr = :$36727; ptr = :$CF3A00",
+		"Request was throttled. Try sending fewer requests. Key = "
+	],
+	"FStringApolloServerUrl": [
+		"addr = :$4DEB7; ptr = :$D0C56C",
+		"http://127.0.0.1:8001"
+	],
+	"FStringHttpRequestImplType": [
+		"addr = :$6AFA7; ptr = :$D451E4",
+		""
+	],
+	"FStringBgUpdateRedirectsDisable": [
+		"addr = :$6D0B7; ptr = :$D47F60",
+		""
+	],
+	"FStringAssetPurchasePath": [
+		"addr = :$6D487; ptr = :$D5150C",
+		"marketplace/purchase"
+	],
+	"FStringDeveloperProductPurchasePath": [
+		"addr = :$6D4F7; ptr = :$D5153C",
+		"marketplace/submitpurchase"
+	],
+	"FStringClientExternalBrowserUserAgent": [
+		"addr = :$6FAB7; ptr = :$DC08D8",
+		"Roblox/WinInet"
+	],
+	"FStringOverrideSendRakNetStatsThrottleCountries": [
+		"addr = :$707D7; ptr = :$DC1C1C",
+		""
+	],
+	"FStringServerConfigAbuseReportUrl": [
+		"addr = :$70E47; ptr = :$DC4108",
+		"/AbuseReport/InGameChatHandler.ashx"
+	],
+	"FStringServerConfigChatFilterUrl": [
+		"addr = :$70EB7; ptr = :$DC413C",
+		"/Game/ChatFilter.ashx"
+	],
+	"FStringUS20608": [
+		"addr = :$71B37; ptr = :$DC537C",
+		""
+	],
+	"FStringUS30605p1": [
+		"addr = :$71DA7; ptr = :$DC4F94",
+		"....7....6....5..rr4....3....2....1....0"
+	],
+	"FStringUS30605p2": [
+		"addr = :$71E17; ptr = :$DC4FCC",
+		"____7____6____5____4__..3....2....1....0"
+	],
+	"FStringUS30605p3": [
+		"addr = :$71E87; ptr = :$DC5004",
+		"....7....6....5....4....3....2....1._..0"
+	],
+	"FStringUS30605p4": [
+		"addr = :$71EF7; ptr = :$DC503C",
+		"____7____6____5____4____3____2____1____0"
+	],
+	"FStringUS30605p5": [
+		"addr = :$71F67; ptr = :$DC5074",
+		"....7....6....5rrrr4rrrr3....2....1....0"
+	],
+	"FStringUS30605p6": [
+		"addr = :$71FD7; ptr = :$DC50AC",
+		"__..7....6....5....4....3....2....1....0"
+	],
+	"FStringUS30605p7": [
+		"addr = :$72057; ptr = :$DC50E4",
+		"____7____6____5____4____3____2___.1....0"
+	],
+	"FStringUS30605p7d": [
+		"addr = :$720E7; ptr = :$DC511C",
+		"rrrr7rrrr6rrrr5rrrr4rrrr3rrrr2rrrr1rrrr0"
+	],
+	"FStringUS30605p8": [
+		"addr = :$72197; ptr = :$DC5178",
+		"__::7::::6::::5::::4::::3::::2::::1::::0"
+	],
+	"FStringAnalyticsSessionIdName": [
+		"addr = :$724A7; ptr = :$DC8790",
+		"AnalyticsSessionId"
+	],
+	"FStringDebugSpoofGameLocaleId": [
+		"addr = :$72657; ptr = :$DC837C",
+		"de-de"
+	],
+	"FStringDebugSpoofRobloxLocaleId": [
+		"addr = :$726C7; ptr = :$DC831C",
+		"es-es"
+	],
+	"FStringGameLocaleIdName": [
+		"addr = :$72797; ptr = :$DC86B8",
+		"GameLocale"
+	],
+	"FStringSendJoinTimeDeltasHundPrecCountryOverride": [
+		"addr = :$72B57; ptr = :$DC86FC",
+		""
+	],
+	"FStringSendJoinTimeStatsHundPrecCountryOverride": [
+		"addr = :$72BE7; ptr = :$DC8628",
+		""
+	],
+	"FStringUrlGsi": [
+		"addr = :$749E7; ptr = :$DCC14C",
+		""
+	],
+	"FStringGamePerfMonitorPercentageCountryOverride": [
+		"addr = :$74BC7; ptr = :$DCC3D8",
+		""
+	],
+	"FStringGraphicsVulkanBlacklist": [
+		"addr = :$79A97; ptr = :$E1FACC",
+		""
+	],
+	"FLogTrackPublishingHashOutput": [
+		"addr = :$32B7; ptr = :$CBB80C",
+		0
+	],
+	"FLogStudioDebugLog": [
+		"addr = :$345A; ptr = :$CBC104",
+		8
+	],
+	"FLogStudioLastActions": [
+		"addr = :$347A; ptr = :$CBC114",
+		3
+	],
+	"FLogRCCMonitoring": [
+		"addr = :$3B47; ptr = :$CBE8D0",
+		6
+	],
+	"FLogRCCMonitoringVerbose": [
+		"addr = :$3B87; ptr = :$CBE8E0",
+		0
+	],
+	"FLogEvictPlayerInfo": [
+		"addr = :$3D67; ptr = :$CC00C4",
+		0
+	],
+	"FLogRCCDataModelInit": [
+		"addr = :$3DE7; ptr = :$CBFFB4",
+		1
+	],
+	"FLogRCCExecuteInfo": [
+		"addr = :$3E07; ptr = :$CC00B4",
+		6
+	],
+	"FLogRCCServiceInit": [
+		"addr = :$3E67; ptr = :$CBFF94",
+		1
+	],
+	"FLogRCCServiceJobs": [
+		"addr = :$3E87; ptr = :$CBFFA4",
+		1
+	],
+	"FLogHttpTrace": [
+		"addr = :$6457; ptr = :$CC662C",
+		0
+	],
+	"FLogInfluxDbLog": [
+		"addr = :$6577; ptr = :$CC6E30",
+		0
+	],
+	"FLogAnalyticsDeferredEphemeralReportingDiagnostic": [
+		"addr = :$65B7; ptr = :$CC70B8",
+		0
+	],
+	"FLogAnalyticsDeferredReporterDiagnostic": [
+		"addr = :$6637; ptr = :$CC7148",
+		0
+	],
+	"FLogGoogleAnalyticsTracking": [
+		"addr = :$66F7; ptr = :$CC6FD8",
+		0
+	],
+	"FLogCyclicExecutiveThrottling": [
+		"addr = :$7577; ptr = :$CC8060",
+		0
+	],
+	"FLogCyclicExecutiveTiming": [
+		"addr = :$7597; ptr = :$CC807C",
+		0
+	],
+	"FLogLogStepTimeAndNetworkUsage": [
+		"addr = :$77F7; ptr = :$CC8094",
+		0
+	],
+	"FLogR15Character": [
+		"addr = :$7877; ptr = :$CC7E6C",
+		0
+	],
+	"FLogSerializer": [
+		"addr = :$8D17; ptr = :$CCB324",
+		0
+	],
+	"FLogAdornRenderStats": [
+		"addr = :$97B7; ptr = :$CCBEB4",
+		0
+	],
+	"FLogAdornVB": [
+		"addr = :$97D7; ptr = :$CCBEF0",
+		0
+	],
+	"FLogAdornableLifetime": [
+		"addr = :$97F7; ptr = :$CCBEA0",
+		0
+	],
+	"FLogCOMCalls": [
+		"addr = :$9817; ptr = :$CCBDB4",
+		1
+	],
+	"FLogClientSettings": [
+		"addr = :$9837; ptr = :$CC78BC",
+		1
+	],
+	"FLogCloseDataModel": [
+		"addr = :$9857; ptr = :$CCC0CC",
+		1
+	],
+	"FLogContentProviderRequests": [
+		"addr = :$9877; ptr = :$CCC0DC",
+		0
+	],
+	"FLogCoreScripts": [
+		"addr = :$9897; ptr = :$CCC160",
+		1
+	],
+	"FLogCrashReporterInit": [
+		"addr = :$98B7; ptr = :$CCBDE4",
+		1
+	],
+	"FLogDataModelJobs": [
+		"addr = :$98D7; ptr = :$CCBFB0",
+		2
+	],
+	"FLogDeviceLost": [
+		"addr = :$9957; ptr = :$CCBE94",
+		0
+	],
+	"FLogDisableInvalidateOnUnbind": [
+		"addr = :$9977; ptr = :$CCC058",
+		0
+	],
+	"FLogDistanceMetricP1": [
+		"addr = :$9997; ptr = :$CCC230",
+		0
+	],
+	"FLogDragProfile": [
+		"addr = :$99B7; ptr = :$CCBE4C",
+		0
+	],
+	"FLogExplorer": [
+		"addr = :$99D7; ptr = :$CCBDF8",
+		0
+	],
+	"FLogFRM": [
+		"addr = :$99F7; ptr = :$CCA0DC",
+		0
+	],
+	"FLogFullRenderObjects": [
+		"addr = :$9A17; ptr = :$CCBFC0",
+		0
+	],
+	"FLogFullWindowMessages": [
+		"addr = :$9A37; ptr = :$CCBDC0",
+		0
+	],
+	"FLogGameExplorer": [
+		"addr = :$9A57; ptr = :$CCBE04",
+		0
+	],
+	"FLogGfxClustersFull": [
+		"addr = :$9A77; ptr = :$CCC00C",
+		0
+	],
+	"FLogGfxClusters": [
+		"addr = :$9A97; ptr = :$CCC000",
+		2
+	],
+	"FLogGoldenHashes": [
+		"addr = :$9AB7; ptr = :$CCBE84",
+		1
+	],
+	"FLogGuiTargetLifetime": [
+		"addr = :$9AD7; ptr = :$CCBE58",
+		0
+	],
+	"FLogHardwareMouse": [
+		"addr = :$9AF7; ptr = :$CCBE28",
+		2
+	],
+	"FLogHttp": [
+		"addr = :$9B17; ptr = :$CCC28C",
+		0
+	],
+	"FLogHttpQueue": [
+		"addr = :$9B37; ptr = :$CCC1A4",
+		0
+	],
+	"FLogJoinSendExtraItemCount": [
+		"addr = :$9B57; ptr = :$CCC200",
+		1
+	],
+	"FLogJointInstanceLifetime": [
+		"addr = :$9B77; ptr = :$CCBF4C",
+		0
+	],
+	"FLogJointLifetime": [
+		"addr = :$9B97; ptr = :$CCBF78",
+		0
+	],
+	"FLogLegacyLock": [
+		"addr = :$9BB7; ptr = :$CC954C",
+		0
+	],
+	"FLogLuaMemoryPool": [
+		"addr = :$9BD7; ptr = :$CCC16C",
+		0
+	],
+	"FLogLuaScriptTimeoutSeconds": [
+		"addr = :$9BF7; ptr = :$CCC17C",
+		0
+	],
+	"FLogMachineIdUploader": [
+		"addr = :$9C17; ptr = :$CCC278",
+		1
+	],
+	"FLogMaxJoinDataSizeKB": [
+		"addr = :$9C37; ptr = :$CCC250",
+		100
+	],
+	"FLogMaxNetworkReadTimeInCS": [
+		"addr = :$9C57; ptr = :$CCC218",
+		0
+	],
+	"FLogMegaClusterInit": [
+		"addr = :$9C77; ptr = :$CCC01C",
+		1
+	],
+	"FLogMegaClusterNetworkInit": [
+		"addr = :$9C97; ptr = :$CCC040",
+		1
+	],
+	"FLogMegaClusterNetwork": [
+		"addr = :$9CB7; ptr = :$CCC02C",
+		2
+	],
+	"FLogMouseCommand": [
+		"addr = :$9CD7; ptr = :$CCC0F4",
+		0
+	],
+	"FLogMouseCommandLifetime": [
+		"addr = :$9CF7; ptr = :$CCBE6C",
+		0
+	],
+	"FLogNativeStartPage": [
+		"addr = :$9D17; ptr = :$CCBE14",
+		0
+	],
+	"FLogNetworkCache": [
+		"addr = :$9D37; ptr = :$CCC1B0",
+		1
+	],
+	"FLogNetwork": [
+		"addr = :$9D57; ptr = :$CBED58",
+		0
+	],
+	"FLogNetworkInstances": [
+		"addr = :$9D77; ptr = :$CCC1D8",
+		0
+	],
+	"FLogNetworkJoin": [
+		"addr = :$9D97; ptr = :$CCC264",
+		0
+	],
+	"FLogNetworkReadItem": [
+		"addr = :$9DB7; ptr = :$CCC1EC",
+		0
+	],
+	"FLogNetworkTrace": [
+		"addr = :$9DD7; ptr = :$CCC194",
+		0
+	],
+	"FLogPartInstanceLifetime": [
+		"addr = :$9DF7; ptr = :$CCBF34",
+		0
+	],
+	"FLogPhysics": [
+		"addr = :$9E17; ptr = :$CC98CC",
+		0
+	],
+	"FLogPlayer": [
+		"addr = :$9E37; ptr = :$CC5A50",
+		1
+	],
+	"FLogPlayerShutdownLuaTimeoutSeconds": [
+		"addr = :$9E57; ptr = :$CCC2A0",
+		0
+	],
+	"FLogPlugins": [
+		"addr = :$9E77; ptr = :$CCBDAC",
+		0
+	],
+	"FLogPrimitiveLifetime": [
+		"addr = :$9E97; ptr = :$CCBF64",
+		0
+	],
+	"FLogPushPixels": [
+		"addr = :$9EB7; ptr = :$CCBF00",
+		0
+	],
+	"FLogQML": [
+		"addr = :$9ED7; ptr = :$CCBE24",
+		0
+	],
+	"FLogRbxMegaClusterInit": [
+		"addr = :$9EF7; ptr = :$CCBFEC",
+		2
+	],
+	"FLogRbxMegaClustersUpdate": [
+		"addr = :$9F17; ptr = :$CCBFD4",
+		2
+	],
+	"FLogRenderBreakdownDetails": [
+		"addr = :$9F37; ptr = :$CCBF98",
+		2
+	],
+	"FLogRenderBreakdown": [
+		"addr = :$9F57; ptr = :$CCBF88",
+		2
+	],
+	"FLogRenderStatsOnLogs": [
+		"addr = :$9F77; ptr = :$CCBF0C",
+		2
+	],
+	"FLogReplicationDataLifetime": [
+		"addr = :$9F97; ptr = :$CCC1C0",
+		0
+	],
+	"FLogRobloxWndInit": [
+		"addr = :$9FB7; ptr = :$CCBDD4",
+		1
+	],
+	"FLogSSAO": [
+		"addr = :$9FD7; ptr = :$CCBEF8",
+		0
+	],
+	"FLogScriptContextAdd": [
+		"addr = :$9FF7; ptr = :$CCC104",
+		0
+	],
+	"FLogScriptContextClose": [
+		"addr = :$A017; ptr = :$CCC13C",
+		1
+	],
+	"FLogScriptContext": [
+		"addr = :$A037; ptr = :$CCC12C",
+		0
+	],
+	"FLogScriptContextRemove": [
+		"addr = :$A057; ptr = :$CCC118",
+		0
+	],
+	"FLogScriptPrint": [
+		"addr = :$A077; ptr = :$CCC294",
+		3
+	],
+	"FLogThumbnailRender": [
+		"addr = :$A097; ptr = :$CCBEE0",
+		0
+	],
+	"FLogUS14116": [
+		"addr = :$A0B7; ptr = :$CCC270",
+		0
+	],
+	"FLogUserInputProfile": [
+		"addr = :$A0D7; ptr = :$CCBE38",
+		0
+	],
+	"FLogVerbs": [
+		"addr = :$A0F7; ptr = :$CCBDA4",
+		0
+	],
+	"FLogVideoCapture": [
+		"addr = :$A117; ptr = :$CCBD94",
+		0
+	],
+	"FLogViewRbxBase": [
+		"addr = :$A137; ptr = :$CCBEC8",
+		2
+	],
+	"FLogViewRbxInit": [
+		"addr = :$A157; ptr = :$CCBED4",
+		1
+	],
+	"FLogVisualEngineInit": [
+		"addr = :$A177; ptr = :$CCBF20",
+		0
+	],
+	"FLogWeakThreadRef": [
+		"addr = :$A197; ptr = :$CCC150",
+		0
+	],
+	"FLogttMetricP1": [
+		"addr = :$A1B7; ptr = :$CCC244",
+		0
+	],
+	"FLogInstanceTreeManipulation": [
+		"addr = :$A4E7; ptr = :$CCC574",
+		0
+	],
+	"FLogHeartBeatFailure": [
+		"addr = :$B6B7; ptr = :$CCCD40",
+		0
+	],
+	"FLogPhysicsStepsPerSecond": [
+		"addr = :$B6F7; ptr = :$CCCD54",
+		0
+	],
+	"FLogCharacterLoadTime": [
+		"addr = :$C857; ptr = :$CCD994",
+		6
+	],
+	"FLogPlayerChatInfoExponentialBackoffLimitMultiplier": [
+		"addr = :$CA17; ptr = :$CCD964",
+		9
+	],
+	"FLogLuaTypeErrors": [
+		"addr = :$14477; ptr = :$CD5E68",
+		0
+	],
+	"FLogChatFiltering": [
+		"addr = :$16D27; ptr = :$CD9B10",
+		0
+	],
+	"FLogWebChatFiltering": [
+		"addr = :$17127; ptr = :$CD9AB4",
+		0
+	],
+	"FLogFriendServiceCache": [
+		"addr = :$20FA7; ptr = :$CDE8DC",
+		0
+	],
+	"FLogFriendServiceCallbacks": [
+		"addr = :$21007; ptr = :$CDE90C",
+		0
+	],
+	"FLogFriendServiceLocalRequests": [
+		"addr = :$21027; ptr = :$CDE924",
+		6
+	],
+	"FLogFriendServiceWebRequests": [
+		"addr = :$21067; ptr = :$CDE8F0",
+		0
+	],
+	"FLogHttpRbxApiBudget": [
+		"addr = :$225D7; ptr = :$CE04CC",
+		0
+	],
+	"FLogTeleport": [
+		"addr = :$22E17; ptr = :$CE0E88",
+		0
+	],
+	"FLogHttpTraceLight": [
+		"addr = :$25E27; ptr = :$CE433C",
+		0
+	],
+	"FLogAnalyticsLog": [
+		"addr = :$26C97; ptr = :$CE574C",
+		0
+	],
+	"FLogThreadRefCounts": [
+		"addr = :$26F27; ptr = :$CE5D88",
+		1
+	],
+	"FLogCyclicExecutiveWorldSteps": [
+		"addr = :$27447; ptr = :$CE7C08",
+		0
+	],
+	"FLogPhysicsImprovedCyclicExecutiveThrottleData": [
+		"addr = :$274E7; ptr = :$CE7D98",
+		0
+	],
+	"FLogWorldStepsBehindG": [
+		"addr = :$275E7; ptr = :$CE7D60",
+		0
+	],
+	"FLogWorldStepsBehind": [
+		"addr = :$27607; ptr = :$CE7D4C",
+		0
+	],
+	"FLogChangeHistoryService": [
+		"addr = :$2A617; ptr = :$CE9B24",
+		0
+	],
+	"FLogText": [
+		"addr = :$32C07; ptr = :$CEEEC0",
+		0
+	],
+	"FLogGetLatestAssetVersionErrors": [
+		"addr = :$33C27; ptr = :$CF0530",
+		0
+	],
+	"FLogDataStoreBudget": [
+		"addr = :$36457; ptr = :$CF3A18",
+		0
+	],
+	"FLogAppShellReporter": [
+		"addr = :$36C17; ptr = :$CF4398",
+		0
+	],
+	"FLogDeferredVoxelUpdates": [
+		"addr = :$38EE7; ptr = :$CF5ACC",
+		0
+	],
+	"FLogHumanoidPlatformsLog": [
+		"addr = :$390C7; ptr = :$CF6120",
+		0
+	],
+	"FLogNewNetworkPhysicsLog": [
+		"addr = :$39207; ptr = :$CF6108",
+		0
+	],
+	"FLogPreloadLinkedScriptsTiming": [
+		"addr = :$394E7; ptr = :$CF6670",
+		0
+	],
+	"FLogTrackScriptEditorLocking": [
+		"addr = :$39507; ptr = :$CF668C",
+		0
+	],
+	"FLogFMOD": [
+		"addr = :$39C27; ptr = :$CF6BBC",
+		0
+	],
+	"FLogSoundCheckResult": [
+		"addr = :$39D07; ptr = :$CF6BFC",
+		0
+	],
+	"FLogSound": [
+		"addr = :$39D47; ptr = :$CCFA4C",
+		0
+	],
+	"FLogSoundTiming": [
+		"addr = :$39DE7; ptr = :$CF6BE4",
+		0
+	],
+	"FLogSoundTrace": [
+		"addr = :$39E07; ptr = :$CF6BF0",
+		0
+	],
+	"FLogTerrainCellListener": [
+		"addr = :$49F47; ptr = :$D0854C",
+		0
+	],
+	"FLogLayoutErrors": [
+		"addr = :$4C2B7; ptr = :$D0A00C",
+		3
+	],
+	"FLogPathfindingDetail": [
+		"addr = :$4CD67; ptr = :$D0AE68",
+		0
+	],
+	"FLogPathfindingPerf": [
+		"addr = :$4CD87; ptr = :$D0AE7C",
+		0
+	],
+	"FLogDataStore": [
+		"addr = :$6A757; ptr = :$CC6B44",
+		0
+	],
+	"FLogSlowHttpRequest": [
+		"addr = :$6AC27; ptr = :$D22D98",
+		0
+	],
+	"FLogLuaBridge": [
+		"addr = :$6AE97; ptr = :$CFD858",
+		0
+	],
+	"FLogHumanoidFloorProcess": [
+		"addr = :$6B417; ptr = :$D47084",
+		0
+	],
+	"FLogNavigationDetail": [
+		"addr = :$6DD67; ptr = :$D54FE8",
+		0
+	],
+	"FLogNavigation": [
+		"addr = :$6DDE7; ptr = :$CD1154",
+		0
+	],
+	"FLogVoxelizer": [
+		"addr = :$6EA27; ptr = :$D9D8E4",
+		0
+	],
+	"FLogCrash": [
+		"addr = :$6ED17; ptr = :$CBDB0C",
+		1
+	],
+	"FLogHangDetection": [
+		"addr = :$6ED37; ptr = :$D9DCEC",
+		0
+	],
+	"FLogISteppedLifetime": [
+		"addr = :$6ED57; ptr = :$D9DCFC",
+		0
+	],
+	"FLogMutexLifetime": [
+		"addr = :$6ED77; ptr = :$D9DD10",
+		0
+	],
+	"FLogTaskSchedulerInit": [
+		"addr = :$6ED97; ptr = :$D9DD20",
+		0
+	],
+	"FLogTaskSchedulerRun": [
+		"addr = :$6EDB7; ptr = :$D9DD34",
+		0
+	],
+	"FLogScopedConnection": [
+		"addr = :$6EDF7; ptr = :$D9DE1C",
+		0
+	],
+	"FLogDXVideoMemory": [
+		"addr = :$6EF87; ptr = :$D9E278",
+		4
+	],
+	"FLogSystemUtil": [
+		"addr = :$6EFA7; ptr = :$D9E288",
+		4
+	],
+	"FLogCSGDetails": [
+		"addr = :$6F757; ptr = :$DBFDAC",
+		0
+	],
+	"FLogCSGErrors": [
+		"addr = :$6F777; ptr = :$DBFDA0",
+		0
+	],
+	"FLogRakNetExploit": [
+		"addr = :$6FDC7; ptr = :$DC0D50",
+		0
+	],
+	"FLogReportFeOnStartup": [
+		"addr = :$70057; ptr = :$DC1134",
+		0
+	],
+	"FLogTeamTest": [
+		"addr = :$700D7; ptr = :$DC1170",
+		0
+	],
+	"FLogNetworkPacketsReceive": [
+		"addr = :$70727; ptr = :$DC2120",
+		0
+	],
+	"FLogNetworkStatsReport": [
+		"addr = :$70747; ptr = :$DC20D4",
+		0
+	],
+	"FLogNetworkStepsMultipliers": [
+		"addr = :$70767; ptr = :$DC20E8",
+		0
+	],
+	"FLogTeamCreateServerScriptChanges": [
+		"addr = :$70BB7; ptr = :$DC2100",
+		0
+	],
+	"FLogJoinTimeLog": [
+		"addr = :$72857; ptr = :$DC852C",
+		4
+	],
+	"FLogPartStreamingRequests": [
+		"addr = :$73B57; ptr = :$DC8D2C",
+		0
+	],
+	"FLogPhysicsNetwork": [
+		"addr = :$73F47; ptr = :$DC9C0C",
+		0
+	],
+	"FLogNetworkItemQueueDtor": [
+		"addr = :$74D37; ptr = :$DCCA54",
+		0
+	],
+	"FLogNetworkStreaming": [
+		"addr = :$751C7; ptr = :$DCD0C4",
+		0
+	],
+	"FLogGraphics": [
+		"addr = :$75B97; ptr = :$DD5470",
+		0
+	],
+	"FLogVR": [
+		"addr = :$75BB7; ptr = :$DD547C",
+		0
+	],
+	"FLogRenderTextureCompositorBudget": [
+		"addr = :$761C7; ptr = :$DD7B74",
+		0
+	],
+	"FLogRenderTextureCompositor": [
+		"addr = :$761E7; ptr = :$DD7B5C",
+		0
+	],
+	"FLogTextureManager": [
+		"addr = :$762D7; ptr = :$DD8070",
+		0
+	],
+	"FLogRenderMeshManager": [
+		"addr = :$76347; ptr = :$DD845C",
+		0
+	],
+	"FLogRenderLightGridAgeProportion": [
+		"addr = :$76737; ptr = :$DD97A4",
+		5
+	],
+	"FLogRenderLightGrid": [
+		"addr = :$76757; ptr = :$DD9794",
+		0
+	],
+	"FLogRenderFastCluster": [
+		"addr = :$76BE7; ptr = :$DDAE34",
+		0
+	],
+	"FLogRenderInstancedCluster": [
+		"addr = :$76C77; ptr = :$DDB6D4",
+		0
+	],
+	"FLogRenderInstancedCluster2": [
+		"addr = :$76D07; ptr = :$DDBD0C",
+		0
+	]
+}
