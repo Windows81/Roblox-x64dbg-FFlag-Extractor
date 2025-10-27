@@ -8,7 +8,7 @@ import json
 import os
 
 from x64dbg_automate import X64DbgClient
-from x64dbg_automate.models import DisasmArgType, DisasmInstrType, Instruction, MemPage
+from x64dbg_automate.models import DisasmInstrType, Instruction, MemPage
 
 
 def eprint(*args, **kwargs):
@@ -20,15 +20,6 @@ class flag_type(enum.Enum):
     FInt = b'StreamingSafeMemWatermarkMB'  # b'DataStoreJobFrequencyInSeconds'
     FString = b'FriendsOnlineUrl'  # b'RobloxAnalyticsURL'
     FLog = b'GfxClustersFull'
-
-    def get_value_type(self):
-        match self:
-            case flag_type.FFlag:
-                return builtins.bool
-            case flag_type.FInt | flag_type.FLog:
-                return builtins.int
-            case flag_type.FString:
-                return builtins.str
 
 
 def is_exe_64_bit(path: str) -> bool:
@@ -381,7 +372,7 @@ def get_flags_of_type(session: X64DbgClient, flag_t: flag_type):
 
 def process(session: X64DbgClient, extract_default_flags: bool, extract_default_strings: bool, add_flag_labels: bool):
     for flag_t in flag_type:
-        if flag_t.get_value_type() == builtins.str:
+        if flag_t == flag_type.FString:
             extract_default = extract_default_strings
         else:
             extract_default = extract_default_flags
