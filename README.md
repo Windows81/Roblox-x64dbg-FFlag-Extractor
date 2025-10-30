@@ -18,6 +18,24 @@ Attached in [`./test`](./test) are some flag dumps.
 
 I generate these files on **my machine** using the command in [`./test/test.ps1`](./test/test.ps1).
 
+## What?
+
+Rōblox Studio (and probably the Player) has more FFlags, etc. than what you may think.
+
+For example, Studio version 695 for Windows contains a number of **12,936** total fast variables (`FLags`, `FInts`, `FStrings`, and `FLogs`).
+
+```sh
+curl https://github.com/Windows81/Roblox-x64dbg-FFlag-Extractor/raw/refs/heads/main/test/v695-studio.json -L | jpp "$.*~" -s | wc
+```
+
+However, [the FFlag tracker](https://github.com/MaximumADHD/Roblox-FFlag-Tracker/blob/main/PCStudioApp.json) shows only a number of **1,584** variables as of 2025-10-28.
+
+```sh
+curl https://github.com/MaximumADHD/Roblox-FFlag-Tracker/raw/refs/heads/main/PCStudioApp.json -L | jpp "$.*~" -s | wc
+```
+
+The `jpp` utility is compiled from [a fork of a JSONPath command-line tool](https://github.com/Windows81/JSONPath-CLI/tree/patch-1) that I like using.
+
 ## How?
 
 Rōblox stores hidden options in what we call FFlags. However, `FFlags` are just one piece of the equation. These just refer to boolean values. Rōblox also supplies other namespaces, i.e. `FInt`, `FString`, and `FLog`.
@@ -62,7 +80,7 @@ In Player v463:
 Per the diagram above:
 
 - **`robloxplayerbeta.025391A4`:** the memory location of the actual value of the flag. When you include a custom value for this flag in `ClientAppSettings.json`, this data gets updated to reflect the modified value.
-- **`robloxplayerbeta.1F48568`:** the memory location of the constant string `"LockViolationInstanceCrash"`
+- **`robloxplayerbeta.1F48568`:** the memory location of the constant string `"LockViolationInstanceCrash"`.
 - **`robloxplayerbeta.1519020`:** the next branch location after the flag name and memory address are added as function args.
 
 Note how quickly each of these statements follow each other.
@@ -89,3 +107,5 @@ In our example, the offset from the memory-value-push (`robloxplayerbeta.1F48568
 Using x64dbg's `reffind` function, we can find all the other places where `robloxplayerbeta.1519020` is accessed.
 
 Then, using the offsets we saved, we manually trace back.
+
+...to be continued
