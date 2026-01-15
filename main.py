@@ -285,7 +285,7 @@ def read_value(session: X64DbgClient, flag_t: flag_type, mem_addr: int):
             places = get_string_load_places(session)
             orig_ref = places.get(val_ref, None)
             if orig_ref is None:
-                eprint('WARNING: unable to get flag at %X' % name_addr)
+                eprint('WARNING: unable to get flag at %X' % mem_addr)
                 return
 
             result = read_string(session, orig_ref) or b''

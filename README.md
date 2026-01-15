@@ -12,6 +12,8 @@ python main.py "c:\Users\USER\Projects\FilteringDisabled\Roblox\v463\Studio\Robl
 
 This program is optimised for different versions of Rōblox Studio. Bitness shouldn't be a problem.
 
+**Consider that some flags may not work as intended unless you prefix with `D` in the settings file.** For example, v463 exposes `DFFlagTheseAreSomeOfMyBestAttributes` to enable the use of [attributes](https://create.roblox.com/docs/scripting/attributes), but `FFlagTheseAreSomeOfMyBestAttributes` (which excludes the `D` prefix) has no effect.
+
 ## JSON "Test" Files
 
 Attached in [`./test`](./test) are some flag dumps.
