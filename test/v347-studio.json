@@ -35,15 +35,15 @@
 		"load = :$5452; mem_val = :$1883129; mem_name = :$1045FD0",
 		false
 	],
-	"FFlagCloudEditGARespectsThrottling": [
+	"DFFlagCloudEditGARespectsThrottling": [
 		"load = :$54D2; mem_val = :$18833A8; mem_name = :$1046FA4",
 		false
 	],
-	"FFlagCloudEditLogFailuresWithInflux": [
+	"DFFlagCloudEditLogFailuresWithInflux": [
 		"load = :$54F2; mem_val = :$18833AA; mem_name = :$1046FE4",
 		false
 	],
-	"FFlagCloudEditSaveFailureExtraInfo": [
+	"DFFlagCloudEditSaveFailureExtraInfo": [
 		"load = :$5512; mem_val = :$18833A9; mem_name = :$1046FC4",
 		false
 	],
@@ -51,7 +51,7 @@
 		"load = :$5BD2; mem_val = :$18836F8; mem_name = :$104D814",
 		false
 	],
-	"FFlagThrottleDebuggerMetrics": [
+	"DFFlagThrottleDebuggerMetrics": [
 		"load = :$5BF2; mem_val = :$1883718; mem_name = :$104D9E0",
 		false
 	],
@@ -275,11 +275,11 @@
 		"load = :$BA82; mem_val = :$188682C; mem_name = :$13D0840",
 		false
 	],
-	"FFlagCrashUploadIgnoreLocalBuilds": [
+	"DFFlagCrashUploadIgnoreLocalBuilds": [
 		"load = :$BBA2; mem_val = :$18868C1; mem_name = :$13D1298",
 		false
 	],
-	"FFlagAllowMultipleHangReports": [
+	"DFFlagAllowMultipleHangReports": [
 		"load = :$BC75; mem_val = :$18868EB; mem_name = :$13D156C",
 		false
 	],
@@ -287,7 +287,7 @@
 		"load = :$BCB5; mem_val = :$18868F4; mem_name = :$13D1588",
 		false
 	],
-	"FFlagExitAfterHangDetection2": [
+	"DFFlagExitAfterHangDetection2": [
 		"load = :$BCD5; mem_val = :$18868F5; mem_name = :$13D159C",
 		false
 	],
@@ -403,7 +403,7 @@
 		"load = :$DEA2; mem_val = :$18898B9; mem_name = :$13DD9E0",
 		false
 	],
-	"FFlagStudioTrackDeadRobloxIDEDocsThrottleEvents": [
+	"DFFlagStudioTrackDeadRobloxIDEDocsThrottleEvents": [
 		"load = :$DEC2; mem_val = :$18898AD; mem_name = :$13DD7C8",
 		false
 	],
@@ -411,7 +411,7 @@
 		"load = :$DEE2; mem_val = :$18898AF; mem_name = :$13DD83C",
 		false
 	],
-	"FFlagWorkspaceNotificationMasterEnable": [
+	"DFFlagWorkspaceNotificationMasterEnable": [
 		"load = :$DF12; mem_val = :$18898AC; mem_name = :$13DD7A4",
 		false
 	],
@@ -627,7 +627,7 @@
 		"load = :$10312; mem_val = :$188A6B2; mem_name = :$1402AD8",
 		false
 	],
-	"FFlagStudioThrottleNewEmulationMetrics": [
+	"DFFlagStudioThrottleNewEmulationMetrics": [
 		"load = :$10902; mem_val = :$188A93C; mem_name = :$1405A04",
 		false
 	],
@@ -791,11 +791,11 @@
 		"load = :$12552; mem_val = :$188B2F8; mem_name = :$140E304",
 		false
 	],
-	"FFlagAllowJoinsToWait": [
+	"DFFlagAllowJoinsToWait": [
 		"load = :$125C2; mem_val = :$188B38F; mem_name = :$1410564",
 		false
 	],
-	"FFlagAllowTeleportsToWait": [
+	"DFFlagAllowTeleportsToWait": [
 		"load = :$125E2; mem_val = :$188B38E; mem_name = :$141054C",
 		false
 	],
@@ -811,7 +811,7 @@
 		"load = :$12702; mem_val = :$188B396; mem_name = :$1410610",
 		false
 	],
-	"FFlagFixGameJoinTrying": [
+	"DFFlagFixGameJoinTrying": [
 		"load = :$12722; mem_val = :$188B38D; mem_name = :$1410538",
 		false
 	],
@@ -891,7 +891,7 @@
 		"load = :$12E92; mem_val = :$188B8D7; mem_name = :$14114C4",
 		false
 	],
-	"FFlagUrlReconstructRejectInvalidSchemes": [
+	"DFFlagUrlReconstructRejectInvalidSchemes": [
 		"load = :$12F82; mem_val = :$188BE0C; mem_name = :$14119B4",
 		false
 	],
@@ -907,19 +907,19 @@
 		"load = :$132A2; mem_val = :$188BE40; mem_name = :$1411BF4",
 		false
 	],
-	"FFlagLockViolationInstanceCrash": [
+	"DFFlagLockViolationInstanceCrash": [
 		"load = :$13302; mem_val = :$188BE43; mem_name = :$14122A0",
 		false
 	],
-	"FFlagLockViolationInstanceCrashStudio": [
+	"DFFlagLockViolationInstanceCrashStudio": [
 		"load = :$13322; mem_val = :$188BE44; mem_name = :$1411BA8",
 		false
 	],
-	"FFlagServiceAskSetParent": [
+	"DFFlagServiceAskSetParent": [
 		"load = :$14592; mem_val = :$188CB20; mem_name = :$141274C",
 		false
 	],
-	"FFlagServiceVsp2": [
+	"DFFlagServiceVsp2": [
 		"load = :$145B2; mem_val = :$188CB21; mem_name = :$1412760",
 		false
 	],
@@ -927,11 +927,11 @@
 		"load = :$148B2; mem_val = :$188CF03; mem_name = :$1412A8C",
 		false
 	],
-	"FFlagFixAssetPathsUnderJunctions": [
+	"DFFlagFixAssetPathsUnderJunctions": [
 		"load = :$148F2; mem_val = :$188CF02; mem_name = :$1412A70",
 		false
 	],
-	"FFlagForceUseProductionForAssetFetching": [
+	"DFFlagForceUseProductionForAssetFetching": [
 		"load = :$14912; mem_val = :$188CF01; mem_name = :$1412A4C",
 		false
 	],
@@ -943,11 +943,11 @@
 		"load = :$14BA2; mem_val = :$188CF04; mem_name = :$1412AAC",
 		false
 	],
-	"FFlagAvatarJointPositionsEnabled": [
+	"DFFlagAvatarJointPositionsEnabled": [
 		"load = :$156D2; mem_val = :$188D8E0; mem_name = :$1413E08",
 		false
 	],
-	"FFlagBadCoreScriptCrashFixEnabled": [
+	"DFFlagBadCoreScriptCrashFixEnabled": [
 		"load = :$157D2; mem_val = :$188D8E1; mem_name = :$1413E88",
 		false
 	],
@@ -1283,11 +1283,11 @@
 		"load = :$1CAD2; mem_val = :$18934D0; mem_name = :$141C194",
 		false
 	],
-	"FFlagUseHttpDefaultUrlSchema": [
+	"DFFlagUseHttpDefaultUrlSchema": [
 		"load = :$1CBF2; mem_val = :$1893540; mem_name = :$141C9A8",
 		false
 	],
-	"FFlagDebugHttpAsyncCallsForStatsReporting": [
+	"DFFlagDebugHttpAsyncCallsForStatsReporting": [
 		"load = :$1CF32; mem_val = :$1784DF1; mem_name = :$141CB30",
 		true
 	],
@@ -1295,11 +1295,11 @@
 		"load = :$1CFF2; mem_val = :$1893591; mem_name = :$141CB7C",
 		false
 	],
-	"FFlagWebParserAnalyticsWriteNanInf": [
+	"DFFlagWebParserAnalyticsWriteNanInf": [
 		"load = :$1D122; mem_val = :$18936FC; mem_name = :$141D5CC",
 		false
 	],
-	"FFlagUseConvertToHex": [
+	"DFFlagUseConvertToHex": [
 		"load = :$1D722; mem_val = :$189371C; mem_name = :$141D844",
 		false
 	],
@@ -1307,15 +1307,15 @@
 		"load = :$1D782; mem_val = :$18938D8; mem_name = :$141D9A0",
 		false
 	],
-	"FFlagEnableYieldAsWaitTracking": [
+	"DFFlagEnableYieldAsWaitTracking": [
 		"load = :$1D7A2; mem_val = :$18938DD; mem_name = :$141DA50",
 		false
 	],
-	"FFlagLockViolationScriptCrash": [
+	"DFFlagLockViolationScriptCrash": [
 		"load = :$1D7C2; mem_val = :$18938DB; mem_name = :$141DA1C",
 		false
 	],
-	"FFlagOtherUrlConstructionV2": [
+	"DFFlagOtherUrlConstructionV2": [
 		"load = :$1D822; mem_val = :$18938DC; mem_name = :$141DA38",
 		false
 	],
@@ -1331,7 +1331,7 @@
 		"load = :$1DAF2; mem_val = :$1893E9D; mem_name = :$141F040",
 		false
 	],
-	"FFlagUseHttpsAnalyticsUrls": [
+	"DFFlagUseHttpsAnalyticsUrls": [
 		"load = :$1DD12; mem_val = :$1893EA0; mem_name = :$141F138",
 		false
 	],
@@ -1343,7 +1343,7 @@
 		"load = :$1E282; mem_val = :$1894105; mem_name = :$141F608",
 		false
 	],
-	"FFlagDeprecatableBroadcasts": [
+	"DFFlagDeprecatableBroadcasts": [
 		"load = :$1E812; mem_val = :$18945C8; mem_name = :$141FB04",
 		false
 	],
@@ -1379,7 +1379,7 @@
 		"load = :$21DC2; mem_val = :$1896681; mem_name = :$1421C3C",
 		false
 	],
-	"FFlagLuaDebuggerGetGlobalsBalanceStack": [
+	"DFFlagLuaDebuggerGetGlobalsBalanceStack": [
 		"load = :$21DE2; mem_val = :$1896683; mem_name = :$1421C84",
 		false
 	],
@@ -1387,15 +1387,15 @@
 		"load = :$21E02; mem_val = :$1896680; mem_name = :$1421C30",
 		false
 	],
-	"FFlagLuaDebuggerN2UpdateHookFix": [
+	"DFFlagLuaDebuggerN2UpdateHookFix": [
 		"load = :$21E22; mem_val = :$1896682; mem_name = :$1421C68",
 		false
 	],
-	"FFlagMoreLuaDebuggerStackLeakFixes": [
+	"DFFlagMoreLuaDebuggerStackLeakFixes": [
 		"load = :$21E42; mem_val = :$1896684; mem_name = :$1421CA8",
 		false
 	],
-	"FFlagCheckMultipleLoadCharacterCalls": [
+	"DFFlagCheckMultipleLoadCharacterCalls": [
 		"load = :$24252; mem_val = :$1897EAC; mem_name = :$1424318",
 		false
 	],
@@ -1407,19 +1407,19 @@
 		"load = :$24292; mem_val = :$1897EA8; mem_name = :$1424158",
 		false
 	],
-	"FFlagErrorForFailedRequestsInThumbnailLogic": [
+	"DFFlagErrorForFailedRequestsInThumbnailLogic": [
 		"load = :$242B2; mem_val = :$1897EA2; mem_name = :$1424030",
 		false
 	],
-	"FFlagFireCharacterAddedAfterSpawn": [
+	"DFFlagFireCharacterAddedAfterSpawn": [
 		"load = :$242D2; mem_val = :$1897EA0; mem_name = :$1423FA0",
 		false
 	],
-	"FFlagFixCharacterAppearanceLoadedEvent2": [
+	"DFFlagFixCharacterAppearanceLoadedEvent2": [
 		"load = :$242F2; mem_val = :$1897EB8; mem_name = :$1424468",
 		false
 	],
-	"FFlagFixCharacterAppearanceLoadedEvent": [
+	"DFFlagFixCharacterAppearanceLoadedEvent": [
 		"load = :$24312; mem_val = :$1897EAD; mem_name = :$142439C",
 		false
 	],
@@ -1427,11 +1427,11 @@
 		"load = :$24332; mem_val = :$1897EA7; mem_name = :$1424110",
 		false
 	],
-	"FFlagGetJoinDataEnable": [
+	"DFFlagGetJoinDataEnable": [
 		"load = :$24352; mem_val = :$1897EAE; mem_name = :$14243DC",
 		false
 	],
-	"FFlagGetTeamLazyEvaluation": [
+	"DFFlagGetTeamLazyEvaluation": [
 		"load = :$24372; mem_val = :$1897EA6; mem_name = :$14240F8",
 		false
 	],
@@ -1439,19 +1439,19 @@
 		"load = :$24392; mem_val = :$1897EA4; mem_name = :$14240B8",
 		false
 	],
-	"FFlagNoInfiniteLoopOnChatInfoLoadFailure": [
+	"DFFlagNoInfiniteLoopOnChatInfoLoadFailure": [
 		"load = :$243B2; mem_val = :$1897EA9; mem_name = :$1424278",
 		false
 	],
-	"FFlagPlayHereFix": [
+	"DFFlagPlayHereFix": [
 		"load = :$243D2; mem_val = :$1897EAF; mem_name = :$14243F0",
 		false
 	],
-	"FFlagRemoveDeadCode": [
+	"DFFlagRemoveDeadCode": [
 		"load = :$24432; mem_val = :$1897EA5; mem_name = :$14240E8",
 		false
 	],
-	"FFlagReportCharacterLoadTimeMetrics2": [
+	"DFFlagReportCharacterLoadTimeMetrics2": [
 		"load = :$24452; mem_val = :$1897EA3; mem_name = :$1424070",
 		false
 	],
@@ -1459,11 +1459,11 @@
 		"load = :$244A2; mem_val = :$1897EAB; mem_name = :$14242FC",
 		false
 	],
-	"FFlagUseCachedFriendChecksForPlayerIsFriendsWith": [
+	"DFFlagUseCachedFriendChecksForPlayerIsFriendsWith": [
 		"load = :$244C2; mem_val = :$1897EAA; mem_name = :$14242B8",
 		false
 	],
-	"FFlagAnchoredSendPositionUpdate": [
+	"DFFlagAnchoredSendPositionUpdate": [
 		"load = :$290B2; mem_val = :$1899DF8; mem_name = :$1426934",
 		false
 	],
@@ -1471,27 +1471,27 @@
 		"load = :$290D2; mem_val = :$1899DF9; mem_name = :$14269B0",
 		false
 	],
-	"FFlagNotMyNetworkOwner2": [
+	"DFFlagNotMyNetworkOwner2": [
 		"load = :$29112; mem_val = :$1899E01; mem_name = :$1426B68",
 		false
 	],
-	"FFlagPartInstanceCofMPropertyExposed": [
+	"DFFlagPartInstanceCofMPropertyExposed": [
 		"load = :$29132; mem_val = :$1899DFB; mem_name = :$1426B08",
 		false
 	],
-	"FFlagShowBufferCount": [
+	"DFFlagShowBufferCount": [
 		"load = :$29192; mem_val = :$1899E00; mem_name = :$1426B28",
 		false
 	],
-	"FFlagSpecificGravityDummyFunctionGA": [
+	"DFFlagSpecificGravityDummyFunctionGA": [
 		"load = :$291B2; mem_val = :$17851A4; mem_name = :$1426A18",
 		true
 	],
-	"FFlagSpecificGravityDummyReturnsZero": [
+	"DFFlagSpecificGravityDummyReturnsZero": [
 		"load = :$291D2; mem_val = :$1899DFA; mem_name = :$1426A48",
 		false
 	],
-	"FFlagDebugReportElevatedPhysicsFPSToGA": [
+	"DFFlagDebugReportElevatedPhysicsFPSToGA": [
 		"load = :$2AC82; mem_val = :$1785344; mem_name = :$14285D8",
 		true
 	],
@@ -1503,7 +1503,7 @@
 		"load = :$2ACE2; mem_val = :$189B653; mem_name = :$1428678",
 		false
 	],
-	"FFlagNullCheckInReEnableWeldConstraint": [
+	"DFFlagNullCheckInReEnableWeldConstraint": [
 		"load = :$2AD02; mem_val = :$189B652; mem_name = :$1428654",
 		false
 	],
@@ -1515,7 +1515,7 @@
 		"load = :$2AD42; mem_val = :$189B654; mem_name = :$1428688",
 		false
 	],
-	"FFlagPreventReturnOfElevatedPhysicsFPS": [
+	"DFFlagPreventReturnOfElevatedPhysicsFPS": [
 		"load = :$2AD62; mem_val = :$189B650; mem_name = :$14285A4",
 		false
 	],
@@ -1555,31 +1555,31 @@
 		"load = :$2EEF2; mem_val = :$189E1F6; mem_name = :$142B23C",
 		false
 	],
-	"FFlagFixSloppyWeakPtrs": [
+	"DFFlagFixSloppyWeakPtrs": [
 		"load = :$324B2; mem_val = :$18A00D0; mem_name = :$142CB0C",
 		false
 	],
-	"FFlagSmootherVehicleSeatControlSystem": [
+	"DFFlagSmootherVehicleSeatControlSystem": [
 		"load = :$33D02; mem_val = :$18A0E00; mem_name = :$142D5A0",
 		false
 	],
-	"FFlagCLI16089_2": [
+	"DFFlagCLI16089_2": [
 		"load = :$34832; mem_val = :$18A1318; mem_name = :$142DFF8",
 		false
 	],
-	"FFlagEnableSitNilProtection": [
+	"DFFlagEnableSitNilProtection": [
 		"load = :$34852; mem_val = :$18A131A; mem_name = :$142E01C",
 		false
 	],
-	"FFlagFixCheckSeatTransitionEnabled": [
+	"DFFlagFixCheckSeatTransitionEnabled": [
 		"load = :$34872; mem_val = :$18A131B; mem_name = :$142E034",
 		false
 	],
-	"FFlagFixCustomWeldSeatPart": [
+	"DFFlagFixCustomWeldSeatPart": [
 		"load = :$34892; mem_val = :$18A1319; mem_name = :$142E004",
 		false
 	],
-	"FFlagPreserveJointsOnSpawn": [
+	"DFFlagPreserveJointsOnSpawn": [
 		"load = :$34C42; mem_val = :$18A1670; mem_name = :$142E6F8",
 		false
 	],
@@ -1631,15 +1631,15 @@
 		"load = :$391C2; mem_val = :$18A485A; mem_name = :$1431F58",
 		false
 	],
-	"FFlagCLI15496": [
+	"DFFlagCLI15496": [
 		"load = :$397E2; mem_val = :$18A4E6A; mem_name = :$1433400",
 		false
 	],
-	"FFlagCleanUpLegacyParseChatCommand": [
+	"DFFlagCleanUpLegacyParseChatCommand": [
 		"load = :$39822; mem_val = :$18A4E71; mem_name = :$14336AC",
 		false
 	],
-	"FFlagDebugThumbnailForceFailure": [
+	"DFFlagDebugThumbnailForceFailure": [
 		"load = :$39842; mem_val = :$18A4E6F; mem_name = :$14335B8",
 		false
 	],
@@ -1655,7 +1655,7 @@
 		"load = :$399D2; mem_val = :$17855E4; mem_name = :$14333B4",
 		true
 	],
-	"FFlagServerGenPlayerXboxFixTag": [
+	"DFFlagServerGenPlayerXboxFixTag": [
 		"load = :$399F2; mem_val = :$18A4E72; mem_name = :$14336D8",
 		false
 	],
@@ -1667,15 +1667,15 @@
 		"load = :$39A72; mem_val = :$18A4E68; mem_name = :$14333C8",
 		false
 	],
-	"FFlagThrottleGetUserThumbnailAsync": [
+	"DFFlagThrottleGetUserThumbnailAsync": [
 		"load = :$39A92; mem_val = :$18A4E6E; mem_name = :$14334B8",
 		false
 	],
-	"FFlagVerifyIncomingFriendRequestsBeforeNotifying": [
+	"DFFlagVerifyIncomingFriendRequestsBeforeNotifying": [
 		"load = :$39AC2; mem_val = :$18A4E6B; mem_name = :$143340C",
 		false
 	],
-	"FFlagInfluxEnabled": [
+	"DFFlagInfluxEnabled": [
 		"load = :$3ADD2; mem_val = :$17856F4; mem_name = :$1434674",
 		true
 	],
@@ -1767,7 +1767,7 @@
 		"load = :$3B2C2; mem_val = :$18A5AED; mem_name = :$1434EF0",
 		false
 	],
-	"FFlagDebugDisableTimeoutDisconnect": [
+	"DFFlagDebugDisableTimeoutDisconnect": [
 		"load = :$3C932; mem_val = :$18A6B40; mem_name = :$14360B4",
 		false
 	],
@@ -1779,7 +1779,7 @@
 		"load = :$3C972; mem_val = :$18A6B41; mem_name = :$14360D4",
 		false
 	],
-	"FFlagRbxFormatMultiByteSizeFix": [
+	"DFFlagRbxFormatMultiByteSizeFix": [
 		"load = :$3DFA2; mem_val = :$18A7728; mem_name = :$14370DC",
 		false
 	],
@@ -1803,15 +1803,15 @@
 		"load = :$3EAC2; mem_val = :$18A7A46; mem_name = :$1437E18",
 		false
 	],
-	"FFlagHumanoidScalingFixHipHeightDuplication": [
+	"DFFlagHumanoidScalingFixHipHeightDuplication": [
 		"load = :$3EB42; mem_val = :$18A7A43; mem_name = :$1437D94",
 		false
 	],
-	"FFlagNPCUnequipTools": [
+	"DFFlagNPCUnequipTools": [
 		"load = :$3EB82; mem_val = :$18A7A4B; mem_name = :$1437EAC",
 		false
 	],
-	"FFlagNamesOccludedAsDefault": [
+	"DFFlagNamesOccludedAsDefault": [
 		"load = :$3EBA2; mem_val = :$18A7A41; mem_name = :$1437CD4",
 		false
 	],
@@ -1819,7 +1819,7 @@
 		"load = :$3EBC2; mem_val = :$18A7A40; mem_name = :$1437C8C",
 		false
 	],
-	"FFlagScaleAllAccessories2": [
+	"DFFlagScaleAllAccessories2": [
 		"load = :$3EBE2; mem_val = :$18A7A4A; mem_name = :$1437E84",
 		false
 	],
@@ -1827,7 +1827,7 @@
 		"load = :$3EC02; mem_val = :$18A7A42; mem_name = :$1437D5C",
 		false
 	],
-	"FFlagUserPreloadAnimations": [
+	"DFFlagUserPreloadAnimations": [
 		"load = :$3EC22; mem_val = :$18A7A49; mem_name = :$1437E5C",
 		false
 	],
@@ -1851,7 +1851,7 @@
 		"load = :$44CD2; mem_val = :$18AAC34; mem_name = :$1439F44",
 		false
 	],
-	"FFlagHttpServiceRequestAsync2": [
+	"DFFlagHttpServiceRequestAsync2": [
 		"load = :$47452; mem_val = :$18ADC48; mem_name = :$143BC04",
 		false
 	],
@@ -1871,7 +1871,7 @@
 		"load = :$484D2; mem_val = :$18AF257; mem_name = :$143D380",
 		false
 	],
-	"FFlagLocalizationAnalyticsLetterContentOnly": [
+	"DFFlagLocalizationAnalyticsLetterContentOnly": [
 		"load = :$484F2; mem_val = :$18AF24D; mem_name = :$143D3A4",
 		false
 	],
@@ -1879,7 +1879,7 @@
 		"load = :$48532; mem_val = :$18AF256; mem_name = :$143D480",
 		false
 	],
-	"FFlagLocalizationServiceDoNotExcludeChat": [
+	"DFFlagLocalizationServiceDoNotExcludeChat": [
 		"load = :$48552; mem_val = :$18AF254; mem_name = :$143D440",
 		false
 	],
@@ -1891,7 +1891,7 @@
 		"load = :$48602; mem_val = :$18AF24B; mem_name = :$143D344",
 		false
 	],
-	"FFlagTranslatorTranslateEnabled": [
+	"DFFlagTranslatorTranslateEnabled": [
 		"load = :$48622; mem_val = :$18AF255; mem_name = :$143D464",
 		false
 	],
@@ -1903,19 +1903,19 @@
 		"load = :$48662; mem_val = :$18AF24A; mem_name = :$143D324",
 		false
 	],
-	"FFlagHttpRbxApiWithWhitelistedDomains": [
+	"DFFlagHttpRbxApiWithWhitelistedDomains": [
 		"load = :$49692; mem_val = :$18B0AD8; mem_name = :$143F0A4",
 		false
 	],
-	"FFlagAllowClientFallback": [
+	"DFFlagAllowClientFallback": [
 		"load = :$49962; mem_val = :$1785E4D; mem_name = :$143F808",
 		true
 	],
-	"FFlagAllowPlayerArgs2": [
+	"DFFlagAllowPlayerArgs2": [
 		"load = :$49982; mem_val = :$18B0F55; mem_name = :$143F960",
 		false
 	],
-	"FFlagCheckMarketplaceAvailable": [
+	"DFFlagCheckMarketplaceAvailable": [
 		"load = :$499A2; mem_val = :$18B0F56; mem_name = :$14400CC",
 		false
 	],
@@ -1927,7 +1927,7 @@
 		"load = :$49A02; mem_val = :$18B0F51; mem_name = :$143F8A0",
 		false
 	],
-	"FFlagOrder66": [
+	"DFFlagOrder66": [
 		"load = :$49A42; mem_val = :$18B0F57; mem_name = :$1440108",
 		false
 	],
@@ -1971,11 +1971,11 @@
 		"load = :$4AE22; mem_val = :$18B23F3; mem_name = :$1441A70",
 		false
 	],
-	"FFlagStudioTrackPluginButtonSetActive": [
+	"DFFlagStudioTrackPluginButtonSetActive": [
 		"load = :$4AE42; mem_val = :$18B23F4; mem_name = :$1441A8C",
 		false
 	],
-	"FFlagStudioTrackPluginButtonSetActiveThrottled": [
+	"DFFlagStudioTrackPluginButtonSetActiveThrottled": [
 		"load = :$4AE62; mem_val = :$18B23F5; mem_name = :$1441AB0",
 		false
 	],
@@ -2019,11 +2019,11 @@
 		"load = :$50952; mem_val = :$18B7E24; mem_name = :$1446DBC",
 		false
 	],
-	"FFlagStayOutOfMySandbox2": [
+	"DFFlagStayOutOfMySandbox2": [
 		"load = :$509C2; mem_val = :$18B8051; mem_name = :$14473E8",
 		false
 	],
-	"FFlagStudioFixPropertySyncIssues": [
+	"StudioFixPropertySyncIssues": [
 		"load = :$509E2; mem_val = :$18B8050; mem_name = :$14473CC",
 		false
 	],
@@ -2047,15 +2047,15 @@
 		"load = :$51BB2; mem_val = :$18B85B8; mem_name = :$1447A6C",
 		false
 	],
-	"FFlagSetCollisionFidelityPropertyBasedOnData": [
+	"DFFlagSetCollisionFidelityPropertyBasedOnData": [
 		"load = :$51BD2; mem_val = :$18B85B9; mem_name = :$1447AA0",
 		false
 	],
-	"FFlagAllowTheTardisToSetItsLoadingScreenBeforeFlyingThroughTheTimeVortex": [
+	"DFFlagAllowTheTardisToSetItsLoadingScreenBeforeFlyingThroughTheTimeVortex": [
 		"load = :$52E22; mem_val = :$18B9783; mem_name = :$1448F28",
 		false
 	],
-	"FFlagCalculateExpirationOnTheDestinationServer": [
+	"DFFlagCalculateExpirationOnTheDestinationServer": [
 		"load = :$52E42; mem_val = :$18B977E; mem_name = :$1448E24",
 		false
 	],
@@ -2067,11 +2067,11 @@
 		"load = :$52E82; mem_val = :$18B9780; mem_name = :$1448E84",
 		false
 	],
-	"FFlagGroupTeleportMetricsByGroupSizeV2": [
+	"DFFlagGroupTeleportMetricsByGroupSizeV2": [
 		"load = :$52EA2; mem_val = :$18B977F; mem_name = :$1448E50",
 		false
 	],
-	"FFlagGroupTeleportMetricsSuccessAndFailure": [
+	"DFFlagGroupTeleportMetricsSuccessAndFailure": [
 		"load = :$52EC2; mem_val = :$18B977D; mem_name = :$1448DFC",
 		false
 	],
@@ -2079,7 +2079,7 @@
 		"load = :$52EE2; mem_val = :$18B9781; mem_name = :$1448EA8",
 		false
 	],
-	"FFlagLogGroupTeleportInfluxDB": [
+	"DFFlagLogGroupTeleportInfluxDB": [
 		"load = :$52F02; mem_val = :$18B9784; mem_name = :$1448F6C",
 		false
 	],
@@ -2087,7 +2087,7 @@
 		"load = :$52F42; mem_val = :$1786350; mem_name = :$1448D3C",
 		true
 	],
-	"FFlagTeleportPartyAsyncEnable": [
+	"DFFlagTeleportPartyAsyncEnable": [
 		"load = :$52FC2; mem_val = :$18B977C; mem_name = :$1448DE0",
 		false
 	],
@@ -2107,7 +2107,7 @@
 		"load = :$56182; mem_val = :$1786670; mem_name = :$144CE70",
 		true
 	],
-	"FFlagDoNotLoadSoundsOnServer": [
+	"DFFlagDoNotLoadSoundsOnServer": [
 		"load = :$561A2; mem_val = :$18BC2C0; mem_name = :$144CE00",
 		false
 	],
@@ -2123,7 +2123,7 @@
 		"load = :$56262; mem_val = :$18BC2D0; mem_name = :$144CED0",
 		false
 	],
-	"FFlagSoundServiceCleanBuggyTempSoundFilePath": [
+	"DFFlagSoundServiceCleanBuggyTempSoundFilePath": [
 		"load = :$56322; mem_val = :$18BC2CF; mem_name = :$144CF64",
 		false
 	],
@@ -2143,11 +2143,11 @@
 		"load = :$57642; mem_val = :$18BD5C0; mem_name = :$1450D0C",
 		false
 	],
-	"FFlagDebugAnalyticsSendUserId": [
+	"DFFlagDebugAnalyticsSendUserId": [
 		"load = :$57882; mem_val = :$1786870; mem_name = :$1450F64",
 		true
 	],
-	"FFlagEnableWakingPGSJointsForNonSolverPrimitives": [
+	"DFFlagEnableWakingPGSJointsForNonSolverPrimitives": [
 		"load = :$57BC2; mem_val = :$18BDB18; mem_name = :$14510C4",
 		false
 	],
@@ -2159,7 +2159,7 @@
 		"load = :$57C62; mem_val = :$18BDC6C; mem_name = :$14515D0",
 		false
 	],
-	"FFlagDialectPreferenceOrder": [
+	"DFFlagDialectPreferenceOrder": [
 		"load = :$5A5C2; mem_val = :$18BF720; mem_name = :$1452F4C",
 		false
 	],
@@ -2179,7 +2179,7 @@
 		"load = :$5D622; mem_val = :$18C138F; mem_name = :$14549C0",
 		false
 	],
-	"FFlagTerrainRaycastsRespectCollisionGroups": [
+	"TerrainRaycastsRespectCollisionGroups": [
 		"load = :$5D6C2; mem_val = :$18C138E; mem_name = :$1454970",
 		false
 	],
@@ -2195,11 +2195,11 @@
 		"load = :$5D782; mem_val = :$18C1459; mem_name = :$1454D24",
 		false
 	],
-	"FFlagAccoutrementWeldingFilteringEnabled": [
+	"DFFlagAccoutrementWeldingFilteringEnabled": [
 		"load = :$5DA32; mem_val = :$18C20C0; mem_name = :$1455740",
 		false
 	],
-	"FFlagEnableTrackingAccessoryDestoyedWithLiveSignals": [
+	"DFFlagEnableTrackingAccessoryDestoyedWithLiveSignals": [
 		"load = :$5DA52; mem_val = :$18C20C1; mem_name = :$1455764",
 		false
 	],
@@ -2207,7 +2207,7 @@
 		"load = :$5E232; mem_val = :$18C2B18; mem_name = :$1455D58",
 		false
 	],
-	"FFlagUserUseSoundDispatcher": [
+	"DFFlagUserUseSoundDispatcher": [
 		"load = :$5E652; mem_val = :$18C31E8; mem_name = :$1456FF4",
 		false
 	],
@@ -2235,11 +2235,11 @@
 		"load = :$5FD92; mem_val = :$18C4DBC; mem_name = :$1458714",
 		false
 	],
-	"FFlagTypesetterSubstituteOnReject": [
+	"DFFlagTypesetterSubstituteOnReject": [
 		"load = :$5FDB2; mem_val = :$18C4DC0; mem_name = :$1458780",
 		false
 	],
-	"FFlagDebugDisableLogServiceExecuteScript": [
+	"DFFlagDebugDisableLogServiceExecuteScript": [
 		"load = :$5FEE2; mem_val = :$18C4FA0; mem_name = :$1458C60",
 		false
 	],
@@ -2247,7 +2247,7 @@
 		"load = :$60A32; mem_val = :$18C5595; mem_name = :$145F108",
 		false
 	],
-	"FFlagLuaStrlibLimitMatchDepth": [
+	"DFFlagLuaStrlibLimitMatchDepth": [
 		"load = :$60A52; mem_val = :$1786D48; mem_name = :$145E3D0",
 		true
 	],
@@ -2315,7 +2315,7 @@
 		"load = :$63422; mem_val = :$18C80F9; mem_name = :$1462484",
 		false
 	],
-	"FFlagFileSystemGetCacheDirectoryLikeAndroid": [
+	"DFFlagFileSystemGetCacheDirectoryLikeAndroid": [
 		"load = :$634D2; mem_val = :$18C8130; mem_name = :$1462624",
 		false
 	],
@@ -2323,39 +2323,39 @@
 		"load = :$63702; mem_val = :$18C86F8; mem_name = :$1463394",
 		false
 	],
-	"FFlagAllowDuplicateWeldConstraintsAnalytics": [
+	"DFFlagAllowDuplicateWeldConstraintsAnalytics": [
 		"load = :$637D2; mem_val = :$18C8B46; mem_name = :$1464DB8",
 		false
 	],
-	"FFlagAllowDuplicateWeldConstraints": [
+	"DFFlagAllowDuplicateWeldConstraints": [
 		"load = :$637F2; mem_val = :$18C8B45; mem_name = :$1464D98",
 		false
 	],
-	"FFlagCyclicExecutiveThrottlingCancelWorldStepAccum": [
+	"DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": [
 		"load = :$63872; mem_val = :$18C8B41; mem_name = :$1464CA8",
 		false
 	],
-	"FFlagFixJointInstanceDeleteOnPGSEnable": [
+	"DFFlagFixJointInstanceDeleteOnPGSEnable": [
 		"load = :$638B2; mem_val = :$18C8B49; mem_name = :$1464E2C",
 		false
 	],
-	"FFlagOneSimpleStepToOptimizeContactBufferZone": [
+	"DFFlagOneSimpleStepToOptimizeContactBufferZone": [
 		"load = :$638F2; mem_val = :$18C8B4A; mem_name = :$1464E50",
 		false
 	],
-	"FFlagTheseAnalyticsAreBigEnoughForTheTwoOfUs": [
+	"DFFlagTheseAnalyticsAreBigEnoughForTheTwoOfUs": [
 		"load = :$63992; mem_val = :$18C8B48; mem_name = :$1464E04",
 		false
 	],
-	"FFlagThisJointAintBigEnoughForTheTwoOfUs": [
+	"DFFlagThisJointAintBigEnoughForTheTwoOfUs": [
 		"load = :$639B2; mem_val = :$18C8B47; mem_name = :$1464DE0",
 		false
 	],
-	"FFlagDisableHopperBin": [
+	"DFFlagDisableHopperBin": [
 		"load = :$64762; mem_val = :$18C9328; mem_name = :$1465628",
 		false
 	],
-	"FFlagTrackHopperBinUsage2": [
+	"DFFlagTrackHopperBinUsage2": [
 		"load = :$647A2; mem_val = :$18C9329; mem_name = :$146563C",
 		false
 	],
@@ -2387,7 +2387,7 @@
 		"load = :$65FA2; mem_val = :$18CB256; mem_name = :$1466C8C",
 		false
 	],
-	"FFlagChatServiceTargetedFilterStringResponse2": [
+	"DFFlagChatServiceTargetedFilterStringResponse2": [
 		"load = :$65FC2; mem_val = :$18CB24A; mem_name = :$1466BD8",
 		false
 	],
@@ -2399,11 +2399,11 @@
 		"load = :$66002; mem_val = :$18CB25A; mem_name = :$14670E4",
 		false
 	],
-	"FFlagHandlePlayerBlockListsInternalPermissive": [
+	"DFFlagHandlePlayerBlockListsInternalPermissive": [
 		"load = :$66092; mem_val = :$18CB255; mem_name = :$1466C60",
 		false
 	],
-	"FFlagHandlePlayerBlockListsInternalStrict": [
+	"DFFlagHandlePlayerBlockListsInternalStrict": [
 		"load = :$660B2; mem_val = :$18CB254; mem_name = :$1466C38",
 		false
 	],
@@ -2415,19 +2415,19 @@
 		"load = :$662E2; mem_val = :$18CB258; mem_name = :$14670A4",
 		false
 	],
-	"FFlagDisableFriendServiceLoadFriendRequests": [
+	"DFFlagDisableFriendServiceLoadFriendRequests": [
 		"load = :$66A52; mem_val = :$18CBBCB; mem_name = :$1468130",
 		false
 	],
-	"FFlagFriendServiceTargetedFriendEventReplicating": [
+	"DFFlagFriendServiceTargetedFriendEventReplicating": [
 		"load = :$66B12; mem_val = :$18CBBCC; mem_name = :$1468158",
 		false
 	],
-	"FFlagDataStoreAutoHttpRetry": [
+	"DFFlagDataStoreAutoHttpRetry": [
 		"load = :$67B22; mem_val = :$18CD2E3; mem_name = :$146A144",
 		false
 	],
-	"FFlagDataStoresP50": [
+	"DFFlagDataStoresP50": [
 		"load = :$67E52; mem_val = :$18CD2E2; mem_name = :$146A134",
 		false
 	],
@@ -2435,7 +2435,7 @@
 		"load = :$67E92; mem_val = :$18CD2E1; mem_name = :$146A108",
 		false
 	],
-	"FFlagTweenInt64Fix": [
+	"DFFlagTweenInt64Fix": [
 		"load = :$68282; mem_val = :$18CD970; mem_name = :$146A958",
 		false
 	],
@@ -2443,31 +2443,31 @@
 		"load = :$68302; mem_val = :$18CDBEC; mem_name = :$146AE20",
 		false
 	],
-	"FFlagDebugAdvancedNetworkedVisualizer": [
+	"DFFlagDebugAdvancedNetworkedVisualizer": [
 		"load = :$68342; mem_val = :$1787772; mem_name = :$146B15C",
 		true
 	],
-	"FFlagDebugAllowMultiRotationInterpolation": [
+	"DFFlagDebugAllowMultiRotationInterpolation": [
 		"load = :$68362; mem_val = :$1787770; mem_name = :$146AEA8",
 		true
 	],
-	"FFlagDebugDisable180DegreeFlip": [
+	"DFFlagDebugDisable180DegreeFlip": [
 		"load = :$68382; mem_val = :$18CDC29; mem_name = :$146B194",
 		false
 	],
-	"FFlagDebugDisableAngularVelocityInterpolationComponent": [
+	"DFFlagDebugDisableAngularVelocityInterpolationComponent": [
 		"load = :$683A2; mem_val = :$18CDC25; mem_name = :$146AED0",
 		false
 	],
-	"FFlagDebugEnableInterpolationVisualizer": [
+	"DFFlagDebugEnableInterpolationVisualizer": [
 		"load = :$683C2; mem_val = :$18CDC27; mem_name = :$146B0FC",
 		false
 	],
-	"FFlagDebugMechanismInterpolationWorldSpace": [
+	"DFFlagDebugMechanismInterpolationWorldSpace": [
 		"load = :$683E2; mem_val = :$18CDC26; mem_name = :$146B0D4",
 		false
 	],
-	"FFlagDebugVisualizationImprovements": [
+	"DFFlagDebugVisualizationImprovements": [
 		"load = :$68422; mem_val = :$1787771; mem_name = :$146B13C",
 		true
 	],
@@ -2475,7 +2475,7 @@
 		"load = :$68482; mem_val = :$18CDC24; mem_name = :$146AE88",
 		false
 	],
-	"FFlagUseDeltaForFBAdorn": [
+	"DFFlagUseDeltaForFBAdorn": [
 		"load = :$68662; mem_val = :$18CDC28; mem_name = :$146B180",
 		false
 	],
@@ -2483,7 +2483,7 @@
 		"load = :$69602; mem_val = :$18CEB0D; mem_name = :$146C2B8",
 		false
 	],
-	"FFlagLuaAtomicBridgeCheckSpace": [
+	"DFFlagLuaAtomicBridgeCheckSpace": [
 		"load = :$69622; mem_val = :$18CEB0E; mem_name = :$146C2E8",
 		false
 	],
@@ -2491,7 +2491,7 @@
 		"load = :$69642; mem_val = :$18CEB0C; mem_name = :$146C2AC",
 		false
 	],
-	"FFlagAllowPlayerArgs": [
+	"DFFlagAllowPlayerArgs": [
 		"load = :$69762; mem_val = :$18CEEA1; mem_name = :$146D458",
 		false
 	],
@@ -2499,19 +2499,19 @@
 		"load = :$69782; mem_val = :$18CEEA0; mem_name = :$146D438",
 		false
 	],
-	"FFlagEnforceSlaveStateEnabledStatus": [
+	"DFFlagEnforceSlaveStateEnabledStatus": [
 		"load = :$6BE02; mem_val = :$18D1C93; mem_name = :$146F338",
 		false
 	],
-	"FFlagFixCharacterJitterDownStairs": [
+	"DFFlagFixCharacterJitterDownStairs": [
 		"load = :$6BE22; mem_val = :$18D1C91; mem_name = :$146F2FC",
 		false
 	],
-	"FFlagFixFirstPersonSwimmingStateChange": [
+	"DFFlagFixFirstPersonSwimmingStateChange": [
 		"load = :$6BE42; mem_val = :$18D1C8F; mem_name = :$146F2BC",
 		false
 	],
-	"FFlagHumanoidWithPGSConstraintsUsePhysicsState": [
+	"DFFlagHumanoidWithPGSConstraintsUsePhysicsState": [
 		"load = :$6BE62; mem_val = :$18D1C8D; mem_name = :$146F27C",
 		false
 	],
@@ -2519,15 +2519,15 @@
 		"load = :$6BE82; mem_val = :$18D1C8C; mem_name = :$146F268",
 		false
 	],
-	"FFlagReduceTrussSearchDistance": [
+	"DFFlagReduceTrussSearchDistance": [
 		"load = :$6BEC2; mem_val = :$18D1C92; mem_name = :$146F31C",
 		false
 	],
-	"FFlagSafeSwimmingJump2": [
+	"DFFlagSafeSwimmingJump2": [
 		"load = :$6BEE2; mem_val = :$18D1C8E; mem_name = :$146F2A8",
 		false
 	],
-	"FFlagUserFixCharacterSoundIssues": [
+	"DFFlagUserFixCharacterSoundIssues": [
 		"load = :$6BF22; mem_val = :$18D1C90; mem_name = :$146F2E0",
 		false
 	],
@@ -2539,7 +2539,7 @@
 		"load = :$6E702; mem_val = :$18D4E50; mem_name = :$1473240",
 		false
 	],
-	"FFlagGoodbyeChoiceActiveProperty": [
+	"DFFlagGoodbyeChoiceActiveProperty": [
 		"load = :$6F0F2; mem_val = :$18D5904; mem_name = :$1473EB4",
 		false
 	],
@@ -2587,11 +2587,11 @@
 		"load = :$72022; mem_val = :$18D98C5; mem_name = :$1476548",
 		false
 	],
-	"FFlagAnimatorOnSteppedKeepAlive": [
+	"DFFlagAnimatorOnSteppedKeepAlive": [
 		"load = :$72042; mem_val = :$18D98DA; mem_name = :$14768D4",
 		false
 	],
-	"FFlagDoNotRunAnimationEditorInPlayMode": [
+	"DFFlagDoNotRunAnimationEditorInPlayMode": [
 		"load = :$72062; mem_val = :$18D98C0; mem_name = :$1476494",
 		false
 	],
@@ -2655,7 +2655,7 @@
 		"load = :$72242; mem_val = :$18D98CE; mem_name = :$14766A4",
 		false
 	],
-	"FFlagFixJointDestroyedPrimitiveInsert2": [
+	"DFFlagFixJointDestroyedPrimitiveInsert2": [
 		"load = :$725B2; mem_val = :$18D9D08; mem_name = :$1476E10",
 		false
 	],
@@ -2671,7 +2671,7 @@
 		"load = :$738B2; mem_val = :$18DCC49; mem_name = :$14787F8",
 		false
 	],
-	"FFlagServerNotifyPlayerScriptsStatus": [
+	"DFFlagServerNotifyPlayerScriptsStatus": [
 		"load = :$738D2; mem_val = :$18DCC48; mem_name = :$14787D8",
 		false
 	],
@@ -2679,11 +2679,11 @@
 		"load = :$73912; mem_val = :$18DCC4C; mem_name = :$1478844",
 		false
 	],
-	"FFlagDSPLeakDueToGCofParent": [
+	"DFFlagDSPLeakDueToGCofParent": [
 		"load = :$76F62; mem_val = :$18E1D48; mem_name = :$147B9F0",
 		false
 	],
-	"FFlagNoDSPOnServer": [
+	"DFFlagNoDSPOnServer": [
 		"load = :$76F82; mem_val = :$18E1D49; mem_name = :$147BA08",
 		false
 	],
@@ -2691,7 +2691,7 @@
 		"load = :$78472; mem_val = :$18E4080; mem_name = :$147C9EC",
 		false
 	],
-	"FFlagThrottleDeveloperConsoleEvents": [
+	"DFFlagThrottleDeveloperConsoleEvents": [
 		"load = :$78B02; mem_val = :$18E4AB8; mem_name = :$147D180",
 		false
 	],
@@ -2699,7 +2699,7 @@
 		"load = :$78E62; mem_val = :$18E5358; mem_name = :$147D56C",
 		false
 	],
-	"FFlagDataStoreReportNonParsableData": [
+	"DFFlagDataStoreReportNonParsableData": [
 		"load = :$794F2; mem_val = :$18E5BC3; mem_name = :$147DBB8",
 		false
 	],
@@ -2707,23 +2707,23 @@
 		"load = :$79552; mem_val = :$18E5BC2; mem_name = :$147DB64",
 		false
 	],
-	"FFlagNonJsonParseType": [
+	"DFFlagNonJsonParseType": [
 		"load = :$79592; mem_val = :$18E5BC1; mem_name = :$147DB50",
 		false
 	],
-	"FFlagHttpCacheCleanBasedOnMemory": [
+	"DFFlagHttpCacheCleanBasedOnMemory": [
 		"load = :$799D2; mem_val = :$18E6419; mem_name = :$147F108",
 		false
 	],
-	"FFlagHttpFirstCaching": [
+	"DFFlagHttpFirstCaching": [
 		"load = :$79B22; mem_val = :$1787FF4; mem_name = :$147F15C",
 		true
 	],
-	"FFlagHttpZeroLatencyCaching": [
+	"DFFlagHttpZeroLatencyCaching": [
 		"load = :$79B82; mem_val = :$18E641A; mem_name = :$147F144",
 		false
 	],
-	"FFlagSetSecureFlag": [
+	"DFFlagSetSecureFlag": [
 		"load = :$79BA2; mem_val = :$18E641B; mem_name = :$147F170",
 		false
 	],
@@ -2735,19 +2735,19 @@
 		"load = :$79D72; mem_val = :$18E654C; mem_name = :$147FE20",
 		false
 	],
-	"FFlagLocalizationCustomAtoiOptimization": [
+	"DFFlagLocalizationCustomAtoiOptimization": [
 		"load = :$79E62; mem_val = :$18E75D8; mem_name = :$1480600",
 		false
 	],
-	"FFlagBroadPhaseIslandBufferZone5": [
+	"DFFlagBroadPhaseIslandBufferZone5": [
 		"load = :$7BE32; mem_val = :$18E7765; mem_name = :$1481448",
 		false
 	],
-	"FFlagDebugBroadPhaseIslandBufferZoneApplyPartLimit": [
+	"DFFlagDebugBroadPhaseIslandBufferZoneApplyPartLimit": [
 		"load = :$7BE92; mem_val = :$178818C; mem_name = :$1481464",
 		true
 	],
-	"FFlagDontCallOnMovingAssemblyRoot": [
+	"DFFlagDontCallOnMovingAssemblyRoot": [
 		"load = :$7BEB2; mem_val = :$18E7764; mem_name = :$1481428",
 		false
 	],
@@ -2763,11 +2763,11 @@
 		"load = :$7BF82; mem_val = :$18E7878; mem_name = :$1481AC0",
 		false
 	],
-	"FFlagPGSSolverIntegrateOnlyPositionsEnabled": [
+	"DFFlagPGSSolverIntegrateOnlyPositionsEnabled": [
 		"load = :$7BFA2; mem_val = :$18E787A; mem_name = :$1481AF0",
 		false
 	],
-	"FFlagPGSSolverSimIslandsEnabled2": [
+	"DFFlagPGSSolverSimIslandsEnabled2": [
 		"load = :$7BFC2; mem_val = :$18E7879; mem_name = :$1481AD4",
 		false
 	],
@@ -2795,7 +2795,7 @@
 		"load = :$7C082; mem_val = :$18E7979; mem_name = :$1482094",
 		false
 	],
-	"FFlagDebugReportAnchoredSimBodyUpdatedFromSolver": [
+	"DFFlagDebugReportAnchoredSimBodyUpdatedFromSolver": [
 		"load = :$7C0A2; mem_val = :$18E797A; mem_name = :$14820B4",
 		false
 	],
@@ -2803,7 +2803,7 @@
 		"load = :$7C0C2; mem_val = :$18E7978; mem_name = :$1482078",
 		false
 	],
-	"FFlagInfluxOverTCP": [
+	"DFFlagInfluxOverTCP": [
 		"load = :$7C2B2; mem_val = :$18E8DE0; mem_name = :$14822E4",
 		false
 	],
@@ -2811,15 +2811,15 @@
 		"load = :$7C3B2; mem_val = :$18E909C; mem_name = :$14830D0",
 		false
 	],
-	"FFlagFixMeshNormalsForNonUniformScaling": [
+	"DFFlagFixMeshNormalsForNonUniformScaling": [
 		"load = :$7C3D2; mem_val = :$18E909D; mem_name = :$148310C",
 		false
 	],
-	"FFlagFixSmallBoundingBoxes2": [
+	"DFFlagFixSmallBoundingBoxes2": [
 		"load = :$7C3F2; mem_val = :$18E909E; mem_name = :$1483130",
 		false
 	],
-	"FFlagClampHeightAboveFloorForce": [
+	"DFFlagClampHeightAboveFloorForce": [
 		"load = :$7C482; mem_val = :$18E9105; mem_name = :$14832F0",
 		false
 	],
@@ -2831,11 +2831,11 @@
 		"load = :$7C582; mem_val = :$18E9107; mem_name = :$1483390",
 		false
 	],
-	"FFlagNavigationServiceAnalytics": [
+	"DFFlagNavigationServiceAnalytics": [
 		"load = :$7C8A2; mem_val = :$18E9258; mem_name = :$1485494",
 		false
 	],
-	"FFlagNavigationServiceTimingAnalytics": [
+	"DFFlagNavigationServiceTimingAnalytics": [
 		"load = :$7C902; mem_val = :$18E9259; mem_name = :$14854B0",
 		false
 	],
@@ -2875,11 +2875,11 @@
 		"load = :$7CC82; mem_val = :$18E93C8; mem_name = :$1485FEC",
 		false
 	],
-	"FFlagTuplesTooTerrible": [
+	"DFFlagTuplesTooTerrible": [
 		"load = :$7CD42; mem_val = :$18EC769; mem_name = :$14865A8",
 		false
 	],
-	"FFlagFixRaysInWedges": [
+	"FixRaysInWedges": [
 		"load = :$7CE52; mem_val = :$18EC7CC; mem_name = :$1487080",
 		false
 	],
@@ -2895,35 +2895,35 @@
 		"load = :$7CED2; mem_val = :$18EC7F9; mem_name = :$14871A4",
 		false
 	],
-	"FFlagRotationalViscocityEnabled2": [
+	"DFFlagRotationalViscocityEnabled2": [
 		"load = :$7CFB2; mem_val = :$18EC80C; mem_name = :$1487A48",
 		false
 	],
-	"FFlagPGSWakeOtherAssemblyForJoints": [
+	"DFFlagPGSWakeOtherAssemblyForJoints": [
 		"load = :$7CFF2; mem_val = :$18EC97C; mem_name = :$14C31C0",
 		false
 	],
-	"FFlagPGSWakeOtherIfOneAssemblyIsAwake": [
+	"DFFlagPGSWakeOtherIfOneAssemblyIsAwake": [
 		"load = :$7D012; mem_val = :$18EC97D; mem_name = :$14C31E0",
 		false
 	],
-	"FFlagFixCharacterStuckInFreefall": [
+	"DFFlagFixCharacterStuckInFreefall": [
 		"load = :$7D0F2; mem_val = :$18ECAE4; mem_name = :$14C3A38",
 		false
 	],
-	"FFlagFixFreefallStuckIgnoreSelfContact": [
+	"DFFlagFixFreefallStuckIgnoreSelfContact": [
 		"load = :$7D112; mem_val = :$18ECAE5; mem_name = :$14C3B08",
 		false
 	],
-	"FFlagJumpingTorsoShouldCollide": [
+	"DFFlagJumpingTorsoShouldCollide": [
 		"load = :$7D232; mem_val = :$18ECB14; mem_name = :$14C3BD4",
 		false
 	],
-	"FFlagFindClosestHandleHitTestFixEnabled": [
+	"DFFlagFindClosestHandleHitTestFixEnabled": [
 		"load = :$7D272; mem_val = :$18ECB60; mem_name = :$14C3EC0",
 		false
 	],
-	"FFlagCleanCacheMoveMutex": [
+	"DFFlagCleanCacheMoveMutex": [
 		"load = :$7D292; mem_val = :$18ECB68; mem_name = :$14C3EE4",
 		false
 	],
@@ -2931,19 +2931,19 @@
 		"load = :$7D352; mem_val = :$18ECBBD; mem_name = :$14C409C",
 		false
 	],
-	"FFlagBgUpdateRedirects": [
+	"DFFlagBgUpdateRedirects": [
 		"load = :$7D392; mem_val = :$18ECBBC; mem_name = :$14C4020",
 		false
 	],
-	"FFlagHttpBatchSecure": [
+	"DFFlagHttpBatchSecure": [
 		"load = :$7D432; mem_val = :$18ECBBE; mem_name = :$14C4100",
 		false
 	],
-	"FFlagFixFreefallRepelWithCanCollideFalse": [
+	"DFFlagFixFreefallRepelWithCanCollideFalse": [
 		"load = :$7D7D2; mem_val = :$18ECF7D; mem_name = :$14CCF4C",
 		false
 	],
-	"FFlagFixHumanoidEmbeddedInGround4": [
+	"DFFlagFixHumanoidEmbeddedInGround4": [
 		"load = :$7D7F2; mem_val = :$18ECF7C; mem_name = :$14CCF0C",
 		false
 	],
@@ -2979,7 +2979,7 @@
 		"load = :$7DA32; mem_val = :$18ED010; mem_name = :$14CD46C",
 		false
 	],
-	"FFlagNavigationRasterizeMeshWithTriangleMeshV2": [
+	"DFFlagNavigationRasterizeMeshWithTriangleMeshV2": [
 		"load = :$7DA52; mem_val = :$18ED040; mem_name = :$14CD5FC",
 		false
 	],
@@ -3027,19 +3027,19 @@
 		"load = :$7DED2; mem_val = :$1A3BA94; mem_name = :$1511990",
 		false
 	],
-	"FFlagHttpUrlDecodeFix": [
+	"DFFlagHttpUrlDecodeFix": [
 		"load = :$7E0F2; mem_val = :$1A3BBC1; mem_name = :$1511B68",
 		false
 	],
-	"FFlagHttpUrlPortFix": [
+	"DFFlagHttpUrlPortFix": [
 		"load = :$7E112; mem_val = :$1A3BBC0; mem_name = :$1511B58",
 		false
 	],
-	"FFlagEnableThreadMonitor2": [
+	"DFFlagEnableThreadMonitor2": [
 		"load = :$7E1D2; mem_val = :$1A3BC38; mem_name = :$1512214",
 		false
 	],
-	"FFlagDataStoreFixReadingNaNInf": [
+	"DFFlagDataStoreFixReadingNaNInf": [
 		"load = :$7E382; mem_val = :$1A3CC2C; mem_name = :$1512288",
 		false
 	],
@@ -3087,19 +3087,19 @@
 		"load = :$7EA62; mem_val = :$1A3CFFC; mem_name = :$1517628",
 		false
 	],
-	"FFlagDebugRakNetUseUdt": [
+	"DFFlagDebugRakNetUseUdt": [
 		"load = :$7EBD2; mem_val = :$1A8F299; mem_name = :$1517964",
 		false
 	],
-	"FFlagRakNetDetectNetUnreachable": [
+	"DFFlagRakNetDetectNetUnreachable": [
 		"load = :$7EC12; mem_val = :$1A8F298; mem_name = :$1517948",
 		false
 	],
-	"FFlagRakNetFixBwCollapse": [
+	"DFFlagRakNetFixBwCollapse": [
 		"load = :$7EC32; mem_val = :$1A8F29B; mem_name = :$1517990",
 		false
 	],
-	"FFlagRakNetUseSlidingWindow4": [
+	"DFFlagRakNetUseSlidingWindow4": [
 		"load = :$7ECD2; mem_val = :$1A8F29A; mem_name = :$1517978",
 		false
 	],
@@ -3123,7 +3123,7 @@
 		"load = :$7F452; mem_val = :$1A90C8F; mem_name = :$1518564",
 		false
 	],
-	"FFlagGameJoinDeprecateVendorId": [
+	"DFFlagGameJoinDeprecateVendorId": [
 		"load = :$7F572; mem_val = :$1A90C9A; mem_name = :$15185DC",
 		false
 	],
@@ -3175,7 +3175,7 @@
 		"load = :$7FAC2; mem_val = :$1A90C85; mem_name = :$15183A0",
 		false
 	],
-	"FFlagUseCorrectCoreCase1Devices": [
+	"DFFlagUseCorrectCoreCase1Devices": [
 		"load = :$7FAE2; mem_val = :$1A90C98; mem_name = :$1518584",
 		false
 	],
@@ -3183,11 +3183,11 @@
 		"load = :$7FB02; mem_val = :$1A90C8D; mem_name = :$151849C",
 		false
 	],
-	"FFlagCLI120342": [
+	"DFFlagCLI120342": [
 		"load = :$80922; mem_val = :$1A914EF; mem_name = :$1519E78",
 		false
 	],
-	"FFlagCLI120342p2": [
+	"DFFlagCLI120342p2": [
 		"load = :$80942; mem_val = :$1A914F8; mem_name = :$1519E84",
 		false
 	],
@@ -3199,7 +3199,7 @@
 		"load = :$809C2; mem_val = :$1A914EE; mem_name = :$1519E5C",
 		false
 	],
-	"FFlagUseUNSPEC1": [
+	"DFFlagUseUNSPEC1": [
 		"load = :$80A12; mem_val = :$1A914EC; mem_name = :$1519DBC",
 		false
 	],
@@ -3211,11 +3211,11 @@
 		"load = :$80C72; mem_val = :$1A9162C; mem_name = :$151A81C",
 		false
 	],
-	"FFlagQuitToo": [
+	"DFFlagQuitToo": [
 		"load = :$80C92; mem_val = :$1A9161E; mem_name = :$151A7FC",
 		false
 	],
-	"FFlagServerCopiesPlayerGui": [
+	"DFFlagServerCopiesPlayerGui": [
 		"load = :$80CF2; mem_val = :$1A9162D; mem_name = :$151A834",
 		false
 	],
@@ -3223,23 +3223,23 @@
 		"load = :$80D12; mem_val = :$1A9161F; mem_name = :$151A804",
 		false
 	],
-	"FFlagSimplifyRakNetConnectionHandshake": [
+	"DFFlagSimplifyRakNetConnectionHandshake": [
 		"load = :$80D32; mem_val = :$1A9161D; mem_name = :$151A7C8",
 		false
 	],
-	"FFlagDebugEnableReportPlaceIDAboveMemory": [
+	"DFFlagDebugEnableReportPlaceIDAboveMemory": [
 		"load = :$80D82; mem_val = :$1A91BC8; mem_name = :$151AFA4",
 		false
 	],
-	"FFlagDebugGAReportThrottledSessions": [
+	"DFFlagDebugGAReportThrottledSessions": [
 		"load = :$80DA2; mem_val = :$1A91BCC; mem_name = :$151B03C",
 		false
 	],
-	"FFlagReportClientMemoryCat": [
+	"DFFlagReportClientMemoryCat": [
 		"load = :$80F32; mem_val = :$1A91BC9; mem_name = :$151AFE8",
 		false
 	],
-	"FFlagReportClientTextureMemory": [
+	"DFFlagReportClientTextureMemory": [
 		"load = :$80F52; mem_val = :$1A91BCA; mem_name = :$151B000",
 		false
 	],
@@ -3259,11 +3259,11 @@
 		"load = :$81132; mem_val = :$1A92303; mem_name = :$151B660",
 		false
 	],
-	"FFlagIPV6RobloxStudioCleanUp": [
+	"DFFlagIPV6RobloxStudioCleanUp": [
 		"load = :$81312; mem_val = :$1A92424; mem_name = :$151C054",
 		false
 	],
-	"FFlagRCCSupportCloudEdit": [
+	"DFFlagRCCSupportCloudEdit": [
 		"load = :$81372; mem_val = :$1A92421; mem_name = :$151C02C",
 		false
 	],
@@ -3271,27 +3271,27 @@
 		"load = :$81392; mem_val = :$1A92422; mem_name = :$151C040",
 		false
 	],
-	"FFlagReplicatorHasCapability": [
+	"DFFlagReplicatorHasCapability": [
 		"load = :$813B2; mem_val = :$1A92426; mem_name = :$151C0F4",
 		false
 	],
-	"FFlagReportSolverUsageStats": [
+	"DFFlagReportSolverUsageStats": [
 		"load = :$81412; mem_val = :$1A92425; mem_name = :$151C0A8",
 		false
 	],
-	"FFlagDebugDisableProjectileOwnershipLock": [
+	"DFFlagDebugDisableProjectileOwnershipLock": [
 		"load = :$81642; mem_val = :$1A92564; mem_name = :$151C7CC",
 		false
 	],
-	"FFlagBodyColorsColor3PropertyReplicationEnabled": [
+	"BodyColorsColor3PropertyReplicationEnabled": [
 		"load = :$817E2; mem_val = :$1A925AF; mem_name = :$151CA80",
 		false
 	],
-	"FFlagBodyColorsColor3PropertyReplicationLogicEnabled": [
+	"DFFlagBodyColorsColor3PropertyReplicationLogicEnabled": [
 		"load = :$81802; mem_val = :$1789770; mem_name = :$151CAFC",
 		true
 	],
-	"FFlagDebugPrintLagServer": [
+	"DFFlagDebugPrintLagServer": [
 		"load = :$81862; mem_val = :$1A925B5; mem_name = :$151CB7C",
 		false
 	],
@@ -3311,7 +3311,7 @@
 		"load = :$81922; mem_val = :$1A925B6; mem_name = :$151CB90",
 		false
 	],
-	"FFlagLogMemoryStatsOnCompressionError": [
+	"DFFlagLogMemoryStatsOnCompressionError": [
 		"load = :$81982; mem_val = :$1A925B2; mem_name = :$151CAD8",
 		false
 	],
@@ -3319,7 +3319,7 @@
 		"load = :$81B02; mem_val = :$1A925B3; mem_name = :$151CB44",
 		false
 	],
-	"FFlagPhysicsResetOsp": [
+	"DFFlagPhysicsResetOsp": [
 		"load = :$81C12; mem_val = :$1A925DD; mem_name = :$151CE20",
 		false
 	],
@@ -3327,19 +3327,19 @@
 		"load = :$81C52; mem_val = :$1A925D5; mem_name = :$151CD70",
 		false
 	],
-	"FFlagPpjServerBreak": [
+	"DFFlagPpjServerBreak": [
 		"load = :$81D12; mem_val = :$1A925D4; mem_name = :$151CD60",
 		false
 	],
-	"FFlagProtectNullRakPeer": [
+	"DFFlagProtectNullRakPeer": [
 		"load = :$81D32; mem_val = :$1A925B0; mem_name = :$151CAAC",
 		false
 	],
-	"FFlagRCCKickDuplicatePlayersOnJoin": [
+	"DFFlagRCCKickDuplicatePlayersOnJoin": [
 		"load = :$81D92; mem_val = :$1A925DE; mem_name = :$151C834",
 		false
 	],
-	"FFlagReportDataPingByDc": [
+	"DFFlagReportDataPingByDc": [
 		"load = :$81DF2; mem_val = :$1A925AB; mem_name = :$151C9F4",
 		false
 	],
@@ -3347,27 +3347,27 @@
 		"load = :$81E52; mem_val = :$1A925A8; mem_name = :$151C964",
 		false
 	],
-	"FFlagSelectiveNegativeTarget": [
+	"DFFlagSelectiveNegativeTarget": [
 		"load = :$81EB2; mem_val = :$1A925B4; mem_name = :$151CB64",
 		false
 	],
-	"FFlagSendTimeInQueue": [
+	"DFFlagSendTimeInQueue": [
 		"load = :$81F12; mem_val = :$1A925AC; mem_name = :$151CA1C",
 		false
 	],
-	"FFlagTeamCreateServerTrackScriptChangesFullSource": [
+	"DFFlagTeamCreateServerTrackScriptChangesFullSource": [
 		"load = :$81FD2; mem_val = :$1A925AE; mem_name = :$151CA50",
 		false
 	],
-	"FFlagThrowOnCompressionError": [
+	"DFFlagThrowOnCompressionError": [
 		"load = :$81FF2; mem_val = :$1A925B1; mem_name = :$151CAC0",
 		false
 	],
-	"FFlagUseNativePathWaypoint": [
+	"UseNativePathWaypoint": [
 		"load = :$82022; mem_val = :$1789771; mem_name = :$151CB2C",
 		true
 	],
-	"FFlagValidateStringLength": [
+	"DFFlagValidateStringLength": [
 		"load = :$82282; mem_val = :$1A92928; mem_name = :$151EEA0",
 		false
 	],
@@ -3375,39 +3375,39 @@
 		"load = :$82312; mem_val = :$1A92974; mem_name = :$151F08C",
 		false
 	],
-	"FFlagDebugGameLoadDataStatisticsPerPlace": [
+	"DFFlagDebugGameLoadDataStatisticsPerPlace": [
 		"load = :$82332; mem_val = :$1A92986; mem_name = :$151F180",
 		false
 	],
-	"FFlagFilterAllPlayerPropChanges": [
+	"DFFlagFilterAllPlayerPropChanges": [
 		"load = :$82372; mem_val = :$1A92975; mem_name = :$151F0B0",
 		false
 	],
-	"FFlagFilterCheckMap": [
+	"DFFlagFilterCheckMap": [
 		"load = :$82392; mem_val = :$1A92977; mem_name = :$151F130",
 		false
 	],
-	"FFlagGameLoadDataStatistics": [
+	"DFFlagGameLoadDataStatistics": [
 		"load = :$823B2; mem_val = :$1A92985; mem_name = :$151F168",
 		false
 	],
-	"FFlagInWithTheNew": [
+	"DFFlagInWithTheNew": [
 		"load = :$823F2; mem_val = :$1A92987; mem_name = :$151F1A4",
 		false
 	],
-	"FFlagNewRejoinMessage": [
+	"DFFlagNewRejoinMessage": [
 		"load = :$82432; mem_val = :$1A92988; mem_name = :$151F1B4",
 		false
 	],
-	"FFlagRemoveOldTicket": [
+	"DFFlagRemoveOldTicket": [
 		"load = :$82452; mem_val = :$1A92976; mem_name = :$151F0CC",
 		false
 	],
-	"FFlagRestrictXmGui": [
+	"DFFlagRestrictXmGui": [
 		"load = :$82472; mem_val = :$1A92989; mem_name = :$151F1C8",
 		false
 	],
-	"FFlagSendPlayerGuiEarly2": [
+	"SendPlayerGuiEarly2": [
 		"load = :$824B2; mem_val = :$1A92984; mem_name = :$151F140",
 		false
 	],
@@ -3419,39 +3419,39 @@
 		"load = :$82612; mem_val = :$1A92A2C; mem_name = :$151FC84",
 		false
 	],
-	"FFlagDontUsePhysicsCache": [
+	"DFFlagDontUsePhysicsCache": [
 		"load = :$82632; mem_val = :$1A92A23; mem_name = :$151FBB0",
 		false
 	],
-	"FFlagImproveTimeStamp": [
+	"DFFlagImproveTimeStamp": [
 		"load = :$82652; mem_val = :$1A92A2F; mem_name = :$151FCD0",
 		false
 	],
-	"FFlagNewSortAndFilter": [
+	"DFFlagNewSortAndFilter": [
 		"load = :$82692; mem_val = :$1A92A24; mem_name = :$151FBC4",
 		false
 	],
-	"FFlagSendAllPhysicsPackets": [
+	"DFFlagSendAllPhysicsPackets": [
 		"load = :$82772; mem_val = :$1A92A22; mem_name = :$151FB98",
 		false
 	],
-	"FFlagSetSimulationRadiusInPhysicsSender": [
+	"DFFlagSetSimulationRadiusInPhysicsSender": [
 		"load = :$82792; mem_val = :$1A92A25; mem_name = :$151FBD8",
 		false
 	],
-	"FFlagUseBitCountLimit": [
+	"DFFlagUseBitCountLimit": [
 		"load = :$827C2; mem_val = :$1A92A2D; mem_name = :$151FC9C",
 		false
 	],
-	"FFlagUseDistanceThinning": [
+	"DFFlagUseDistanceThinning": [
 		"load = :$827E2; mem_val = :$1A92A28; mem_name = :$151FC14",
 		false
 	],
-	"FFlagUseMomentumThinning": [
+	"DFFlagUseMomentumThinning": [
 		"load = :$82802; mem_val = :$1A92A29; mem_name = :$151FC28",
 		false
 	],
-	"FFlagUseRelativePartTransformsHumanoidPlatforms": [
+	"UseRelativePartTransformsHumanoidPlatforms": [
 		"load = :$82822; mem_val = :$1A92A21; mem_name = :$151FAE0",
 		false
 	],
@@ -3459,7 +3459,7 @@
 		"load = :$82842; mem_val = :$1A92A2B; mem_name = :$151FC50",
 		false
 	],
-	"FFlagUseRoundRobin": [
+	"DFFlagUseRoundRobin": [
 		"load = :$82862; mem_val = :$1A92A27; mem_name = :$151FC04",
 		false
 	],
@@ -3467,15 +3467,15 @@
 		"load = :$82882; mem_val = :$1A92A2A; mem_name = :$151FC3C",
 		false
 	],
-	"FFlagUseSort": [
+	"DFFlagUseSort": [
 		"load = :$828A2; mem_val = :$1A92A26; mem_name = :$151FBFC",
 		false
 	],
-	"FFlagUseVelocityGateForMoment": [
+	"DFFlagUseVelocityGateForMoment": [
 		"load = :$828C2; mem_val = :$1A92A20; mem_name = :$151FAC4",
 		false
 	],
-	"FFlagFavorIPV4Connections": [
+	"DFFlagFavorIPV4Connections": [
 		"load = :$829C2; mem_val = :$1A92B30; mem_name = :$151FE60",
 		false
 	],
@@ -3487,59 +3487,59 @@
 		"load = :$82A12; mem_val = :$1A92F64; mem_name = :$152004C",
 		false
 	],
-	"FFlagDebugRakNetNoTimestampInUdt": [
+	"DFFlagDebugRakNetNoTimestampInUdt": [
 		"load = :$82BC2; mem_val = :$1A939E0; mem_name = :$1520390",
 		false
 	],
-	"FFlagActOnNewCheck": [
+	"DFFlagActOnNewCheck": [
 		"load = :$82BF2; mem_val = :$1A93A0D; mem_name = :$152053C",
 		false
 	],
-	"FFlagAdditionalCheckC0": [
+	"DFFlagAdditionalCheckC0": [
 		"load = :$82C12; mem_val = :$1A93A0C; mem_name = :$1520528",
 		false
 	],
-	"FFlagAdditionalCheckC1_2": [
+	"DFFlagAdditionalCheckC1_2": [
 		"load = :$82C32; mem_val = :$1A93A0A; mem_name = :$1520504",
 		false
 	],
-	"FFlagCheckBackpack": [
+	"DFFlagCheckBackpack": [
 		"load = :$82C52; mem_val = :$1A93A0B; mem_name = :$1520518",
 		false
 	],
-	"FFlagDelistPpr": [
+	"DFFlagDelistPpr": [
 		"load = :$82C72; mem_val = :$1A93A17; mem_name = :$15205F8",
 		false
 	],
-	"FFlagDontWhitelistUserInputConnectionCounts": [
+	"DFFlagDontWhitelistUserInputConnectionCounts": [
 		"load = :$82C92; mem_val = :$1A93A14; mem_name = :$152058C",
 		false
 	],
-	"FFlagDropItLikeItsHat2": [
+	"DFFlagDropItLikeItsHat2": [
 		"load = :$82CB2; mem_val = :$1A93A0E; mem_name = :$152055C",
 		false
 	],
-	"FFlagMoreWeldRestrictions": [
+	"DFFlagMoreWeldRestrictions": [
 		"load = :$82CD2; mem_val = :$1A93A08; mem_name = :$15204D4",
 		false
 	],
-	"FFlagNotChristmasTodayEither2": [
+	"DFFlagNotChristmasTodayEither2": [
 		"load = :$82CF2; mem_val = :$1A93A16; mem_name = :$15205DC",
 		false
 	],
-	"FFlagOneWeldToRuleThemAll2": [
+	"DFFlagOneWeldToRuleThemAll2": [
 		"load = :$82D12; mem_val = :$1A93A09; mem_name = :$15204EC",
 		false
 	],
-	"FFlagPlayerGeneratedOnTheServerNoBacksies": [
+	"DFFlagPlayerGeneratedOnTheServerNoBacksies": [
 		"load = :$82D32; mem_val = :$1A93A15; mem_name = :$15205B4",
 		false
 	],
-	"FFlagWhitelistUserInputEvents": [
+	"DFFlagWhitelistUserInputEvents": [
 		"load = :$82D82; mem_val = :$1A93A0F; mem_name = :$1520570",
 		false
 	],
-	"FFlagDebugStreamingFastRecovery": [
+	"DFFlagDebugStreamingFastRecovery": [
 		"load = :$83052; mem_val = :$1A93BFA; mem_name = :$1520B84",
 		false
 	],
@@ -3751,43 +3751,43 @@
 		"load = :$5162; mem_val = :$177F120; mem_name = :$1044564",
 		5000
 	],
-	"FIntHttpConnectExtendedTimeoutMillis": [
+	"DFIntHttpConnectExtendedTimeoutMillis": [
 		"load = :$5532; mem_val = :$177F234; mem_name = :$1046F34",
 		600000
 	],
-	"FIntHttpDataSendExtendedTimeoutMillis": [
+	"DFIntHttpDataSendExtendedTimeoutMillis": [
 		"load = :$5552; mem_val = :$177F23C; mem_name = :$1046F58",
 		600000
 	],
-	"FIntHttpResponseExtendedTimeoutMillis": [
+	"DFIntHttpResponseExtendedTimeoutMillis": [
 		"load = :$5572; mem_val = :$177F224; mem_name = :$1046EF0",
 		600000
 	],
-	"FIntHttpSendExtendedTimeoutMillis": [
+	"DFIntHttpSendExtendedTimeoutMillis": [
 		"load = :$5592; mem_val = :$177F22C; mem_name = :$1046F14",
 		600000
 	],
-	"FIntReportTeamCreatePublishFailurePermyriad": [
+	"DFIntReportTeamCreatePublishFailurePermyriad": [
 		"load = :$55B2; mem_val = :$177F244; mem_name = :$1046F7C",
 		100
 	],
-	"FIntCrashUploadArchiveAfterErrorsDelaySeconds": [
+	"DFIntCrashUploadArchiveAfterErrorsDelaySeconds": [
 		"load = :$5862; mem_val = :$1780ECC; mem_name = :$104C760",
 		86400
 	],
-	"FIntCrashUploadErrorInfluxHundredthsPercentage": [
+	"DFIntCrashUploadErrorInfluxHundredthsPercentage": [
 		"load = :$5882; mem_val = :$1780EB4; mem_name = :$104C6F0",
 		1000
 	],
-	"FIntCrashUploadHttpResponseDefaultTimeoutMillis": [
+	"DFIntCrashUploadHttpResponseDefaultTimeoutMillis": [
 		"load = :$58A2; mem_val = :$1780EC4; mem_name = :$104C734",
 		80000
 	],
-	"FIntCrashUploadMaxDumpFiles": [
+	"DFIntCrashUploadMaxDumpFiles": [
 		"load = :$58C2; mem_val = :$1780EBC; mem_name = :$104C71C",
 		3
 	],
-	"FIntRCCInfluxHundredthsPercentage": [
+	"DFIntRCCInfluxHundredthsPercentage": [
 		"load = :$58E2; mem_val = :$1780EAC; mem_name = :$104C6D0",
 		1000
 	],
@@ -3819,7 +3819,7 @@
 		"load = :$8D22; mem_val = :$1781708; mem_name = :$106898C",
 		100
 	],
-	"FIntLoginFailureStudioInfluxDbHundredthsPercentage": [
+	"DFIntLoginFailureStudioInfluxDbHundredthsPercentage": [
 		"load = :$AE42; mem_val = :$1782F24; mem_name = :$108F7D4",
 		10000
 	],
@@ -3843,7 +3843,7 @@
 		"load = :$B752; mem_val = :$1783310; mem_name = :$1094C9C",
 		15437777
 	],
-	"FIntHangDetectionTimeoutMs": [
+	"DFIntHangDetectionTimeoutMs": [
 		"load = :$BCF5; mem_val = :$17833CC; mem_name = :$13D1554",
 		180000
 	],
@@ -3851,7 +3851,7 @@
 		"load = :$BD75; mem_val = :$17833BC; mem_name = :$13D1500",
 		25
 	],
-	"FIntWriteFullDmpPercent": [
+	"DFIntWriteFullDmpPercent": [
 		"load = :$BDB5; mem_val = :$18868F0; mem_name = :$13D14EC",
 		0
 	],
@@ -3867,7 +3867,7 @@
 		"load = :$C562; mem_val = :$1783538; mem_name = :$13D70DC",
 		30
 	],
-	"FIntReportTeamTestFailurePermyriad": [
+	"DFIntReportTeamTestFailurePermyriad": [
 		"load = :$DD22; mem_val = :$178373C; mem_name = :$13DD7F4",
 		100
 	],
@@ -3875,7 +3875,7 @@
 		"load = :$DD62; mem_val = :$1783780; mem_name = :$13DDA14",
 		5000
 	],
-	"FIntReportCloudEditJoinFailureReportPerMyriad": [
+	"DFIntReportCloudEditJoinFailureReportPerMyriad": [
 		"load = :$E432; mem_val = :$1783830; mem_name = :$13E3420",
 		10000
 	],
@@ -3907,11 +3907,11 @@
 		"load = :$EFF2; mem_val = :$1783B38; mem_name = :$13F8334",
 		970
 	],
-	"FIntReportTeamCreatePostFailurePermyriad": [
+	"DFIntReportTeamCreatePostFailurePermyriad": [
 		"load = :$F162; mem_val = :$1783BC8; mem_name = :$13FAAA8",
 		100
 	],
-	"FIntStudioPercentScaleRepeatCount": [
+	"DFIntStudioPercentScaleRepeatCount": [
 		"load = :$F522; mem_val = :$1783BFC; mem_name = :$13FDF48",
 		80
 	],
@@ -4007,19 +4007,19 @@
 		"load = :$12682; mem_val = :$1784244; mem_name = :$14103BC",
 		1
 	],
-	"FIntPlaceLauncherExceptionInfluxHundredthsPercentage": [
+	"DFIntPlaceLauncherExceptionInfluxHundredthsPercentage": [
 		"load = :$127C2; mem_val = :$188B384; mem_name = :$1410454",
 		0
 	],
-	"FIntTeleportExceptionInfluxHundredthsPercentage": [
+	"DFIntTeleportExceptionInfluxHundredthsPercentage": [
 		"load = :$12882; mem_val = :$188B388; mem_name = :$14104F0",
 		0
 	],
-	"FIntTeleportRetryTimes": [
+	"DFIntTeleportRetryTimes": [
 		"load = :$128A2; mem_val = :$1784270; mem_name = :$14104DC",
 		5
 	],
-	"FIntReportInfluxHundredthsPercentage": [
+	"DFIntReportInfluxHundredthsPercentage": [
 		"load = :$12AF2; mem_val = :$188B700; mem_name = :$1411260",
 		0
 	],
@@ -4039,15 +4039,15 @@
 		"load = :$12EB2; mem_val = :$188B8D0; mem_name = :$1411438",
 		0
 	],
-	"FIntWaitForChildWarnTimeOutTime": [
+	"DFIntWaitForChildWarnTimeOutTime": [
 		"load = :$13342; mem_val = :$1784540; mem_name = :$1411BD8",
 		5
 	],
-	"FIntContentProviderThreadPoolSize": [
+	"DFIntContentProviderThreadPoolSize": [
 		"load = :$148D2; mem_val = :$178456C; mem_name = :$1412A2C",
 		16
 	],
-	"FIntAvatarJointPositionsDefaultType": [
+	"DFIntAvatarJointPositionsDefaultType": [
 		"load = :$156B2; mem_val = :$188D8E4; mem_name = :$1413ED8",
 		0
 	],
@@ -4055,19 +4055,19 @@
 		"load = :$15BD2; mem_val = :$1784674; mem_name = :$1413EC0",
 		36
 	],
-	"FIntOnCloseTimeoutInSeconds": [
+	"DFIntOnCloseTimeoutInSeconds": [
 		"load = :$15C52; mem_val = :$1784680; mem_name = :$1413EF8",
 		30
 	],
-	"FIntR15DefaultCollisionType": [
+	"DFIntR15DefaultCollisionType": [
 		"load = :$15D42; mem_val = :$188D8E8; mem_name = :$1413F10",
 		0
 	],
-	"FIntScriptContextShutdownTimeoutSeconds": [
+	"DFIntScriptContextShutdownTimeoutSeconds": [
 		"load = :$15DA2; mem_val = :$178468C; mem_name = :$1413F28",
 		30
 	],
-	"FIntServerConfigCloudEditSavePeriodSeconds": [
+	"DFIntServerConfigCloudEditSavePeriodSeconds": [
 		"load = :$15DC2; mem_val = :$1784694; mem_name = :$1413F4C",
 		300
 	],
@@ -4131,15 +4131,15 @@
 		"load = :$1CAB2; mem_val = :$18934CC; mem_name = :$141C174",
 		0
 	],
-	"FIntHttpConnectDefaultTimeoutMillis": [
+	"DFIntHttpConnectDefaultTimeoutMillis": [
 		"load = :$1CF52; mem_val = :$1784E00; mem_name = :$141CAB0",
 		60000
 	],
-	"FIntHttpGAFailureReportHundredthsPercent": [
+	"DFIntHttpGAFailureReportHundredthsPercent": [
 		"load = :$1CF92; mem_val = :$1784E10; mem_name = :$141CAEC",
 		1
 	],
-	"FIntHttpGAFailureReportPercent": [
+	"DFIntHttpGAFailureReportPercent": [
 		"load = :$1CFB2; mem_val = :$1784E18; mem_name = :$141CB14",
 		1
 	],
@@ -4147,67 +4147,67 @@
 		"load = :$1CFD2; mem_val = :$1893594; mem_name = :$141CB58",
 		0
 	],
-	"FIntHttpResponseDefaultTimeoutMillis": [
+	"DFIntHttpResponseDefaultTimeoutMillis": [
 		"load = :$1D012; mem_val = :$1784DF8; mem_name = :$141CA8C",
 		60000
 	],
-	"FIntHttpSendStatsEveryXSeconds": [
+	"DFIntHttpSendStatsEveryXSeconds": [
 		"load = :$1D032; mem_val = :$1784E08; mem_name = :$141CAD0",
 		60
 	],
-	"FIntHttpStudioInfluxHundredthsPercentage": [
+	"DFIntHttpStudioInfluxHundredthsPercentage": [
 		"load = :$1D052; mem_val = :$1784E24; mem_name = :$13EC8B4",
 		1
 	],
-	"FIntMaxHttpResultResponseSize": [
+	"DFIntMaxHttpResultResponseSize": [
 		"load = :$1D092; mem_val = :$1784E3C; mem_name = :$141CBB8",
 		500
 	],
-	"FIntSendHttpBodyOnFailureMaxBytes": [
+	"DFIntSendHttpBodyOnFailureMaxBytes": [
 		"load = :$1D0B2; mem_val = :$1784E34; mem_name = :$141CB98",
 		128
 	],
-	"FIntWebParserInfluxWriteNanInfPerMyriad": [
+	"DFIntWebParserInfluxWriteNanInfPerMyriad": [
 		"load = :$1D142; mem_val = :$1893700; mem_name = :$141D5EC",
 		0
 	],
-	"FIntExternalHttpRequestSizeLimitKB": [
+	"DFIntExternalHttpRequestSizeLimitKB": [
 		"load = :$1D6C2; mem_val = :$1784E5C; mem_name = :$141D804",
 		1024
 	],
-	"FIntExternalHttpResponseSizeLimitKB": [
+	"DFIntExternalHttpResponseSizeLimitKB": [
 		"load = :$1D6E2; mem_val = :$1784E64; mem_name = :$141D824",
 		4096
 	],
-	"FIntExternalHttpResponseTimeoutMillis": [
+	"DFIntExternalHttpResponseTimeoutMillis": [
 		"load = :$1D702; mem_val = :$1784E54; mem_name = :$141D7E0",
 		30000
 	],
-	"FIntLuaGcBoost": [
+	"DFIntLuaGcBoost": [
 		"load = :$1D7E2; mem_val = :$1784E80; mem_name = :$141DA04",
 		1
 	],
-	"FIntLuaGcMaxKb": [
+	"DFIntLuaGcMaxKb": [
 		"load = :$1D802; mem_val = :$1784E88; mem_name = :$141DA10",
 		100
 	],
-	"FIntReportYieldHundredthsPercentage": [
+	"DFIntReportYieldHundredthsPercentage": [
 		"load = :$1D842; mem_val = :$18938E0; mem_name = :$141DA6C",
 		0
 	],
-	"FIntAnalyticsDeferredEphemeralReportingIntervalSeconds": [
+	"DFIntAnalyticsDeferredEphemeralReportingIntervalSeconds": [
 		"load = :$1DA72; mem_val = :$1784EE0; mem_name = :$141F07C",
 		30
 	],
-	"FIntAnalyticsMaxDeferredStats": [
+	"DFIntAnalyticsMaxDeferredStats": [
 		"load = :$1DA92; mem_val = :$1784EE8; mem_name = :$141F0B0",
 		50
 	],
-	"FIntAnalyticsMaxSendWaitTimeMs": [
+	"DFIntAnalyticsMaxSendWaitTimeMs": [
 		"load = :$1DAB2; mem_val = :$1784EF0; mem_name = :$141F0CC",
 		100
 	],
-	"FIntAnalyticsMaxShutdownWaitTimeMs": [
+	"DFIntAnalyticsMaxShutdownWaitTimeMs": [
 		"load = :$1DAD2; mem_val = :$1784EF8; mem_name = :$141F0E8",
 		100
 	],
@@ -4223,27 +4223,27 @@
 		"load = :$200C2; mem_val = :$1784FF4; mem_name = :$14205B8",
 		200
 	],
-	"FIntAnthroPercentInHundredths": [
+	"DFIntAnthroPercentInHundredths": [
 		"load = :$241F2; mem_val = :$1897EB0; mem_name = :$1424360",
 		0
 	],
-	"FIntApiRateLimit": [
+	"DFIntApiRateLimit": [
 		"load = :$24212; mem_val = :$17850A8; mem_name = :$1423FD4",
 		200
 	],
-	"FIntRandomSpawnRetryTimes": [
+	"DFIntRandomSpawnRetryTimes": [
 		"load = :$24412; mem_val = :$17850CC; mem_name = :$1424140",
 		20
 	],
-	"FIntReportCharacterLoadTimeMetricsInverseProbability": [
+	"DFIntReportCharacterLoadTimeMetricsInverseProbability": [
 		"load = :$24472; mem_val = :$17850D8; mem_name = :$142422C",
 		1000
 	],
-	"FIntWideToNarrowScaleInHundredths": [
+	"DFIntWideToNarrowScaleInHundredths": [
 		"load = :$244E2; mem_val = :$1897EB4; mem_name = :$142437C",
 		0
 	],
-	"FIntDistToShowBufferCountSqr": [
+	"DFIntDistToShowBufferCountSqr": [
 		"load = :$290F2; mem_val = :$1899E04; mem_name = :$1426B4C",
 		0
 	],
@@ -4251,15 +4251,15 @@
 		"load = :$29152; mem_val = :$17851CC; mem_name = :$1426A78",
 		200
 	],
-	"FIntPartSizeUnder0P2AnalyticsInfluxHundredthPct": [
+	"DFIntPartSizeUnder0P2AnalyticsInfluxHundredthPct": [
 		"load = :$29172; mem_val = :$1899DFC; mem_name = :$1426AA4",
 		0
 	],
-	"FIntElevatedPhysicsFPSReportThresholdTenths": [
+	"DFIntElevatedPhysicsFPSReportThresholdTenths": [
 		"load = :$2ACA2; mem_val = :$178534C; mem_name = :$1428610",
 		610
 	],
-	"FIntActionStationDebounceTime": [
+	"DFIntActionStationDebounceTime": [
 		"load = :$34812; mem_val = :$17853F4; mem_name = :$142DFDC",
 		2
 	],
@@ -4267,11 +4267,11 @@
 		"load = :$38992; mem_val = :$18A3A2C; mem_name = :$143125C",
 		0
 	],
-	"FIntTextFilterMaxCachedRequestMilliseconds": [
+	"DFIntTextFilterMaxCachedRequestMilliseconds": [
 		"load = :$39162; mem_val = :$178546C; mem_name = :$1431FA0",
 		500
 	],
-	"FIntChatSignalMaxCachedRequestMilliseconds": [
+	"DFIntChatSignalMaxCachedRequestMilliseconds": [
 		"load = :$39802; mem_val = :$1785600; mem_name = :$1433478",
 		5000
 	],
@@ -4279,23 +4279,23 @@
 		"load = :$39882; mem_val = :$17855DC; mem_name = :$1433384",
 		5
 	],
-	"FIntGetUserThumbnailAsyncThrottleTime": [
+	"DFIntGetUserThumbnailAsyncThrottleTime": [
 		"load = :$39912; mem_val = :$178560C; mem_name = :$14334D8",
 		2000
 	],
-	"FIntGetUserThumbnailExpirationTime": [
+	"DFIntGetUserThumbnailExpirationTime": [
 		"load = :$39932; mem_val = :$1785614; mem_name = :$14334FC",
 		60000
 	],
-	"FIntGetUserThumbnailMapSizeCap": [
+	"DFIntGetUserThumbnailMapSizeCap": [
 		"load = :$39952; mem_val = :$178562C; mem_name = :$1433584",
 		500
 	],
-	"FIntGetUserThumbnailMaxThrottle": [
+	"DFIntGetUserThumbnailMaxThrottle": [
 		"load = :$39972; mem_val = :$178561C; mem_name = :$143351C",
 		20000
 	],
-	"FIntGetUserThumbnailThrottleExponent": [
+	"DFIntGetUserThumbnailThrottleExponent": [
 		"load = :$39992; mem_val = :$1785624; mem_name = :$1433560",
 		1500
 	],
@@ -4307,11 +4307,11 @@
 		"load = :$39A32; mem_val = :$17855D0; mem_name = :$1433310",
 		15437741
 	],
-	"FIntCanHideGuiGroupId": [
+	"DFIntCanHideGuiGroupId": [
 		"load = :$3B002; mem_val = :$1785754; mem_name = :$1434F84",
 		3013794
 	],
-	"FIntCrashUploadToBacktracePercentage": [
+	"DFIntCrashUploadToBacktracePercentage": [
 		"load = :$3D3D2; mem_val = :$18A6D5C; mem_name = :$1436538",
 		0
 	],
@@ -4319,19 +4319,19 @@
 		"load = :$3D5F2; mem_val = :$18A6E4C; mem_name = :$1436A1C",
 		0
 	],
-	"FIntRenderingThrottleDelayInMS": [
+	"DFIntRenderingThrottleDelayInMS": [
 		"load = :$3D632; mem_val = :$18A6E50; mem_name = :$1436A2C",
 		0
 	],
-	"FIntHumanoidFloorManualFrictionVelocityMultValue": [
+	"DFIntHumanoidFloorManualFrictionVelocityMultValue": [
 		"load = :$3EB02; mem_val = :$1785A7C; mem_name = :$1437C4C",
 		100
 	],
-	"FIntHumanoidFloorTeleportWeightValue": [
+	"DFIntHumanoidFloorTeleportWeightValue": [
 		"load = :$3EB22; mem_val = :$1785A74; mem_name = :$1437C18",
 		50
 	],
-	"FIntMotionDiscontinuityThreshold": [
+	"DFIntMotionDiscontinuityThreshold": [
 		"load = :$3EB62; mem_val = :$1785A8C; mem_name = :$1437D1C",
 		1
 	],
@@ -4339,11 +4339,11 @@
 		"load = :$44CB2; mem_val = :$18AAC38; mem_name = :$1439F6C",
 		0
 	],
-	"FIntUserHttpRequestsPerMinuteLimit": [
+	"DFIntUserHttpRequestsPerMinuteLimit": [
 		"load = :$47472; mem_val = :$1785C64; mem_name = :$143BC20",
 		500
 	],
-	"FIntHttpInfluxHundredthsPercentage": [
+	"DFIntHttpInfluxHundredthsPercentage": [
 		"load = :$478C2; mem_val = :$18AE1A0; mem_name = :$13EC8DC",
 		0
 	],
@@ -4355,67 +4355,67 @@
 		"load = :$48512; mem_val = :$18AF250; mem_name = :$143D3CC",
 		0
 	],
-	"FIntTimeBetweenCheckingApiAccessMillis": [
+	"DFIntTimeBetweenCheckingApiAccessMillis": [
 		"load = :$49112; mem_val = :$1785DC0; mem_name = :$143E6B8",
 		5000
 	],
-	"FIntHttpRbxApiClientPerMinuteRequestLimit": [
+	"DFIntHttpRbxApiClientPerMinuteRequestLimit": [
 		"load = :$49512; mem_val = :$1785DCC; mem_name = :$143EF4C",
 		300
 	],
-	"FIntHttpRbxApiJobFrequencyInSeconds": [
+	"DFIntHttpRbxApiJobFrequencyInSeconds": [
 		"load = :$49532; mem_val = :$1785E2C; mem_name = :$143F0FC",
 		1
 	],
-	"FIntHttpRbxApiMaxBudgetMultiplier": [
+	"DFIntHttpRbxApiMaxBudgetMultiplier": [
 		"load = :$49552; mem_val = :$1785DD4; mem_name = :$143EF74",
 		1
 	],
-	"FIntHttpRbxApiMaxRetryBudgetPerMinute": [
+	"DFIntHttpRbxApiMaxRetryBudgetPerMinute": [
 		"load = :$49572; mem_val = :$1785DF4; mem_name = :$143F010",
 		500
 	],
-	"FIntHttpRbxApiMaxRetryCount": [
+	"DFIntHttpRbxApiMaxRetryCount": [
 		"load = :$49592; mem_val = :$1785DFC; mem_name = :$143F034",
 		10
 	],
-	"FIntHttpRbxApiMaxRetryQueueSize": [
+	"DFIntHttpRbxApiMaxRetryQueueSize": [
 		"load = :$495B2; mem_val = :$1785E04; mem_name = :$143F04C",
 		500
 	],
-	"FIntHttpRbxApiMaxSyncRetries": [
+	"DFIntHttpRbxApiMaxSyncRetries": [
 		"load = :$495D2; mem_val = :$1785E0C; mem_name = :$143F068",
 		3
 	],
-	"FIntHttpRbxApiMaxThrottledQueueSize": [
+	"DFIntHttpRbxApiMaxThrottledQueueSize": [
 		"load = :$495F2; mem_val = :$1785DEC; mem_name = :$143EFF0",
 		50
 	],
-	"FIntHttpRbxApiRequestsPerMinutePerPlayerInServerLimit": [
+	"DFIntHttpRbxApiRequestsPerMinutePerPlayerInServerLimit": [
 		"load = :$49612; mem_val = :$1785DE4; mem_name = :$143EFBC",
 		100
 	],
-	"FIntHttpRbxApiRequestsPerMinuteServerLimit": [
+	"DFIntHttpRbxApiRequestsPerMinuteServerLimit": [
 		"load = :$49632; mem_val = :$1785DDC; mem_name = :$143EF94",
 		300
 	],
-	"FIntHttpRbxApiSyncRetryWaitTimeMSec": [
+	"DFIntHttpRbxApiSyncRetryWaitTimeMSec": [
 		"load = :$49672; mem_val = :$1785E14; mem_name = :$143F084",
 		500
 	],
-	"FIntPercentApiRequestsRecordGoogleAnalytics": [
+	"DFIntPercentApiRequestsRecordGoogleAnalytics": [
 		"load = :$496B2; mem_val = :$1785E28; mem_name = :$143EF24",
 		1
 	],
-	"FIntExpireMarketPlaceServiceCacheSeconds": [
+	"DFIntExpireMarketPlaceServiceCacheSeconds": [
 		"load = :$499E2; mem_val = :$1785E84; mem_name = :$1440110",
 		60
 	],
-	"FIntPurchaseErrorReportRate": [
+	"DFIntPurchaseErrorReportRate": [
 		"load = :$49A62; mem_val = :$1785E60; mem_name = :$143F888",
 		100
 	],
-	"FIntPurchaseMismatchReportRate": [
+	"DFIntPurchaseMismatchReportRate": [
 		"load = :$49A82; mem_val = :$1785E58; mem_name = :$143F86C",
 		100
 	],
@@ -4427,31 +4427,31 @@
 		"load = :$4E152; mem_val = :$1785F9C; mem_name = :$144472C",
 		4194304
 	],
-	"FIntBadgeInfoCooldownTime": [
+	"DFIntBadgeInfoCooldownTime": [
 		"load = :$4F6C2; mem_val = :$17860E8; mem_name = :$1445888",
 		5
 	],
-	"FIntDraggerMaxMovePercent": [
+	"DFIntDraggerMaxMovePercent": [
 		"load = :$4F942; mem_val = :$17860F4; mem_name = :$1445EC4",
 		100
 	],
-	"FIntDraggerMaxMoveSteps": [
+	"DFIntDraggerMaxMoveSteps": [
 		"load = :$4F962; mem_val = :$17860FC; mem_name = :$1445EDC",
 		10000
 	],
-	"FIntTextSizeLimit": [
+	"DFIntTextSizeLimit": [
 		"load = :$50A02; mem_val = :$1786240; mem_name = :$14473BC",
 		16384
 	],
-	"FIntPhysicsDecompForceUpgradeVersion": [
+	"DFIntPhysicsDecompForceUpgradeVersion": [
 		"load = :$51B92; mem_val = :$1786268; mem_name = :$1447AC8",
 		3
 	],
-	"FIntLogGroupTeleportInfluxPerTenThousand": [
+	"DFIntLogGroupTeleportInfluxPerTenThousand": [
 		"load = :$52F22; mem_val = :$18B9788; mem_name = :$1448FA8",
 		0
 	],
-	"FIntShowTeleportFailedMessageTimeInMillisecond": [
+	"DFIntShowTeleportFailedMessageTimeInMillisecond": [
 		"load = :$52F62; mem_val = :$178635C; mem_name = :$1448D78",
 		3000
 	],
@@ -4459,11 +4459,11 @@
 		"load = :$52FA2; mem_val = :$18B9778; mem_name = :$1448D54",
 		0
 	],
-	"FIntTeleportPartyExpirationMillisecond": [
+	"DFIntTeleportPartyExpirationMillisecond": [
 		"load = :$52FE2; mem_val = :$1786364; mem_name = :$1448DA4",
 		180000
 	],
-	"FIntTeleportPollinInterval": [
+	"DFIntTeleportPollinInterval": [
 		"load = :$53002; mem_val = :$178636C; mem_name = :$1448DC8",
 		1000
 	],
@@ -4475,11 +4475,11 @@
 		"load = :$561E2; mem_val = :$1786654; mem_name = :$144CE18",
 		100
 	],
-	"FIntReportDeviceInfoRate": [
+	"DFIntReportDeviceInfoRate": [
 		"load = :$56242; mem_val = :$18BC2C8; mem_name = :$144CEB8",
 		0
 	],
-	"FIntSoundServiceCacheCleanupMaxAgeDays": [
+	"DFIntSoundServiceCacheCleanupMaxAgeDays": [
 		"load = :$56302; mem_val = :$178669C; mem_name = :$144CF8C",
 		7
 	],
@@ -4519,11 +4519,11 @@
 		"load = :$57C82; mem_val = :$17868D0; mem_name = :$1451624",
 		20
 	],
-	"FIntBroadPhaseIslandAlwaysSimulateDepth": [
+	"DFIntBroadPhaseIslandAlwaysSimulateDepth": [
 		"load = :$5D5E2; mem_val = :$178691C; mem_name = :$14549FC",
 		1
 	],
-	"FIntBroadPhaseIslandMaxSortDepth": [
+	"DFIntBroadPhaseIslandMaxSortDepth": [
 		"load = :$5D602; mem_val = :$1786914; mem_name = :$14549DC",
 		2
 	],
@@ -4543,23 +4543,23 @@
 		"load = :$5D742; mem_val = :$1786928; mem_name = :$1454C58",
 		8
 	],
-	"FIntMinSoundStreamSizeBytes": [
+	"DFIntMinSoundStreamSizeBytes": [
 		"load = :$5E212; mem_val = :$1786974; mem_name = :$1455D40",
 		512000
 	],
-	"FIntCreatePlacePerMinute": [
+	"DFIntCreatePlacePerMinute": [
 		"load = :$5E2C2; mem_val = :$1786980; mem_name = :$1456368",
 		5
 	],
-	"FIntCreatePlacePerPlayerPerMinute": [
+	"DFIntCreatePlacePerPlayerPerMinute": [
 		"load = :$5E2E2; mem_val = :$1786988; mem_name = :$1456380",
 		1
 	],
-	"FIntSavePlacePerMinute": [
+	"DFIntSavePlacePerMinute": [
 		"load = :$5E302; mem_val = :$1786990; mem_name = :$14563A0",
 		10
 	],
-	"FIntRemoteDelayedQueueLimit": [
+	"DFIntRemoteDelayedQueueLimit": [
 		"load = :$5E632; mem_val = :$1786AF0; mem_name = :$1456FDC",
 		256
 	],
@@ -4575,7 +4575,7 @@
 		"load = :$5FDF2; mem_val = :$1786C6C; mem_name = :$1458928",
 		30
 	],
-	"FIntStreamingMemoryUsagePercent": [
+	"DFIntStreamingMemoryUsagePercent": [
 		"load = :$5FE12; mem_val = :$1786C5C; mem_name = :$14588F0",
 		50
 	],
@@ -4583,35 +4583,35 @@
 		"load = :$5FE32; mem_val = :$1786C64; mem_name = :$145890C",
 		100
 	],
-	"FIntBadLogInfluxHundredthsPercentage": [
+	"DFIntBadLogInfluxHundredthsPercentage": [
 		"load = :$5FEA2; mem_val = :$18C4F98; mem_name = :$1458C14",
 		0
 	],
-	"FIntBadLogMask": [
+	"DFIntBadLogMask": [
 		"load = :$5FEC2; mem_val = :$18C4F9C; mem_name = :$1458C38",
 		0
 	],
-	"FIntHttpAnalyticsMaxHistory": [
+	"DFIntHttpAnalyticsMaxHistory": [
 		"load = :$5FF02; mem_val = :$1786D00; mem_name = :$1458C84",
 		256
 	],
-	"FIntMaxLogHistory": [
+	"DFIntMaxLogHistory": [
 		"load = :$5FFB2; mem_val = :$1786CEC; mem_name = :$1458C04",
 		512
 	],
-	"FIntCacheDirectoryExceptionInfluxHundredthsPercentage": [
+	"DFIntCacheDirectoryExceptionInfluxHundredthsPercentage": [
 		"load = :$634B2; mem_val = :$18C8134; mem_name = :$146264C",
 		0
 	],
-	"FIntPhysicsImprovedCyclicExecutiveConsecutivePredictionRequired": [
+	"DFIntPhysicsImprovedCyclicExecutiveConsecutivePredictionRequired": [
 		"load = :$636A2; mem_val = :$1787320; mem_name = :$1463310",
 		2
 	],
-	"FIntPhysicsImprovedCyclicExecutivePredictiveThrottlingStepsAhead": [
+	"DFIntPhysicsImprovedCyclicExecutivePredictiveThrottlingStepsAhead": [
 		"load = :$636C2; mem_val = :$1787318; mem_name = :$14632D0",
 		20
 	],
-	"FIntPhysicsImprovedCyclicExecutiveThrottleThresholdTenth": [
+	"DFIntPhysicsImprovedCyclicExecutiveThrottleThresholdTenth": [
 		"load = :$636E2; mem_val = :$1787310; mem_name = :$1463298",
 		8
 	],
@@ -4619,19 +4619,19 @@
 		"load = :$63722; mem_val = :$178732C; mem_name = :$14633A4",
 		1
 	],
-	"FIntBulletContactBreakOrthogonalThresholdActivatePercent": [
+	"DFIntBulletContactBreakOrthogonalThresholdActivatePercent": [
 		"load = :$63812; mem_val = :$1787368; mem_name = :$1464C24",
 		200
 	],
-	"FIntBulletContactBreakOrthogonalThresholdPercent": [
+	"DFIntBulletContactBreakOrthogonalThresholdPercent": [
 		"load = :$63832; mem_val = :$1787360; mem_name = :$1464BF4",
 		200
 	],
-	"FIntBulletContactBreakThresholdPercent": [
+	"DFIntBulletContactBreakThresholdPercent": [
 		"load = :$63852; mem_val = :$1787358; mem_name = :$1464BD0",
 		200
 	],
-	"FIntMaxMissedWorldStepsRemembered": [
+	"DFIntMaxMissedWorldStepsRemembered": [
 		"load = :$638D2; mem_val = :$1787380; mem_name = :$1464C88",
 		12
 	],
@@ -4639,83 +4639,83 @@
 		"load = :$63912; mem_val = :$178738C; mem_name = :$1464CD8",
 		1024
 	],
-	"FIntTrackServerPhysicsPerfSessionNMinutes": [
+	"DFIntTrackServerPhysicsPerfSessionNMinutes": [
 		"load = :$639D2; mem_val = :$17873A8; mem_name = :$1464D70",
 		10
 	],
-	"FIntWorldStepDtAveExpFactorHundredth": [
+	"DFIntWorldStepDtAveExpFactorHundredth": [
 		"load = :$639F2; mem_val = :$178739C; mem_name = :$1464D20",
 		25
 	],
-	"FIntWorldStepMax": [
+	"DFIntWorldStepMax": [
 		"load = :$63A12; mem_val = :$1787370; mem_name = :$1464C5C",
 		30
 	],
-	"FIntWorldStepsOffsetAdjustRate": [
+	"DFIntWorldStepsOffsetAdjustRate": [
 		"load = :$63A72; mem_val = :$1787378; mem_name = :$1464C6C",
 		100
 	],
-	"FIntHopperBinTrackingPermyriad": [
+	"DFIntHopperBinTrackingPermyriad": [
 		"load = :$64782; mem_val = :$17873D4; mem_name = :$1465654",
 		100
 	],
-	"FIntChatFilterMaxCachedRequestMilliseconds": [
+	"DFIntChatFilterMaxCachedRequestMilliseconds": [
 		"load = :$65F02; mem_val = :$1787518; mem_name = :$1466BB0",
 		5000
 	],
-	"FIntChatServiceCachedResultCount": [
+	"DFIntChatServiceCachedResultCount": [
 		"load = :$65F82; mem_val = :$1787548; mem_name = :$1467110",
 		30
 	],
-	"FIntInfluxReportLocalFilterStringPermyriad": [
+	"DFIntInfluxReportLocalFilterStringPermyriad": [
 		"load = :$660D2; mem_val = :$18CB250; mem_name = :$1466B88",
 		0
 	],
-	"FIntInfluxTattletaleReportCommunitySiftOutputPermyriad": [
+	"DFIntInfluxTattletaleReportCommunitySiftOutputPermyriad": [
 		"load = :$660F2; mem_val = :$18CB24C; mem_name = :$1466B54",
 		0
 	],
-	"FIntInfluxTattletaleV2Permyriad": [
+	"DFIntInfluxTattletaleV2Permyriad": [
 		"load = :$66112; mem_val = :$17874F0; mem_name = :$1466A24",
 		10000
 	],
-	"FIntTattletaleFlushIfNotUpdatedForSeconds": [
+	"DFIntTattletaleFlushIfNotUpdatedForSeconds": [
 		"load = :$661C2; mem_val = :$1787560; mem_name = :$146719C",
 		60
 	],
-	"FIntTattletaleFlushIfOlderThanSeconds": [
+	"DFIntTattletaleFlushIfOlderThanSeconds": [
 		"load = :$661E2; mem_val = :$1787568; mem_name = :$14671C4",
 		300
 	],
-	"FIntTattletaleMaxInstancePathLength": [
+	"DFIntTattletaleMaxInstancePathLength": [
 		"load = :$66202; mem_val = :$1787570; mem_name = :$14671E8",
 		512
 	],
-	"FIntTattletaleMaxPendingReports": [
+	"DFIntTattletaleMaxPendingReports": [
 		"load = :$66222; mem_val = :$1787580; mem_name = :$1467220",
 		1024
 	],
-	"FIntTattletaleMaxTextLength": [
+	"DFIntTattletaleMaxTextLength": [
 		"load = :$66242; mem_val = :$1787578; mem_name = :$1467208",
 		1024
 	],
-	"FIntTattletaleMinimumClientCountWithServerVerification": [
+	"DFIntTattletaleMinimumClientCountWithServerVerification": [
 		"load = :$66262; mem_val = :$1787558; mem_name = :$1467168",
 		1
 	],
-	"FIntTattletaleMinimumClientCountWithoutServerVerification": [
+	"DFIntTattletaleMinimumClientCountWithoutServerVerification": [
 		"load = :$66282; mem_val = :$1787550; mem_name = :$1467130",
 		1
 	],
-	"FIntTattletaleReportUnfilteredJobFrequencySeconds": [
+	"DFIntTattletaleReportUnfilteredJobFrequencySeconds": [
 		"load = :$662A2; mem_val = :$1787588; mem_name = :$146723C",
 		30
 	],
-	"FIntTattletaleReportUnfilteredJobMaxReportsPerTick": [
+	"DFIntTattletaleReportUnfilteredJobMaxReportsPerTick": [
 		"load = :$662C2; mem_val = :$1787590; mem_name = :$146726C",
 		64
 	],
-	"FIntWebChatFilterHttpTimeoutSeconds": [
+	"DFIntWebChatFilterHttpTimeoutSeconds": [
 		"load = :$66302; mem_val = :$1787500; mem_name = :$1466AAC",
 		60
 	],
@@ -4723,135 +4723,135 @@
 		"load = :$66A92; mem_val = :$17875D8; mem_name = :$146804C",
 		256
 	],
-	"FIntFriendServiceCachedOfflineStatusMaxAgeSeconds": [
+	"DFIntFriendServiceCachedOfflineStatusMaxAgeSeconds": [
 		"load = :$66AB2; mem_val = :$17875E0; mem_name = :$1468074",
 		300
 	],
-	"FIntMaxAwardPointsHttpCallsPerMinute": [
+	"DFIntMaxAwardPointsHttpCallsPerMinute": [
 		"load = :$67092; mem_val = :$1787658; mem_name = :$1468FB4",
 		60
 	],
-	"FIntPointBalanceCacheInvalidateTimeMs": [
+	"DFIntPointBalanceCacheInvalidateTimeMs": [
 		"load = :$670B2; mem_val = :$1787650; mem_name = :$1468F90",
 		1000
 	],
-	"FIntPointsServiceBatchingImplMaxDelaySeconds": [
+	"DFIntPointsServiceBatchingImplMaxDelaySeconds": [
 		"load = :$670D2; mem_val = :$1787678; mem_name = :$1469050",
 		30
 	],
-	"FIntPointsServiceBatchingImplMinuteSeconds": [
+	"DFIntPointsServiceBatchingImplMinuteSeconds": [
 		"load = :$670F2; mem_val = :$1787668; mem_name = :$1468FF8",
 		60
 	],
-	"FIntPointsServiceBatchingImplOnUpdateDelaySeconds": [
+	"DFIntPointsServiceBatchingImplOnUpdateDelaySeconds": [
 		"load = :$67112; mem_val = :$1787670; mem_name = :$1469020",
 		5
 	],
-	"FIntSecondsPerBatchAwardPointsCall": [
+	"DFIntSecondsPerBatchAwardPointsCall": [
 		"load = :$67132; mem_val = :$1787660; mem_name = :$1468FD8",
 		10
 	],
-	"FIntDataStore429MinReponseTimeMSec": [
+	"DFIntDataStore429MinReponseTimeMSec": [
 		"load = :$67AE2; mem_val = :$1787748; mem_name = :$146A1C0",
 		10000
 	],
-	"FIntDataStoreAnalyticsReportEveryNSeconds": [
+	"DFIntDataStoreAnalyticsReportEveryNSeconds": [
 		"load = :$67B02; mem_val = :$178770C; mem_name = :$146A07C",
 		300
 	],
-	"FIntDataStoreBudgetOnCloseBase": [
+	"DFIntDataStoreBudgetOnCloseBase": [
 		"load = :$67B62; mem_val = :$17876F4; mem_name = :$146A018",
 		150
 	],
-	"FIntDataStoreFetchFrequenceInSeconds": [
+	"DFIntDataStoreFetchFrequenceInSeconds": [
 		"load = :$67B82; mem_val = :$178768C; mem_name = :$1469E44",
 		30
 	],
-	"FIntDataStoreFixedRequestLimit": [
+	"DFIntDataStoreFixedRequestLimit": [
 		"load = :$67BA2; mem_val = :$1787694; mem_name = :$1469E68",
 		60
 	],
-	"FIntDataStoreInitialBudget": [
+	"DFIntDataStoreInitialBudget": [
 		"load = :$67BC2; mem_val = :$17876A4; mem_name = :$1469EA4",
 		100
 	],
-	"FIntDataStoreJobFrequencyInSeconds": [
+	"DFIntDataStoreJobFrequencyInSeconds": [
 		"load = :$67BE2; mem_val = :$1787684; mem_name = :$1469E24",
 		1
 	],
-	"FIntDataStoreMaxBudgetMultiplier": [
+	"DFIntDataStoreMaxBudgetMultiplier": [
 		"load = :$67C02; mem_val = :$17876EC; mem_name = :$1469FF8",
 		100
 	],
-	"FIntDataStoreMaxRetriesPerCycle": [
+	"DFIntDataStoreMaxRetriesPerCycle": [
 		"load = :$67C22; mem_val = :$1787738; mem_name = :$146A188",
 		6
 	],
-	"FIntDataStoreMaxRetryCount": [
+	"DFIntDataStoreMaxRetryCount": [
 		"load = :$67C42; mem_val = :$1787730; mem_name = :$146A170",
 		5
 	],
-	"FIntDataStoreMaxThrottledQueue": [
+	"DFIntDataStoreMaxThrottledQueue": [
 		"load = :$67C62; mem_val = :$1787704; mem_name = :$146A060",
 		30
 	],
-	"FIntDataStoreOrderedGetFixedRequestLimit": [
+	"DFIntDataStoreOrderedGetFixedRequestLimit": [
 		"load = :$67C82; mem_val = :$17876D4; mem_name = :$1469F80",
 		5
 	],
-	"FIntDataStoreOrderedGetInitialBudget": [
+	"DFIntDataStoreOrderedGetInitialBudget": [
 		"load = :$67CA2; mem_val = :$17876E4; mem_name = :$1469FD4",
 		10
 	],
-	"FIntDataStoreOrderedGetPerPlayerRequestLimit": [
+	"DFIntDataStoreOrderedGetPerPlayerRequestLimit": [
 		"load = :$67CC2; mem_val = :$17876DC; mem_name = :$1469FA8",
 		2
 	],
-	"FIntDataStoreOrderedSetFixedRequestLimit": [
+	"DFIntDataStoreOrderedSetFixedRequestLimit": [
 		"load = :$67CE2; mem_val = :$17876AC; mem_name = :$1469EBC",
 		30
 	],
-	"FIntDataStoreOrderedSetInitialBudget": [
+	"DFIntDataStoreOrderedSetInitialBudget": [
 		"load = :$67D02; mem_val = :$17876BC; mem_name = :$1469F10",
 		50
 	],
-	"FIntDataStoreOrderedSetPerPlayerRequestLimit": [
+	"DFIntDataStoreOrderedSetPerPlayerRequestLimit": [
 		"load = :$67D22; mem_val = :$17876B4; mem_name = :$1469EE4",
 		5
 	],
-	"FIntDataStorePerPlayerRequestLimit": [
+	"DFIntDataStorePerPlayerRequestLimit": [
 		"load = :$67D42; mem_val = :$178769C; mem_name = :$1469E84",
 		10
 	],
-	"FIntDataStoreRefetchFixedRequestLimit": [
+	"DFIntDataStoreRefetchFixedRequestLimit": [
 		"load = :$67D62; mem_val = :$17876C4; mem_name = :$1469F34",
 		30
 	],
-	"FIntDataStoreRefetchPerPlayerRequestLimit": [
+	"DFIntDataStoreRefetchPerPlayerRequestLimit": [
 		"load = :$67D82; mem_val = :$17876CC; mem_name = :$1469F58",
 		5
 	],
-	"FIntDataStoreRetryWaitTimeMSec": [
+	"DFIntDataStoreRetryWaitTimeMSec": [
 		"load = :$67DA2; mem_val = :$1787740; mem_name = :$146A1A4",
 		500
 	],
-	"FIntDataStoreWaitOnYieldingRequestsExpiration": [
+	"DFIntDataStoreWaitOnYieldingRequestsExpiration": [
 		"load = :$67E32; mem_val = :$17876FC; mem_name = :$146A034",
 		2
 	],
-	"FIntRetryBaseTimeMSec": [
+	"DFIntRetryBaseTimeMSec": [
 		"load = :$67E72; mem_val = :$1787728; mem_name = :$146A15C",
 		1000
 	],
-	"FIntAccErrorDrainedThousandth": [
+	"DFIntAccErrorDrainedThousandth": [
 		"load = :$68322; mem_val = :$17877C4; mem_name = :$146B02C",
 		100
 	],
-	"FIntDebugNetworkPacketAgeHistory": [
+	"DFIntDebugNetworkPacketAgeHistory": [
 		"load = :$68402; mem_val = :$178780C; mem_name = :$146B1B0",
 		30
 	],
-	"FIntInitialAccelerationLatencyMultTenths": [
+	"DFIntInitialAccelerationLatencyMultTenths": [
 		"load = :$68462; mem_val = :$17877D4; mem_name = :$146B068",
 		20
 	],
@@ -4863,31 +4863,31 @@
 		"load = :$684C2; mem_val = :$1787784; mem_name = :$146AF28",
 		500
 	],
-	"FIntLatencyErrorMultiplierTennths": [
+	"DFIntLatencyErrorMultiplierTennths": [
 		"load = :$684E2; mem_val = :$17877CC; mem_name = :$146B048",
 		20
 	],
-	"FIntMaxAcceptableUpdateDelay": [
+	"DFIntMaxAcceptableUpdateDelay": [
 		"load = :$68502; mem_val = :$178778C; mem_name = :$146AF44",
 		15
 	],
-	"FIntMaxAverageFrameDelayExceedFactor": [
+	"DFIntMaxAverageFrameDelayExceedFactor": [
 		"load = :$68522; mem_val = :$17877B4; mem_name = :$146AFE4",
 		3
 	],
-	"FIntMaxDebugFramesForVisuals": [
+	"DFIntMaxDebugFramesForVisuals": [
 		"load = :$68542; mem_val = :$17877F4; mem_name = :$146B120",
 		2000
 	],
-	"FIntMaxFrameBufferSize": [
+	"DFIntMaxFrameBufferSize": [
 		"load = :$68562; mem_val = :$17877A4; mem_name = :$146AFB0",
 		10
 	],
-	"FIntNumFramesAllowedToBeAboveError": [
+	"DFIntNumFramesAllowedToBeAboveError": [
 		"load = :$685A2; mem_val = :$17877DC; mem_name = :$146B090",
 		10
 	],
-	"FIntNumFramesToKeepAfterInterpolation": [
+	"DFIntNumFramesToKeepAfterInterpolation": [
 		"load = :$685C2; mem_val = :$17877E4; mem_name = :$146B0B0",
 		1
 	],
@@ -4895,139 +4895,139 @@
 		"load = :$685E2; mem_val = :$1787794; mem_name = :$146AF60",
 		300
 	],
-	"FIntSimToInterBufferClearFactorTenths": [
+	"DFIntSimToInterBufferClearFactorTenths": [
 		"load = :$68602; mem_val = :$17877BC; mem_name = :$146B008",
 		3
 	],
-	"FIntTargetTimeDelayFacctorTenths": [
+	"DFIntTargetTimeDelayFacctorTenths": [
 		"load = :$68622; mem_val = :$17877AC; mem_name = :$146AFC4",
 		10
 	],
-	"FIntThrottledVelocityThresholdTenths": [
+	"DFIntThrottledVelocityThresholdTenths": [
 		"load = :$68642; mem_val = :$178777C; mem_name = :$146AF04",
 		20
 	],
-	"FIntDelaySwitchingFromRunningToFreefallInHundredths": [
+	"DFIntDelaySwitchingFromRunningToFreefallInHundredths": [
 		"load = :$6BDE2; mem_val = :$1787A40; mem_name = :$146F358",
 		20
 	],
-	"FIntNoTouchOneSecondYVelocityThresholdInHundredths": [
+	"DFIntNoTouchOneSecondYVelocityThresholdInHundredths": [
 		"load = :$6BEA2; mem_val = :$1787A48; mem_name = :$146F388",
 		10
 	],
-	"FIntSwitchFromRunningNoPhysToRunningThresholdInHundredths": [
+	"DFIntSwitchFromRunningNoPhysToRunningThresholdInHundredths": [
 		"load = :$6BF02; mem_val = :$1787A50; mem_name = :$146F3B8",
 		4
 	],
-	"FIntDataStoreCachedKeysMemSize": [
+	"DFIntDataStoreCachedKeysMemSize": [
 		"load = :$793F2; mem_val = :$1787F94; mem_name = :$147DB80",
 		8388608
 	],
-	"FIntDataStoreInfluxReportNonParsableDataPerMyriad": [
+	"DFIntDataStoreInfluxReportNonParsableDataPerMyriad": [
 		"load = :$79412; mem_val = :$18E5BC4; mem_name = :$147DBD8",
 		0
 	],
-	"FIntDataStoreInfluxValueSubstringSize": [
+	"DFIntDataStoreInfluxValueSubstringSize": [
 		"load = :$79432; mem_val = :$1787FAC; mem_name = :$147DC20",
 		512
 	],
-	"FIntDataStoreKeyLengthLimit": [
+	"DFIntDataStoreKeyLengthLimit": [
 		"load = :$79472; mem_val = :$1787F64; mem_name = :$147DACC",
 		50
 	],
-	"FIntDataStoreMaxKeysToFetch": [
+	"DFIntDataStoreMaxKeysToFetch": [
 		"load = :$79492; mem_val = :$1787F5C; mem_name = :$147DAB4",
 		100
 	],
-	"FIntDataStoreMaxPageSize": [
+	"DFIntDataStoreMaxPageSize": [
 		"load = :$794B2; mem_val = :$1787F6C; mem_name = :$147DAE4",
 		100
 	],
-	"FIntDataStoreMaxValueSize": [
+	"DFIntDataStoreMaxValueSize": [
 		"load = :$794D2; mem_val = :$1787F74; mem_name = :$147DAFC",
 		65536
 	],
-	"FIntDataStoreSameKeyPerMinute": [
+	"DFIntDataStoreSameKeyPerMinute": [
 		"load = :$79512; mem_val = :$1787F84; mem_name = :$147DB34",
 		10
 	],
-	"FIntDataStoreTouchTimeoutInSeconds": [
+	"DFIntDataStoreTouchTimeoutInSeconds": [
 		"load = :$79532; mem_val = :$1787F7C; mem_name = :$147DB14",
 		5
 	],
-	"FIntDataStorelastSetByKeySize": [
+	"DFIntDataStorelastSetByKeySize": [
 		"load = :$79572; mem_val = :$1787F9C; mem_name = :$147DB9C",
 		512
 	],
-	"FIntHttpCacheCleanIfGBLessThan": [
+	"DFIntHttpCacheCleanIfGBLessThan": [
 		"load = :$799F2; mem_val = :$1787FE0; mem_name = :$147F0EC",
 		5
 	],
-	"FIntHttpCacheCleanMaxFilesToKeep": [
+	"DFIntHttpCacheCleanMaxFilesToKeep": [
 		"load = :$79A12; mem_val = :$1787FD0; mem_name = :$147F0AC",
 		1500
 	],
-	"FIntHttpCacheCleanMinFilesRequired": [
+	"DFIntHttpCacheCleanMinFilesRequired": [
 		"load = :$79A32; mem_val = :$1787FC8; mem_name = :$147F08C",
 		3000
 	],
-	"FIntHttpCacheSendStatsEveryXSeconds": [
+	"DFIntHttpCacheSendStatsEveryXSeconds": [
 		"load = :$79A52; mem_val = :$1787FD8; mem_name = :$147F0CC",
 		60
 	],
-	"FIntHttpCurlDeepErrorReportingCount": [
+	"DFIntHttpCurlDeepErrorReportingCount": [
 		"load = :$79A92; mem_val = :$18E641C; mem_name = :$147F124",
 		0
 	],
-	"FIntHttpMaxRedirects": [
+	"DFIntHttpMaxRedirects": [
 		"load = :$79B42; mem_val = :$1787FBC; mem_name = :$147F05C",
 		10
 	],
-	"FIntBroadPhaseIslandBufferZoneMinPartLimit": [
+	"DFIntBroadPhaseIslandBufferZoneMinPartLimit": [
 		"load = :$7BE52; mem_val = :$1788194; mem_name = :$1481494",
 		20
 	],
-	"FIntBroadPhaseIslandMaxPartLinearFactorTenth": [
+	"DFIntBroadPhaseIslandMaxPartLinearFactorTenth": [
 		"load = :$7BE72; mem_val = :$178819C; mem_name = :$14814BC",
 		10
 	],
-	"FIntTattletaleReportToRCCCooldownSeconds": [
+	"DFIntTattletaleReportToRCCCooldownSeconds": [
 		"load = :$7C0E2; mem_val = :$17882BC; mem_name = :$148213C",
 		30
 	],
-	"FIntInfluxOverUDPThreshold": [
+	"DFIntInfluxOverUDPThreshold": [
 		"load = :$7C2D2; mem_val = :$17882CC; mem_name = :$14822F4",
 		1400
 	],
-	"FIntTelegrafTCPPort": [
+	"DFIntTelegrafTCPPort": [
 		"load = :$7C362; mem_val = :$17882DC; mem_name = :$148231C",
 		8094
 	],
-	"FIntTelegrafUDPPort": [
+	"DFIntTelegrafUDPPort": [
 		"load = :$7C382; mem_val = :$17882D4; mem_name = :$148230C",
 		8092
 	],
-	"FIntPhysicsDecompSerialVersion": [
+	"DFIntPhysicsDecompSerialVersion": [
 		"load = :$7C412; mem_val = :$17887F8; mem_name = :$14830F0",
 		3
 	],
-	"FIntRunningBaseAltitudeD": [
+	"DFIntRunningBaseAltitudeD": [
 		"load = :$7C4C2; mem_val = :$1788830; mem_name = :$1483378",
 		100
 	],
-	"FIntRunningBaseAltitudeP": [
+	"DFIntRunningBaseAltitudeP": [
 		"load = :$7C4E2; mem_val = :$1788828; mem_name = :$1483360",
 		3000
 	],
-	"FIntRunningBaseGravityReductionFactorHundredth": [
+	"DFIntRunningBaseGravityReductionFactorHundredth": [
 		"load = :$7C522; mem_val = :$178883C; mem_name = :$14833AC",
 		100
 	],
-	"FIntRunningBaseMaxAcceleration": [
+	"DFIntRunningBaseMaxAcceleration": [
 		"load = :$7C542; mem_val = :$1788820; mem_name = :$1483344",
 		5000
 	],
-	"FIntRunningBaseOrientationP": [
+	"DFIntRunningBaseOrientationP": [
 		"load = :$7C562; mem_val = :$1788818; mem_name = :$148332C",
 		100
 	],
@@ -5039,7 +5039,7 @@
 		"load = :$7C7A2; mem_val = :$1788864; mem_name = :$1483D7C",
 		16
 	],
-	"FIntNavigationServiceAnalyticsIntervalMillisec": [
+	"DFIntNavigationServiceAnalyticsIntervalMillisec": [
 		"load = :$7C8C2; mem_val = :$1788888; mem_name = :$14854D4",
 		60000
 	],
@@ -5071,11 +5071,11 @@
 		"load = :$7C9E2; mem_val = :$17888A4; mem_name = :$1485710",
 		1
 	],
-	"FIntNavigationJobMaxTimeBudgetMS": [
+	"DFIntNavigationJobMaxTimeBudgetMS": [
 		"load = :$7CAA2; mem_val = :$17888C4; mem_name = :$148568C",
 		100
 	],
-	"FIntNavigationJobRunsPerSecond": [
+	"DFIntNavigationJobRunsPerSecond": [
 		"load = :$7CAC2; mem_val = :$17888BC; mem_name = :$1485670",
 		10
 	],
@@ -5091,15 +5091,15 @@
 		"load = :$7CC22; mem_val = :$1788924; mem_name = :$1485C64",
 		16777216
 	],
-	"FIntContentProviderJobDutyCycleMicroseconds": [
+	"DFIntContentProviderJobDutyCycleMicroseconds": [
 		"load = :$7CCA2; mem_val = :$1788944; mem_name = :$1486374",
 		1000
 	],
-	"FIntMaxContentProviderRunsAccumulated": [
+	"DFIntMaxContentProviderRunsAccumulated": [
 		"load = :$7CCC2; mem_val = :$178893C; mem_name = :$1486350",
 		20
 	],
-	"FIntMaxContentProviderRunsPerStep": [
+	"DFIntMaxContentProviderRunsPerStep": [
 		"load = :$7CCE2; mem_val = :$1788934; mem_name = :$1486330",
 		10
 	],
@@ -5107,87 +5107,87 @@
 		"load = :$7CE92; mem_val = :$1788A68; mem_name = :$1487148",
 		16
 	],
-	"FIntLinearToVSquaredVelocityThresholdMaxTenths": [
+	"DFIntLinearToVSquaredVelocityThresholdMaxTenths": [
 		"load = :$7CF12; mem_val = :$1788ABC; mem_name = :$1487AF0",
 		100
 	],
-	"FIntLinearToVSquaredVelocityThresholdMinTenths": [
+	"DFIntLinearToVSquaredVelocityThresholdMinTenths": [
 		"load = :$7CF32; mem_val = :$1788AB4; mem_name = :$1487AC4",
 		20
 	],
-	"FIntMaxViscousForceGravityTimesMult": [
+	"DFIntMaxViscousForceGravityTimesMult": [
 		"load = :$7CF52; mem_val = :$1788ACC; mem_name = :$1487B3C",
 		100
 	],
-	"FIntNumberFramesSubmergedBeforeVSquareBlendFrames": [
+	"DFIntNumberFramesSubmergedBeforeVSquareBlendFrames": [
 		"load = :$7CF72; mem_val = :$1788AAC; mem_name = :$1487A94",
 		10
 	],
-	"FIntNumberFramesSubmergedBeforeVSquaredViscocity": [
+	"DFIntNumberFramesSubmergedBeforeVSquaredViscocity": [
 		"load = :$7CF92; mem_val = :$1788AA4; mem_name = :$1487A64",
 		32
 	],
-	"FIntWaterViscosityDragFudgeFactor": [
+	"DFIntWaterViscosityDragFudgeFactor": [
 		"load = :$7CFD2; mem_val = :$1788AC4; mem_name = :$1487B1C",
 		10
 	],
-	"FIntDataRequestInQueueTime": [
+	"DFIntDataRequestInQueueTime": [
 		"load = :$7D032; mem_val = :$1788BB8; mem_name = :$14C33FC",
 		10
 	],
-	"FIntWaitGetInQueueTime": [
+	"DFIntWaitGetInQueueTime": [
 		"load = :$7D052; mem_val = :$1788BC0; mem_name = :$14C3414",
 		200
 	],
-	"FIntLandedBalanceD": [
+	"DFIntLandedBalanceD": [
 		"load = :$7D072; mem_val = :$1788BDC; mem_name = :$14C36A8",
 		50
 	],
-	"FIntLandedBalanceP": [
+	"DFIntLandedBalanceP": [
 		"load = :$7D092; mem_val = :$1788BD4; mem_name = :$14C3698",
 		7500
 	],
-	"FIntGettingUpBalanceD": [
+	"DFIntGettingUpBalanceD": [
 		"load = :$7D0B2; mem_val = :$1788BEC; mem_name = :$14C3810",
 		50
 	],
-	"FIntGettingUpBalanceP": [
+	"DFIntGettingUpBalanceP": [
 		"load = :$7D0D2; mem_val = :$1788BE4; mem_name = :$14C37FC",
 		2250
 	],
-	"FIntFreeFallBalanceP": [
+	"DFIntFreeFallBalanceP": [
 		"load = :$7D132; mem_val = :$1788C34; mem_name = :$14C3B44",
 		5000
 	],
-	"FIntFreeFallOrientationP": [
+	"DFIntFreeFallOrientationP": [
 		"load = :$7D152; mem_val = :$1788C2C; mem_name = :$14C3B2C",
 		100
 	],
-	"FIntMaximumFreefallMoveTimeInTenths": [
+	"DFIntMaximumFreefallMoveTimeInTenths": [
 		"load = :$7D172; mem_val = :$1788C00; mem_name = :$14C3A78",
 		1
 	],
-	"FIntMaximumUnstickForceInGs": [
+	"DFIntMaximumUnstickForceInGs": [
 		"load = :$7D192; mem_val = :$1788C18; mem_name = :$14C3AD0",
 		4
 	],
-	"FIntMinimumFreefallMoveDistanceInTenths": [
+	"DFIntMinimumFreefallMoveDistanceInTenths": [
 		"load = :$7D1B2; mem_val = :$1788BF8; mem_name = :$14C3A54",
 		5
 	],
-	"FIntUnstickForceAttackInTenths": [
+	"DFIntUnstickForceAttackInTenths": [
 		"load = :$7D1D2; mem_val = :$1788C10; mem_name = :$14C3AB4",
 		1
 	],
-	"FIntUnstickForceDecayInTenths": [
+	"DFIntUnstickForceDecayInTenths": [
 		"load = :$7D1F2; mem_val = :$1788C08; mem_name = :$14C3A98",
 		9
 	],
-	"FIntUnstickForceEpsilonInHundredths": [
+	"DFIntUnstickForceEpsilonInHundredths": [
 		"load = :$7D212; mem_val = :$1788C20; mem_name = :$14C3AE8",
 		1
 	],
-	"FIntPGSJumpForceAdjustment": [
+	"DFIntPGSJumpForceAdjustment": [
 		"load = :$7D252; mem_val = :$1788C3C; mem_name = :$14C3BBC",
 		520
 	],
@@ -5195,23 +5195,23 @@
 		"load = :$7D2B2; mem_val = :$1788C50; mem_name = :$14C3EF8",
 		30000
 	],
-	"FIntBgUpdateRedirectsHttpErrInfluxHundredthsPercentage": [
+	"DFIntBgUpdateRedirectsHttpErrInfluxHundredthsPercentage": [
 		"load = :$7D372; mem_val = :$18ECBC4; mem_name = :$14C4068",
 		0
 	],
-	"FIntBgUpdateRedirectsRejectInfluxHundredthsPercentage": [
+	"DFIntBgUpdateRedirectsRejectInfluxHundredthsPercentage": [
 		"load = :$7D3B2; mem_val = :$18ECBC0; mem_name = :$14C4034",
 		0
 	],
-	"FIntHttpBatchAssetV1HundredthsPercentage": [
+	"DFIntHttpBatchAssetV1HundredthsPercentage": [
 		"load = :$7D3D2; mem_val = :$18ECBC8; mem_name = :$14C4110",
 		0
 	],
-	"FIntHttpBatchDelayMs": [
+	"DFIntHttpBatchDelayMs": [
 		"load = :$7D3F2; mem_val = :$1788C74; mem_name = :$14C40EC",
 		3000
 	],
-	"FIntHttpBatchLimit": [
+	"DFIntHttpBatchLimit": [
 		"load = :$7D412; mem_val = :$1788C6C; mem_name = :$14C40DC",
 		128
 	],
@@ -5315,15 +5315,15 @@
 		"load = :$7D752; mem_val = :$1788E4C; mem_name = :$14CCB9C",
 		2
 	],
-	"FIntSmoothTerrainPhysicsRayAabbSlop": [
+	"DFIntSmoothTerrainPhysicsRayAabbSlop": [
 		"load = :$7D772; mem_val = :$1788EBC; mem_name = :$14CCEE0",
 		1
 	],
-	"FIntDefaultBalanceD": [
+	"DFIntDefaultBalanceD": [
 		"load = :$7D792; mem_val = :$1788ED0; mem_name = :$14CCF3C",
 		50
 	],
-	"FIntDefaultBalanceP": [
+	"DFIntDefaultBalanceP": [
 		"load = :$7D7B2; mem_val = :$1788EC8; mem_name = :$14CCF2C",
 		2250
 	],
@@ -5331,7 +5331,7 @@
 		"load = :$7D9F2; mem_val = :$1788EE4; mem_name = :$14CD444",
 		52428800
 	],
-	"FIntNavigationPolygonMergePasses": [
+	"DFIntNavigationPolygonMergePasses": [
 		"load = :$7DA92; mem_val = :$1788F18; mem_name = :$14CDADC",
 		2
 	],
@@ -5363,15 +5363,15 @@
 		"load = :$7EBF2; mem_val = :$1789404; mem_name = :$15179F8",
 		512
 	],
-	"FIntRakNetNakResendDelayMs": [
+	"DFIntRakNetNakResendDelayMs": [
 		"load = :$7EC52; mem_val = :$1A8F29C; mem_name = :$15179A4",
 		0
 	],
-	"FIntRakNetNakResendDelayMsMax": [
+	"DFIntRakNetNakResendDelayMsMax": [
 		"load = :$7EC72; mem_val = :$1A8F2A4; mem_name = :$15179DC",
 		0
 	],
-	"FIntRakNetNakResendDelayRttPercent": [
+	"DFIntRakNetNakResendDelayRttPercent": [
 		"load = :$7EC92; mem_val = :$1A8F2A0; mem_name = :$15179BC",
 		0
 	],
@@ -5387,31 +5387,31 @@
 		"load = :$7F552; mem_val = :$1A90C80; mem_name = :$151833C",
 		0
 	],
-	"FIntJoinInfluxHundredthsPercentage": [
+	"DFIntJoinInfluxHundredthsPercentage": [
 		"load = :$7F642; mem_val = :$1A90C78; mem_name = :$15182EC",
 		0
 	],
-	"FIntJoinTimeCounters_JoinInfluxHundredthsPercentage": [
+	"DFIntJoinTimeCounters_JoinInfluxHundredthsPercentage": [
 		"load = :$7F682; mem_val = :$1A90C7C; mem_name = :$151830C",
 		0
 	],
-	"FIntOnDisconnectHTTPTimeout": [
+	"DFIntOnDisconnectHTTPTimeout": [
 		"load = :$7F832; mem_val = :$17894B0; mem_name = :$1518468",
 		2000
 	],
-	"FIntSendJoinTimeDeltasToDiag_HundredthsPercentage": [
+	"DFIntSendJoinTimeDeltasToDiag_HundredthsPercentage": [
 		"load = :$7F9C2; mem_val = :$1A90C9C; mem_name = :$1518638",
 		0
 	],
-	"FIntSendJoinTimeStatsToDiag_HundredthsPercentage": [
+	"DFIntSendJoinTimeStatsToDiag_HundredthsPercentage": [
 		"load = :$7FA52; mem_val = :$1A90C94; mem_name = :$1518508",
 		0
 	],
-	"FIntSendJoinTimesToDiag_HundredthsPercentage": [
+	"DFIntSendJoinTimesToDiag_HundredthsPercentage": [
 		"load = :$7FA92; mem_val = :$1A90C90; mem_name = :$15184DC",
 		0
 	],
-	"FIntClientNetworkInfluxHundredthsPercentage": [
+	"DFIntClientNetworkInfluxHundredthsPercentage": [
 		"load = :$80962; mem_val = :$1A914F4; mem_name = :$1519E1C",
 		0
 	],
@@ -5419,11 +5419,11 @@
 		"load = :$809A2; mem_val = :$1A914F0; mem_name = :$1519DC8",
 		0
 	],
-	"FIntTeamCreateTimeOutInSec": [
+	"DFIntTeamCreateTimeOutInSec": [
 		"load = :$809E2; mem_val = :$1789568; mem_name = :$1519E44",
 		60
 	],
-	"FIntConnectionMTUSize": [
+	"DFIntConnectionMTUSize": [
 		"load = :$80BD2; mem_val = :$1A91618; mem_name = :$151A720",
 		0
 	],
@@ -5439,23 +5439,23 @@
 		"load = :$80C52; mem_val = :$1A91628; mem_name = :$151A79C",
 		0
 	],
-	"FIntRakNetLoopMs": [
+	"DFIntRakNetLoopMs": [
 		"load = :$80CD2; mem_val = :$17895A8; mem_name = :$151A7EC",
 		10
 	],
-	"FIntStepsToJoin": [
+	"DFIntStepsToJoin": [
 		"load = :$80D52; mem_val = :$17895BC; mem_name = :$151A828",
 		5
 	],
-	"FIntGAThrottlingEventThresholdHundredthCat1": [
+	"DFIntGAThrottlingEventThresholdHundredthCat1": [
 		"load = :$80DC2; mem_val = :$178961C; mem_name = :$151B0AC",
 		90
 	],
-	"FIntGAThrottlingEventThresholdHundredthCat2": [
+	"DFIntGAThrottlingEventThresholdHundredthCat2": [
 		"load = :$80DE2; mem_val = :$1789614; mem_name = :$151B084",
 		75
 	],
-	"FIntGAThrottlingEventThresholdHundredthCat3": [
+	"DFIntGAThrottlingEventThresholdHundredthCat3": [
 		"load = :$80E02; mem_val = :$178960C; mem_name = :$151B05C",
 		50
 	],
@@ -5467,31 +5467,31 @@
 		"load = :$80EB2; mem_val = :$17895E0; mem_name = :$151AF70",
 		10
 	],
-	"FIntMemoryPlaceIDReportThreshold": [
+	"DFIntMemoryPlaceIDReportThreshold": [
 		"load = :$80ED2; mem_val = :$17895F4; mem_name = :$151AFC8",
 		600
 	],
-	"FIntPrimStatsGANumDelimited": [
+	"DFIntPrimStatsGANumDelimited": [
 		"load = :$80EF2; mem_val = :$17895E8; mem_name = :$151AF8C",
 		1000
 	],
-	"FIntClientInstanceQuotaCap": [
+	"DFIntClientInstanceQuotaCap": [
 		"load = :$810B2; mem_val = :$1789668; mem_name = :$151B5EC",
 		10000
 	],
-	"FIntClientInstanceQuotaInitial": [
+	"DFIntClientInstanceQuotaInitial": [
 		"load = :$810D2; mem_val = :$1789670; mem_name = :$151B604",
 		2000
 	],
-	"FIntTimePermyriad": [
+	"DFIntTimePermyriad": [
 		"load = :$81112; mem_val = :$1789684; mem_name = :$151B650",
 		100
 	],
-	"FIntAdditionalReportingPermyriad": [
+	"DFIntAdditionalReportingPermyriad": [
 		"load = :$812F2; mem_val = :$17896B4; mem_name = :$151C06C",
 		100
 	],
-	"FIntInfluxReportFeOnStartupErrorPermyriad": [
+	"DFIntInfluxReportFeOnStartupErrorPermyriad": [
 		"load = :$81332; mem_val = :$1A9242C; mem_name = :$151C0C0",
 		0
 	],
@@ -5499,19 +5499,19 @@
 		"load = :$81352; mem_val = :$17896C8; mem_name = :$151C0E8",
 		128
 	],
-	"FIntReportFeOnStartupPermyriad": [
+	"DFIntReportFeOnStartupPermyriad": [
 		"load = :$813F2; mem_val = :$1A92428; mem_name = :$151C08C",
 		0
 	],
-	"FIntClusterCompressionLevel": [
+	"DFIntClusterCompressionLevel": [
 		"load = :$81822; mem_val = :$178978C; mem_name = :$151CBA8",
 		1
 	],
-	"FIntClusterEstimatedCompressionRatioHundredths": [
+	"DFIntClusterEstimatedCompressionRatioHundredths": [
 		"load = :$81842; mem_val = :$1789794; mem_name = :$151CBC0",
 		200
 	],
-	"FIntDepthLimit": [
+	"DFIntDepthLimit": [
 		"load = :$818C2; mem_val = :$17897EC; mem_name = :$151CC80",
 		4000
 	],
@@ -5519,151 +5519,151 @@
 		"load = :$81902; mem_val = :$1A925E0; mem_name = :$151CE48",
 		0
 	],
-	"FIntGlobalFill": [
+	"DFIntGlobalFill": [
 		"load = :$81942; mem_val = :$1A925C4; mem_name = :$151CC44",
 		0
 	],
-	"FIntGlobalLeak": [
+	"DFIntGlobalLeak": [
 		"load = :$81962; mem_val = :$17897B0; mem_name = :$151CC14",
 		100000000
 	],
-	"FIntMaxClusterKBPerSecond": [
+	"DFIntMaxClusterKBPerSecond": [
 		"load = :$819A2; mem_val = :$1789888; mem_name = :$151CE30",
 		40
 	],
-	"FIntMaxClusterSendStepsAccumulated": [
+	"DFIntMaxClusterSendStepsAccumulated": [
 		"load = :$819C2; mem_val = :$1789730; mem_name = :$151C900",
 		15
 	],
-	"FIntMaxClusterSendStepsPerCyclic": [
+	"DFIntMaxClusterSendStepsPerCyclic": [
 		"load = :$819E2; mem_val = :$1789720; mem_name = :$151C8C8",
 		5
 	],
-	"FIntMaxDataOutJobScaling": [
+	"DFIntMaxDataOutJobScaling": [
 		"load = :$81A02; mem_val = :$1789738; mem_name = :$151C920",
 		10
 	],
-	"FIntMaxDataPacketPerSend": [
+	"DFIntMaxDataPacketPerSend": [
 		"load = :$81A22; mem_val = :$1789894; mem_name = :$151CE74",
 		1
 	],
-	"FIntMaxDataStepsAccumulated": [
+	"DFIntMaxDataStepsAccumulated": [
 		"load = :$81A42; mem_val = :$1789710; mem_name = :$151C898",
 		15
 	],
-	"FIntMaxDataStepsPerCyclic": [
+	"DFIntMaxDataStepsPerCyclic": [
 		"load = :$81A62; mem_val = :$1789700; mem_name = :$151C854",
 		5
 	],
-	"FIntMaxProcessPacketsJobScaling": [
+	"DFIntMaxProcessPacketsJobScaling": [
 		"load = :$81A82; mem_val = :$1789820; mem_name = :$151CD08",
 		10
 	],
-	"FIntMaxProcessPacketsStepsAccumulated": [
+	"DFIntMaxProcessPacketsStepsAccumulated": [
 		"load = :$81AA2; mem_val = :$1789818; mem_name = :$151CCD4",
 		15
 	],
-	"FIntMaxProcessPacketsStepsPerCyclic": [
+	"DFIntMaxProcessPacketsStepsPerCyclic": [
 		"load = :$81AC2; mem_val = :$1789810; mem_name = :$151CCB4",
 		5
 	],
-	"FIntMaxWaitTimeBeforeForcePacketProcessMS": [
+	"DFIntMaxWaitTimeBeforeForcePacketProcessMS": [
 		"load = :$81AE2; mem_val = :$1A925D0; mem_name = :$151CC8C",
 		0
 	],
-	"FIntPacketErrorInfluxHundredthsPercentage": [
+	"DFIntPacketErrorInfluxHundredthsPercentage": [
 		"load = :$81BF2; mem_val = :$178989C; mem_name = :$151CE8C",
 		10000
 	],
-	"FIntPpjCapacity": [
+	"DFIntPpjCapacity": [
 		"load = :$81C32; mem_val = :$1789840; mem_name = :$151CD54",
 		100
 	],
-	"FIntPpjEtrFill": [
+	"DFIntPpjEtrFill": [
 		"load = :$81C72; mem_val = :$1789828; mem_name = :$151CD24",
 		10
 	],
-	"FIntPpjEtrThreshold": [
+	"DFIntPpjEtrThreshold": [
 		"load = :$81C92; mem_val = :$1789850; mem_name = :$151CD80",
 		6
 	],
-	"FIntPpjLeak": [
+	"DFIntPpjLeak": [
 		"load = :$81CB2; mem_val = :$1789838; mem_name = :$151CD4C",
 		10
 	],
-	"FIntPpjPmFill": [
+	"DFIntPpjPmFill": [
 		"load = :$81CD2; mem_val = :$1789830; mem_name = :$151CD40",
 		10
 	],
-	"FIntPpjPmThreshold": [
+	"DFIntPpjPmThreshold": [
 		"load = :$81CF2; mem_val = :$1A925D8; mem_name = :$151CD90",
 		0
 	],
-	"FIntQKick": [
+	"DFIntQKick": [
 		"load = :$81D52; mem_val = :$17897D8; mem_name = :$151CC64",
 		3072
 	],
-	"FIntQLimit": [
+	"DFIntQLimit": [
 		"load = :$81D72; mem_val = :$17897D0; mem_name = :$151CC5C",
 		3072
 	],
-	"FIntRatePermyriad": [
+	"DFIntRatePermyriad": [
 		"load = :$81DB2; mem_val = :$1A925B8; mem_name = :$151CBEC",
 		0
 	],
-	"FIntReplicatorMaxPacketBytesSentToInfluxOnError": [
+	"DFIntReplicatorMaxPacketBytesSentToInfluxOnError": [
 		"load = :$81DD2; mem_val = :$1789708; mem_name = :$151C86C",
 		1024
 	],
-	"FIntReportFill": [
+	"DFIntReportFill": [
 		"load = :$81E12; mem_val = :$1A925C8; mem_name = :$151CC50",
 		0
 	],
-	"FIntReportLeak": [
+	"DFIntReportLeak": [
 		"load = :$81E32; mem_val = :$17897B8; mem_name = :$151CC20",
 		100000000
 	],
-	"FIntRxRlEn2": [
+	"DFIntRxRlEn2": [
 		"load = :$81E72; mem_val = :$1A925CC; mem_name = :$151CC6C",
 		0
 	],
-	"FIntRxRlReport": [
+	"DFIntRxRlReport": [
 		"load = :$81E92; mem_val = :$17897E4; mem_name = :$151CC74",
 		15
 	],
-	"FIntSendRakNetStatsInterval": [
+	"DFIntSendRakNetStatsInterval": [
 		"load = :$81ED2; mem_val = :$1789718; mem_name = :$151C8B0",
 		300
 	],
-	"FIntSendRakNetStatsThrottle": [
+	"DFIntSendRakNetStatsThrottle": [
 		"load = :$81EF2; mem_val = :$1789728; mem_name = :$151C8E8",
 		1
 	],
-	"FIntSoundFill": [
+	"DFIntSoundFill": [
 		"load = :$81F32; mem_val = :$1A925BC; mem_name = :$151CC2C",
 		0
 	],
-	"FIntSoundLeak": [
+	"DFIntSoundLeak": [
 		"load = :$81F52; mem_val = :$17897A0; mem_name = :$151CBFC",
 		100000000
 	],
-	"FIntSpecialFill": [
+	"DFIntSpecialFill": [
 		"load = :$81F72; mem_val = :$1A925C0; mem_name = :$151CC38",
 		0
 	],
-	"FIntSpecialLeak": [
+	"DFIntSpecialLeak": [
 		"load = :$81F92; mem_val = :$17897A8; mem_name = :$151CC08",
 		100000000
 	],
-	"FIntMaxDataPayloadSize": [
+	"DFIntMaxDataPayloadSize": [
 		"load = :$82212; mem_val = :$17898F8; mem_name = :$151EE8C",
 		32000000
 	],
-	"FIntMaxLearnDescriptors": [
+	"DFIntMaxLearnDescriptors": [
 		"load = :$82232; mem_val = :$17898EC; mem_name = :$151EE78",
 		8192
 	],
-	"FIntPhysicsCompressionSizeFilter": [
+	"DFIntPhysicsCompressionSizeFilter": [
 		"load = :$82252; mem_val = :$17898E8; mem_name = :$151EE58",
 		50
 	],
@@ -5671,43 +5671,43 @@
 		"load = :$822F2; mem_val = :$1789950; mem_name = :$151F1E8",
 		1000
 	],
-	"FIntDisconnectReportPermyriad": [
+	"DFIntDisconnectReportPermyriad": [
 		"load = :$82352; mem_val = :$1A92978; mem_name = :$151F0DC",
 		0
 	],
-	"FIntGuiPermyriad2": [
+	"DFIntGuiPermyriad2": [
 		"load = :$823D2; mem_val = :$1A9298C; mem_name = :$151F1D8",
 		0
 	],
-	"FIntRtl7InfluxHundredthsPercentage": [
+	"DFIntRtl7InfluxHundredthsPercentage": [
 		"load = :$82492; mem_val = :$1789958; mem_name = :$151F1FC",
 		100
 	],
-	"FIntServerPlayerFilterConfig": [
+	"DFIntServerPlayerFilterConfig": [
 		"load = :$824D2; mem_val = :$1A92980; mem_name = :$151F114",
 		0
 	],
-	"FIntServerPlayerFilterPermyriad": [
+	"DFIntServerPlayerFilterPermyriad": [
 		"load = :$824F2; mem_val = :$1A9297C; mem_name = :$151F0F8",
 		0
 	],
-	"FIntUS20162": [
+	"DFIntUS20162": [
 		"load = :$82522; mem_val = :$1A92990; mem_name = :$151F21C",
 		0
 	],
-	"FIntUS20162Permyriad": [
+	"DFIntUS20162Permyriad": [
 		"load = :$82542; mem_val = :$1A92994; mem_name = :$151F224",
 		0
 	],
-	"FIntDebugSendDistInSteps": [
+	"DFIntDebugSendDistInSteps": [
 		"load = :$825B2; mem_val = :$17899F8; mem_name = :$151FCE4",
 		5
 	],
-	"FIntDebugSendMomentInSteps": [
+	"DFIntDebugSendMomentInSteps": [
 		"load = :$825D2; mem_val = :$1789978; mem_name = :$151FAAC",
 		6
 	],
-	"FIntMaxFramesToSend": [
+	"DFIntMaxFramesToSend": [
 		"load = :$82672; mem_val = :$17899E8; mem_name = :$151FCB0",
 		255
 	],
@@ -5715,111 +5715,111 @@
 		"load = :$826B2; mem_val = :$1789988; mem_name = :$151FB0C",
 		1
 	],
-	"FIntPercentSentAlways": [
+	"DFIntPercentSentAlways": [
 		"load = :$826D2; mem_val = :$17899A8; mem_name = :$151FB84",
 		50
 	],
-	"FIntPhysicsPacketsPerStepAdjustPeriodTenths": [
+	"DFIntPhysicsPacketsPerStepAdjustPeriodTenths": [
 		"load = :$82712; mem_val = :$17899A0; mem_name = :$151FB5C",
 		30
 	],
-	"FIntS2NumPhysicsPacketsPerStep": [
+	"DFIntS2NumPhysicsPacketsPerStep": [
 		"load = :$82732; mem_val = :$1789990; mem_name = :$151FB2C",
 		20
 	],
-	"FIntS2PhysicsSenderRate": [
+	"DFIntS2PhysicsSenderRate": [
 		"load = :$82752; mem_val = :$1789998; mem_name = :$151FB48",
 		15
 	],
-	"FIntRakNetConnectionStartWindow_HundredthsPercentage": [
+	"DFIntRakNetConnectionStartWindow_HundredthsPercentage": [
 		"load = :$82A42; mem_val = :$1A93968; mem_name = :$152008C",
 		0
 	],
-	"FIntRakNetResendMaxThresholdTimeInUs": [
+	"DFIntRakNetResendMaxThresholdTimeInUs": [
 		"load = :$82A62; mem_val = :$1789A78; mem_name = :$1520068",
 		2000000
 	],
-	"FIntRakNetResendScaleBackFactorHundredthsPercent": [
+	"DFIntRakNetResendScaleBackFactorHundredthsPercent": [
 		"load = :$82A82; mem_val = :$1A9396C; mem_name = :$15200C0",
 		0
 	],
-	"FIntRakNetUseSlidingWindow2_maxSpeed": [
+	"DFIntRakNetUseSlidingWindow2_maxSpeed": [
 		"load = :$82AB2; mem_val = :$1A9399C; mem_name = :$15202E4",
 		0
 	],
-	"FIntRakNetUseSlidingWindow2_minRtt": [
+	"DFIntRakNetUseSlidingWindow2_minRtt": [
 		"load = :$82AD2; mem_val = :$1789AC0; mem_name = :$15202A0",
 		30000
 	],
-	"FIntRakNetUseSlidingWindow2_minSpeed": [
+	"DFIntRakNetUseSlidingWindow2_minSpeed": [
 		"load = :$82AF2; mem_val = :$1789AC8; mem_name = :$15202C0",
 		1536
 	],
-	"FIntRakNetUseSlidingWindow2_rangeCount": [
+	"DFIntRakNetUseSlidingWindow2_rangeCount": [
 		"load = :$82B12; mem_val = :$1789AA0; mem_name = :$1520208",
 		10
 	],
-	"FIntRakNetUseSlidingWindow2_startFactor": [
+	"DFIntRakNetUseSlidingWindow2_startFactor": [
 		"load = :$82B32; mem_val = :$1789AB0; mem_name = :$1520254",
 		200
 	],
-	"FIntRakNetUseSlidingWindow2_startInitSpeed": [
+	"DFIntRakNetUseSlidingWindow2_startInitSpeed": [
 		"load = :$82B52; mem_val = :$1789AA8; mem_name = :$152022C",
 		200000
 	],
-	"FIntRakNetUseSlidingWindow2_startUpdateMs": [
+	"DFIntRakNetUseSlidingWindow2_startUpdateMs": [
 		"load = :$82B72; mem_val = :$1789AB8; mem_name = :$1520278",
 		10
 	],
-	"FIntRakNetUseSlidingWindow2_trackLengthMs": [
+	"DFIntRakNetUseSlidingWindow2_trackLengthMs": [
 		"load = :$82B92; mem_val = :$1789A98; mem_name = :$15201E0",
 		2500
 	],
-	"FIntWeldPermyriad": [
+	"DFIntWeldPermyriad": [
 		"load = :$82D62; mem_val = :$1A93A10; mem_name = :$152054C",
 		0
 	],
-	"FIntNetworkSchemaCompressionRatio": [
+	"DFIntNetworkSchemaCompressionRatio": [
 		"load = :$82FD2; mem_val = :$178A078; mem_name = :$152098C",
 		9
 	],
-	"FIntMaxConsecutiveStreamJobWorkLoad": [
+	"DFIntMaxConsecutiveStreamJobWorkLoad": [
 		"load = :$83072; mem_val = :$178A0A8; mem_name = :$1520AF4",
 		1
 	],
-	"FIntMaxServerStreamRegionRadius": [
+	"DFIntMaxServerStreamRegionRadius": [
 		"load = :$83092; mem_val = :$178A09C; mem_name = :$1520AB4",
 		16
 	],
-	"FIntMaxStreamPacketsPerStep": [
+	"DFIntMaxStreamPacketsPerStep": [
 		"load = :$830B2; mem_val = :$178A094; mem_name = :$1520A9C",
 		16
 	],
-	"FIntStreamJobMaxBufferHealthThresholdHundredths": [
+	"DFIntStreamJobMaxBufferHealthThresholdHundredths": [
 		"load = :$830F2; mem_val = :$178A0BC; mem_name = :$1520B58",
 		90
 	],
-	"FIntStreamJobMinBufferHealthThresholdHundredths": [
+	"DFIntStreamJobMinBufferHealthThresholdHundredths": [
 		"load = :$83112; mem_val = :$178A0B4; mem_name = :$1520B2C",
 		50
 	],
-	"FIntStreamJobPriorityAmplifierRadius": [
+	"DFIntStreamJobPriorityAmplifierRadius": [
 		"load = :$83132; mem_val = :$1A93BFC; mem_name = :$1520AD0",
 		0
 	],
-	"FIntDebugRestrictGCDistance": [
+	"DFIntDebugRestrictGCDistance": [
 		"load = :$83292; mem_val = :$1A93D10; mem_name = :$15213F4",
 		0
 	],
-	"FIntJoinDataCompressionLevel": [
+	"DFIntJoinDataCompressionLevel": [
 		"load = :$832B2; mem_val = :$178A114; mem_name = :$1521470",
 		1
 	],
-	"FIntNetworkStreamingGCMaxMicroSecondLimit": [
+	"DFIntNetworkStreamingGCMaxMicroSecondLimit": [
 		"load = :$832F2; mem_val = :$178A12C; mem_name = :$152148C",
 		4000
 	],
-	"FIntPartStreamingGCMinRegionLength": [
+	"DFIntPartStreamingGCMinRegionLength": [
 		"load = :$83312; mem_val = :$178A118; mem_name = :$1521424",
 		2
 	],
@@ -5827,7 +5827,7 @@
 		"load = :$83332; mem_val = :$178A120; mem_name = :$1521444",
 		250
 	],
-	"FIntStreamedRegionGCFactor": [
+	"DFIntStreamedRegionGCFactor": [
 		"load = :$83352; mem_val = :$178A108; mem_name = :$15213DC",
 		250
 	],
@@ -5867,7 +5867,7 @@
 		"load = :$844D2; mem_val = :$178E3A8; mem_name = :$152CE78",
 		2
 	],
-	"FIntPreloadTextureTimeBuget": [
+	"DFIntPreloadTextureTimeBuget": [
 		"load = :$845A2; mem_val = :$178E3B8; mem_name = :$152D370",
 		1000
 	],
@@ -5879,7 +5879,7 @@
 		"load = :$84602; mem_val = :$1A9512C; mem_name = :$152D388",
 		0
 	],
-	"FIntTexAtlasUpdateLineHeight": [
+	"DFIntTexAtlasUpdateLineHeight": [
 		"load = :$84992; mem_val = :$178E4DC; mem_name = :$152E6EC",
 		150
 	],
@@ -5951,11 +5951,11 @@
 		"load = :$11DD2; mem_val = :$188B054; mem_name = :$1409040",
 		"realtime"
 	],
-	"FStringWorkspaceMessageLink": [
+	"DFStringWorkspaceMessageLink": [
 		"load = :$123A2; mem_val = :$188B278; mem_name = :$140CAC8",
 		"http://www.roblox.com"
 	],
-	"FStringWorkspaceMessageText": [
+	"DFStringWorkspaceMessageText": [
 		"load = :$12412; mem_val = :$188B25C; mem_name = :$140CA98",
 		"Test Me - Please Remove"
 	],
@@ -5963,39 +5963,39 @@
 		"load = :$12F22; mem_val = :$188B900; mem_name = :$141150C",
 		"www"
 	],
-	"FStringAvatarJointPositionsArtistIntent": [
+	"DFStringAvatarJointPositionsArtistIntent": [
 		"load = :$15692; mem_val = :$188D940; mem_name = :$1413F84",
 		"ArtistIntent"
 	],
-	"FStringAvatarJointPositionsFixed": [
+	"DFStringAvatarJointPositionsFixed": [
 		"load = :$15742; mem_val = :$188D95C; mem_name = :$1413FB0",
 		"Fixed"
 	],
-	"FStringAvatarJointPositionsTypeField": [
+	"DFStringAvatarJointPositionsTypeField": [
 		"load = :$157B2; mem_val = :$188D978; mem_name = :$1413FE4",
 		"jointPositioningType"
 	],
-	"FStringCollideInnerBox": [
+	"DFStringCollideInnerBox": [
 		"load = :$15842; mem_val = :$188D994; mem_name = :$1414030",
 		"InnerBox"
 	],
-	"FStringCollideOuterBox": [
+	"DFStringCollideOuterBox": [
 		"load = :$158B2; mem_val = :$188D9B0; mem_name = :$1414058",
 		"OuterBox"
 	],
-	"FStringCustomAnimationField": [
+	"DFStringCustomAnimationField": [
 		"load = :$15922; mem_val = :$188D9CC; mem_name = :$1414080",
 		"allowCustomAnimations"
 	],
-	"FStringCustomAnimationTypeAllow": [
+	"DFStringCustomAnimationTypeAllow": [
 		"load = :$15992; mem_val = :$188D9E8; mem_name = :$14140B0",
 		"True"
 	],
-	"FStringDefaultCustomAnimationType": [
+	"DFStringDefaultCustomAnimationType": [
 		"load = :$15B72; mem_val = :$188DA04; mem_name = :$14140CC",
 		"True"
 	],
-	"FStringR15CollisionTypeField": [
+	"DFStringR15CollisionTypeField": [
 		"load = :$15D22; mem_val = :$188DA20; mem_name = :$1414134",
 		"r15CollisionType"
 	],
@@ -6031,7 +6031,7 @@
 		"load = :$398F2; mem_val = :$18A4EB4; mem_name = :$1433374",
 		"users/get-by-username?username=%s"
 	],
-	"FStringHttpInfluxDatabase": [
+	"DFStringHttpInfluxDatabase": [
 		"load = :$3AD92; mem_val = :$18A5ABC; mem_name = :$1434684",
 		"Default"
 	],
@@ -6043,43 +6043,43 @@
 		"load = :$3B1A2; mem_val = :$18A5B08; mem_name = :$1434D3C",
 		"4"
 	],
-	"FStringCrashUploadToBacktraceBlackholeToken": [
+	"DFStringCrashUploadToBacktraceBlackholeToken": [
 		"load = :$3D262; mem_val = :$18A6E28; mem_name = :$143685C",
 		"7705528468a303e4e34a13fbcf9e42e219633ed6868e143e5ab16cd33bd2a069"
 	],
-	"FStringCrashUploadToBacktraceLinuxRCCToken": [
+	"DFStringCrashUploadToBacktraceLinuxRCCToken": [
 		"load = :$3D2D2; mem_val = :$18A6DD4; mem_name = :$1436714",
 		"82fc562ca79e6df76a1add3c37aca015601a7326f48d4476fdc37bfe85e44673"
 	],
-	"FStringCrashUploadToBacktraceMacPlayerToken": [
+	"DFStringCrashUploadToBacktraceMacPlayerToken": [
 		"load = :$3D342; mem_val = :$18A6DF0; mem_name = :$143677C",
 		"24cb37449e120c3a0618b1bf0585e339571828cae4dc73c7b8c99f67fcd751e9"
 	],
-	"FStringCrashUploadToBacktraceMacStudioToken": [
+	"DFStringCrashUploadToBacktraceMacStudioToken": [
 		"load = :$3D3B2; mem_val = :$18A6E0C; mem_name = :$14367EC",
 		"71f38d9e22eac3ed9fdb80607d798f829e051303baa63cb9766e6f2e9d0584d8"
 	],
-	"FStringCrashUploadToBacktraceToBacktraceBaseUrl": [
+	"DFStringCrashUploadToBacktraceToBacktraceBaseUrl": [
 		"load = :$3D442; mem_val = :$18A6D64; mem_name = :$1436598",
 		"https://roblox.sp.backtrace.io:8443/post?format=minidump"
 	],
-	"FStringCrashUploadToBacktraceWindowsPlayerToken": [
+	"DFStringCrashUploadToBacktraceWindowsPlayerToken": [
 		"load = :$3D4B2; mem_val = :$18A6D80; mem_name = :$143660C",
 		"417ecb0fbc032ce087e6af3b780c298e3356089f050c8130d2318109e80417a4"
 	],
-	"FStringCrashUploadToBacktraceWindowsRCCToken": [
+	"DFStringCrashUploadToBacktraceWindowsRCCToken": [
 		"load = :$3D522; mem_val = :$18A6DB8; mem_name = :$14366EC",
 		"82fc562ca79e6df76a1add3c37aca015601a7326f48d4476fdc37bfe85e44673"
 	],
-	"FStringCrashUploadToBacktraceWindowsStudioToken": [
+	"DFStringCrashUploadToBacktraceWindowsStudioToken": [
 		"load = :$3D592; mem_val = :$18A6D9C; mem_name = :$143667C",
 		"8608fce9cad86072eee36b7d1d9dc56d68101a6b1f783c7bf568d80972ee1837"
 	],
-	"FStringAdditionalBlacklistHeaders": [
+	"DFStringAdditionalBlacklistHeaders": [
 		"load = :$47432; mem_val = :$18ADC6C; mem_name = :$143BC40",
 		""
 	],
-	"FStringLocalizationServiceOverrideLocale": [
+	"DFStringLocalizationServiceOverrideLocale": [
 		"load = :$485C2; mem_val = :$18AF25C; mem_name = :$143D2E0",
 		"es"
 	],
@@ -6087,7 +6087,7 @@
 		"load = :$490D2; mem_val = :$18AFB1C; mem_name = :$143E078",
 		""
 	],
-	"FStringHttpRbxApiBlacklistedEndpoints": [
+	"DFStringHttpRbxApiBlacklistedEndpoints": [
 		"load = :$494D2; mem_val = :$18B0B2C; mem_name = :$143F0C8",
 		""
 	],
@@ -6103,23 +6103,23 @@
 		"load = :$57962; mem_val = :$18BDA98; mem_name = :$1450FCC",
 		"UA-43420590-19"
 	],
-	"FStringRobloxAnalyticsSubDomain": [
+	"DFStringRobloxAnalyticsSubDomain": [
 		"load = :$579F2; mem_val = :$18BDA5C; mem_name = :$1450F48",
 		"ecsv2"
 	],
-	"FStringRobloxAnalyticsURL": [
+	"DFStringRobloxAnalyticsURL": [
 		"load = :$57A62; mem_val = :$18BDA40; mem_name = :$1450F34",
 		"http://test.public.ecs.roblox.com/"
 	],
-	"FStringHttpResultsApprovedUserIDs": [
+	"DFStringHttpResultsApprovedUserIDs": [
 		"load = :$5FF72; mem_val = :$18C4FBC; mem_name = :$1458C9C",
 		""
 	],
-	"FStringFilterTextSubdomain": [
+	"DFStringFilterTextSubdomain": [
 		"load = :$66072; mem_val = :$18CB2C0; mem_name = :$1466B40",
 		"textfilter"
 	],
-	"FStringModerationFilterTextUrlV2": [
+	"DFStringModerationFilterTextUrlV2": [
 		"load = :$66182; mem_val = :$18CB2A4; mem_name = :$1466B08",
 		"moderation/v2/filtertext"
 	],
@@ -6127,7 +6127,7 @@
 		"load = :$66BA2; mem_val = :$18CBBD8; mem_name = :$14680B8",
 		"/my/friendsonline"
 	],
-	"FStringDataStoreThrottleMsg": [
+	"DFStringDataStoreThrottleMsg": [
 		"load = :$67E12; mem_val = :$18CD32C; mem_name = :$146A0E0",
 		"Request was throttled. Try sending fewer requests. Key = "
 	],
@@ -6135,23 +6135,23 @@
 		"load = :$6EB22; mem_val = :$18D5478; mem_name = :$1473624",
 		"http://127.0.0.1:8001"
 	],
-	"FStringCopyrightKey": [
+	"DFStringCopyrightKey": [
 		"load = :$799B2; mem_val = :$18E648C; mem_name = :$147F1A8",
 		"RBX-Content-Protected"
 	],
-	"FStringHttpCurlProxyHostAndPort": [
+	"DFStringHttpCurlProxyHostAndPort": [
 		"load = :$79B02; mem_val = :$18E6448; mem_name = :$147F070",
 		""
 	],
-	"FStringTelegrafAddress": [
+	"DFStringTelegrafAddress": [
 		"load = :$7C342; mem_val = :$18E8DE4; mem_name = :$14822D4",
 		"ec2-54-165-151-168.compute-1.amazonaws.com"
 	],
-	"FStringAssetPurchasePath": [
+	"DFStringAssetPurchasePath": [
 		"load = :$7C812; mem_val = :$18E921C; mem_name = :$1485020",
 		"marketplace/purchase"
 	],
-	"FStringDeveloperProductPurchasePath": [
+	"DFStringDeveloperProductPurchasePath": [
 		"load = :$7C882; mem_val = :$18E9238; mem_name = :$1485050",
 		"marketplace/submitpurchase"
 	],
@@ -6187,19 +6187,19 @@
 		"load = :$7F5E2; mem_val = :$1A90D50; mem_name = :$15185C8",
 		"GameLocale"
 	],
-	"FStringSendJoinTimeDeltasHundPrecCountryOverride": [
+	"DFStringSendJoinTimeDeltasHundPrecCountryOverride": [
 		"load = :$7F9A2; mem_val = :$1A90D74; mem_name = :$151860C",
 		""
 	],
-	"FStringSendJoinTimeStatsHundPrecCountryOverride": [
+	"DFStringSendJoinTimeStatsHundPrecCountryOverride": [
 		"load = :$7FA32; mem_val = :$1A90D28; mem_name = :$1518538",
 		""
 	],
-	"FStringGamePerfMonitorPercentageCountryOverride": [
+	"DFStringGamePerfMonitorPercentageCountryOverride": [
 		"load = :$80E72; mem_val = :$1A91C38; mem_name = :$151B0D4",
 		""
 	],
-	"FStringOverrideSendRakNetStatsThrottleCountries": [
+	"DFStringOverrideSendRakNetStatsThrottleCountries": [
 		"load = :$81BD2; mem_val = :$1A92694; mem_name = :$151C938",
 		""
 	],
@@ -6215,7 +6215,7 @@
 		"load = :$51E2; mem_val = :$1883010; mem_name = :$1044718",
 		0
 	],
-	"FLogTrackPublishingHashOutput": [
+	"DFLogTrackPublishingHashOutput": [
 		"load = :$55D2; mem_val = :$18833AB; mem_name = :$1047004",
 		0
 	],
@@ -6279,11 +6279,11 @@
 		"load = :$11DF2; mem_val = :$188B030; mem_name = :$1408FF0",
 		0
 	],
-	"FLogErrorDescription": [
+	"DFLogErrorDescription": [
 		"load = :$126E2; mem_val = :$188B37D; mem_name = :$1410488",
 		0
 	],
-	"FLogPlaceLauncher": [
+	"DFLogPlaceLauncher": [
 		"load = :$127E2; mem_val = :$188B37C; mem_name = :$1410380",
 		0
 	],
@@ -6303,7 +6303,7 @@
 		"load = :$15C32; mem_val = :$188D900; mem_name = :$1413730",
 		0
 	],
-	"FLogR15Character": [
+	"DFLogR15Character": [
 		"load = :$15CB2; mem_val = :$188D8E2; mem_name = :$141414C",
 		0
 	],
@@ -6311,15 +6311,15 @@
 		"load = :$1CBD2; mem_val = :$1784DDC; mem_name = :$141C758",
 		1
 	],
-	"FLogHttpTrace": [
+	"DFLogHttpTrace": [
 		"load = :$1D072; mem_val = :$1893590; mem_name = :$141CA80",
 		0
 	],
-	"FLogAnalyticsDeferredEphemeralReportingDiagnostic": [
+	"DFLogAnalyticsDeferredEphemeralReportingDiagnostic": [
 		"load = :$1DA52; mem_val = :$1893E9F; mem_name = :$141F108",
 		0
 	],
-	"FLogGoogleAnalyticsTracking": [
+	"DFLogGoogleAnalyticsTracking": [
 		"load = :$1DB12; mem_val = :$1893E9C; mem_name = :$141F028",
 		0
 	],
@@ -6327,19 +6327,19 @@
 		"load = :$1E2A2; mem_val = :$1894104; mem_name = :$141F5F0",
 		0
 	],
-	"FLogPreloadLinkedScriptsTiming": [
+	"DFLogPreloadLinkedScriptsTiming": [
 		"load = :$23562; mem_val = :$1897838; mem_name = :$1422824",
 		0
 	],
-	"FLogTrackScriptEditorLocking": [
+	"DFLogTrackScriptEditorLocking": [
 		"load = :$23582; mem_val = :$1897839; mem_name = :$1422840",
 		0
 	],
-	"FLogCharacterLoadTime": [
+	"DFLogCharacterLoadTime": [
 		"load = :$24232; mem_val = :$1785099; mem_name = :$1423F70",
 		6
 	],
-	"FLogPlayerChatInfoExponentialBackoffLimitMultiplier": [
+	"DFLogPlayerChatInfoExponentialBackoffLimitMultiplier": [
 		"load = :$243F2; mem_val = :$1785098; mem_name = :$1423F08",
 		9
 	],
@@ -6347,7 +6347,7 @@
 		"load = :$39182; mem_val = :$18A485D; mem_name = :$142F6BC",
 		0
 	],
-	"FLogInfluxDbLog": [
+	"DFLogInfluxDbLog": [
 		"load = :$3ADB2; mem_val = :$18A5AB0; mem_name = :$1434668",
 		0
 	],
@@ -6487,7 +6487,7 @@
 		"load = :$3CC52; mem_val = :$178596C; mem_name = :$143628C",
 		1
 	],
-	"FLogMaxJoinDataSizeKB": [
+	"DFLogMaxJoinDataSizeKB": [
 		"load = :$3CC72; mem_val = :$178593B; mem_name = :$1436264",
 		100
 	],
@@ -6531,7 +6531,7 @@
 		"load = :$3CDB2; mem_val = :$18A6B51; mem_name = :$14361F0",
 		0
 	],
-	"FLogNetworkJoin": [
+	"DFLogNetworkJoin": [
 		"load = :$3CDD2; mem_val = :$18A6B56; mem_name = :$1436278",
 		0
 	],
@@ -6539,7 +6539,7 @@
 		"load = :$3CDF2; mem_val = :$18A6B52; mem_name = :$1436204",
 		0
 	],
-	"FLogNetworkTrace": [
+	"DFLogNetworkTrace": [
 		"load = :$3CE12; mem_val = :$18A6B4E; mem_name = :$14361AC",
 		0
 	],
@@ -6687,7 +6687,7 @@
 		"load = :$4A9D2; mem_val = :$18B1B49; mem_name = :$1441088",
 		0
 	],
-	"FLogGetLatestAssetVersionErrors": [
+	"DFLogGetLatestAssetVersionErrors": [
 		"load = :$4C862; mem_val = :$18B41A8; mem_name = :$1442C1C",
 		0
 	],
@@ -6707,7 +6707,7 @@
 		"load = :$561C2; mem_val = :$18BC2C1; mem_name = :$144CE2C",
 		0
 	],
-	"FLogSoundCheckResult": [
+	"DFLogSoundCheckResult": [
 		"load = :$562A2; mem_val = :$18BC2C5; mem_name = :$144CE4C",
 		0
 	],
@@ -6715,11 +6715,11 @@
 		"load = :$562E2; mem_val = :$18BC2C2; mem_name = :$140462C",
 		0
 	],
-	"FLogSoundTiming": [
+	"DFLogSoundTiming": [
 		"load = :$56382; mem_val = :$18BC2C3; mem_name = :$144CE34",
 		0
 	],
-	"FLogSoundTrace": [
+	"DFLogSoundTrace": [
 		"load = :$563A2; mem_val = :$18BC2C4; mem_name = :$144CE40",
 		0
 	],
@@ -6727,7 +6727,7 @@
 		"load = :$570B2; mem_val = :$18BD088; mem_name = :$1450318",
 		0
 	],
-	"FLogDeferredVoxelUpdates": [
+	"DFLogDeferredVoxelUpdates": [
 		"load = :$5D642; mem_val = :$18C138C; mem_name = :$145491C",
 		0
 	],
@@ -6735,7 +6735,7 @@
 		"load = :$5F7F2; mem_val = :$18C4828; mem_name = :$1458084",
 		0
 	],
-	"FLogLuaTypeErrors": [
+	"DFLogLuaTypeErrors": [
 		"load = :$60A72; mem_val = :$18C5594; mem_name = :$145F3CC",
 		0
 	],
@@ -6759,27 +6759,27 @@
 		"load = :$63A52; mem_val = :$18C8B42; mem_name = :$1464CF8",
 		0
 	],
-	"FLogChatFiltering": [
+	"DFLogChatFiltering": [
 		"load = :$65F22; mem_val = :$18CB249; mem_name = :$1466A9C",
 		0
 	],
-	"FLogWebChatFiltering": [
+	"DFLogWebChatFiltering": [
 		"load = :$66322; mem_val = :$18CB248; mem_name = :$1466A40",
 		0
 	],
-	"FLogFriendServiceCache": [
+	"DFLogFriendServiceCache": [
 		"load = :$66A72; mem_val = :$18CBBC8; mem_name = :$14680CC",
 		0
 	],
-	"FLogFriendServiceCallbacks": [
+	"DFLogFriendServiceCallbacks": [
 		"load = :$66AD2; mem_val = :$18CBBCA; mem_name = :$14680FC",
 		0
 	],
-	"FLogFriendServiceLocalRequests": [
+	"DFLogFriendServiceLocalRequests": [
 		"load = :$66AF2; mem_val = :$17875F8; mem_name = :$1468114",
 		6
 	],
-	"FLogFriendServiceWebRequests": [
+	"DFLogFriendServiceWebRequests": [
 		"load = :$66B32; mem_val = :$18CBBC9; mem_name = :$14680E0",
 		0
 	],
@@ -6803,11 +6803,11 @@
 		"load = :$79452; mem_val = :$18E5BC0; mem_name = :$141CD20",
 		0
 	],
-	"FLogHttpTraceLight": [
+	"DFLogHttpTraceLight": [
 		"load = :$79B62; mem_val = :$18E6418; mem_name = :$147F04C",
 		0
 	],
-	"FLogAnalyticsLog": [
+	"DFLogAnalyticsLog": [
 		"load = :$79E02; mem_val = :$18E6578; mem_name = :$14802B0",
 		0
 	],
@@ -6879,19 +6879,19 @@
 		"load = :$7F6A2; mem_val = :$1789485; mem_name = :$151843C",
 		4
 	],
-	"FLogPartStreamingRequests": [
+	"DFLogPartStreamingRequests": [
 		"load = :$810F2; mem_val = :$1A92300; mem_name = :$151B620",
 		0
 	],
-	"FLogReportFeOnStartup": [
+	"DFLogReportFeOnStartup": [
 		"load = :$813D2; mem_val = :$1A92420; mem_name = :$151C018",
 		0
 	],
-	"FLogTeamTest": [
+	"DFLogTeamTest": [
 		"load = :$81432; mem_val = :$1A92423; mem_name = :$13E2050",
 		0
 	],
-	"FLogNetworkPacketsReceive": [
+	"DFLogNetworkPacketsReceive": [
 		"load = :$81B22; mem_val = :$1A925DC; mem_name = :$151CE08",
 		0
 	],
@@ -6903,7 +6903,7 @@
 		"load = :$81B62; mem_val = :$1A925B7; mem_name = :$151CDD0",
 		0
 	],
-	"FLogTeamCreateServerScriptChanges": [
+	"DFLogTeamCreateServerScriptChanges": [
 		"load = :$81FB2; mem_val = :$1A925D7; mem_name = :$151CDE8",
 		0
 	],

@@ -1,0 +1,6030 @@
+{
+	"FFlagForceSDLInitOnMainThread": [
+		"load = :$31B2; mem_val = :$13DA019; mem_name = :$D27748",
+		false
+	],
+	"FFlagAllowMultipleHangReports": [
+		"load = :$3295; mem_val = :$13DA0BB; mem_name = :$D27EAC",
+		false
+	],
+	"FFlagCrashReporterNew": [
+		"load = :$32D5; mem_val = :$13DA0C4; mem_name = :$D27EC8",
+		false
+	],
+	"FFlagExitAfterHangDetection2": [
+		"load = :$32F5; mem_val = :$13DA0C5; mem_name = :$D27EDC",
+		false
+	],
+	"FFlagStudioCacheRecentAction": [
+		"load = :$3335; mem_val = :$13DA0BA; mem_name = :$D27E7C",
+		false
+	],
+	"FFlagStudioReportCachedRecentActions": [
+		"load = :$33B5; mem_val = :$13DA0B9; mem_name = :$D27E5C",
+		false
+	],
+	"FFlagDebugSimulateHangAtShutdown": [
+		"load = :$3522; mem_val = :$13DB602; mem_name = :$D287B0",
+		false
+	],
+	"FFlagDebugSimulateHangAtStartup": [
+		"load = :$3542; mem_val = :$13DB603; mem_name = :$D287CC",
+		false
+	],
+	"FFlagDebugUseDefaultGlobalSettings": [
+		"load = :$3582; mem_val = :$13DB600; mem_name = :$D2866C",
+		false
+	],
+	"FFlagUseTaskSchedulerForHangDetection": [
+		"load = :$3672; mem_val = :$13DB601; mem_name = :$D28760",
+		false
+	],
+	"FFlagWindowsClientGetLocaleIdsFromCommandLine": [
+		"load = :$36B2; mem_val = :$13DB60C; mem_name = :$D287E8",
+		false
+	],
+	"FFlagCLI18241A": [
+		"load = :$3C52; mem_val = :$13DB9B4; mem_name = :$D31864",
+		false
+	],
+	"FFlagCrashUploadIgnoreLocalBuilds": [
+		"load = :$3C72; mem_val = :$13DB9C9; mem_name = :$D31890",
+		false
+	],
+	"FFlagFixWindowsRemoteCaptureHandling": [
+		"load = :$3EE2; mem_val = :$13DBA89; mem_name = :$D31D00",
+		false
+	],
+	"FFlagExitProcessOnExit": [
+		"load = :$3F52; mem_val = :$13DBD3C; mem_name = :$D31E40",
+		false
+	],
+	"FFlagGraphicsReportingInitErrorsToGAEnabled": [
+		"load = :$4F12; mem_val = :$12EFF0C; mem_name = :$D3510C",
+		true
+	],
+	"FFlagDatamodelServicesConnectionFix2": [
+		"load = :$4F62; mem_val = :$13DE530; mem_name = :$D35478",
+		false
+	],
+	"FFlagAllowJoinsToWait": [
+		"load = :$5022; mem_val = :$13DE65F; mem_name = :$D357B0",
+		false
+	],
+	"FFlagAllowTeleportsToWait": [
+		"load = :$5042; mem_val = :$13DE65E; mem_name = :$D35798",
+		false
+	],
+	"FFlagAppShellManagementRefactor4": [
+		"load = :$5102; mem_val = :$13DE65C; mem_name = :$D35768",
+		false
+	],
+	"FFlagClientFireEventPlaceLauncherFail3": [
+		"load = :$5122; mem_val = :$13DE64E; mem_name = :$D356E8",
+		false
+	],
+	"FFlagFixGameEntryCount": [
+		"load = :$5162; mem_val = :$13DE666; mem_name = :$D3585C",
+		false
+	],
+	"FFlagFixGameJoinTrying": [
+		"load = :$5182; mem_val = :$13DE65D; mem_name = :$D35784",
+		false
+	],
+	"FFlagHarfbuzzEnabledInApp": [
+		"load = :$51A2; mem_val = :$13DE662; mem_name = :$D357F4",
+		false
+	],
+	"FFlagHarfbuzzEnabledInGame": [
+		"load = :$51C2; mem_val = :$13DE663; mem_name = :$D3580C",
+		false
+	],
+	"FFlagPassDataModelInitializationParamsEvenMore": [
+		"load = :$51E2; mem_val = :$13DE668; mem_name = :$D35894",
+		false
+	],
+	"FFlagPassDataModelInitializationParams": [
+		"load = :$5202; mem_val = :$13DE667; mem_name = :$D35870",
+		false
+	],
+	"FFlagPlaceLauncherSetCurrentGameEntryOnceOnTeleport": [
+		"load = :$5262; mem_val = :$13DE669; mem_name = :$D358C0",
+		false
+	],
+	"FFlagPlacelauncherKnowsHttpError": [
+		"load = :$5282; mem_val = :$13DE64F; mem_name = :$D3570C",
+		false
+	],
+	"FFlagQuantumGuiEnabledInApp": [
+		"load = :$52A2; mem_val = :$13DE660; mem_name = :$D357C4",
+		false
+	],
+	"FFlagQuantumGuiEnabledInGame": [
+		"load = :$52C2; mem_val = :$13DE661; mem_name = :$D357DC",
+		false
+	],
+	"FFlagTextTruncationEnabledInApp": [
+		"load = :$5322; mem_val = :$13DE664; mem_name = :$D35824",
+		false
+	],
+	"FFlagTextTruncationEnabledInGame": [
+		"load = :$5342; mem_val = :$13DE665; mem_name = :$D35840",
+		false
+	],
+	"FFlagInGameUIForceDefaultLocaleOnWin32": [
+		"load = :$5552; mem_val = :$13DE9F0; mem_name = :$D37294",
+		false
+	],
+	"FFlagProcessMouseMoveAfterMouseButton": [
+		"load = :$5592; mem_val = :$13DE9FB; mem_name = :$D372F8",
+		false
+	],
+	"FFlagResetMouseDeltaFix": [
+		"load = :$55B2; mem_val = :$13DE9F9; mem_name = :$D372CC",
+		false
+	],
+	"FFlagSetMouseInputStateLater": [
+		"load = :$55D2; mem_val = :$13DE9FA; mem_name = :$D372E0",
+		false
+	],
+	"FFlagXboxUseRobloxInput": [
+		"load = :$55F2; mem_val = :$13DE9F8; mem_name = :$D372B8",
+		false
+	],
+	"FFlagMoreViewCreationFailureHandling": [
+		"load = :$5762; mem_val = :$13DEBB8; mem_name = :$D393D0",
+		false
+	],
+	"FFlagUpdateRenderViewStatsEvenThrottling": [
+		"load = :$5782; mem_val = :$13DEBB9; mem_name = :$D393F0",
+		false
+	],
+	"FFlagAppShellReporterMonitorFrameTimeAndroid": [
+		"load = :$5802; mem_val = :$13DEBD1; mem_name = :$D3973C",
+		false
+	],
+	"FFlagAppShellReporterMonitorFrameTimeIOS": [
+		"load = :$5822; mem_val = :$13DEBD2; mem_name = :$D39764",
+		false
+	],
+	"FFlagLoadTimesFromAppShellReporter": [
+		"load = :$58E2; mem_val = :$13DEBD0; mem_name = :$D3971C",
+		false
+	],
+	"FFlagMemoryFromAppShellReporterAndroid": [
+		"load = :$5902; mem_val = :$13DEBD4; mem_name = :$D397A8",
+		false
+	],
+	"FFlagMemoryFromAppShellReporterIOS": [
+		"load = :$5922; mem_val = :$13DEBD3; mem_name = :$D39788",
+		false
+	],
+	"FFlagUrlReconstructRejectInvalidSchemes": [
+		"load = :$5A12; mem_val = :$13DF26C; mem_name = :$D39FF4",
+		false
+	],
+	"FFlagUrlSupportNewGamesAPI": [
+		"load = :$5A32; mem_val = :$13DF26D; mem_name = :$D3A018",
+		false
+	],
+	"FFlagFixParentChildInsert": [
+		"load = :$5D12; mem_val = :$13DF2B4; mem_name = :$D3A420",
+		false
+	],
+	"FFlagInsertInstanceRecommendedList": [
+		"load = :$5D32; mem_val = :$13DF2B3; mem_name = :$D3A400",
+		false
+	],
+	"FFlagLockViolationInstanceCrash": [
+		"load = :$5D92; mem_val = :$13DF2B1; mem_name = :$D3A3A4",
+		false
+	],
+	"FFlagLockViolationInstanceCrashStudio": [
+		"load = :$5DB2; mem_val = :$13DF2B2; mem_name = :$D3A3C0",
+		false
+	],
+	"FFlagServiceAskSetParent": [
+		"load = :$7342; mem_val = :$13E0418; mem_name = :$D3B320",
+		false
+	],
+	"FFlagServiceVsp2": [
+		"load = :$7362; mem_val = :$13E0419; mem_name = :$D3B334",
+		false
+	],
+	"FFlagAvatarJointPositionsEnabled": [
+		"load = :$7A72; mem_val = :$13E0B90; mem_name = :$D3B824",
+		false
+	],
+	"FFlagBadCoreScriptCrashFixEnabled": [
+		"load = :$7B72; mem_val = :$13E0B91; mem_name = :$D3B884",
+		false
+	],
+	"FFlagDataModelForwardForceLocaleIds": [
+		"load = :$7E62; mem_val = :$13E0B93; mem_name = :$D3BBA8",
+		false
+	],
+	"FFlagDataModelForwardGameLocaleId": [
+		"load = :$7E82; mem_val = :$13E0B9C; mem_name = :$D3BBC8",
+		false
+	],
+	"FFlagDontLoadCoreScriptsFromRenderScheduler": [
+		"load = :$7F32; mem_val = :$13E0B9D; mem_name = :$D3BBF8",
+		false
+	],
+	"FFlagEnableLoadingScreenPlaceIconTween": [
+		"load = :$7F52; mem_val = :$13E0B9E; mem_name = :$D3BC30",
+		false
+	],
+	"FFlagLetLocalOverrideFlag": [
+		"load = :$7F92; mem_val = :$13E0BA5; mem_name = :$D3BCA4",
+		false
+	],
+	"FFlagLogClientLoadToAvatarLoad": [
+		"load = :$7FB2; mem_val = :$13E0B9F; mem_name = :$D3BC54",
+		false
+	],
+	"FFlagPresetInGameGuiInset": [
+		"load = :$8012; mem_val = :$13E0BA6; mem_name = :$D3BCBC",
+		false
+	],
+	"FFlagProcessStarterGuiInEditMode": [
+		"load = :$8032; mem_val = :$13E0BA4; mem_name = :$D3BC88",
+		false
+	],
+	"FFlagReportJoinAllCount": [
+		"load = :$8102; mem_val = :$13E0BAC; mem_name = :$D3BCF0",
+		false
+	],
+	"FFlagReportRuntimeJoinCount": [
+		"load = :$8122; mem_val = :$13E0BAD; mem_name = :$D3BD04",
+		false
+	],
+	"FFlagSolverHotSwappingEnabled": [
+		"load = :$81F2; mem_val = :$13E0BA7; mem_name = :$D3BCD4",
+		false
+	],
+	"FFlagFixGamepadNavigationInVR": [
+		"load = :$9472; mem_val = :$13E20C0; mem_name = :$D3F240",
+		false
+	],
+	"FFlagAdvancedMouseSensitivityEnabled": [
+		"load = :$9AF2; mem_val = :$13E2482; mem_name = :$D3FEF0",
+		false
+	],
+	"FFlagFixOutOfBoundsMouseLocation": [
+		"load = :$9B12; mem_val = :$13E2480; mem_name = :$D3FEBC",
+		false
+	],
+	"FFlagIsGamepadButtonDownEnabled": [
+		"load = :$9B32; mem_val = :$13E2485; mem_name = :$D3FF64",
+		false
+	],
+	"FFlagRemoveRedundantFakeMouseCode": [
+		"load = :$9B52; mem_val = :$13E2486; mem_name = :$D3FF90",
+		false
+	],
+	"FFlagTextBoxOverrideManualFocusRelease": [
+		"load = :$9B72; mem_val = :$13E2484; mem_name = :$D3FF40",
+		false
+	],
+	"FFlagUseNewAppBridgeXbone2": [
+		"load = :$9B92; mem_val = :$13E2481; mem_name = :$D3FED8",
+		false
+	],
+	"FFlagUserNoCameraClickToMove": [
+		"load = :$9BB2; mem_val = :$13E2483; mem_name = :$D3FF28",
+		false
+	],
+	"FFlagContentProviderTempDirWithPid2": [
+		"load = :$B9A2; mem_val = :$13E364B; mem_name = :$D40650",
+		false
+	],
+	"FFlagFixAssetPathsUnderJunctions": [
+		"load = :$B9E2; mem_val = :$13E364A; mem_name = :$D40634",
+		false
+	],
+	"FFlagForceUseProductionForAssetFetching": [
+		"load = :$BA02; mem_val = :$13E3649; mem_name = :$D40610",
+		false
+	],
+	"FFlagNoCacheForLocalContent": [
+		"load = :$BA22; mem_val = :$13E3648; mem_name = :$D405D8",
+		false
+	],
+	"FFlagRequireRbxSig2": [
+		"load = :$BC92; mem_val = :$13E364C; mem_name = :$D40670",
+		false
+	],
+	"FFlagAnalyticsDeferredEventIngestShutdown": [
+		"load = :$C4F2; mem_val = :$13E808D; mem_name = :$D42C3C",
+		false
+	],
+	"FFlagDebugAnalyticsForceLotteryWin": [
+		"load = :$C5B2; mem_val = :$13E808A; mem_name = :$D42B44",
+		false
+	],
+	"FFlagUseHttpsAnalyticsUrls": [
+		"load = :$C7D2; mem_val = :$13E808F; mem_name = :$D42CE8",
+		false
+	],
+	"FFlagUseNewGoogleAnalyticsImpl2": [
+		"load = :$C7F2; mem_val = :$13E808B; mem_name = :$D42B64",
+		false
+	],
+	"FFlagUseHttpDefaultUrlSchema": [
+		"load = :$CD92; mem_val = :$13E836C; mem_name = :$D4312C",
+		false
+	],
+	"FFlagAvatarEditorDefaultTabSelection": [
+		"load = :$CE32; mem_val = :$13E83A8; mem_name = :$D4319C",
+		false
+	],
+	"FFlagAvatarEditorRecomputeCameraLookAt": [
+		"load = :$CE52; mem_val = :$13E83AA; mem_name = :$D431E4",
+		false
+	],
+	"FFlagAvatarEditorSelectivelyUseDefaultAsset": [
+		"load = :$CE72; mem_val = :$13E83A9; mem_name = :$D431BC",
+		false
+	],
+	"FFlagAvatarEditorUseArtistIntentFolder": [
+		"load = :$CE92; mem_val = :$13E83AF; mem_name = :$D43274",
+		false
+	],
+	"FFlagAvatarEditorUseNewR15Model": [
+		"load = :$CEB2; mem_val = :$13E83AE; mem_name = :$D43258",
+		false
+	],
+	"FFlagBackpackScriptUseFormatByKey": [
+		"load = :$CED2; mem_val = :$13E83F3; mem_name = :$D43A80",
+		false
+	],
+	"FFlagChatServiceInstallerExemptLocalizationFromAnalytics": [
+		"load = :$CEF2; mem_val = :$13E83B0; mem_name = :$D43298",
+		false
+	],
+	"FFlagConvertMyPlaceNameInXboxApp": [
+		"load = :$CF12; mem_val = :$12F08EC; mem_name = :$D4376C",
+		true
+	],
+	"FFlagCoreScriptTranslateGameText": [
+		"load = :$CF32; mem_val = :$13E83E2; mem_name = :$D438E0",
+		false
+	],
+	"FFlagCoreScriptsUseLocalizationModule": [
+		"load = :$CF52; mem_val = :$13E83F4; mem_name = :$D43AA0",
+		false
+	],
+	"FFlagEnableAEAndroidBackButton": [
+		"load = :$CF72; mem_val = :$13E83AD; mem_name = :$D4323C",
+		false
+	],
+	"FFlagEnableLoadingHUDOniOSForGameShare": [
+		"load = :$CF92; mem_val = :$13E83D8; mem_name = :$D43684",
+		false
+	],
+	"FFlagEnableLuaAppFormFactorAndPlatform": [
+		"load = :$CFB2; mem_val = :$13E83DB; mem_name = :$D436E4",
+		false
+	],
+	"FFlagEnableLuaEventStreamRelease": [
+		"load = :$CFD2; mem_val = :$13E83DC; mem_name = :$D43708",
+		false
+	],
+	"FFlagEnableNewDevConsole": [
+		"load = :$CFF2; mem_val = :$13E83BB; mem_name = :$D434C4",
+		false
+	],
+	"FFlagEnableWebServerOnStart": [
+		"load = :$D012; mem_val = :$13E83E3; mem_name = :$D438FC",
+		false
+	],
+	"FFlagFixUsersReducerDataLoss": [
+		"load = :$D052; mem_val = :$13E83EF; mem_name = :$D43A0C",
+		false
+	],
+	"FFlagFriendPlayerPromptUseFormatByKey": [
+		"load = :$D072; mem_val = :$13E83F7; mem_name = :$D43B28",
+		false
+	],
+	"FFlagGetDefaultClothesFromWeb": [
+		"load = :$D092; mem_val = :$13E83AB; mem_name = :$D43208",
+		false
+	],
+	"FFlagLoadingScreenUseLocalizationTable": [
+		"load = :$D0D2; mem_val = :$13E83F0; mem_name = :$D43A24",
+		false
+	],
+	"FFlagLuaAppFriendshipCreatedSignalREnabled": [
+		"load = :$D0F2; mem_val = :$13E83DA; mem_name = :$D436BC",
+		false
+	],
+	"FFlagLuaAppLegacyInputDisabledGlobally2": [
+		"load = :$D112; mem_val = :$13E83F9; mem_name = :$D43B68",
+		false
+	],
+	"FFlagLuaAppPeopleListV1": [
+		"load = :$D132; mem_val = :$13E83D1; mem_name = :$D435A8",
+		false
+	],
+	"FFlagLuaChatAssetCardsSelfTerminateConnection": [
+		"load = :$D152; mem_val = :$13E83B1; mem_name = :$D432CC",
+		false
+	],
+	"FFlagLuaChatCreateChatEnabled": [
+		"load = :$D172; mem_val = :$13E83B7; mem_name = :$D43398",
+		false
+	],
+	"FFlagLuaChatDisconnectBackButtonWhenOffScreen": [
+		"load = :$D192; mem_val = :$13E83BA; mem_name = :$D433F0",
+		false
+	],
+	"FFlagLuaChatGroupChatIconEnabled": [
+		"load = :$D1B2; mem_val = :$13E83B8; mem_name = :$D433B4",
+		false
+	],
+	"FFlagLuaChatPerformanceTracking": [
+		"load = :$D1D2; mem_val = :$13E83B5; mem_name = :$D43360",
+		false
+	],
+	"FFlagLuaChatRefactoredChatInputBar": [
+		"load = :$D272; mem_val = :$13E83B4; mem_name = :$D43340",
+		false
+	],
+	"FFlagLuaChatShareGameToChatFromChat": [
+		"load = :$D292; mem_val = :$13E83B3; mem_name = :$D43320",
+		false
+	],
+	"FFlagLuaChatUseCppTextTruncation": [
+		"load = :$D2B2; mem_val = :$13E83B6; mem_name = :$D4337C",
+		false
+	],
+	"FFlagLuaChatUseNewFriendsAndPresenceEndpoint": [
+		"load = :$D2D2; mem_val = :$13E83B2; mem_name = :$D432F8",
+		false
+	],
+	"FFlagLuaHomePageFriendWindowing": [
+		"load = :$D312; mem_val = :$13E83D2; mem_name = :$D435BC",
+		false
+	],
+	"FFlagLuaUseUtf8TextTruncation": [
+		"load = :$D332; mem_val = :$13E83F8; mem_name = :$D43B4C",
+		false
+	],
+	"FFlagNotificationScript2UseFormatByKey": [
+		"load = :$D3B2; mem_val = :$13E83F6; mem_name = :$D43AF8",
+		false
+	],
+	"FFlagRefactoringAvatarEditorSetup": [
+		"load = :$D3D2; mem_val = :$13E83FA; mem_name = :$D43B8C",
+		false
+	],
+	"FFlagRemoveLoadingHUDOniOS": [
+		"load = :$D3F2; mem_val = :$13E83D7; mem_name = :$D4366C",
+		false
+	],
+	"FFlagReportAbuseMenuDescriptionFix": [
+		"load = :$D412; mem_val = :$13E83F2; mem_name = :$D43A60",
+		false
+	],
+	"FFlagSettingsHubBarsRefactor2": [
+		"load = :$D432; mem_val = :$13E83E8; mem_name = :$D43914",
+		false
+	],
+	"FFlagSettingsHubInviteToGameAndroid": [
+		"load = :$D472; mem_val = :$13E83EC; mem_name = :$D43988",
+		false
+	],
+	"FFlagSettingsHubInviteToGameIOS": [
+		"load = :$D492; mem_val = :$13E83EB; mem_name = :$D4396C",
+		false
+	],
+	"FFlagSettingsHubInviteToGameInStudio2": [
+		"load = :$D4B2; mem_val = :$13E83EE; mem_name = :$D439C4",
+		false
+	],
+	"FFlagSettingsHubInviteToGameOSX": [
+		"load = :$D4D2; mem_val = :$13E83EA; mem_name = :$D43950",
+		false
+	],
+	"FFlagSettingsHubInviteToGameUWP": [
+		"load = :$D4F2; mem_val = :$13E83ED; mem_name = :$D439A8",
+		false
+	],
+	"FFlagSettingsHubInviteToGameWindows": [
+		"load = :$D512; mem_val = :$13E83E9; mem_name = :$D43930",
+		false
+	],
+	"FFlagSettingsHubPlayersHorizontalScroll": [
+		"load = :$D532; mem_val = :$13E83F5; mem_name = :$D43AD4",
+		false
+	],
+	"FFlagShareGameToChatStatusAnalytics": [
+		"load = :$D552; mem_val = :$13E83B9; mem_name = :$D433D0",
+		false
+	],
+	"FFlagStatUtilsUseFormatByKey": [
+		"load = :$D572; mem_val = :$13E83F1; mem_name = :$D43A48",
+		false
+	],
+	"FFlagUseLuaAppStarterScriptOniOS": [
+		"load = :$D592; mem_val = :$13E83CC; mem_name = :$D4352C",
+		false
+	],
+	"FFlagUseLuaGamesPageOnAndroidPhone": [
+		"load = :$D5B2; mem_val = :$13E83D6; mem_name = :$D4364C",
+		false
+	],
+	"FFlagUseLuaGamesPageOnAndroidTablet": [
+		"load = :$D5D2; mem_val = :$13E83D4; mem_name = :$D4360C",
+		false
+	],
+	"FFlagUseLuaGamesPageOniPad": [
+		"load = :$D5F2; mem_val = :$13E83CE; mem_name = :$D43560",
+		false
+	],
+	"FFlagUseLuaGamesPageOniPhone": [
+		"load = :$D612; mem_val = :$13E83D0; mem_name = :$D43590",
+		false
+	],
+	"FFlagUseLuaHomePageOnAndroidPhone": [
+		"load = :$D632; mem_val = :$13E83D5; mem_name = :$D4362C",
+		false
+	],
+	"FFlagUseLuaHomePageOnAndroidTablet": [
+		"load = :$D652; mem_val = :$13E83D3; mem_name = :$D435EC",
+		false
+	],
+	"FFlagUseLuaHomePageOniPad": [
+		"load = :$D672; mem_val = :$13E83CD; mem_name = :$D43548",
+		false
+	],
+	"FFlagUseLuaHomePageOniPhone": [
+		"load = :$D692; mem_val = :$13E83CF; mem_name = :$D43578",
+		false
+	],
+	"FFlagUseNewAELoadTimeMetrics": [
+		"load = :$D6B2; mem_val = :$13E83AC; mem_name = :$D43224",
+		false
+	],
+	"FFlagUseSafeZoneOffsets": [
+		"load = :$D6D2; mem_val = :$13E83D9; mem_name = :$D436A8",
+		false
+	],
+	"FFlagXboxRecommendedPeople2": [
+		"load = :$D772; mem_val = :$13E83DF; mem_name = :$D43754",
+		false
+	],
+	"FFlagXboxRoduxScreenFocus": [
+		"load = :$D792; mem_val = :$13E83DE; mem_name = :$D4373C",
+		false
+	],
+	"FFlagXboxUpdateBadgeEndpoints": [
+		"load = :$D822; mem_val = :$13E83E1; mem_name = :$D437A0",
+		false
+	],
+	"FFlagXboxUseCuratedGameSort2": [
+		"load = :$D842; mem_val = :$13E83E0; mem_name = :$D43788",
+		false
+	],
+	"FFlagXboxUseUnlinkCallback": [
+		"load = :$D862; mem_val = :$13E83DD; mem_name = :$D43724",
+		false
+	],
+	"FFlagEnableOnboardingMemoryAPI": [
+		"load = :$E222; mem_val = :$13E92B5; mem_name = :$D44FA0",
+		false
+	],
+	"FFlagFixCameraControlSetting": [
+		"load = :$E242; mem_val = :$13E92B6; mem_name = :$D44FBC",
+		false
+	],
+	"FFlagUserEnableDynamicThumbstickIntro": [
+		"load = :$E262; mem_val = :$13E92B4; mem_name = :$D44F64",
+		false
+	],
+	"FFlagDebugDisableTimeoutDisconnect": [
+		"load = :$10D42; mem_val = :$13EA6E4; mem_name = :$D46774",
+		false
+	],
+	"FFlagDebugHumanoidRendering": [
+		"load = :$10D62; mem_val = :$13EA6E3; mem_name = :$D4675C",
+		false
+	],
+	"FFlagDebugLocalRccServerConnection": [
+		"load = :$10D82; mem_val = :$13EA6E5; mem_name = :$D46794",
+		false
+	],
+	"FFlagInfluxEnabled": [
+		"load = :$117F2; mem_val = :$12F0C80; mem_name = :$D46B90",
+		true
+	],
+	"FFlagDebugAnalyticsSendUserId": [
+		"load = :$11812; mem_val = :$12F0C98; mem_name = :$D46CA0",
+		true
+	],
+	"FFlagDebugHttpAsyncCallsForStatsReporting": [
+		"load = :$11D52; mem_val = :$12F0D0C; mem_name = :$D46E5C",
+		true
+	],
+	"FFlagHttpReportStatisticsOnce": [
+		"load = :$11E12; mem_val = :$13EAA51; mem_name = :$D46ED0",
+		false
+	],
+	"FFlagRbxFormatMultiByteSizeFix": [
+		"load = :$13A82; mem_val = :$13EC690; mem_name = :$D48D4C",
+		false
+	],
+	"FFlagAvatarEditorAnthroSlidersUIOnly": [
+		"load = :$13C72; mem_val = :$13F1066; mem_name = :$D49264",
+		false
+	],
+	"FFlagAvatarEditorCatalogRecommended": [
+		"load = :$13C92; mem_val = :$13F1067; mem_name = :$D49284",
+		false
+	],
+	"FFlagAvatarEditorHideSliderHighlightOnInit": [
+		"load = :$13CB2; mem_val = :$13F1065; mem_name = :$D4920C",
+		false
+	],
+	"FFlagAvatarEditorSliderUIAdjustments": [
+		"load = :$13CD2; mem_val = :$13F1068; mem_name = :$D492B8",
+		false
+	],
+	"FFlagAvatarEditorTabResizing": [
+		"load = :$13CF2; mem_val = :$13F1069; mem_name = :$D492D8",
+		false
+	],
+	"FFlagAvatarEditorUsesBrowserWindowCall": [
+		"load = :$13D12; mem_val = :$13F1061; mem_name = :$D4912C",
+		false
+	],
+	"FFlagAvatarEditorWhiteLineFix": [
+		"load = :$13D32; mem_val = :$13F1064; mem_name = :$D491F0",
+		false
+	],
+	"FFlagConnectionScriptEnabled": [
+		"load = :$13D72; mem_val = :$13F1074; mem_name = :$D49438",
+		false
+	],
+	"FFlagEnableResponsiveUIFix": [
+		"load = :$13D92; mem_val = :$13F106F; mem_name = :$D4938C",
+		false
+	],
+	"FFlagEnabledAppShell3D": [
+		"load = :$13DB2; mem_val = :$13F1060; mem_name = :$D49118",
+		false
+	],
+	"FFlagFixInactiveSelectorArrows": [
+		"load = :$13DD2; mem_val = :$13F1073; mem_name = :$D4941C",
+		false
+	],
+	"FFlagFixLoadingScreenJankiness": [
+		"load = :$13DF2; mem_val = :$13F106D; mem_name = :$D49344",
+		false
+	],
+	"FFlagHelpMenuShowPlaceVersion": [
+		"load = :$13EF2; mem_val = :$13F106A; mem_name = :$D492F0",
+		false
+	],
+	"FFlagLoadTheLoadingScreenFaster": [
+		"load = :$13F12; mem_val = :$13F106B; mem_name = :$D4930C",
+		false
+	],
+	"FFlagLoadingScreenNewTextLayout": [
+		"load = :$13F32; mem_val = :$13F106E; mem_name = :$D49360",
+		false
+	],
+	"FFlagLuaChatAssetCards": [
+		"load = :$13F52; mem_val = :$13F1070; mem_name = :$D493B8",
+		false
+	],
+	"FFlagLuaChatDisplayInFront": [
+		"load = :$13F72; mem_val = :$13F1063; mem_name = :$D491D8",
+		false
+	],
+	"FFlagLuaChatNotificationButtonEnabled": [
+		"load = :$13F92; mem_val = :$13F1072; mem_name = :$D493F8",
+		false
+	],
+	"FFlagLuaChatSearchFeedBack": [
+		"load = :$13FB2; mem_val = :$13F1071; mem_name = :$D493E0",
+		false
+	],
+	"FFlagPreventFriendingRemovedPlayers2": [
+		"load = :$13FD2; mem_val = :$13F1062; mem_name = :$D49150",
+		false
+	],
+	"FFlagSetGuiInsetInLoadingScript3": [
+		"load = :$13FF2; mem_val = :$13F106C; mem_name = :$D49328",
+		false
+	],
+	"FFlagUseConvertToHex": [
+		"load = :$15AD2; mem_val = :$13F2078; mem_name = :$D4A250",
+		false
+	],
+	"FFlagDeprecatableBroadcasts": [
+		"load = :$15B42; mem_val = :$13F22DC; mem_name = :$D4A5C8",
+		false
+	],
+	"FFlagDSPLeakDueToGCofParent": [
+		"load = :$15D22; mem_val = :$13F2344; mem_name = :$D4AA20",
+		false
+	],
+	"FFlagNoDSPOnServer": [
+		"load = :$15D42; mem_val = :$13F2345; mem_name = :$D4AA38",
+		false
+	],
+	"FFlagDebugIgnoreVolumeIsZeroAssert": [
+		"load = :$17612; mem_val = :$13F4638; mem_name = :$D4BB34",
+		false
+	],
+	"FFlagFixMeshNormalsForNonUniformScaling": [
+		"load = :$17632; mem_val = :$13F4639; mem_name = :$D4BB70",
+		false
+	],
+	"FFlagFixSmallBoundingBoxes2": [
+		"load = :$17652; mem_val = :$13F463A; mem_name = :$D4BB94",
+		false
+	],
+	"FFlagStudioDebuggerCheckBothTableAndArrayLength": [
+		"load = :$177F2; mem_val = :$13F4A10; mem_name = :$D4C440",
+		false
+	],
+	"FFlagCSGAllowUnorderedProperties": [
+		"load = :$17FB2; mem_val = :$13F4AAB; mem_name = :$D4C6F0",
+		false
+	],
+	"FFlagCSGLoadBlocking": [
+		"load = :$17FD2; mem_val = :$13F4AA9; mem_name = :$D4C6C0",
+		false
+	],
+	"FFlagCSGLoadFromCDN": [
+		"load = :$17FF2; mem_val = :$13F4AA8; mem_name = :$D4C6B0",
+		false
+	],
+	"FFlagCSGUnionsSizeShouldNeverBe000": [
+		"load = :$18012; mem_val = :$13F4AAA; mem_name = :$D4C6D0",
+		false
+	],
+	"FFlagRenderMeshReturnsCorrectly": [
+		"load = :$18052; mem_val = :$13F4AAC; mem_name = :$D4C70C",
+		false
+	],
+	"FFlagSetCollisionFidelityPropertyBasedOnData": [
+		"load = :$18072; mem_val = :$13F4AAD; mem_name = :$D4C728",
+		false
+	],
+	"FFlagDebugBreakOnFMODErrors": [
+		"load = :$18392; mem_val = :$12F1210; mem_name = :$D4D29C",
+		true
+	],
+	"FFlagDoNotLoadSoundsOnServer": [
+		"load = :$183B2; mem_val = :$13F53F8; mem_name = :$D4D1FC",
+		false
+	],
+	"FFlagFixPreferredSoundDeviceVR": [
+		"load = :$18412; mem_val = :$13F53FF; mem_name = :$D4D304",
+		false
+	],
+	"FFlagOnlyEnableSoundRecordingOnRequest": [
+		"load = :$18432; mem_val = :$13F5404; mem_name = :$D4D320",
+		false
+	],
+	"FFlagSimplifiedSoundLoading7": [
+		"load = :$18472; mem_val = :$13F5408; mem_name = :$D4D2EC",
+		false
+	],
+	"FFlagSoundServiceCleanBuggyTempSoundFilePath": [
+		"load = :$18532; mem_val = :$13F5407; mem_name = :$D4D380",
+		false
+	],
+	"FFlagSoundServiceFixCachePath": [
+		"load = :$18552; mem_val = :$13F5406; mem_name = :$D4D364",
+		false
+	],
+	"FFlagTotallyDisableSoundRecording": [
+		"load = :$185D2; mem_val = :$13F5405; mem_name = :$D4D344",
+		false
+	],
+	"FFlagCLI15496": [
+		"load = :$197D2; mem_val = :$13F6712; mem_name = :$D50D0C",
+		false
+	],
+	"FFlagCleanUpLegacyParseChatCommand": [
+		"load = :$19812; mem_val = :$13F6718; mem_name = :$D51018",
+		false
+	],
+	"FFlagDebugThumbnailForceFailure": [
+		"load = :$19832; mem_val = :$13F6716; mem_name = :$D50F0C",
+		false
+	],
+	"FFlagFixMissingStandardAnthroParts": [
+		"load = :$19852; mem_val = :$13F6717; mem_name = :$D50FE0",
+		false
+	],
+	"FFlagPassUserLocaleOnFilterMessage": [
+		"load = :$199A2; mem_val = :$13F6714; mem_name = :$D50D5C",
+		false
+	],
+	"FFlagRecordInGameDeaths": [
+		"load = :$199C2; mem_val = :$12F1384; mem_name = :$D50CC0",
+		true
+	],
+	"FFlagServerGenPlayerXboxFixTag": [
+		"load = :$199E2; mem_val = :$13F6719; mem_name = :$D51044",
+		false
+	],
+	"FFlagStudioStartServerGuestAppearance": [
+		"load = :$19A42; mem_val = :$13F6711; mem_name = :$D50CE8",
+		false
+	],
+	"FFlagTheStarsAreBright": [
+		"load = :$19A62; mem_val = :$13F6710; mem_name = :$D50CD4",
+		false
+	],
+	"FFlagThrottleGetUserThumbnailAsync": [
+		"load = :$19A82; mem_val = :$13F6715; mem_name = :$D50DE8",
+		false
+	],
+	"FFlagVerifyIncomingFriendRequestsBeforeNotifying": [
+		"load = :$19AB2; mem_val = :$13F6713; mem_name = :$D50D30",
+		false
+	],
+	"FFlagAllowClientFallback": [
+		"load = :$1AD92; mem_val = :$12F14A4; mem_name = :$D52504",
+		true
+	],
+	"FFlagAllowPlayerArgs2": [
+		"load = :$1ADB2; mem_val = :$13F7448; mem_name = :$D5265C",
+		false
+	],
+	"FFlagCheckMarketplaceAvailable": [
+		"load = :$1ADD2; mem_val = :$13F7440; mem_name = :$D52470",
+		false
+	],
+	"FFlagDelayPurchasePromptActivation": [
+		"load = :$1ADF2; mem_val = :$13F7447; mem_name = :$D5263C",
+		false
+	],
+	"FFlagFixDesktopRobuxUpsell": [
+		"load = :$1AE32; mem_val = :$13F7444; mem_name = :$D5259C",
+		false
+	],
+	"FFlagOrder66": [
+		"load = :$1AE72; mem_val = :$13F7441; mem_name = :$D524AC",
+		false
+	],
+	"FFlagReportInGameAssetSales": [
+		"load = :$1AED2; mem_val = :$13F7443; mem_name = :$D52540",
+		false
+	],
+	"FFlagReportRobuxUpsellEnabled": [
+		"load = :$1AEF2; mem_val = :$12F14A5; mem_name = :$D52524",
+		true
+	],
+	"FFlagRestrictSales2": [
+		"load = :$1AF12; mem_val = :$13F7442; mem_name = :$D524F4",
+		false
+	],
+	"FFlagThwartPurchasePromptScamsGamepad": [
+		"load = :$1AF32; mem_val = :$13F7446; mem_name = :$D525F0",
+		false
+	],
+	"FFlagThwartPurchasePromptScams": [
+		"load = :$1AF52; mem_val = :$13F7445; mem_name = :$D525D4",
+		false
+	],
+	"FFlagFixCurrentScreenOrientation": [
+		"load = :$1BFE2; mem_val = :$13F804A; mem_name = :$D53EF4",
+		false
+	],
+	"FFlagUnlockedTopbarTransparency": [
+		"load = :$1C022; mem_val = :$13F8049; mem_name = :$D53ED8",
+		false
+	],
+	"FFlagWarnOnNoCoreFunction": [
+		"load = :$1C042; mem_val = :$13F8048; mem_name = :$D53E88",
+		false
+	],
+	"FFlagAllowTheTardisToSetItsLoadingScreenBeforeFlyingThroughTheTimeVortex": [
+		"load = :$1C9A2; mem_val = :$13F8E3B; mem_name = :$D55010",
+		false
+	],
+	"FFlagCalculateExpirationOnTheDestinationServer": [
+		"load = :$1C9C2; mem_val = :$13F8E36; mem_name = :$D54F0C",
+		false
+	],
+	"FFlagCheckRequestingTeleportAtTeleportImplBeginning": [
+		"load = :$1C9E2; mem_val = :$13F8E3A; mem_name = :$D54FD0",
+		false
+	],
+	"FFlagDonotAllowTeleportInRobloxStudio": [
+		"load = :$1CA02; mem_val = :$13F8E38; mem_name = :$D54F6C",
+		false
+	],
+	"FFlagGroupTeleportMetricsByGroupSizeV2": [
+		"load = :$1CA22; mem_val = :$13F8E37; mem_name = :$D54F38",
+		false
+	],
+	"FFlagGroupTeleportMetricsSuccessAndFailure": [
+		"load = :$1CA42; mem_val = :$13F8E35; mem_name = :$D54EE4",
+		false
+	],
+	"FFlagLogCorectTeleportFailureMessage2": [
+		"load = :$1CA62; mem_val = :$13F8E39; mem_name = :$D54F90",
+		false
+	],
+	"FFlagLogGroupTeleportInfluxDB": [
+		"load = :$1CA82; mem_val = :$13F8E3C; mem_name = :$D55054",
+		false
+	],
+	"FFlagPlaceLauncherUsePOST": [
+		"load = :$1CAC2; mem_val = :$12F1550; mem_name = :$D54E24",
+		true
+	],
+	"FFlagTeleportPartyAsyncEnable": [
+		"load = :$1CB42; mem_val = :$13F8E34; mem_name = :$D54EC8",
+		false
+	],
+	"FFlagCheckMultipleLoadCharacterCalls": [
+		"load = :$1DF22; mem_val = :$13F999D; mem_name = :$D57DF4",
+		false
+	],
+	"FFlagDebugDoNotLoadHumanoidSounds": [
+		"load = :$1DF42; mem_val = :$13F9991; mem_name = :$D57AA8",
+		false
+	],
+	"FFlagEnableGetAvailableForExperimentAPI": [
+		"load = :$1DF62; mem_val = :$13F9998; mem_name = :$D57C1C",
+		false
+	],
+	"FFlagErrorForFailedRequestsInThumbnailLogic": [
+		"load = :$1DF82; mem_val = :$13F9992; mem_name = :$D57AD8",
+		false
+	],
+	"FFlagFireCharacterAddedAfterSpawn": [
+		"load = :$1DFA2; mem_val = :$13F9990; mem_name = :$D57A54",
+		false
+	],
+	"FFlagFixCharacterAppearanceLoadedEvent2": [
+		"load = :$1DFC2; mem_val = :$13F99A9; mem_name = :$D57F34",
+		false
+	],
+	"FFlagFixCharacterAppearanceLoadedEvent": [
+		"load = :$1DFE2; mem_val = :$13F999E; mem_name = :$D57E68",
+		false
+	],
+	"FFlagFixPlayerlistFollowing": [
+		"load = :$1E002; mem_val = :$13F9997; mem_name = :$D57BD4",
+		false
+	],
+	"FFlagGetJoinDataEnable": [
+		"load = :$1E022; mem_val = :$13F999F; mem_name = :$D57EA8",
+		false
+	],
+	"FFlagGetTeamLazyEvaluation": [
+		"load = :$1E042; mem_val = :$13F9996; mem_name = :$D57BBC",
+		false
+	],
+	"FFlagGuestFriendCheckFailImmediate": [
+		"load = :$1E062; mem_val = :$13F9994; mem_name = :$D57B54",
+		false
+	],
+	"FFlagNoInfiniteLoopOnChatInfoLoadFailure": [
+		"load = :$1E082; mem_val = :$13F9999; mem_name = :$D57D24",
+		false
+	],
+	"FFlagPlayHereFix": [
+		"load = :$1E0A2; mem_val = :$13F99A8; mem_name = :$D57ED4",
+		false
+	],
+	"FFlagRemoveDeadCode": [
+		"load = :$1E102; mem_val = :$13F9995; mem_name = :$D57B9C",
+		false
+	],
+	"FFlagReportCharacterLoadTimeMetrics2": [
+		"load = :$1E122; mem_val = :$13F9993; mem_name = :$D57B1C",
+		false
+	],
+	"FFlagUseAdvancedCharacterScales3": [
+		"load = :$1E172; mem_val = :$13F999B; mem_name = :$D57D9C",
+		false
+	],
+	"FFlagUseCachedFriendChecksForPlayerIsFriendsWith": [
+		"load = :$1E192; mem_val = :$13F999A; mem_name = :$D57D48",
+		false
+	],
+	"FFlagUseNonCollidableRootR15": [
+		"load = :$1E1B2; mem_val = :$13F999C; mem_name = :$D57DC4",
+		false
+	],
+	"FFlagDebugCrashEnabled": [
+		"load = :$21812; mem_val = :$13FBBD8; mem_name = :$D5A120",
+		false
+	],
+	"FFlagEnableYieldAsWaitTracking": [
+		"load = :$21832; mem_val = :$13FBBDD; mem_name = :$D5A1D0",
+		false
+	],
+	"FFlagLockViolationScriptCrash": [
+		"load = :$21852; mem_val = :$13FBBDB; mem_name = :$D5A19C",
+		false
+	],
+	"FFlagOtherUrlConstructionV2": [
+		"load = :$218B2; mem_val = :$13FBBDC; mem_name = :$D5A1B8",
+		false
+	],
+	"FFlagStudioScriptPerformanceWidgetRefactor": [
+		"load = :$21912; mem_val = :$13FBBDA; mem_name = :$D5A15C",
+		false
+	],
+	"FFlagStudioSkipLuaBalanceCheckOnScriptError": [
+		"load = :$21932; mem_val = :$13FBBD9; mem_name = :$D5A134",
+		false
+	],
+	"FFlagQuantumGui": [
+		"load = :$21B82; mem_val = :$13FC198; mem_name = :$D5B340",
+		false
+	],
+	"FFlagRoundInAdorn": [
+		"load = :$21BA2; mem_val = :$13FC199; mem_name = :$D5B34C",
+		false
+	],
+	"FFlagDebugShowTextBounds": [
+		"load = :$21BC2; mem_val = :$13FC1DD; mem_name = :$D5B554",
+		false
+	],
+	"FFlagFixBillboardTextSizeRounding": [
+		"load = :$21BE2; mem_val = :$13FC1DE; mem_name = :$D5B568",
+		false
+	],
+	"FFlagFixUIScaleTextBlowingUpFontAtlas": [
+		"load = :$21C02; mem_val = :$13FC1DF; mem_name = :$D5B588",
+		false
+	],
+	"FFlagHarfbuzzEnabled5": [
+		"load = :$21C42; mem_val = :$13FC1DC; mem_name = :$D5B540",
+		false
+	],
+	"FFlagTypesetterSubstituteOnReject": [
+		"load = :$21C62; mem_val = :$13FC1E0; mem_name = :$D5B4E8",
+		false
+	],
+	"FFlagFixTextAsserts5": [
+		"load = :$22A22; mem_val = :$13FC2B3; mem_name = :$D5BA4C",
+		false
+	],
+	"FFlagShowPlaceholderTextWhileFocused2": [
+		"load = :$22A42; mem_val = :$13FC2B1; mem_name = :$D5BA5C",
+		false
+	],
+	"FFlagTextBoxManualFocusRelease": [
+		"load = :$22A62; mem_val = :$13FC2B0; mem_name = :$D5BA08",
+		false
+	],
+	"FFlagUseTextLayout5": [
+		"load = :$22A82; mem_val = :$13FC2B2; mem_name = :$D5BA24",
+		false
+	],
+	"FFlagFixTextLayoutWithUIScaleAssert": [
+		"load = :$230B2; mem_val = :$13FCCCB; mem_name = :$D5C328",
+		false
+	],
+	"FFlagLineHeightEnabled": [
+		"load = :$230D2; mem_val = :$13FCCC9; mem_name = :$D5C2EC",
+		false
+	],
+	"FFlagSplitTypesetter2": [
+		"load = :$23112; mem_val = :$13FCCC8; mem_name = :$D5C2D8",
+		false
+	],
+	"FFlagTextMeasureTemporaryPatch": [
+		"load = :$23172; mem_val = :$13FCCCC; mem_name = :$D5C384",
+		false
+	],
+	"FFlagTextTruncationEnabled": [
+		"load = :$23192; mem_val = :$13FCCCA; mem_name = :$D5C300",
+		false
+	],
+	"FFlagAllowLocaleIdForcing": [
+		"load = :$233A2; mem_val = :$13FD2EE; mem_name = :$D5CB7C",
+		false
+	],
+	"FFlagDoLocalizationServiceOverrideLocale": [
+		"load = :$233C2; mem_val = :$13FD2E8; mem_name = :$D5CA40",
+		false
+	],
+	"FFlagLoadAvatarEditorTranslations": [
+		"load = :$233E2; mem_val = :$13FD2E9; mem_name = :$D5CA8C",
+		false
+	],
+	"FFlagLocalizationAnaltyicsInstanceBased": [
+		"load = :$23402; mem_val = :$13FD2F7; mem_name = :$D5CB08",
+		false
+	],
+	"FFlagLocalizationAnalyticsLetterContentOnly": [
+		"load = :$23422; mem_val = :$13FD2ED; mem_name = :$D5CB2C",
+		false
+	],
+	"FFlagLocalizationAppendFunctionsAlwaysAppend": [
+		"load = :$23462; mem_val = :$13FD2F6; mem_name = :$D5CBF0",
+		false
+	],
+	"FFlagLocalizationServiceDoNotExcludeChat": [
+		"load = :$23482; mem_val = :$13FD2F4; mem_name = :$D5CBB0",
+		false
+	],
+	"FFlagLocalizationUseGameLocaleId": [
+		"load = :$23512; mem_val = :$13FD2EF; mem_name = :$D5CB94",
+		false
+	],
+	"FFlagSystemErrorMessageLocalize": [
+		"load = :$23532; mem_val = :$13FD2EB; mem_name = :$D5CACC",
+		false
+	],
+	"FFlagTranslatorTranslateEnabled": [
+		"load = :$23552; mem_val = :$13FD2F5; mem_name = :$D5CBD4",
+		false
+	],
+	"FFlagUseNotificationsLocalization": [
+		"load = :$23572; mem_val = :$13FD2EC; mem_name = :$D5CAE8",
+		false
+	],
+	"FFlagUsePurchasePromptLocalization": [
+		"load = :$23592; mem_val = :$13FD2EA; mem_name = :$D5CAAC",
+		false
+	],
+	"FFlagDebugReportElevatedPhysicsFPSToGA": [
+		"load = :$24472; mem_val = :$12F1B94; mem_name = :$D5DD10",
+		true
+	],
+	"FFlagGridMaterial": [
+		"load = :$244B2; mem_val = :$13FDBF2; mem_name = :$D5DDB4",
+		false
+	],
+	"FFlagNullCheckInReEnableWeldConstraint": [
+		"load = :$244D2; mem_val = :$13FDBF1; mem_name = :$D5DD90",
+		false
+	],
+	"FFlagPGSAlwaysActiveMasterSwitch": [
+		"load = :$244F2; mem_val = :$13FDBF0; mem_name = :$D5DD74",
+		false
+	],
+	"FFlagPhysicsAnalyzerUsed": [
+		"load = :$24512; mem_val = :$13FDBF3; mem_name = :$D5DDEC",
+		false
+	],
+	"FFlagPreventReturnOfElevatedPhysicsFPS": [
+		"load = :$24532; mem_val = :$13FDBEF; mem_name = :$D5DCD8",
+		false
+	],
+	"FFlagFreeCameraAPI": [
+		"load = :$260A2; mem_val = :$13FEFEB; mem_name = :$D5F4B0",
+		false
+	],
+	"FFlagUseOptimizedGetPartsObscuringTarget": [
+		"load = :$260C2; mem_val = :$13FEFEA; mem_name = :$D5F48C",
+		false
+	],
+	"FFlagUserAllCamerasInLua": [
+		"load = :$260E2; mem_val = :$13FEFE8; mem_name = :$D5F460",
+		false
+	],
+	"FFlagUserNewPoppercam": [
+		"load = :$26102; mem_val = :$13FEFEC; mem_name = :$D5F4C0",
+		false
+	],
+	"FFlagUserPortraitPopperFix": [
+		"load = :$26122; mem_val = :$13FEFE9; mem_name = :$D5F474",
+		false
+	],
+	"FFlagEnableGuiLayerCollectorResetOnRespawn": [
+		"load = :$26FC2; mem_val = :$13FF97F; mem_name = :$D5FA0C",
+		false
+	],
+	"FFlagFixDualGuiLayerCollectorRendering2": [
+		"load = :$26FE2; mem_val = :$13FF97D; mem_name = :$D5F9C4",
+		false
+	],
+	"FFlagFixDualGuiLayerCollectorRendering3": [
+		"load = :$27002; mem_val = :$13FF97E; mem_name = :$D5F9E8",
+		false
+	],
+	"FFlagFixGuiStateTransitions2": [
+		"load = :$27022; mem_val = :$13FF980; mem_name = :$D5FA34",
+		false
+	],
+	"FFlagGuiObjectNotRegisteringKeys2": [
+		"load = :$27042; mem_val = :$13FF981; mem_name = :$D5FA4C",
+		false
+	],
+	"FFlagLuaChatUsesZIndexSibling": [
+		"load = :$27062; mem_val = :$13FF97C; mem_name = :$D5F9A8",
+		false
+	],
+	"FFlagAnchoredSendPositionUpdate": [
+		"load = :$28CE2; mem_val = :$1400190; mem_name = :$D60F64",
+		false
+	],
+	"FFlagDebugEnableRenderCSGTriangles": [
+		"load = :$28D02; mem_val = :$1400191; mem_name = :$D60FC8",
+		false
+	],
+	"FFlagNotMyNetworkOwner2": [
+		"load = :$28D42; mem_val = :$1400199; mem_name = :$D61170",
+		false
+	],
+	"FFlagPartInstanceCofMPropertyExposed": [
+		"load = :$28D62; mem_val = :$1400193; mem_name = :$D61100",
+		false
+	],
+	"FFlagShowBufferCount": [
+		"load = :$28DC2; mem_val = :$1400198; mem_name = :$D61120",
+		false
+	],
+	"FFlagSpecificGravityDummyFunctionGA": [
+		"load = :$28DE2; mem_val = :$12F1D34; mem_name = :$D61030",
+		true
+	],
+	"FFlagSpecificGravityDummyReturnsZero": [
+		"load = :$28E02; mem_val = :$1400192; mem_name = :$D61050",
+		false
+	],
+	"FFlagDebugDisableLogServiceExecuteScript": [
+		"load = :$2A4B2; mem_val = :$1401410; mem_name = :$D624B4",
+		false
+	],
+	"FFlagLuaMathLibUseNewRNG": [
+		"load = :$2B002; mem_val = :$1401A04; mem_name = :$D685F0",
+		false
+	],
+	"FFlagLuaStrlibLimitMatchDepth": [
+		"load = :$2B022; mem_val = :$12F1F44; mem_name = :$D68898",
+		true
+	],
+	"FFlagDebugDisplayFPS": [
+		"load = :$2B4F2; mem_val = :$1402190; mem_name = :$D69F28",
+		false
+	],
+	"FFlagAllowDuplicateWeldConstraintsAnalytics": [
+		"load = :$2B5C2; mem_val = :$14025DE; mem_name = :$D6B9A8",
+		false
+	],
+	"FFlagAllowDuplicateWeldConstraints": [
+		"load = :$2B5E2; mem_val = :$14025DD; mem_name = :$D6B988",
+		false
+	],
+	"FFlagCyclicExecutiveThrottlingCancelWorldStepAccum": [
+		"load = :$2B662; mem_val = :$14025D9; mem_name = :$D6B898",
+		false
+	],
+	"FFlagFixJointInstanceDeleteOnPGSEnable": [
+		"load = :$2B6A2; mem_val = :$14025E1; mem_name = :$D6BA1C",
+		false
+	],
+	"FFlagOneSimpleStepToOptimizeContactBufferZone": [
+		"load = :$2B6E2; mem_val = :$14025E2; mem_name = :$D6BA40",
+		false
+	],
+	"FFlagTheseAnalyticsAreBigEnoughForTheTwoOfUs": [
+		"load = :$2B782; mem_val = :$14025E0; mem_name = :$D6B9F4",
+		false
+	],
+	"FFlagThisJointAintBigEnoughForTheTwoOfUs": [
+		"load = :$2B7A2; mem_val = :$14025DF; mem_name = :$D6B9D0",
+		false
+	],
+	"FFlagCacheWayPointDataSize": [
+		"load = :$2B8A2; mem_val = :$140277D; mem_name = :$D6BD3C",
+		false
+	],
+	"FFlagDisableHopperBin": [
+		"load = :$2CB12; mem_val = :$14032F0; mem_name = :$D6C788",
+		false
+	],
+	"FFlagTrackHopperBinUsage2": [
+		"load = :$2CB52; mem_val = :$14032F1; mem_name = :$D6C79C",
+		false
+	],
+	"FFlagStayOutOfMySandbox2": [
+		"load = :$2D162; mem_val = :$1403FC9; mem_name = :$D6CFDC",
+		false
+	],
+	"FFlagStudioFixPropertySyncIssues": [
+		"load = :$2D182; mem_val = :$1403FC8; mem_name = :$D6CFC0",
+		false
+	],
+	"FFlagFixBindActivateStackOrderCAS": [
+		"load = :$2DFA2; mem_val = :$14054EB; mem_name = :$D6DDF4",
+		false
+	],
+	"FFlagFixButtonR2MouseClickOnGui": [
+		"load = :$2DFC2; mem_val = :$14054E9; mem_name = :$D6DDC4",
+		false
+	],
+	"FFlagFixInputCanSinkCAS": [
+		"load = :$2DFE2; mem_val = :$14054EA; mem_name = :$D6DDE0",
+		false
+	],
+	"FFlagFixPlayerActionTypeOverride": [
+		"load = :$2E002; mem_val = :$14054E8; mem_name = :$D6DDA8",
+		false
+	],
+	"FFlagPreserveJointsOnSpawn": [
+		"load = :$2F4D2; mem_val = :$1406668; mem_name = :$D6EEF4",
+		false
+	],
+	"FFlagMouseScrollingIsNowGood": [
+		"load = :$2FC42; mem_val = :$1407158; mem_name = :$D6F64C",
+		false
+	],
+	"FFlagChatServiceAnalyticsOnFilterStringCalls": [
+		"load = :$2FD12; mem_val = :$140739A; mem_name = :$D6FD24",
+		false
+	],
+	"FFlagChatServiceSubscribePlayerRemove": [
+		"load = :$2FD52; mem_val = :$1407399; mem_name = :$D6FCF4",
+		false
+	],
+	"FFlagChatServiceTargetedFilterStringResponse2": [
+		"load = :$2FD72; mem_val = :$140738D; mem_name = :$D6FC40",
+		false
+	],
+	"FFlagChatServiceTargetedFilterStringResponseFinalize2": [
+		"load = :$2FD92; mem_val = :$140738E; mem_name = :$D6FC6C",
+		false
+	],
+	"FFlagFilterStringForBroadcastConsideredPublic": [
+		"load = :$2FDB2; mem_val = :$140738A; mem_name = :$D6F8D4",
+		false
+	],
+	"FFlagHandlePlayerBlockListsInternalPermissive": [
+		"load = :$2FE42; mem_val = :$1407398; mem_name = :$D6FCC8",
+		false
+	],
+	"FFlagHandlePlayerBlockListsInternalStrict": [
+		"load = :$2FE62; mem_val = :$140738F; mem_name = :$D6FCA0",
+		false
+	],
+	"FFlagPassIsPublicChatOnFilterMessage": [
+		"load = :$2FF52; mem_val = :$1407389; mem_name = :$D6F8B4",
+		false
+	],
+	"FFlagUserInGameChatUseNewFilterAPIV2": [
+		"load = :$30092; mem_val = :$1407388; mem_name = :$D6F894",
+		false
+	],
+	"FFlagBadgeReadDisabledFromInfo": [
+		"load = :$30832; mem_val = :$1407CE0; mem_name = :$D710C0",
+		false
+	],
+	"FFlagDisableFriendServiceLoadFriendRequests": [
+		"load = :$30C92; mem_val = :$14085DB; mem_name = :$D719B4",
+		false
+	],
+	"FFlagFriendServiceTargetedFriendEventReplicating": [
+		"load = :$30D52; mem_val = :$14085DC; mem_name = :$D719DC",
+		false
+	],
+	"FFlagHttpRbxApiWithWhitelistedDomains": [
+		"load = :$31CF2; mem_val = :$1409800; mem_name = :$D72EE4",
+		false
+	],
+	"FFlagDataStoreAutoHttpRetry": [
+		"load = :$32FD2; mem_val = :$140B82B; mem_name = :$D75B94",
+		false
+	],
+	"FFlagDataStoresP50": [
+		"load = :$33302; mem_val = :$140B82A; mem_name = :$D75B84",
+		false
+	],
+	"FFlagTeamCreateDataStorePerKeyThrottleFixEnabled": [
+		"load = :$33342; mem_val = :$140B829; mem_name = :$D75B58",
+		false
+	],
+	"FFlagTweenInt64Fix": [
+		"load = :$337C2; mem_val = :$140C310; mem_name = :$D76554",
+		false
+	],
+	"FFlagUseLDLPGSSolver": [
+		"load = :$33842; mem_val = :$140C588; mem_name = :$D76AC4",
+		false
+	],
+	"FFlagBroadPhaseIslandsCalcDepth": [
+		"load = :$338A2; mem_val = :$140C5C7; mem_name = :$D76C38",
+		false
+	],
+	"FFlagTerrainRaycastsRespectCollisionGroups": [
+		"load = :$33942; mem_val = :$140C5C6; mem_name = :$D76BE8",
+		false
+	],
+	"FFlagTestForBadNormal": [
+		"load = :$33962; mem_val = :$140C5C5; mem_name = :$D76BD4",
+		false
+	],
+	"FFlagDebugAdvancedNetworkedVisualizer": [
+		"load = :$339A2; mem_val = :$12F2BC6; mem_name = :$D77158",
+		true
+	],
+	"FFlagDebugAllowMultiRotationInterpolation": [
+		"load = :$339C2; mem_val = :$12F2BC4; mem_name = :$D76EA4",
+		true
+	],
+	"FFlagDebugDisable180DegreeFlip": [
+		"load = :$339E2; mem_val = :$140C691; mem_name = :$D77190",
+		false
+	],
+	"FFlagDebugDisableAngularVelocityInterpolationComponent": [
+		"load = :$33A02; mem_val = :$140C68D; mem_name = :$D76ECC",
+		false
+	],
+	"FFlagDebugEnableInterpolationVisualizer": [
+		"load = :$33A22; mem_val = :$140C68F; mem_name = :$D770F8",
+		false
+	],
+	"FFlagDebugMechanismInterpolationWorldSpace": [
+		"load = :$33A42; mem_val = :$140C68E; mem_name = :$D770D0",
+		false
+	],
+	"FFlagDebugVisualizationImprovements": [
+		"load = :$33A82; mem_val = :$12F2BC5; mem_name = :$D77138",
+		true
+	],
+	"FFlagInterpolationAwareTargetTime": [
+		"load = :$33AE2; mem_val = :$140C68C; mem_name = :$D76E84",
+		false
+	],
+	"FFlagUseDeltaForFBAdorn": [
+		"load = :$33CC2; mem_val = :$140C690; mem_name = :$D7717C",
+		false
+	],
+	"FFlagWebParserAnalyticsWriteNanInf": [
+		"load = :$33CE2; mem_val = :$140C718; mem_name = :$D774C0",
+		false
+	],
+	"FFlagDebugStudioFlagState": [
+		"load = :$34562; mem_val = :$140D820; mem_name = :$D785C0",
+		false
+	],
+	"FFlagScreenGuiOnTopOfCoreBlur": [
+		"load = :$35CF2; mem_val = :$140EF70; mem_name = :$D79674",
+		false
+	],
+	"FFlagBorderSizeRespectUIScale": [
+		"load = :$36BB2; mem_val = :$140F4E3; mem_name = :$D7A0D8",
+		false
+	],
+	"FFlagDebugPrintGuiStateTransitions": [
+		"load = :$36BD2; mem_val = :$140F4E1; mem_name = :$D7A098",
+		false
+	],
+	"FFlagFixFolderDescendantSelection": [
+		"load = :$36BF2; mem_val = :$140F4E0; mem_name = :$D7A078",
+		false
+	],
+	"FFlagRecalculateAbsolutePlacementFix": [
+		"load = :$36C32; mem_val = :$140F4E2; mem_name = :$D7A0B8",
+		false
+	],
+	"FFlagFixIncorrectScrollingFrameBounds": [
+		"load = :$387C2; mem_val = :$1411388; mem_name = :$D7B7AC",
+		false
+	],
+	"FFlagFixMouseWheelScrollingFrame": [
+		"load = :$387E2; mem_val = :$141138A; mem_name = :$D7B7FC",
+		false
+	],
+	"FFlagFixScrollbarNotBeingDraggableWithUIPadding": [
+		"load = :$38802; mem_val = :$1411389; mem_name = :$D7B7D0",
+		false
+	],
+	"FFlagFixScrollingFrameClipRect": [
+		"load = :$38822; mem_val = :$1411380; mem_name = :$D7B6D4",
+		false
+	],
+	"FFlagFixVRScrollingFrames": [
+		"load = :$38842; mem_val = :$1411387; mem_name = :$D7B794",
+		false
+	],
+	"FFlagScrollBarWellRounded": [
+		"load = :$38862; mem_val = :$1411386; mem_name = :$D7B77C",
+		false
+	],
+	"FFlagScrollingFrameCacheValues": [
+		"load = :$38882; mem_val = :$1411385; mem_name = :$D7B760",
+		false
+	],
+	"FFlagUIScrollBarBoarder1PixelOff": [
+		"load = :$388A2; mem_val = :$1411382; mem_name = :$D7B714",
+		false
+	],
+	"FFlagUIScrollingNewElastic2": [
+		"load = :$388C2; mem_val = :$1411383; mem_name = :$D7B730",
+		false
+	],
+	"FFlagUIScrollingNewElasticEx": [
+		"load = :$388E2; mem_val = :$1411384; mem_name = :$D7B748",
+		false
+	],
+	"FFlagUIShiftScrollHorizontal": [
+		"load = :$38902; mem_val = :$1411381; mem_name = :$D7B6FC",
+		false
+	],
+	"FFlagCFrameFromMatrix": [
+		"load = :$39D22; mem_val = :$1411FD5; mem_name = :$D7C81C",
+		false
+	],
+	"FFlagLuaAtomicBridgeCheckSpace": [
+		"load = :$39D42; mem_val = :$1411FD6; mem_name = :$D7C84C",
+		false
+	],
+	"FFlagRandomType": [
+		"load = :$39D62; mem_val = :$1411FD4; mem_name = :$D7C810",
+		false
+	],
+	"FFlagClampCharacterScales": [
+		"load = :$3A512; mem_val = :$14121D0; mem_name = :$D7DD64",
+		false
+	],
+	"FFlagEnableReplaceBodyPartR15": [
+		"load = :$3A712; mem_val = :$14121D4; mem_name = :$D7DE00",
+		false
+	],
+	"FFlagFixHeadScales": [
+		"load = :$3A732; mem_val = :$14121CF; mem_name = :$D7DD54",
+		false
+	],
+	"FFlagFixScalingValueRename": [
+		"load = :$3A752; mem_val = :$14121CC; mem_name = :$D7DCCC",
+		false
+	],
+	"FFlagFixScalingValueReplication": [
+		"load = :$3A772; mem_val = :$14121CD; mem_name = :$D7DCFC",
+		false
+	],
+	"FFlagFixSphereHeads": [
+		"load = :$3A792; mem_val = :$14121CE; mem_name = :$D7DD30",
+		false
+	],
+	"FFlagHumanoidScalingFixHipHeightDuplication": [
+		"load = :$3A812; mem_val = :$14121CB; mem_name = :$D7DC58",
+		false
+	],
+	"FFlagNPCUnequipTools": [
+		"load = :$3A852; mem_val = :$14121D3; mem_name = :$D7DDE0",
+		false
+	],
+	"FFlagNamesOccludedAsDefault": [
+		"load = :$3A872; mem_val = :$14121C9; mem_name = :$D7DB9C",
+		false
+	],
+	"FFlagPhysicsSkipNonRealTimeHumanoidForceCalc": [
+		"load = :$3A892; mem_val = :$14121C8; mem_name = :$D7DB4C",
+		false
+	],
+	"FFlagScaleAllAccessories2": [
+		"load = :$3A8B2; mem_val = :$14121D2; mem_name = :$D7DDB8",
+		false
+	],
+	"FFlagUseR15PartsCache2": [
+		"load = :$3A8D2; mem_val = :$14121CA; mem_name = :$D7DC34",
+		false
+	],
+	"FFlagUserPreloadAnimations": [
+		"load = :$3A8F2; mem_val = :$14121D1; mem_name = :$D7DD88",
+		false
+	],
+	"FFlagAllowPlayerArgs": [
+		"load = :$3F6C2; mem_val = :$14144B9; mem_name = :$D7F93C",
+		false
+	],
+	"FFlagClickDetectorCursorIconEnabled": [
+		"load = :$3F6E2; mem_val = :$14144B8; mem_name = :$D7F91C",
+		false
+	],
+	"FFlagFixSloppyWeakPtrs": [
+		"load = :$43CD2; mem_val = :$1417B58; mem_name = :$D825DC",
+		false
+	],
+	"FFlagImageHandleAdornUseGuiImage": [
+		"load = :$46192; mem_val = :$1418920; mem_name = :$D82E18",
+		false
+	],
+	"FFlagHttpSkipQueueIfCached": [
+		"load = :$47C42; mem_val = :$141A8F3; mem_name = :$D8474C",
+		false
+	],
+	"FFlagHttpTrackSuccessfulUrls": [
+		"load = :$47C62; mem_val = :$141A8F4; mem_name = :$D84764",
+		false
+	],
+	"FFlagHttpUseContentCacheFlag3": [
+		"load = :$47C82; mem_val = :$141A8F0; mem_name = :$D84718",
+		false
+	],
+	"FFlagJoinTime_HttpQueuePrio": [
+		"load = :$47CA2; mem_val = :$141A8F2; mem_name = :$D84734",
+		false
+	],
+	"FFlagFileSystemGetCacheDirectoryLikeAndroid": [
+		"load = :$47D52; mem_val = :$141A924; mem_name = :$D848D0",
+		false
+	],
+	"FFlagJoinTime_ThreadedCacheableContentProvider": [
+		"load = :$47D72; mem_val = :$141A93C; mem_name = :$D84A10",
+		false
+	],
+	"FFlagEnforceSlaveStateEnabledStatus": [
+		"load = :$4CB22; mem_val = :$14205E3; mem_name = :$D88660",
+		false
+	],
+	"FFlagFixCharacterJitterDownStairs": [
+		"load = :$4CB42; mem_val = :$14205E1; mem_name = :$D88624",
+		false
+	],
+	"FFlagFixFirstPersonSwimmingStateChange": [
+		"load = :$4CB62; mem_val = :$14205DF; mem_name = :$D885E4",
+		false
+	],
+	"FFlagHumanoidWithPGSConstraintsUsePhysicsState": [
+		"load = :$4CB82; mem_val = :$14205DD; mem_name = :$D885A4",
+		false
+	],
+	"FFlagImprovedAutoJump": [
+		"load = :$4CBA2; mem_val = :$14205DC; mem_name = :$D88590",
+		false
+	],
+	"FFlagReduceTrussSearchDistance": [
+		"load = :$4CBE2; mem_val = :$14205E2; mem_name = :$D88644",
+		false
+	],
+	"FFlagSafeSwimmingJump2": [
+		"load = :$4CC02; mem_val = :$14205DE; mem_name = :$D885D0",
+		false
+	],
+	"FFlagUserFixCharacterSoundIssues": [
+		"load = :$4CC42; mem_val = :$14205E0; mem_name = :$D88608",
+		false
+	],
+	"FFlagKeyframeSequenceApplyZeroWeight": [
+		"load = :$4CD32; mem_val = :$1420633; mem_name = :$D89160",
+		false
+	],
+	"FFlagKeyframeSequenceCacheMemoryOptimization": [
+		"load = :$4CD52; mem_val = :$1420631; mem_name = :$D89110",
+		false
+	],
+	"FFlagKeyframeSequenceEnableFrozen": [
+		"load = :$4CD72; mem_val = :$1420630; mem_name = :$D890F0",
+		false
+	],
+	"FFlagKeyframeSequenceIgnoreContainerPoses": [
+		"load = :$4CD92; mem_val = :$1420632; mem_name = :$D89138",
+		false
+	],
+	"FFlagKeyframeSequenceReportInstanceLoading": [
+		"load = :$4CDD2; mem_val = :$1420634; mem_name = :$D89180",
+		false
+	],
+	"FFlagFixHandlesMouseEvents": [
+		"load = :$4D2D2; mem_val = :$12F334C; mem_name = :$D89840",
+		true
+	],
+	"FFlagStudioTerrainHideBasePartProperties": [
+		"load = :$4EB92; mem_val = :$14227F9; mem_name = :$D8B5E4",
+		false
+	],
+	"FFlagHttpServiceRequestAsync2": [
+		"load = :$50452; mem_val = :$1423988; mem_name = :$D8C6D8",
+		false
+	],
+	"FFlagRenderConstraintsWithDepth": [
+		"load = :$50E92; mem_val = :$14242F0; mem_name = :$D8D868",
+		false
+	],
+	"FFlagEnableWakingPGSJointsForNonSolverPrimitives": [
+		"load = :$52022; mem_val = :$1425DE8; mem_name = :$D8ED28",
+		false
+	],
+	"FFlagFixTweenReverseOvershoot": [
+		"load = :$52102; mem_val = :$1425EF0; mem_name = :$D8F74C",
+		false
+	],
+	"FFlagMoreAudioChecks": [
+		"load = :$52AA2; mem_val = :$1426960; mem_name = :$D8FDC0",
+		false
+	],
+	"FFlagPhysicsAnalyzerAnalyticsEnabled": [
+		"load = :$52B32; mem_val = :$1426ABC; mem_name = :$D90860",
+		false
+	],
+	"FFlagGoodbyeChoiceActiveProperty": [
+		"load = :$53AE2; mem_val = :$1427130; mem_name = :$D90B20",
+		false
+	],
+	"FFlagAccoutrementWeldingFilteringEnabled": [
+		"load = :$53F52; mem_val = :$1427940; mem_name = :$D91450",
+		false
+	],
+	"FFlagEnableTrackingAccessoryDestoyedWithLiveSignals": [
+		"load = :$53F72; mem_val = :$1427941; mem_name = :$D91474",
+		false
+	],
+	"FFlagCLI16089_2": [
+		"load = :$563E2; mem_val = :$142AE50; mem_name = :$D93190",
+		false
+	],
+	"FFlagEnableSitNilProtection": [
+		"load = :$56402; mem_val = :$142AE52; mem_name = :$D931B4",
+		false
+	],
+	"FFlagFixCheckSeatTransitionEnabled": [
+		"load = :$56422; mem_val = :$142AE53; mem_name = :$D931CC",
+		false
+	],
+	"FFlagFixCustomWeldSeatPart": [
+		"load = :$56442; mem_val = :$142AE51; mem_name = :$D9319C",
+		false
+	],
+	"FFlagSmootherVehicleSeatControlSystem": [
+		"load = :$56702; mem_val = :$142B1A8; mem_name = :$D939E8",
+		false
+	],
+	"FFlagUserNoUpdateOnLoop": [
+		"load = :$58472; mem_val = :$142CE78; mem_name = :$D94F10",
+		false
+	],
+	"FFlagAnimationEditorCreateKeyframesForUndoAndExport": [
+		"load = :$58F22; mem_val = :$142D447; mem_name = :$D952D0",
+		false
+	],
+	"FFlagAnimationEditorCutCopyEntireKeyframes": [
+		"load = :$58F42; mem_val = :$142D448; mem_name = :$D95300",
+		false
+	],
+	"FFlagAnimationEditorDeleteFix": [
+		"load = :$58F62; mem_val = :$142D446; mem_name = :$D952B4",
+		false
+	],
+	"FFlagAnimationEditorLuaWidgetsVersion": [
+		"load = :$58F82; mem_val = :$142D442; mem_name = :$D95218",
+		false
+	],
+	"FFlagAnimationEditorMaxLengthRestriction": [
+		"load = :$58FA2; mem_val = :$142D44A; mem_name = :$D95344",
+		false
+	],
+	"FFlagAnimationEditorNewWikiDocumentation": [
+		"load = :$58FC2; mem_val = :$142D44B; mem_name = :$D95368",
+		false
+	],
+	"FFlagAnimationEditorRenameKeyFrame": [
+		"load = :$58FE2; mem_val = :$142D443; mem_name = :$D9523C",
+		false
+	],
+	"FFlagAnimationEditorRigNameFix": [
+		"load = :$59002; mem_val = :$142D449; mem_name = :$D95328",
+		false
+	],
+	"FFlagAnimationEditorScrubbingPlayingMatch": [
+		"load = :$59022; mem_val = :$142D444; mem_name = :$D9525C",
+		false
+	],
+	"FFlagAnimationEditorSnapIncrementsDivideByZeroFix": [
+		"load = :$59042; mem_val = :$142D445; mem_name = :$D95284",
+		false
+	],
+	"FFlagAnimatorOnSteppedKeepAlive": [
+		"load = :$59062; mem_val = :$142D45C; mem_name = :$D9565C",
+		false
+	],
+	"FFlagDoNotRunAnimationEditorInPlayMode": [
+		"load = :$59082; mem_val = :$142D440; mem_name = :$D951D0",
+		false
+	],
+	"FFlagJoinTime_LocalUserAnimationPriority": [
+		"load = :$590A2; mem_val = :$142D441; mem_name = :$D951F4",
+		false
+	],
+	"FFlagStudioAnimationEditorChangePopupStyle": [
+		"load = :$590C2; mem_val = :$142D456; mem_name = :$D95558",
+		false
+	],
+	"FFlagStudioAnimationEditorClipCutoffFix": [
+		"load = :$590E2; mem_val = :$142D45B; mem_name = :$D95638",
+		false
+	],
+	"FFlagStudioAnimationEditorDefinedBoundaryNotches": [
+		"load = :$59102; mem_val = :$142D44C; mem_name = :$D9538C",
+		false
+	],
+	"FFlagStudioAnimationEditorKeyframeIndicators": [
+		"load = :$59122; mem_val = :$142D452; mem_name = :$D954A8",
+		false
+	],
+	"FFlagStudioAnimationEditorMultiSelectAreaOffsetFix": [
+		"load = :$59142; mem_val = :$142D457; mem_name = :$D95580",
+		false
+	],
+	"FFlagStudioAnimationEditorMultiSelectEasingOptions": [
+		"load = :$59162; mem_val = :$142D453; mem_name = :$D954D0",
+		false
+	],
+	"FFlagStudioAnimationEditorMultiSelectJoints": [
+		"load = :$59182; mem_val = :$142D45A; mem_name = :$D95610",
+		false
+	],
+	"FFlagStudioAnimationEditorParentScaledDragArea": [
+		"load = :$591A2; mem_val = :$142D44F; mem_name = :$D95410",
+		false
+	],
+	"FFlagStudioAnimationEditorPlayFromBeginningIfAtEnd": [
+		"load = :$591C2; mem_val = :$142D459; mem_name = :$D955E0",
+		false
+	],
+	"FFlagStudioAnimationEditorPoseDragSnapping": [
+		"load = :$591E2; mem_val = :$142D455; mem_name = :$D95530",
+		false
+	],
+	"FFlagStudioAnimationEditorResetLockedJoints": [
+		"load = :$59202; mem_val = :$142D44D; mem_name = :$D953B8",
+		false
+	],
+	"FFlagStudioAnimationEditorRightClickMenuPositionFix": [
+		"load = :$59222; mem_val = :$142D458; mem_name = :$D955B0",
+		false
+	],
+	"FFlagStudioAnimationEditorSetIntervalFix": [
+		"load = :$59242; mem_val = :$142D451; mem_name = :$D95484",
+		false
+	],
+	"FFlagStudioAnimationEditorStayActiveWithOtherPlugins": [
+		"load = :$59262; mem_val = :$142D454; mem_name = :$D95500",
+		false
+	],
+	"FFlagStudioAnimationEditorTimePrecisionFix": [
+		"load = :$59282; mem_val = :$142D450; mem_name = :$D9545C",
+		false
+	],
+	"FFlagStudioAnimationEditorWarnForPastingOutOfBounds": [
+		"load = :$592A2; mem_val = :$142D44E; mem_name = :$D953E0",
+		false
+	],
+	"FFlagFixJointDestroyedPrimitiveInsert2": [
+		"load = :$59472; mem_val = :$142DB00; mem_name = :$D95BF0",
+		false
+	],
+	"FFlagSpringConstraintInGameAdornFix": [
+		"load = :$5BBF2; mem_val = :$14318C0; mem_name = :$D980FC",
+		false
+	],
+	"FFlagWeldConstraintAdornHighlightConnectedParts": [
+		"load = :$5DF32; mem_val = :$1432D15; mem_name = :$D98F60",
+		false
+	],
+	"FFlagWeldConstraintAdornImprovements": [
+		"load = :$5DF72; mem_val = :$1432D14; mem_name = :$D98F38",
+		false
+	],
+	"FFlagOrientationConstraintPrimaryAxisOnlyFix": [
+		"load = :$5EDB2; mem_val = :$1433C10; mem_name = :$D99BA0",
+		false
+	],
+	"FFlagFreeCameraForAdmins": [
+		"load = :$5F212; mem_val = :$143416A; mem_name = :$D9A014",
+		false
+	],
+	"FFlagFreeCameraForDevelopers": [
+		"load = :$5F232; mem_val = :$143416B; mem_name = :$D9A028",
+		false
+	],
+	"FFlagPlayerAcceptPlayerScriptsStatus": [
+		"load = :$5F252; mem_val = :$1434169; mem_name = :$D99FF4",
+		false
+	],
+	"FFlagServerNotifyPlayerScriptsStatus": [
+		"load = :$5F272; mem_val = :$1434168; mem_name = :$D99FD4",
+		false
+	],
+	"FFlagUseNewStructurePlayerScripts": [
+		"load = :$5F2B2; mem_val = :$143416C; mem_name = :$D9A040",
+		false
+	],
+	"FFlagAvoidFindFirstChildCallsInGuiBase2d": [
+		"load = :$60082; mem_val = :$143530C; mem_name = :$D9ACDC",
+		false
+	],
+	"FFlagFixStaleBillboardGuiPosition2": [
+		"load = :$604E2; mem_val = :$1435948; mem_name = :$D9B46C",
+		false
+	],
+	"FFlagFixSmallSurfaceGuiMouseInput": [
+		"load = :$60D62; mem_val = :$1435DE4; mem_name = :$D9B854",
+		false
+	],
+	"FFlagFixSurfaceGuisBreakingAfterRespawn": [
+		"load = :$60D82; mem_val = :$1435DE5; mem_name = :$D9B874",
+		false
+	],
+	"FFlagProtectCameraNullAccess": [
+		"load = :$60DA2; mem_val = :$1435DE6; mem_name = :$D9B898",
+		false
+	],
+	"FFlagAnthroArtistIntentFBXImporterEnabled": [
+		"load = :$64032; mem_val = :$14391F3; mem_name = :$D9E480",
+		false
+	],
+	"FFlagAnthroArtistIntentFBXImporterIntermediateState": [
+		"load = :$64052; mem_val = :$12F3A60; mem_name = :$D9E4D8",
+		true
+	],
+	"FFlagDebugStudioRigImporter": [
+		"load = :$64072; mem_val = :$14391F2; mem_name = :$D9E468",
+		false
+	],
+	"FFlagR15ToArtistIntentAssetMigratorEnabled": [
+		"load = :$64092; mem_val = :$14391F4; mem_name = :$D9E508",
+		false
+	],
+	"FFlagRefactorStudioPluginHost": [
+		"load = :$640B2; mem_val = :$14391F5; mem_name = :$D9E540",
+		false
+	],
+	"FFlagStudioTrackPluginButtonSetActive": [
+		"load = :$640D2; mem_val = :$14391F0; mem_name = :$D9DE34",
+		false
+	],
+	"FFlagStudioTrackPluginButtonSetActiveThrottled": [
+		"load = :$640F2; mem_val = :$14391F1; mem_name = :$D9DE58",
+		false
+	],
+	"FFlagLuaDebuggerBreakOnError": [
+		"load = :$65902; mem_val = :$143AEA1; mem_name = :$D9F1EC",
+		false
+	],
+	"FFlagLuaDebuggerGetGlobalsBalanceStack": [
+		"load = :$65922; mem_val = :$143AEA3; mem_name = :$D9F234",
+		false
+	],
+	"FFlagLuaDebugger": [
+		"load = :$65942; mem_val = :$143AEA0; mem_name = :$D9F1C8",
+		false
+	],
+	"FFlagLuaDebuggerN2UpdateHookFix": [
+		"load = :$65962; mem_val = :$143AEA2; mem_name = :$D9F218",
+		false
+	],
+	"FFlagMoreLuaDebuggerStackLeakFixes": [
+		"load = :$65982; mem_val = :$143AEA4; mem_name = :$D9F258",
+		false
+	],
+	"FFlagUserUseSoundDispatcher": [
+		"load = :$678D2; mem_val = :$143CDB8; mem_name = :$DA099C",
+		false
+	],
+	"FFlagDisableListLayoutCacheCheck": [
+		"load = :$687F2; mem_val = :$143E878; mem_name = :$DA1C1C",
+		false
+	],
+	"FFlagThrottleDeveloperConsoleEvents": [
+		"load = :$68E82; mem_val = :$143F2B0; mem_name = :$DA24A0",
+		false
+	],
+	"FFlagXboxUseNewValidUsernameCheck2": [
+		"load = :$69282; mem_val = :$143FBE0; mem_name = :$DA2828",
+		false
+	],
+	"FFlagDataStoreReportNonParsableData": [
+		"load = :$69912; mem_val = :$144044B; mem_name = :$DA2E28",
+		false
+	],
+	"FFlagDataStoreUseLRUCachedKeys": [
+		"load = :$69972; mem_val = :$144044A; mem_name = :$DA2DD4",
+		false
+	],
+	"FFlagNonJsonParseType": [
+		"load = :$699B2; mem_val = :$1440449; mem_name = :$DA2DC0",
+		false
+	],
+	"FFlagInfluxOverTCP": [
+		"load = :$69CE2; mem_val = :$1440CD8; mem_name = :$DA5F50",
+		false
+	],
+	"FFlagHttpCacheCleanBasedOnMemory": [
+		"load = :$69F02; mem_val = :$1440D09; mem_name = :$DA60F0",
+		false
+	],
+	"FFlagHttpFirstCaching": [
+		"load = :$6A052; mem_val = :$12F3BC4; mem_name = :$DA6144",
+		true
+	],
+	"FFlagHttpZeroLatencyCaching": [
+		"load = :$6A0B2; mem_val = :$1440D0A; mem_name = :$DA612C",
+		false
+	],
+	"FFlagUseTLSv1_2_a": [
+		"load = :$6A0D2; mem_val = :$1440D0B; mem_name = :$DA6158",
+		false
+	],
+	"FFlagEnableImageTilingInGUI": [
+		"load = :$6A482; mem_val = :$1440ECC; mem_name = :$DA7470",
+		false
+	],
+	"FFlagFixRaysInWedges": [
+		"load = :$6A5C2; mem_val = :$1441184; mem_name = :$DA8A38",
+		false
+	],
+	"FFlagTuplesTooTerrible": [
+		"load = :$6A642; mem_val = :$14411B1; mem_name = :$DA8D20",
+		false
+	],
+	"FFlagLocalizationCustomAtoiOptimization": [
+		"load = :$6A8B2; mem_val = :$14412CC; mem_name = :$DAB87C",
+		false
+	],
+	"FFlagDebugTracebackOptionalCoroutineArg": [
+		"load = :$6C852; mem_val = :$144144C; mem_name = :$DAC770",
+		false
+	],
+	"FFlagFixMouseXYScrolling": [
+		"load = :$6C8C2; mem_val = :$14415AA; mem_name = :$DE7F30",
+		false
+	],
+	"FFlagFixScrollingTouchInputEnded": [
+		"load = :$6C8E2; mem_val = :$14415AB; mem_name = :$DE7F44",
+		false
+	],
+	"FFlagScrollToTopShortDistanceResponseFix": [
+		"load = :$6C902; mem_val = :$14415A9; mem_name = :$DE7F0C",
+		false
+	],
+	"FFlagScrollingToTopFix": [
+		"load = :$6C922; mem_val = :$14415A8; mem_name = :$DE7EF8",
+		false
+	],
+	"FFlagDialectPreferenceOrder": [
+		"load = :$6C952; mem_val = :$14415C0; mem_name = :$DE7FDC",
+		false
+	],
+	"FFlagLocalizationTableImportStrict": [
+		"load = :$6C972; mem_val = :$14415C1; mem_name = :$DE7FF4",
+		false
+	],
+	"FFlagStudioDraggerSafeYDropFail": [
+		"load = :$6E442; mem_val = :$1441D54; mem_name = :$DE8D08",
+		false
+	],
+	"FFlagPGSSolverDetectHighMassRatiosEnabled": [
+		"load = :$6E4B2; mem_val = :$1441DE4; mem_name = :$DE9234",
+		false
+	],
+	"FFlagPGSSolverDetectUnstableConstraintsEnabled": [
+		"load = :$6E4D2; mem_val = :$1441DE3; mem_name = :$DE9208",
+		false
+	],
+	"FFlagPGSSolverFileDump": [
+		"load = :$6E4F2; mem_val = :$1441DE0; mem_name = :$DE91B0",
+		false
+	],
+	"FFlagPGSSolverIntegrateOnlyPositionsEnabled": [
+		"load = :$6E512; mem_val = :$1441DE2; mem_name = :$DE91E0",
+		false
+	],
+	"FFlagPGSSolverSimIslandsEnabled2": [
+		"load = :$6E532; mem_val = :$1441DE1; mem_name = :$DE91C4",
+		false
+	],
+	"FFlagFixLiteralEdgeCaseQuadTree": [
+		"load = :$6E552; mem_val = :$1441EA4; mem_name = :$DE9490",
+		false
+	],
+	"FFlagBroadPhaseIslandBufferZone5": [
+		"load = :$6E5D2; mem_val = :$1441EC5; mem_name = :$DE95BC",
+		false
+	],
+	"FFlagDebugBroadPhaseIslandBufferZoneApplyPartLimit": [
+		"load = :$6E632; mem_val = :$12F4510; mem_name = :$DE95D8",
+		true
+	],
+	"FFlagDontCallOnMovingAssemblyRoot": [
+		"load = :$6E652; mem_val = :$1441EC4; mem_name = :$DE959C",
+		false
+	],
+	"FFlagPGSWakeOtherAssemblyForJoints": [
+		"load = :$6E6F2; mem_val = :$1441F8D; mem_name = :$DE9B28",
+		false
+	],
+	"FFlagPGSWakeOtherIfOneAssemblyIsAwake": [
+		"load = :$6E712; mem_val = :$1441F8C; mem_name = :$DE9B04",
+		false
+	],
+	"FFlagDebugCountSimBodyAllocations": [
+		"load = :$6E7B2; mem_val = :$1443065; mem_name = :$DEA8D0",
+		false
+	],
+	"FFlagDebugReportAnchoredSimBodyUpdatedFromSolver": [
+		"load = :$6E7D2; mem_val = :$1443066; mem_name = :$DEA8F0",
+		false
+	],
+	"FFlagUseMatrix3ForInertiaTensor2": [
+		"load = :$6E7F2; mem_val = :$1443064; mem_name = :$DEA8B4",
+		false
+	],
+	"FFlagRunDraggerTerrainTestHitDoNotIgnoreWater": [
+		"load = :$6E832; mem_val = :$1443124; mem_name = :$DEAE34",
+		false
+	],
+	"FFlagRotationalViscocityEnabled2": [
+		"load = :$6E952; mem_val = :$1443174; mem_name = :$DEB3F4",
+		false
+	],
+	"FFlagClampHeightAboveFloorForce": [
+		"load = :$6E992; mem_val = :$1443195; mem_name = :$DEB758",
+		false
+	],
+	"FFlagRunningBaseClampAcceleration": [
+		"load = :$6EA12; mem_val = :$1443196; mem_name = :$DEB774",
+		false
+	],
+	"FFlagRunningBaseUseNewAltitudePD": [
+		"load = :$6EA92; mem_val = :$1443197; mem_name = :$DEB7F8",
+		false
+	],
+	"FFlagPGSAdaptiveCollisionMarginFixEnabled": [
+		"load = :$6EAB2; mem_val = :$14431DC; mem_name = :$DEB8B4",
+		false
+	],
+	"FFlagPGSAlign2AxesInitBasis": [
+		"load = :$6EAD2; mem_val = :$14431DD; mem_name = :$DEB8DC",
+		false
+	],
+	"FFlagFixCharacterStuckInFreefall": [
+		"load = :$6EB72; mem_val = :$1443228; mem_name = :$DEBD90",
+		false
+	],
+	"FFlagFixFreefallStuckIgnoreSelfContact": [
+		"load = :$6EB92; mem_val = :$1443229; mem_name = :$DEBE60",
+		false
+	],
+	"FFlagJumpingTorsoShouldCollide": [
+		"load = :$6ECB2; mem_val = :$1443258; mem_name = :$DEBF2C",
+		false
+	],
+	"FFlagSmoothTerrainFixHoles": [
+		"load = :$6ECF2; mem_val = :$1443298; mem_name = :$DEC224",
+		false
+	],
+	"FFlagStudioClearSelectionExitsAttachmentTool": [
+		"load = :$6ED82; mem_val = :$1446634; mem_name = :$DEC74C",
+		false
+	],
+	"FFlagNavigationServiceAnalytics": [
+		"load = :$6EDF2; mem_val = :$144665C; mem_name = :$DEC970",
+		false
+	],
+	"FFlagNavigationServiceTimingAnalytics": [
+		"load = :$6EE52; mem_val = :$144665D; mem_name = :$DEC98C",
+		false
+	],
+	"FFlagNavigationFixCheckOcclusionAsyncV2": [
+		"load = :$6EF72; mem_val = :$1446674; mem_name = :$DECC08",
+		false
+	],
+	"FFlagNavigationFixShutdown": [
+		"load = :$6EF92; mem_val = :$1446673; mem_name = :$DECBF0",
+		false
+	],
+	"FFlagNavigationUseJumpLinksV3": [
+		"load = :$6F092; mem_val = :$1446672; mem_name = :$DECBD4",
+		false
+	],
+	"FFlagUserNavigationFixClickToMoveInterruption": [
+		"load = :$6F0B2; mem_val = :$1446675; mem_name = :$DECC2C",
+		false
+	],
+	"FFlagUserNavigationFixClickToMoveJump": [
+		"load = :$6F0D2; mem_val = :$1446676; mem_name = :$DECC58",
+		false
+	],
+	"FFlagUserUseNewClickToMove": [
+		"load = :$6F0F2; mem_val = :$1446671; mem_name = :$DECB1C",
+		false
+	],
+	"FFlagTighterCylinderBoundingSpheres": [
+		"load = :$6F112; mem_val = :$144675C; mem_name = :$DED034",
+		false
+	],
+	"FFlagBestProximatePartFix": [
+		"load = :$6F132; mem_val = :$1446789; mem_name = :$DED128",
+		false
+	],
+	"FFlagFindClosestHandleHitTestFixEnabled": [
+		"load = :$6F172; mem_val = :$1446798; mem_name = :$DED354",
+		false
+	],
+	"FFlagCleanCacheMoveMutex": [
+		"load = :$6F402; mem_val = :$1446A78; mem_name = :$DED538",
+		false
+	],
+	"FFlagBgUpdateRedirectsHttpErrBase64Body": [
+		"load = :$6F4C2; mem_val = :$1446AD5; mem_name = :$DED6EC",
+		false
+	],
+	"FFlagBgUpdateRedirects": [
+		"load = :$6F502; mem_val = :$1446AD4; mem_name = :$DED670",
+		false
+	],
+	"FFlagHttpBatchSecure": [
+		"load = :$6F5A2; mem_val = :$1446AD6; mem_name = :$DED750",
+		false
+	],
+	"FFlagDebugRenderDragAxis": [
+		"load = :$6F7B2; mem_val = :$1446EB0; mem_name = :$DF6A30",
+		false
+	],
+	"FFlagIkDraggerEnabledInRunMode": [
+		"load = :$6F7D2; mem_val = :$1446EB1; mem_name = :$DF6A44",
+		false
+	],
+	"FFlagFixMultiSelectScaleWeldConstraints": [
+		"load = :$6F7F2; mem_val = :$1446EC5; mem_name = :$DF6B5C",
+		false
+	],
+	"FFlagSafeScalePartFail": [
+		"load = :$6F812; mem_val = :$1446EC4; mem_name = :$DF6B48",
+		false
+	],
+	"FFlagFixFreefallRepelWithCanCollideFalse": [
+		"load = :$6FB92; mem_val = :$1446FFD; mem_name = :$E1965C",
+		false
+	],
+	"FFlagFixHumanoidEmbeddedInGround4": [
+		"load = :$6FBB2; mem_val = :$1446FFC; mem_name = :$E1961C",
+		false
+	],
+	"FFlagDebugNavigationDrawCompactHeightfield": [
+		"load = :$6FBD2; mem_val = :$144702E; mem_name = :$E19A0C",
+		false
+	],
+	"FFlagDebugNavigationDrawCompactHeightfieldLayerSet": [
+		"load = :$6FBF2; mem_val = :$144702F; mem_name = :$E19A34",
+		false
+	],
+	"FFlagDebugNavigationDrawEnable": [
+		"load = :$6FC12; mem_val = :$12F4AF8; mem_name = :$E199B0",
+		true
+	],
+	"FFlagDebugNavigationDrawHeightfield": [
+		"load = :$6FC32; mem_val = :$144702D; mem_name = :$E199EC",
+		false
+	],
+	"FFlagDebugNavigationDrawNavMeshConnections": [
+		"load = :$6FC52; mem_val = :$12F4AFA; mem_name = :$E19A80",
+		true
+	],
+	"FFlagDebugNavigationDrawNavMesh": [
+		"load = :$6FC72; mem_val = :$12F4AF9; mem_name = :$E19A64",
+		true
+	],
+	"FFlagDebugNavigationDrawTileBounds": [
+		"load = :$6FC92; mem_val = :$144702C; mem_name = :$E199CC",
+		false
+	],
+	"FFlagNavigationDebugDrawIterateSpiral": [
+		"load = :$6FCF2; mem_val = :$1447030; mem_name = :$E19AD0",
+		false
+	],
+	"FFlagNavigationRasterizeMeshWithTriangleMeshV2": [
+		"load = :$6FD12; mem_val = :$144705C; mem_name = :$E19B10",
+		false
+	],
+	"FFlagNavigationRasterizeTriangleFlexibleOrder": [
+		"load = :$6FD32; mem_val = :$144705D; mem_name = :$E19B3C",
+		false
+	],
+	"FFlagGroupDragDontFinishTwice": [
+		"load = :$6FD92; mem_val = :$14470D8; mem_name = :$E1D884",
+		false
+	],
+	"FFlagEnableSpecialMeshTransformInVoxelizerDescriptors": [
+		"load = :$6FDD2; mem_val = :$144710D; mem_name = :$E1D968",
+		false
+	],
+	"FFlagSIMDVoxelizerEnabled": [
+		"load = :$6FDF2; mem_val = :$144710E; mem_name = :$E1D99C",
+		false
+	],
+	"FFlagArrayDynamicReserveUsesMoveSemantic": [
+		"load = :$6FE32; mem_val = :$1447130; mem_name = :$1104C58",
+		false
+	],
+	"FFlagDebugDisableOnScreenProfiler": [
+		"load = :$6FED2; mem_val = :$144D9BE; mem_name = :$1121BD8",
+		false
+	],
+	"FFlagDebugStartMicroProfilerWebServer": [
+		"load = :$6FEF2; mem_val = :$144D9BF; mem_name = :$1121C04",
+		false
+	],
+	"FFlagEnableDesktopMicroProfilerApi": [
+		"load = :$6FF12; mem_val = :$144D9BD; mem_name = :$1121BAC",
+		false
+	],
+	"FFlagEnableMobileMicroProfilerWebServerApi": [
+		"load = :$6FF32; mem_val = :$144D9BC; mem_name = :$1121B74",
+		false
+	],
+	"FFlagRbxFormatPreventNegativeStringSize": [
+		"load = :$701F2; mem_val = :$1595A7D; mem_name = :$1122868",
+		false
+	],
+	"FFlagRbxFormatStringCleanup3": [
+		"load = :$70212; mem_val = :$1595A7C; mem_name = :$1122850",
+		false
+	],
+	"FFlagEnableThreadMonitor2": [
+		"load = :$70312; mem_val = :$1595B08; mem_name = :$1122900",
+		false
+	],
+	"FFlagHttpUrlDecodeFix": [
+		"load = :$70392; mem_val = :$1596741; mem_name = :$1122928",
+		false
+	],
+	"FFlagHttpUrlPortFix": [
+		"load = :$703B2; mem_val = :$1596740; mem_name = :$1122918",
+		false
+	],
+	"FFlagDataStoreFixReadingNaNInf": [
+		"load = :$70682; mem_val = :$1596BC8; mem_name = :$112302C",
+		false
+	],
+	"FFlagTaskSchedulerRemoveLast": [
+		"load = :$70722; mem_val = :$1596C52; mem_name = :$11263DC",
+		false
+	],
+	"FFlagTaskSchedulerSTDThreadwrapper": [
+		"load = :$70742; mem_val = :$1596C51; mem_name = :$11263BC",
+		false
+	],
+	"FFlagCSGv2FixOrientationWhenSeparatingNegates": [
+		"load = :$70B62; mem_val = :$1596DBC; mem_name = :$11274FC",
+		false
+	],
+	"FFlagCSGv2UnionOrientationFromFirstPart": [
+		"load = :$70B82; mem_val = :$1596DBE; mem_name = :$1127554",
+		false
+	],
+	"FFlagCSGv2UnparentPartsBeforeModifyingCFrames": [
+		"load = :$70BA2; mem_val = :$1596DBD; mem_name = :$1127528",
+		false
+	],
+	"FFlagCSGv2BalanceExponents": [
+		"load = :$70BF2; mem_val = :$1596DE8; mem_name = :$11279BC",
+		false
+	],
+	"FFlagCSGv2UseImprovedSphereAndCylinder": [
+		"load = :$70C12; mem_val = :$1596E14; mem_name = :$1127C30",
+		false
+	],
+	"FFlagCSGv2SnapPlanes": [
+		"load = :$70C72; mem_val = :$1596F14; mem_name = :$11282F0",
+		false
+	],
+	"FFlagCSGv2UseIterativeSimplification": [
+		"load = :$70C92; mem_val = :$1596F5C; mem_name = :$1128700",
+		false
+	],
+	"FFlagClientUseNewClientTicket": [
+		"load = :$71A52; mem_val = :$15E9137; mem_name = :$1129A80",
+		false
+	],
+	"FFlagDebugEnableSpoofGameLocaleId": [
+		"load = :$71A72; mem_val = :$15E9121; mem_name = :$1129848",
+		false
+	],
+	"FFlagDebugEnableSpoofRobloxLocaleId": [
+		"load = :$71A92; mem_val = :$15E9120; mem_name = :$112980C",
+		false
+	],
+	"FFlagDebugForceChatDisabled": [
+		"load = :$71AB2; mem_val = :$15E9123; mem_name = :$1129988",
+		false
+	],
+	"FFlagDebugSendAttemptsToDiagCase1": [
+		"load = :$71AD2; mem_val = :$15E913A; mem_name = :$1129B64",
+		false
+	],
+	"FFlagDisablePlayerScriptWhenDisconnected": [
+		"load = :$71BD2; mem_val = :$15E9122; mem_name = :$1129868",
+		false
+	],
+	"FFlagGameJoinDeprecateVendorId": [
+		"load = :$71C12; mem_val = :$15E9119; mem_name = :$1129730",
+		false
+	],
+	"FFlagGetAnalyticsSessionIdFromJoinBlob": [
+		"load = :$71CA2; mem_val = :$15E911B; mem_name = :$11297BC",
+		false
+	],
+	"FFlagGetGameLocaleIdFromJoinBlob": [
+		"load = :$71CC2; mem_val = :$15E9118; mem_name = :$11296F4",
+		false
+	],
+	"FFlagJoinTimeCounters": [
+		"load = :$71D02; mem_val = :$15E9133; mem_name = :$1129A00",
+		false
+	],
+	"FFlagJoinTime_AvatarFastClusterSignal": [
+		"load = :$71D62; mem_val = :$15E9131; mem_name = :$11299B4",
+		false
+	],
+	"FFlagJoinTime_AvatarTextureCompositorSignal": [
+		"load = :$71D82; mem_val = :$15E9132; mem_name = :$11299D8",
+		false
+	],
+	"FFlagLoadAdditionalCoreScriptsInStudio": [
+		"load = :$71DF2; mem_val = :$12F5048; mem_name = :$1129964",
+		true
+	],
+	"FFlagLogJoinTime": [
+		"load = :$71E12; mem_val = :$15E9134; mem_name = :$1129A14",
+		false
+	],
+	"FFlagPlaceLauncherIncludePlStartTime": [
+		"load = :$71EF2; mem_val = :$15E9136; mem_name = :$1129A48",
+		false
+	],
+	"FFlagReportEngineJoinTimeStats": [
+		"load = :$71F12; mem_val = :$15E9135; mem_name = :$1129A20",
+		false
+	],
+	"FFlagSendJoinTimeDelta": [
+		"load = :$71FD2; mem_val = :$15E911A; mem_name = :$112974C",
+		false
+	],
+	"FFlagSendJoinTimesToDiag": [
+		"load = :$72122; mem_val = :$15E9139; mem_name = :$1129AC8",
+		false
+	],
+	"FFlagUnlockMouseIfKicked": [
+		"load = :$72172; mem_val = :$15E9130; mem_name = :$11299A0",
+		false
+	],
+	"FFlagUseCorrectCoreCase1Devices": [
+		"load = :$72192; mem_val = :$15E913B; mem_name = :$1129B84",
+		false
+	],
+	"FFlagUseOldClientTicketNameForNewClientTicket": [
+		"load = :$721B2; mem_val = :$15E9138; mem_name = :$1129A9C",
+		false
+	],
+	"FFlagCLI18241": [
+		"load = :$72222; mem_val = :$15E937A; mem_name = :$112ACFC",
+		false
+	],
+	"FFlagCLI19115": [
+		"load = :$72242; mem_val = :$15E937B; mem_name = :$112AD08",
+		false
+	],
+	"FFlagCLI19418": [
+		"load = :$72262; mem_val = :$15E9379; mem_name = :$112ACF0",
+		false
+	],
+	"FFlagCLI21289": [
+		"load = :$72282; mem_val = :$15E937C; mem_name = :$112AD14",
+		false
+	],
+	"FFlagTxRlEn": [
+		"load = :$72322; mem_val = :$15E937D; mem_name = :$112AD30",
+		false
+	],
+	"FFlagUseGsiFilePath": [
+		"load = :$72602; mem_val = :$12F5104; mem_name = :$112C438",
+		true
+	],
+	"FFlagCLI120342": [
+		"load = :$726F2; mem_val = :$15EB543; mem_name = :$112C5E8",
+		false
+	],
+	"FFlagCLI120342p2": [
+		"load = :$72712; mem_val = :$15EB54C; mem_name = :$112C5F4",
+		false
+	],
+	"FFlagDebugClientNetworkPerPlaceMetrics": [
+		"load = :$72752; mem_val = :$15EB541; mem_name = :$112C568",
+		false
+	],
+	"FFlagDelayLocalPlayerParenting": [
+		"load = :$72792; mem_val = :$15EB542; mem_name = :$112C5CC",
+		false
+	],
+	"FFlagUseUNSPEC1": [
+		"load = :$727E2; mem_val = :$15EB540; mem_name = :$112C52C",
+		false
+	],
+	"FFlagDebugEnableReportPlaceIDAboveMemory": [
+		"load = :$729A2; mem_val = :$15EB66C; mem_name = :$112CEE0",
+		false
+	],
+	"FFlagDebugGAReportThrottledSessions": [
+		"load = :$729C2; mem_val = :$15EB66F; mem_name = :$112CF5C",
+		false
+	],
+	"FFlagReportClientMemoryCat": [
+		"load = :$72B52; mem_val = :$15EB66D; mem_name = :$112CF24",
+		false
+	],
+	"FFlagUseGamePerfMonitorWithAppShell": [
+		"load = :$72B82; mem_val = :$15EB66E; mem_name = :$112CF3C",
+		false
+	],
+	"FFlagBodyColorsColor3PropertyReplicationEnabled": [
+		"load = :$73AF2; mem_val = :$15EC3E3; mem_name = :$112E08C",
+		false
+	],
+	"FFlagBodyColorsColor3PropertyReplicationLogicEnabled": [
+		"load = :$73B12; mem_val = :$12F53FC; mem_name = :$112E108",
+		true
+	],
+	"FFlagDebugPrintLagServer": [
+		"load = :$73B72; mem_val = :$15EC3E9; mem_name = :$112E188",
+		false
+	],
+	"FFlagDebugReportPhysicsMissingPlaceSpecific": [
+		"load = :$73B92; mem_val = :$15EC3DD; mem_name = :$112DF9C",
+		false
+	],
+	"FFlagDebugSendPhysicsFBUpdateRatePlaceSpecific": [
+		"load = :$73BB2; mem_val = :$15EC3DE; mem_name = :$112DFD4",
+		false
+	],
+	"FFlagDisconnectUseConnectionErrorCode": [
+		"load = :$73BF2; mem_val = :$15EC3E1; mem_name = :$112E038",
+		false
+	],
+	"FFlagLogMemoryStatsOnCompressionError": [
+		"load = :$73C72; mem_val = :$15EC3E6; mem_name = :$112E0E4",
+		false
+	],
+	"FFlagNetworkDeserializePacketsInAJob": [
+		"load = :$73DF2; mem_val = :$15EC3E7; mem_name = :$112E150",
+		false
+	],
+	"FFlagPhysicsResetOsp": [
+		"load = :$73F02; mem_val = :$15EC3D6; mem_name = :$112DE34",
+		false
+	],
+	"FFlagPpjClientBreak": [
+		"load = :$73F42; mem_val = :$15EC3CA; mem_name = :$112DD64",
+		false
+	],
+	"FFlagPpjServerBreak": [
+		"load = :$74002; mem_val = :$15EC3C9; mem_name = :$112DD54",
+		false
+	],
+	"FFlagProtectNullRakPeer": [
+		"load = :$74022; mem_val = :$15EC3E4; mem_name = :$112E0B8",
+		false
+	],
+	"FFlagRCCKickDuplicatePlayersOnJoin": [
+		"load = :$74082; mem_val = :$15EC3D7; mem_name = :$112DEC8",
+		false
+	],
+	"FFlagReportDataPingByDc": [
+		"load = :$740E2; mem_val = :$15EC3DF; mem_name = :$112E014",
+		false
+	],
+	"FFlagReportPhysicsMissingTiers": [
+		"load = :$74142; mem_val = :$15EC3DC; mem_name = :$112DF80",
+		false
+	],
+	"FFlagSelectiveNegativeTarget": [
+		"load = :$741A2; mem_val = :$15EC3E8; mem_name = :$112E170",
+		false
+	],
+	"FFlagSendTimeInQueue": [
+		"load = :$74202; mem_val = :$15EC3E0; mem_name = :$112E028",
+		false
+	],
+	"FFlagTeamCreateServerTrackScriptChangesFullSource": [
+		"load = :$742C2; mem_val = :$15EC3E2; mem_name = :$112E05C",
+		false
+	],
+	"FFlagThrowOnCompressionError": [
+		"load = :$742E2; mem_val = :$15EC3E5; mem_name = :$112E0CC",
+		false
+	],
+	"FFlagUseNativePathWaypoint": [
+		"load = :$74312; mem_val = :$12F53FD; mem_name = :$112E138",
+		true
+	],
+	"FFlagDistanceThinningForClient": [
+		"load = :$74522; mem_val = :$12F5480; mem_name = :$113015C",
+		true
+	],
+	"FFlagDontSendOnContactBuffer": [
+		"load = :$74542; mem_val = :$15EC6FE; mem_name = :$1130178",
+		false
+	],
+	"FFlagDontUsePhysicsCache": [
+		"load = :$74562; mem_val = :$15EC6F5; mem_name = :$11300A4",
+		false
+	],
+	"FFlagImproveTimeStamp": [
+		"load = :$74582; mem_val = :$15EC701; mem_name = :$11301C4",
+		false
+	],
+	"FFlagNewSortAndFilter": [
+		"load = :$745C2; mem_val = :$15EC6F6; mem_name = :$11300B8",
+		false
+	],
+	"FFlagSendAllPhysicsPackets": [
+		"load = :$746A2; mem_val = :$15EC6F4; mem_name = :$113008C",
+		false
+	],
+	"FFlagSetSimulationRadiusInPhysicsSender": [
+		"load = :$746C2; mem_val = :$15EC6F7; mem_name = :$11300CC",
+		false
+	],
+	"FFlagUseBitCountLimit": [
+		"load = :$746F2; mem_val = :$15EC6FF; mem_name = :$1130190",
+		false
+	],
+	"FFlagUseDistanceThinning": [
+		"load = :$74712; mem_val = :$15EC6FA; mem_name = :$1130108",
+		false
+	],
+	"FFlagUseMomentumThinning": [
+		"load = :$74732; mem_val = :$15EC6FB; mem_name = :$113011C",
+		false
+	],
+	"FFlagUseRelativePartTransformsHumanoidPlatforms": [
+		"load = :$74752; mem_val = :$15EC703; mem_name = :$1130224",
+		false
+	],
+	"FFlagUseRoundRobinForClient": [
+		"load = :$74772; mem_val = :$15EC6FD; mem_name = :$1130144",
+		false
+	],
+	"FFlagUseRoundRobin": [
+		"load = :$74792; mem_val = :$15EC6F9; mem_name = :$11300F8",
+		false
+	],
+	"FFlagUseSortForClient": [
+		"load = :$747B2; mem_val = :$15EC6FC; mem_name = :$1130130",
+		false
+	],
+	"FFlagUseSort": [
+		"load = :$747D2; mem_val = :$15EC6F8; mem_name = :$11300F0",
+		false
+	],
+	"FFlagUseVelocityGateForMoment": [
+		"load = :$747F2; mem_val = :$15EC702; mem_name = :$1130208",
+		false
+	],
+	"FFlagValidateStringLength": [
+		"load = :$748F2; mem_val = :$15EC7FC; mem_name = :$1130510",
+		false
+	],
+	"FFlagDebugRakNetUseUdt": [
+		"load = :$74972; mem_val = :$15EC869; mem_name = :$1130688",
+		false
+	],
+	"FFlagRakNetDetectNetUnreachable": [
+		"load = :$749B2; mem_val = :$15EC868; mem_name = :$113066C",
+		false
+	],
+	"FFlagRakNetFixBwCollapse": [
+		"load = :$749D2; mem_val = :$15EC86B; mem_name = :$11306B4",
+		false
+	],
+	"FFlagRakNetUseSlidingWindow4": [
+		"load = :$74A72; mem_val = :$15EC86A; mem_name = :$113069C",
+		false
+	],
+	"FFlagIPV6RobloxStudioCleanUp": [
+		"load = :$74B02; mem_val = :$15EC8C4; mem_name = :$1130C18",
+		false
+	],
+	"FFlagRCCSupportCloudEdit": [
+		"load = :$74B62; mem_val = :$15EC8C1; mem_name = :$1130BE4",
+		false
+	],
+	"FFlagRCCSupportTeamTest": [
+		"load = :$74B82; mem_val = :$15EC8C2; mem_name = :$1130BF8",
+		false
+	],
+	"FFlagReplicatorHasCapability": [
+		"load = :$74BA2; mem_val = :$15EC8C6; mem_name = :$1130CB8",
+		false
+	],
+	"FFlagReportServerWorldStepDtAve": [
+		"load = :$74C02; mem_val = :$15EC8C7; mem_name = :$1130CD0",
+		false
+	],
+	"FFlagReportSolverUsageStats": [
+		"load = :$74C22; mem_val = :$15EC8C5; mem_name = :$1130C6C",
+		false
+	],
+	"FFlagAniCoalesce": [
+		"load = :$74E52; mem_val = :$15EC9ED; mem_name = :$1131190",
+		false
+	],
+	"FFlagDebugForceRegenerateSchemaBitStream": [
+		"load = :$74EB2; mem_val = :$15EC9D8; mem_name = :$1131054",
+		false
+	],
+	"FFlagDebugGameLoadDataStatisticsPerPlace": [
+		"load = :$74ED2; mem_val = :$15EC9EA; mem_name = :$1131148",
+		false
+	],
+	"FFlagFilterAllPlayerPropChanges": [
+		"load = :$74F12; mem_val = :$15EC9D9; mem_name = :$1131078",
+		false
+	],
+	"FFlagFilterCheckMap": [
+		"load = :$74F32; mem_val = :$15EC9DB; mem_name = :$11310F8",
+		false
+	],
+	"FFlagGameLoadDataStatistics": [
+		"load = :$74F52; mem_val = :$15EC9E9; mem_name = :$1131130",
+		false
+	],
+	"FFlagInWithTheNew": [
+		"load = :$74F92; mem_val = :$15EC9EB; mem_name = :$113116C",
+		false
+	],
+	"FFlagNewRejoinMessage": [
+		"load = :$74FD2; mem_val = :$15EC9EC; mem_name = :$113117C",
+		false
+	],
+	"FFlagRemoveOldTicket": [
+		"load = :$74FF2; mem_val = :$15EC9DA; mem_name = :$1131094",
+		false
+	],
+	"FFlagRestrictXmGui": [
+		"load = :$75012; mem_val = :$15EC9EE; mem_name = :$11311AC",
+		false
+	],
+	"FFlagSendPlayerGuiEarly2": [
+		"load = :$75052; mem_val = :$15EC9E8; mem_name = :$1131108",
+		false
+	],
+	"FFlagDebugEnableInternetSimulator": [
+		"load = :$75172; mem_val = :$15ECA90; mem_name = :$1131AF0",
+		false
+	],
+	"FFlagDeferJoins": [
+		"load = :$751F2; mem_val = :$15ECAA0; mem_name = :$1131BD8",
+		false
+	],
+	"FFlagQuitToo": [
+		"load = :$75212; mem_val = :$15ECA92; mem_name = :$1131BB8",
+		false
+	],
+	"FFlagServerCopiesPlayerGui": [
+		"load = :$75272; mem_val = :$15ECAA1; mem_name = :$1131BF0",
+		false
+	],
+	"FFlagServerGeneratesPlayer4": [
+		"load = :$75292; mem_val = :$15ECA93; mem_name = :$1131BC0",
+		false
+	],
+	"FFlagSimplifyRakNetConnectionHandshake": [
+		"load = :$752B2; mem_val = :$15ECA91; mem_name = :$1131B84",
+		false
+	],
+	"FFlagDebugDisableProjectileOwnershipLock": [
+		"load = :$75302; mem_val = :$15ED038; mem_name = :$1132314",
+		false
+	],
+	"FFlagActOnNewCheck": [
+		"load = :$75412; mem_val = :$15ED0DD; mem_name = :$1132448",
+		false
+	],
+	"FFlagAdditionalCheckC0": [
+		"load = :$75432; mem_val = :$15ED0DC; mem_name = :$1132434",
+		false
+	],
+	"FFlagAdditionalCheckC1_2": [
+		"load = :$75452; mem_val = :$15ED0DA; mem_name = :$1132410",
+		false
+	],
+	"FFlagCheckBackpack": [
+		"load = :$75472; mem_val = :$15ED0DB; mem_name = :$1132424",
+		false
+	],
+	"FFlagDelistPpr": [
+		"load = :$75492; mem_val = :$15ED0E7; mem_name = :$1132504",
+		false
+	],
+	"FFlagDontWhitelistUserInputConnectionCounts": [
+		"load = :$754B2; mem_val = :$15ED0E4; mem_name = :$1132498",
+		false
+	],
+	"FFlagDropItLikeItsHat2": [
+		"load = :$754D2; mem_val = :$15ED0DE; mem_name = :$1132468",
+		false
+	],
+	"FFlagMoreWeldRestrictions": [
+		"load = :$754F2; mem_val = :$15ED0D8; mem_name = :$11323E0",
+		false
+	],
+	"FFlagNotChristmasTodayEither2": [
+		"load = :$75512; mem_val = :$15ED0E6; mem_name = :$11324E8",
+		false
+	],
+	"FFlagOneWeldToRuleThemAll2": [
+		"load = :$75532; mem_val = :$15ED0D9; mem_name = :$11323F8",
+		false
+	],
+	"FFlagPlayerGeneratedOnTheServerNoBacksies": [
+		"load = :$75552; mem_val = :$15ED0E5; mem_name = :$11324C0",
+		false
+	],
+	"FFlagWhitelistUserInputEvents": [
+		"load = :$755A2; mem_val = :$15ED0DF; mem_name = :$113247C",
+		false
+	],
+	"FFlagDebugStreamingFastRecovery": [
+		"load = :$75832; mem_val = :$15ED24A; mem_name = :$113298C",
+		false
+	],
+	"FFlagTSMk2ThrottleStreamJob": [
+		"load = :$75932; mem_val = :$15ED249; mem_name = :$113291C",
+		false
+	],
+	"FFlagFavorIPV4Connections": [
+		"load = :$75CD2; mem_val = :$15ED46C; mem_name = :$1133518",
+		false
+	],
+	"FFlagFixBoundSocket": [
+		"load = :$75CF2; mem_val = :$15ED46D; mem_name = :$1133530",
+		false
+	],
+	"FFlagRakNetSupportIpV6": [
+		"load = :$75D22; mem_val = :$15ED89C; mem_name = :$1133704",
+		false
+	],
+	"FFlagDebugRakNetNoTimestampInUdt": [
+		"load = :$76422; mem_val = :$15EE6B8; mem_name = :$11349C0",
+		false
+	],
+	"FFlagFixG3DFpChecks": [
+		"load = :$76752; mem_val = :$15EEAF4; mem_name = :$1134EE8",
+		false
+	],
+	"FFlagDebugSSAOForce": [
+		"load = :$76782; mem_val = :$15EEBB8; mem_name = :$113566C",
+		false
+	],
+	"FFlagFixIAdornableCollectorCrash3": [
+		"load = :$767F2; mem_val = :$15EEBF0; mem_name = :$1135844",
+		false
+	],
+	"FFlagDebugGraphicsCrashOnLeaks": [
+		"load = :$768F2; mem_val = :$12F9FDC; mem_name = :$1135EE0",
+		true
+	],
+	"FFlagDebugGraphics": [
+		"load = :$76912; mem_val = :$15EEC56; mem_name = :$1135ED0",
+		false
+	],
+	"FFlagDebugGraphicsVsync": [
+		"load = :$76932; mem_val = :$15EEC57; mem_name = :$1135EFC",
+		false
+	],
+	"FFlagDebugAdornsDisabled": [
+		"load = :$769C2; mem_val = :$15EEC85; mem_name = :$1136CD8",
+		false
+	],
+	"FFlagEnableRobloxGuiEffect": [
+		"load = :$769E2; mem_val = :$15EEC86; mem_name = :$1136CEC",
+		false
+	],
+	"FFlagRenderFrameCapture": [
+		"load = :$76A62; mem_val = :$15EEC84; mem_name = :$1136298",
+		false
+	],
+	"FFlagUseLargerFontAtlasOn3xDevices": [
+		"load = :$76B62; mem_val = :$15EEDE4; mem_name = :$11376B4",
+		false
+	],
+	"FFlagFixSunRaysFlickering": [
+		"load = :$76C42; mem_val = :$15EEE8C; mem_name = :$1137898",
+		false
+	],
+	"FFlagRenderInstanceAcrossRops": [
+		"load = :$76C62; mem_val = :$15EEE8E; mem_name = :$11378C0",
+		false
+	],
+	"FFlagShadowBoxFix": [
+		"load = :$76CA2; mem_val = :$15EEE8D; mem_name = :$11378B0",
+		false
+	],
+	"FFlagFixGranny": [
+		"load = :$76E52; mem_val = :$15EF31E; mem_name = :$1137EB0",
+		false
+	],
+	"FFlagRenderInstancingEnabled8": [
+		"load = :$76E72; mem_val = :$15EF31C; mem_name = :$1137E74",
+		false
+	],
+	"FFlagRenderPartInstancingEnabled4": [
+		"load = :$76E92; mem_val = :$15EF31D; mem_name = :$1137E90",
+		false
+	],
+	"FFlagJoinTime_AllowFullTexturePrioUpdate": [
+		"load = :$76ED2; mem_val = :$15EF580; mem_name = :$1138614",
+		false
+	],
+	"FFlagJoinTime_LocalUserTexturePriority": [
+		"load = :$76EF2; mem_val = :$15EF57E; mem_name = :$11385C4",
+		false
+	],
+	"FFlagJoinTime_PassTexturePriority": [
+		"load = :$76F12; mem_val = :$15EF57F; mem_name = :$11385E8",
+		false
+	],
+	"FFlagDebugRenderDisableWangMobile": [
+		"load = :$77272; mem_val = :$15EF804; mem_name = :$1139368",
+		false
+	],
+	"FFlagRefactoredMaterials3": [
+		"load = :$77292; mem_val = :$15EF805; mem_name = :$1139388",
+		false
+	],
+	"FFlagFixTextureAtlasLineHeightOn4xDevices": [
+		"load = :$773A2; mem_val = :$15EF8B8; mem_name = :$1139E44",
+		false
+	],
+	"FFlagFixLineHandleAdornmentsNearPlane": [
+		"load = :$77592; mem_val = :$15EFB0C; mem_name = :$113A650",
+		false
+	],
+	"FFlagJoinTime_LocalUserClusterPriority": [
+		"load = :$77952; mem_val = :$15F025E; mem_name = :$113B888",
+		false
+	],
+	"FFlagJoinTime_LocalUserMeshPriority": [
+		"load = :$77972; mem_val = :$15F025D; mem_name = :$113B868",
+		false
+	],
+	"FFlagRenderInstancingDeferUpdates2": [
+		"load = :$77A42; mem_val = :$15F0401; mem_name = :$113C10C",
+		false
+	],
+	"FFlagRenderRestrictHeads4": [
+		"load = :$79B12; mem_val = :$15F0A48; mem_name = :$113E9D0",
+		false
+	],
+	"FFlagG3DRayCylinderintersectionTimeFix": [
+		"load = :$79B82; mem_val = :$15F0B9C; mem_name = :$113F7C0",
+		false
+	],
+	"FFlagDebugGraphicsForceGL2": [
+		"load = :$79DF2; mem_val = :$163005C; mem_name = :$1187228",
+		false
+	],
+	"FFlagGraphicsGL3InstancingEnabled2": [
+		"load = :$79E12; mem_val = :$163005E; mem_name = :$1187254",
+		false
+	],
+	"FFlagGraphicsGL3UseUBO3": [
+		"load = :$79E32; mem_val = :$163005D; mem_name = :$1187240",
+		false
+	],
+	"FFlagDebugGraphicsD3D9ForceSWVP": [
+		"load = :$79E82; mem_val = :$163008C; mem_name = :$1187540",
+		false
+	],
+	"FFlagGraphicsDX11ReportConstantOffset": [
+		"load = :$79ED2; mem_val = :$16300A8; mem_name = :$1187A10",
+		false
+	],
+	"FFlagDebugGraphicsDisableVulkan11": [
+		"load = :$79F22; mem_val = :$16300D5; mem_name = :$1187CAC",
+		false
+	],
+	"FFlagDebugGraphicsDisableVulkan": [
+		"load = :$79F42; mem_val = :$16300D4; mem_name = :$1187C90",
+		false
+	],
+	"FFlagGraphicsVulkanBlacklistMali80": [
+		"load = :$79FD2; mem_val = :$16300D8; mem_name = :$1187D18",
+		false
+	],
+	"FFlagGraphicsVulkanBlacklistPowerVR81": [
+		"load = :$79FF2; mem_val = :$16300D9; mem_name = :$1187D38",
+		false
+	],
+	"FFlagGraphicsVulkanGpuTime": [
+		"load = :$7A012; mem_val = :$16300D7; mem_name = :$1187D00",
+		false
+	],
+	"FFlagGraphicsVulkanUseNewPacks3": [
+		"load = :$7A032; mem_val = :$16300D6; mem_name = :$1187CE4",
+		false
+	],
+	"FFlagDebugGraphicsGLDisableDiscard": [
+		"load = :$7A082; mem_val = :$1630194; mem_name = :$1188B90",
+		false
+	],
+	"FFlagDebugGraphicsIntelCrash": [
+		"load = :$7A1F2; mem_val = :$1632B00; mem_name = :$118E844",
+		false
+	],
+	"FFlagDebugGraphicsD3D11DisableDriverThreading": [
+		"load = :$7A2D2; mem_val = :$1632BB4; mem_name = :$118EBCC",
+		false
+	],
+	"FFlagDebugGraphicsVulkanDisablePipelineCacheSerialization": [
+		"load = :$7A552; mem_val = :$163315C; mem_name = :$1191788",
+		false
+	],
+	"FFlagGraphicsVulkanPipelineCacheRobustSerialization": [
+		"load = :$7A572; mem_val = :$163315D; mem_name = :$11917C0",
+		false
+	],
+	"FFlagDebugRenderVRHUD": [
+		"load = :$7A5F2; mem_val = :$1633194; mem_name = :$1191CC0",
+		false
+	],
+	"FIntHangDetectionTimeoutMs": [
+		"load = :$3315; mem_val = :$12EE01C; mem_name = :$D27E94",
+		180000
+	],
+	"FIntStudioRecentActionCacheSize": [
+		"load = :$3395; mem_val = :$12EE00C; mem_name = :$D27E40",
+		25
+	],
+	"FIntWriteFullDmpPercent": [
+		"load = :$33D5; mem_val = :$13DA0BC; mem_name = :$D27E2C",
+		0
+	],
+	"FIntBootstrapperVersionNumber": [
+		"load = :$34E2; mem_val = :$12EE054; mem_name = :$D286A4",
+		51261
+	],
+	"FIntClientWebBrowserCompatibleVersion": [
+		"load = :$3502; mem_val = :$12EE078; mem_name = :$D2873C",
+		11000
+	],
+	"FIntDebugSimulateHangDetectionAfterMilliseconds": [
+		"load = :$3562; mem_val = :$13DB608; mem_name = :$D28784",
+		0
+	],
+	"FIntInferredCrashReportingHundredthsPercentage": [
+		"load = :$3612; mem_val = :$12EE06C; mem_name = :$D286F8",
+		1000
+	],
+	"FIntRequestPlaceInfoRetryCount": [
+		"load = :$3632; mem_val = :$12EE064; mem_name = :$D286DC",
+		5
+	],
+	"FIntRequestPlaceInfoTimeoutMS": [
+		"load = :$3652; mem_val = :$12EE05C; mem_name = :$D286C0",
+		2000
+	],
+	"FIntValidateLauncherPercent": [
+		"load = :$3692; mem_val = :$13DB604; mem_name = :$D2868C",
+		0
+	],
+	"FIntCrashUploadArchiveAfterErrorsDelaySeconds": [
+		"load = :$3B02; mem_val = :$12EFE38; mem_name = :$D2FA90",
+		86400
+	],
+	"FIntCrashUploadErrorInfluxHundredthsPercentage": [
+		"load = :$3B22; mem_val = :$12EFE20; mem_name = :$D2FA20",
+		1000
+	],
+	"FIntCrashUploadHttpResponseDefaultTimeoutMillis": [
+		"load = :$3B42; mem_val = :$12EFE30; mem_name = :$D2FA64",
+		80000
+	],
+	"FIntCrashUploadMaxDumpFiles": [
+		"load = :$3B62; mem_val = :$12EFE28; mem_name = :$D2FA4C",
+		3
+	],
+	"FIntRCCInfluxHundredthsPercentage": [
+		"load = :$3B82; mem_val = :$12EFE18; mem_name = :$D2FA00",
+		1000
+	],
+	"FIntStartupInfluxHundredthsPercentage": [
+		"load = :$3CE2; mem_val = :$13DB9F8; mem_name = :$D31AD0",
+		0
+	],
+	"FIntICMPPingHundrethsPercentage": [
+		"load = :$3D02; mem_val = :$13DBA04; mem_name = :$D31C38",
+		0
+	],
+	"FIntICMPPingTestDelay": [
+		"load = :$3D22; mem_val = :$12EFE68; mem_name = :$D31C24",
+		3000
+	],
+	"FIntICMPPingTestRetryPerIPCount": [
+		"load = :$3D42; mem_val = :$12EFE60; mem_name = :$D31C08",
+		5
+	],
+	"FIntAppBridgePlaceLaunchExponentialBaseFraction": [
+		"load = :$5062; mem_val = :$12EFF1C; mem_name = :$D355DC",
+		3
+	],
+	"FIntAppBridgePlaceLaunchMaxRetries": [
+		"load = :$5082; mem_val = :$12EFF2C; mem_name = :$D3562C",
+		5
+	],
+	"FIntAppBridgePlaceLaunchMaxSleepBetweenRequests": [
+		"load = :$50A2; mem_val = :$12EFF38; mem_name = :$D35674",
+		10
+	],
+	"FIntAppBridgePlaceLaunchMaxTotalSleepTime": [
+		"load = :$50C2; mem_val = :$13DE650; mem_name = :$D3564C",
+		0
+	],
+	"FIntAppBridgePlaceLaunchRetryWaitInSec": [
+		"load = :$50E2; mem_val = :$12EFF24; mem_name = :$D35608",
+		1
+	],
+	"FIntPlaceLauncherExceptionInfluxHundredthsPercentage": [
+		"load = :$5222; mem_val = :$13DE654; mem_name = :$D356A0",
+		0
+	],
+	"FIntTeleportExceptionInfluxHundredthsPercentage": [
+		"load = :$52E2; mem_val = :$13DE658; mem_name = :$D3573C",
+		0
+	],
+	"FIntTeleportRetryTimes": [
+		"load = :$5302; mem_val = :$12EFF50; mem_name = :$D35728",
+		5
+	],
+	"FIntCLI20390": [
+		"load = :$5572; mem_val = :$13DE9FC; mem_name = :$D3731C",
+		0
+	],
+	"FIntReportInfluxHundredthsPercentage": [
+		"load = :$5612; mem_val = :$13DEAC0; mem_name = :$D39334",
+		0
+	],
+	"FIntAppShellFPSReportPeriod": [
+		"load = :$57A2; mem_val = :$12F0064; mem_name = :$D396A0",
+		600
+	],
+	"FIntAppShellMemoryReportInitialDelay": [
+		"load = :$57C2; mem_val = :$12F0074; mem_name = :$D396D8",
+		10
+	],
+	"FIntAppShellMemoryReportPeriodicity": [
+		"load = :$57E2; mem_val = :$12F006C; mem_name = :$D396B8",
+		600
+	],
+	"FIntPercentReportingByCountryCode": [
+		"load = :$5942; mem_val = :$13DEBCC; mem_name = :$D396FC",
+		0
+	],
+	"FIntWaitForChildWarnTimeOutTime": [
+		"load = :$5DD2; mem_val = :$12F0234; mem_name = :$D3A3E4",
+		5
+	],
+	"FIntAvatarJointPositionsDefaultType": [
+		"load = :$7A52; mem_val = :$13E0B94; mem_name = :$D3B8BC",
+		0
+	],
+	"FIntInGameGlobalGuiInset": [
+		"load = :$7F72; mem_val = :$12F0354; mem_name = :$D3B8A4",
+		36
+	],
+	"FIntOnCloseTimeoutInSeconds": [
+		"load = :$7FF2; mem_val = :$12F0360; mem_name = :$D3B8F8",
+		30
+	],
+	"FIntR15DefaultCollisionType": [
+		"load = :$80E2; mem_val = :$13E0B98; mem_name = :$D3B910",
+		0
+	],
+	"FIntScriptContextShutdownTimeoutSeconds": [
+		"load = :$8142; mem_val = :$12F036C; mem_name = :$D3B940",
+		30
+	],
+	"FIntServerConfigCloudEditSavePeriodSeconds": [
+		"load = :$8162; mem_val = :$12F0374; mem_name = :$D3B964",
+		300
+	],
+	"FIntContentProviderThreadPoolSize": [
+		"load = :$B9C2; mem_val = :$12F055C; mem_name = :$D405F0",
+		16
+	],
+	"FIntAnalyticsDeferredEphemeralReportingIntervalSeconds": [
+		"load = :$C4B2; mem_val = :$12F07D4; mem_name = :$D42B80",
+		30
+	],
+	"FIntAnalyticsDeferredEventIngestReportingIntervalSeconds": [
+		"load = :$C4D2; mem_val = :$12F07FC; mem_name = :$D42C64",
+		30
+	],
+	"FIntAnalyticsMaxDeferredStats": [
+		"load = :$C532; mem_val = :$12F07DC; mem_name = :$D42BB4",
+		50
+	],
+	"FIntAnalyticsMaxEventIngestPostArrayLength": [
+		"load = :$C552; mem_val = :$12F0808; mem_name = :$D42CC0",
+		900
+	],
+	"FIntAnalyticsMaxSendWaitTimeMs": [
+		"load = :$C572; mem_val = :$12F07E4; mem_name = :$D42BD0",
+		100
+	],
+	"FIntAnalyticsMaxShutdownWaitTimeMs": [
+		"load = :$C592; mem_val = :$12F07EC; mem_name = :$D42BEC",
+		100
+	],
+	"FIntLuaErrorsInfluxThrottling": [
+		"load = :$C7B2; mem_val = :$12F07C0; mem_name = :$D42B10",
+		1
+	],
+	"FIntFixForBulkPresenceNotifications": [
+		"load = :$D032; mem_val = :$13E83E4; mem_name = :$D43848",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleAndroidPhone3": [
+		"load = :$D1F2; mem_val = :$13E83BC; mem_name = :$D4341C",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleAndroidTablet3": [
+		"load = :$D212; mem_val = :$13E83C0; mem_name = :$D43448",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleiOSPhone3": [
+		"load = :$D232; mem_val = :$13E83C4; mem_name = :$D43474",
+		0
+	],
+	"FIntLuaChatPlayTogetherThrottleiOSTablet3": [
+		"load = :$D252; mem_val = :$13E83C8; mem_name = :$D4349C",
+		0
+	],
+	"FIntLuaHomeMaxFriends": [
+		"load = :$D2F2; mem_val = :$12F08B0; mem_name = :$D435D8",
+		9
+	],
+	"FIntNewDevConsoleMaxGraphCount": [
+		"load = :$D352; mem_val = :$12F087C; mem_name = :$D434D8",
+		30
+	],
+	"FIntNewDevConsoleMaxHttpCount": [
+		"load = :$D372; mem_val = :$12F088C; mem_name = :$D43510",
+		300
+	],
+	"FIntNewDevConsoleMaxLogCount": [
+		"load = :$D392; mem_val = :$12F0884; mem_name = :$D434F4",
+		500
+	],
+	"FIntSettingsHubInviteReleaseStreamTime": [
+		"load = :$D452; mem_val = :$12F0948; mem_name = :$D439E8",
+		10
+	],
+	"FIntXboxAvatarPaneRefreshInterval": [
+		"load = :$D6F2; mem_val = :$12F0908; mem_name = :$D437EC",
+		1800
+	],
+	"FIntXboxGameDetailsRefreshInterval": [
+		"load = :$D712; mem_val = :$12F0910; mem_name = :$D4380C",
+		1800
+	],
+	"FIntXboxGameSortsUpdateInterval": [
+		"load = :$D732; mem_val = :$12F0918; mem_name = :$D4382C",
+		1800
+	],
+	"FIntXboxPresencePolling": [
+		"load = :$D752; mem_val = :$12F0900; mem_name = :$D437D8",
+		120
+	],
+	"FIntCrashUploadToBacktracePercentage": [
+		"load = :$10242; mem_val = :$13EA300; mem_name = :$D45F60",
+		0
+	],
+	"FIntGoogleAnalyticsLoadLuaShell": [
+		"load = :$11912; mem_val = :$12F0CA8; mem_name = :$D46D30",
+		1
+	],
+	"FIntHttpConnectDefaultTimeoutMillis": [
+		"load = :$11D72; mem_val = :$12F0CEC; mem_name = :$D46DDC",
+		60000
+	],
+	"FIntHttpGAFailureReportHundredthsPercent": [
+		"load = :$11DB2; mem_val = :$12F0CFC; mem_name = :$D46E18",
+		1
+	],
+	"FIntHttpGAFailureReportPercent": [
+		"load = :$11DD2; mem_val = :$12F0D04; mem_name = :$D46E40",
+		1
+	],
+	"FIntHttpInfluxClientExceptionStatusCode": [
+		"load = :$11DF2; mem_val = :$13EAA54; mem_name = :$D46EAC",
+		0
+	],
+	"FIntHttpResponseDefaultTimeoutMillis": [
+		"load = :$11E32; mem_val = :$12F0CE4; mem_name = :$D46DB8",
+		60000
+	],
+	"FIntHttpSendStatsEveryXSeconds": [
+		"load = :$11E52; mem_val = :$12F0CF4; mem_name = :$D46DFC",
+		60
+	],
+	"FIntHttpStudioInfluxHundredthsPercentage": [
+		"load = :$11E72; mem_val = :$12F0D14; mem_name = :$D46E84",
+		1
+	],
+	"FIntMaxHttpResultResponseSize": [
+		"load = :$11EB2; mem_val = :$12F0D2C; mem_name = :$D46F0C",
+		500
+	],
+	"FIntSendHttpBodyOnFailureMaxBytes": [
+		"load = :$11ED2; mem_val = :$12F0D24; mem_name = :$D46EEC",
+		128
+	],
+	"FIntHttpInfluxHundredthsPercentage": [
+		"load = :$12EF2; mem_val = :$13EB570; mem_name = :$D47E28",
+		0
+	],
+	"FIntMsecBetweenTextureMemoryUsageArrayRefresh": [
+		"load = :$12F12; mem_val = :$12F0E1C; mem_name = :$D47E64",
+		1000
+	],
+	"FIntNumSmoothingPasses": [
+		"load = :$13AA2; mem_val = :$13F1000; mem_name = :$D48D90",
+		0
+	],
+	"FIntRegLambda": [
+		"load = :$13AC2; mem_val = :$12F1008; mem_name = :$D48DA4",
+		3294967296
+	],
+	"FIntCanHideGuiGroupId": [
+		"load = :$13D52; mem_val = :$12F1058; mem_name = :$D493A4",
+		3013794
+	],
+	"FIntExternalHttpRequestSizeLimitKB": [
+		"load = :$15A72; mem_val = :$12F112C; mem_name = :$D4A210",
+		1024
+	],
+	"FIntExternalHttpResponseSizeLimitKB": [
+		"load = :$15A92; mem_val = :$12F1134; mem_name = :$D4A230",
+		4096
+	],
+	"FIntExternalHttpResponseTimeoutMillis": [
+		"load = :$15AB2; mem_val = :$12F1124; mem_name = :$D4A1EC",
+		30000
+	],
+	"FIntContentProviderJobDutyCycleMicroseconds": [
+		"load = :$15B62; mem_val = :$12F1154; mem_name = :$D4A65C",
+		1000
+	],
+	"FIntMaxContentProviderRunsAccumulated": [
+		"load = :$15B82; mem_val = :$12F114C; mem_name = :$D4A638",
+		20
+	],
+	"FIntMaxContentProviderRunsPerStep": [
+		"load = :$15BA2; mem_val = :$12F1144; mem_name = :$D4A618",
+		10
+	],
+	"FIntPhysicsImprovedCyclicExecutiveConsecutivePredictionRequired": [
+		"load = :$175A2; mem_val = :$12F1174; mem_name = :$D4B988",
+		2
+	],
+	"FIntPhysicsImprovedCyclicExecutivePredictiveThrottlingStepsAhead": [
+		"load = :$175C2; mem_val = :$12F116C; mem_name = :$D4B948",
+		20
+	],
+	"FIntPhysicsImprovedCyclicExecutiveThrottleThresholdTenth": [
+		"load = :$175E2; mem_val = :$12F1164; mem_name = :$D4B910",
+		8
+	],
+	"FIntPhysicsDecompSerialVersion": [
+		"load = :$17672; mem_val = :$12F118C; mem_name = :$D4BB54",
+		3
+	],
+	"FIntPhysicsDecompForceUpgradeVersion": [
+		"load = :$18032; mem_val = :$12F11BC; mem_name = :$D4C750",
+		3
+	],
+	"FIntAdvancedRCCLoadFMODRetryCount": [
+		"load = :$18372; mem_val = :$12F1218; mem_name = :$D4D2B4",
+		3
+	],
+	"FIntFMODSoundChannels": [
+		"load = :$183F2; mem_val = :$12F11F4; mem_name = :$D4D234",
+		100
+	],
+	"FIntReportDeviceInfoRate": [
+		"load = :$18452; mem_val = :$13F5400; mem_name = :$D4D2D4",
+		0
+	],
+	"FIntSoundServiceCacheCleanupMaxAgeDays": [
+		"load = :$18512; mem_val = :$12F123C; mem_name = :$D4D3A8",
+		7
+	],
+	"FIntNumDummyJobs": [
+		"load = :$18AC2; mem_val = :$13F5FCC; mem_name = :$D5051C",
+		0
+	],
+	"FIntRenderingThrottleDelayInMS": [
+		"load = :$18B02; mem_val = :$13F5FD0; mem_name = :$D5052C",
+		0
+	],
+	"FIntChatSignalMaxCachedRequestMilliseconds": [
+		"load = :$197F2; mem_val = :$12F13A0; mem_name = :$D50D9C",
+		5000
+	],
+	"FIntFriendRequestNotificationThrottle": [
+		"load = :$19872; mem_val = :$12F137C; mem_name = :$D50C88",
+		5
+	],
+	"FIntGetUserThumbnailAsyncThrottleTime": [
+		"load = :$19902; mem_val = :$12F13AC; mem_name = :$D50E08",
+		2000
+	],
+	"FIntGetUserThumbnailExpirationTime": [
+		"load = :$19922; mem_val = :$12F13B4; mem_name = :$D50E44",
+		60000
+	],
+	"FIntGetUserThumbnailMapSizeCap": [
+		"load = :$19942; mem_val = :$12F13CC; mem_name = :$D50ECC",
+		500
+	],
+	"FIntGetUserThumbnailMaxThrottle": [
+		"load = :$19962; mem_val = :$12F13BC; mem_name = :$D50E64",
+		20000
+	],
+	"FIntGetUserThumbnailThrottleExponent": [
+		"load = :$19982; mem_val = :$12F13C4; mem_name = :$D50EA8",
+		1500
+	],
+	"FIntStudioStartServerBoyGuestCharacterAppearance": [
+		"load = :$19A02; mem_val = :$12F1368; mem_name = :$D50BC0",
+		15437777
+	],
+	"FIntStudioStartServerGirlGuestCharacterAppearance": [
+		"load = :$19A22; mem_val = :$12F1370; mem_name = :$D50BFC",
+		15437741
+	],
+	"FIntExpireMarketPlaceServiceCacheSeconds": [
+		"load = :$1AE12; mem_val = :$12F1498; mem_name = :$D524B4",
+		60
+	],
+	"FIntPurchaseErrorReportRate": [
+		"load = :$1AE92; mem_val = :$12F14BC; mem_name = :$D52584",
+		100
+	],
+	"FIntPurchaseMismatchReportRate": [
+		"load = :$1AEB2; mem_val = :$12F14B4; mem_name = :$D52568",
+		100
+	],
+	"FIntSendScreenOrientationToEventIngestHundredthsPercentage": [
+		"load = :$1C002; mem_val = :$13F804C; mem_name = :$D53EA0",
+		0
+	],
+	"FIntLogGroupTeleportInfluxPerTenThousand": [
+		"load = :$1CAA2; mem_val = :$13F8E40; mem_name = :$D55090",
+		0
+	],
+	"FIntShowTeleportFailedMessageTimeInMillisecond": [
+		"load = :$1CAE2; mem_val = :$12F155C; mem_name = :$D54E60",
+		3000
+	],
+	"FIntTeleportMethodAnalyticsHundredthPct": [
+		"load = :$1CB22; mem_val = :$13F8E30; mem_name = :$D54E3C",
+		0
+	],
+	"FIntTeleportPartyExpirationMillisecond": [
+		"load = :$1CB62; mem_val = :$12F1564; mem_name = :$D54E8C",
+		180000
+	],
+	"FIntTeleportPollinInterval": [
+		"load = :$1CB82; mem_val = :$12F156C; mem_name = :$D54EB0",
+		1000
+	],
+	"FIntAnthroPercentInHundredths": [
+		"load = :$1DEC2; mem_val = :$13F99A0; mem_name = :$D57E24",
+		0
+	],
+	"FIntApiRateLimit": [
+		"load = :$1DEE2; mem_val = :$12F1760; mem_name = :$D57A90",
+		200
+	],
+	"FIntRandomSpawnRetryTimes": [
+		"load = :$1E0E2; mem_val = :$12F1784; mem_name = :$D57BEC",
+		20
+	],
+	"FIntReportCharacterLoadTimeMetricsInverseProbability": [
+		"load = :$1E142; mem_val = :$12F1790; mem_name = :$D57C58",
+		1000
+	],
+	"FIntWideToNarrowScaleInHundredths": [
+		"load = :$1E1D2; mem_val = :$13F99A4; mem_name = :$D57E40",
+		0
+	],
+	"FIntLuaGcBoost": [
+		"load = :$21872; mem_val = :$12F18D8; mem_name = :$D5A184",
+		1
+	],
+	"FIntLuaGcMaxKb": [
+		"load = :$21892; mem_val = :$12F18E0; mem_name = :$D5A190",
+		100
+	],
+	"FIntReportYieldHundredthsPercentage": [
+		"load = :$218D2; mem_val = :$13FBBE0; mem_name = :$D5A1EC",
+		0
+	],
+	"FIntFontSizePadding": [
+		"load = :$21C22; mem_val = :$12F1920; mem_name = :$D5B530",
+		1
+	],
+	"FIntTextFilterMaxCachedRequestMilliseconds": [
+		"load = :$23132; mem_val = :$12F1970; mem_name = :$D5C348",
+		500
+	],
+	"FIntLocalizationAnalyticsSamplesPerMillion": [
+		"load = :$23442; mem_val = :$13FD2F0; mem_name = :$D5CB54",
+		0
+	],
+	"FIntElevatedPhysicsFPSReportThresholdTenths": [
+		"load = :$24492; mem_val = :$12F1B9C; mem_name = :$D5DD4C",
+		610
+	],
+	"FIntCameraFarZPlane": [
+		"load = :$26082; mem_val = :$12F1BFC; mem_name = :$D5F4D4",
+		5000
+	],
+	"FIntZoomOutDistance": [
+		"load = :$26142; mem_val = :$12F1C04; mem_name = :$D5F4F4",
+		200
+	],
+	"FIntStreamingCriticalLowMemWatermarkMB": [
+		"load = :$27192; mem_val = :$12F1CB4; mem_name = :$D5FDF0",
+		15
+	],
+	"FIntStreamingLowMemWatermarkMB": [
+		"load = :$271B2; mem_val = :$12F1CAC; mem_name = :$D5FDD4",
+		30
+	],
+	"FIntStreamingMemoryUsagePercent": [
+		"load = :$271D2; mem_val = :$12F1C9C; mem_name = :$D5FD9C",
+		50
+	],
+	"FIntStreamingSafeMemWatermarkMB": [
+		"load = :$271F2; mem_val = :$12F1CA4; mem_name = :$D5FDB8",
+		100
+	],
+	"FIntDistToShowBufferCountSqr": [
+		"load = :$28D22; mem_val = :$140019C; mem_name = :$D61144",
+		0
+	],
+	"FIntPartMinSizeMul1000": [
+		"load = :$28D82; mem_val = :$12F1D5C; mem_name = :$D61080",
+		200
+	],
+	"FIntPartSizeUnder0P2AnalyticsInfluxHundredthPct": [
+		"load = :$28DA2; mem_val = :$1400194; mem_name = :$D610B4",
+		0
+	],
+	"FIntBadLogInfluxHundredthsPercentage": [
+		"load = :$2A472; mem_val = :$1401408; mem_name = :$D62468",
+		0
+	],
+	"FIntBadLogMask": [
+		"load = :$2A492; mem_val = :$140140C; mem_name = :$D6248C",
+		0
+	],
+	"FIntHttpAnalyticsMaxHistory": [
+		"load = :$2A4D2; mem_val = :$12F1EF4; mem_name = :$D624D8",
+		256
+	],
+	"FIntMaxLogHistory": [
+		"load = :$2A582; mem_val = :$12F1EE0; mem_name = :$D62458",
+		512
+	],
+	"FIntNetworkStatRefreshRate": [
+		"load = :$2B512; mem_val = :$12F244C; mem_name = :$D69F38",
+		1
+	],
+	"FIntBulletContactBreakOrthogonalThresholdActivatePercent": [
+		"load = :$2B602; mem_val = :$12F2488; mem_name = :$D6B814",
+		200
+	],
+	"FIntBulletContactBreakOrthogonalThresholdPercent": [
+		"load = :$2B622; mem_val = :$12F2480; mem_name = :$D6B7E4",
+		200
+	],
+	"FIntBulletContactBreakThresholdPercent": [
+		"load = :$2B642; mem_val = :$12F2478; mem_name = :$D6B7C0",
+		200
+	],
+	"FIntMaxMissedWorldStepsRemembered": [
+		"load = :$2B6C2; mem_val = :$12F24A0; mem_name = :$D6B878",
+		12
+	],
+	"FIntPhysicsBulletManifoldPoolSize": [
+		"load = :$2B702; mem_val = :$12F24AC; mem_name = :$D6B8C8",
+		1024
+	],
+	"FIntTrackServerPhysicsPerfSessionNMinutes": [
+		"load = :$2B7C2; mem_val = :$12F24C8; mem_name = :$D6B960",
+		10
+	],
+	"FIntWorldStepDtAveExpFactorHundredth": [
+		"load = :$2B7E2; mem_val = :$12F24BC; mem_name = :$D6B910",
+		25
+	],
+	"FIntWorldStepMax": [
+		"load = :$2B802; mem_val = :$12F2490; mem_name = :$D6B84C",
+		30
+	],
+	"FIntWorldStepsOffsetAdjustRate": [
+		"load = :$2B862; mem_val = :$12F2498; mem_name = :$D6B85C",
+		100
+	],
+	"FIntHopperBinTrackingPermyriad": [
+		"load = :$2CB32; mem_val = :$12F2518; mem_name = :$D6C7B4",
+		100
+	],
+	"FIntTextSizeLimit": [
+		"load = :$2D1A2; mem_val = :$12F2548; mem_name = :$D6CFB0",
+		16384
+	],
+	"FIntChatFilterMaxCachedRequestMilliseconds": [
+		"load = :$2FCB2; mem_val = :$12F2788; mem_name = :$D6FC18",
+		5000
+	],
+	"FIntChatServiceCachedResultCount": [
+		"load = :$2FD32; mem_val = :$12F2710; mem_name = :$D6F900",
+		30
+	],
+	"FIntInfluxReportLocalFilterStringPermyriad": [
+		"load = :$2FE82; mem_val = :$1407394; mem_name = :$D6FBF0",
+		0
+	],
+	"FIntInfluxTattletaleReportCommunitySiftOutputPermyriad": [
+		"load = :$2FEA2; mem_val = :$1407390; mem_name = :$D6FBBC",
+		0
+	],
+	"FIntInfluxTattletaleV2Permyriad": [
+		"load = :$2FEC2; mem_val = :$12F2760; mem_name = :$D6FA8C",
+		10000
+	],
+	"FIntTattletaleFlushIfNotUpdatedForSeconds": [
+		"load = :$2FF72; mem_val = :$12F2728; mem_name = :$D6F98C",
+		60
+	],
+	"FIntTattletaleFlushIfOlderThanSeconds": [
+		"load = :$2FF92; mem_val = :$12F2730; mem_name = :$D6F9B4",
+		300
+	],
+	"FIntTattletaleMaxInstancePathLength": [
+		"load = :$2FFB2; mem_val = :$12F2738; mem_name = :$D6F9D8",
+		512
+	],
+	"FIntTattletaleMaxPendingReports": [
+		"load = :$2FFD2; mem_val = :$12F2748; mem_name = :$D6FA10",
+		1024
+	],
+	"FIntTattletaleMaxTextLength": [
+		"load = :$2FFF2; mem_val = :$12F2740; mem_name = :$D6F9F8",
+		1024
+	],
+	"FIntTattletaleMinimumClientCountWithServerVerification": [
+		"load = :$30012; mem_val = :$12F2720; mem_name = :$D6F958",
+		1
+	],
+	"FIntTattletaleMinimumClientCountWithoutServerVerification": [
+		"load = :$30032; mem_val = :$12F2718; mem_name = :$D6F920",
+		1
+	],
+	"FIntTattletaleReportUnfilteredJobFrequencySeconds": [
+		"load = :$30052; mem_val = :$12F2750; mem_name = :$D6FA2C",
+		30
+	],
+	"FIntTattletaleReportUnfilteredJobMaxReportsPerTick": [
+		"load = :$30072; mem_val = :$12F2758; mem_name = :$D6FA5C",
+		64
+	],
+	"FIntWebChatFilterHttpTimeoutSeconds": [
+		"load = :$300B2; mem_val = :$12F2770; mem_name = :$D6FB14",
+		60
+	],
+	"FIntBadgeInfoCooldownTime": [
+		"load = :$30812; mem_val = :$12F27EC; mem_name = :$D710A8",
+		5
+	],
+	"FIntFriendServiceCachedOfflineStatusCount": [
+		"load = :$30CD2; mem_val = :$12F2800; mem_name = :$D718D0",
+		256
+	],
+	"FIntFriendServiceCachedOfflineStatusMaxAgeSeconds": [
+		"load = :$30CF2; mem_val = :$12F2808; mem_name = :$D718F8",
+		300
+	],
+	"FIntHttpRbxApiClientPerMinuteRequestLimit": [
+		"load = :$31B72; mem_val = :$12F2880; mem_name = :$D72D74",
+		300
+	],
+	"FIntHttpRbxApiJobFrequencyInSeconds": [
+		"load = :$31B92; mem_val = :$12F28E0; mem_name = :$D72F3C",
+		1
+	],
+	"FIntHttpRbxApiMaxBudgetMultiplier": [
+		"load = :$31BB2; mem_val = :$12F2888; mem_name = :$D72D9C",
+		1
+	],
+	"FIntHttpRbxApiMaxRetryBudgetPerMinute": [
+		"load = :$31BD2; mem_val = :$12F28A8; mem_name = :$D72E50",
+		500
+	],
+	"FIntHttpRbxApiMaxRetryCount": [
+		"load = :$31BF2; mem_val = :$12F28B0; mem_name = :$D72E74",
+		10
+	],
+	"FIntHttpRbxApiMaxRetryQueueSize": [
+		"load = :$31C12; mem_val = :$12F28B8; mem_name = :$D72E8C",
+		500
+	],
+	"FIntHttpRbxApiMaxSyncRetries": [
+		"load = :$31C32; mem_val = :$12F28C0; mem_name = :$D72EA8",
+		3
+	],
+	"FIntHttpRbxApiMaxThrottledQueueSize": [
+		"load = :$31C52; mem_val = :$12F28A0; mem_name = :$D72E30",
+		50
+	],
+	"FIntHttpRbxApiRequestsPerMinutePerPlayerInServerLimit": [
+		"load = :$31C72; mem_val = :$12F2898; mem_name = :$D72DFC",
+		100
+	],
+	"FIntHttpRbxApiRequestsPerMinuteServerLimit": [
+		"load = :$31C92; mem_val = :$12F2890; mem_name = :$D72DD4",
+		300
+	],
+	"FIntHttpRbxApiSyncRetryWaitTimeMSec": [
+		"load = :$31CD2; mem_val = :$12F28C8; mem_name = :$D72EC4",
+		500
+	],
+	"FIntPercentApiRequestsRecordGoogleAnalytics": [
+		"load = :$31D12; mem_val = :$12F28D4; mem_name = :$D72D4C",
+		1
+	],
+	"FIntMaxAwardPointsHttpCallsPerMinute": [
+		"load = :$31F62; mem_val = :$12F2908; mem_name = :$D73790",
+		60
+	],
+	"FIntPointBalanceCacheInvalidateTimeMs": [
+		"load = :$31F82; mem_val = :$12F2900; mem_name = :$D7376C",
+		1000
+	],
+	"FIntPointsServiceBatchingImplMaxDelaySeconds": [
+		"load = :$31FA2; mem_val = :$12F2928; mem_name = :$D7382C",
+		30
+	],
+	"FIntPointsServiceBatchingImplMinuteSeconds": [
+		"load = :$31FC2; mem_val = :$12F2918; mem_name = :$D737D4",
+		60
+	],
+	"FIntPointsServiceBatchingImplOnUpdateDelaySeconds": [
+		"load = :$31FE2; mem_val = :$12F2920; mem_name = :$D737FC",
+		5
+	],
+	"FIntSecondsPerBatchAwardPointsCall": [
+		"load = :$32002; mem_val = :$12F2910; mem_name = :$D737B4",
+		10
+	],
+	"FIntTimeBetweenCheckingApiAccessMillis": [
+		"load = :$32922; mem_val = :$12F2934; mem_name = :$D745B0",
+		5000
+	],
+	"FIntCreatePlacePerMinute": [
+		"load = :$32B72; mem_val = :$12F293C; mem_name = :$D74C8C",
+		5
+	],
+	"FIntCreatePlacePerPlayerPerMinute": [
+		"load = :$32B92; mem_val = :$12F2944; mem_name = :$D74CA4",
+		1
+	],
+	"FIntSavePlacePerMinute": [
+		"load = :$32BB2; mem_val = :$12F294C; mem_name = :$D74CC4",
+		10
+	],
+	"FIntDataStore429MinReponseTimeMSec": [
+		"load = :$32F92; mem_val = :$12F2B74; mem_name = :$D75C10",
+		10000
+	],
+	"FIntDataStoreAnalyticsReportEveryNSeconds": [
+		"load = :$32FB2; mem_val = :$12F2B38; mem_name = :$D75ACC",
+		300
+	],
+	"FIntDataStoreBudgetOnCloseBase": [
+		"load = :$33012; mem_val = :$12F2B20; mem_name = :$D75A68",
+		150
+	],
+	"FIntDataStoreFetchFrequenceInSeconds": [
+		"load = :$33032; mem_val = :$12F2AB8; mem_name = :$D75894",
+		30
+	],
+	"FIntDataStoreFixedRequestLimit": [
+		"load = :$33052; mem_val = :$12F2AC0; mem_name = :$D758B8",
+		60
+	],
+	"FIntDataStoreInitialBudget": [
+		"load = :$33072; mem_val = :$12F2AD0; mem_name = :$D758F4",
+		100
+	],
+	"FIntDataStoreJobFrequencyInSeconds": [
+		"load = :$33092; mem_val = :$12F2AB0; mem_name = :$D75874",
+		1
+	],
+	"FIntDataStoreMaxBudgetMultiplier": [
+		"load = :$330B2; mem_val = :$12F2B18; mem_name = :$D75A48",
+		100
+	],
+	"FIntDataStoreMaxRetriesPerCycle": [
+		"load = :$330D2; mem_val = :$12F2B64; mem_name = :$D75BD8",
+		6
+	],
+	"FIntDataStoreMaxRetryCount": [
+		"load = :$330F2; mem_val = :$12F2B5C; mem_name = :$D75BC0",
+		5
+	],
+	"FIntDataStoreMaxThrottledQueue": [
+		"load = :$33112; mem_val = :$12F2B30; mem_name = :$D75AB0",
+		30
+	],
+	"FIntDataStoreOrderedGetFixedRequestLimit": [
+		"load = :$33132; mem_val = :$12F2B00; mem_name = :$D759D0",
+		5
+	],
+	"FIntDataStoreOrderedGetInitialBudget": [
+		"load = :$33152; mem_val = :$12F2B10; mem_name = :$D75A24",
+		10
+	],
+	"FIntDataStoreOrderedGetPerPlayerRequestLimit": [
+		"load = :$33172; mem_val = :$12F2B08; mem_name = :$D759F8",
+		2
+	],
+	"FIntDataStoreOrderedSetFixedRequestLimit": [
+		"load = :$33192; mem_val = :$12F2AD8; mem_name = :$D7590C",
+		30
+	],
+	"FIntDataStoreOrderedSetInitialBudget": [
+		"load = :$331B2; mem_val = :$12F2AE8; mem_name = :$D75960",
+		50
+	],
+	"FIntDataStoreOrderedSetPerPlayerRequestLimit": [
+		"load = :$331D2; mem_val = :$12F2AE0; mem_name = :$D75934",
+		5
+	],
+	"FIntDataStorePerPlayerRequestLimit": [
+		"load = :$331F2; mem_val = :$12F2AC8; mem_name = :$D758D4",
+		10
+	],
+	"FIntDataStoreRefetchFixedRequestLimit": [
+		"load = :$33212; mem_val = :$12F2AF0; mem_name = :$D75984",
+		30
+	],
+	"FIntDataStoreRefetchPerPlayerRequestLimit": [
+		"load = :$33232; mem_val = :$12F2AF8; mem_name = :$D759A8",
+		5
+	],
+	"FIntDataStoreRetryWaitTimeMSec": [
+		"load = :$33252; mem_val = :$12F2B6C; mem_name = :$D75BF4",
+		500
+	],
+	"FIntDataStoreWaitOnYieldingRequestsExpiration": [
+		"load = :$332E2; mem_val = :$12F2B28; mem_name = :$D75A84",
+		2
+	],
+	"FIntRetryBaseTimeMSec": [
+		"load = :$33322; mem_val = :$12F2B54; mem_name = :$D75BAC",
+		1000
+	],
+	"FIntBroadPhaseIslandAlwaysSimulateDepth": [
+		"load = :$33862; mem_val = :$12F2BB8; mem_name = :$D76C74",
+		1
+	],
+	"FIntBroadPhaseIslandMaxSortDepth": [
+		"load = :$33882; mem_val = :$12F2BB0; mem_name = :$D76C54",
+		2
+	],
+	"FIntIntersectingOthersCallsAllowedOnSpawn": [
+		"load = :$338E2; mem_val = :$12F2B9C; mem_name = :$D76BAC",
+		5
+	],
+	"FIntAccErrorDrainedThousandth": [
+		"load = :$33982; mem_val = :$12F2C18; mem_name = :$D77028",
+		100
+	],
+	"FIntDebugNetworkPacketAgeHistory": [
+		"load = :$33A62; mem_val = :$12F2C60; mem_name = :$D771AC",
+		30
+	],
+	"FIntInitialAccelerationLatencyMultTenths": [
+		"load = :$33AC2; mem_val = :$12F2C28; mem_name = :$D77064",
+		20
+	],
+	"FIntInterpolationAwareTargetTimeLerpHundredth": [
+		"load = :$33B02; mem_val = :$12F2BF0; mem_name = :$D76F80",
+		13
+	],
+	"FIntInterpolationMaxDelayMSec": [
+		"load = :$33B22; mem_val = :$12F2BD8; mem_name = :$D76F24",
+		500
+	],
+	"FIntLatencyErrorMultiplierTennths": [
+		"load = :$33B42; mem_val = :$12F2C20; mem_name = :$D77044",
+		20
+	],
+	"FIntMaxAcceptableUpdateDelay": [
+		"load = :$33B62; mem_val = :$12F2BE0; mem_name = :$D76F40",
+		15
+	],
+	"FIntMaxAverageFrameDelayExceedFactor": [
+		"load = :$33B82; mem_val = :$12F2C08; mem_name = :$D76FE0",
+		3
+	],
+	"FIntMaxDebugFramesForVisuals": [
+		"load = :$33BA2; mem_val = :$12F2C48; mem_name = :$D7711C",
+		2000
+	],
+	"FIntMaxFrameBufferSize": [
+		"load = :$33BC2; mem_val = :$12F2BF8; mem_name = :$D76FAC",
+		10
+	],
+	"FIntNumFramesAllowedToBeAboveError": [
+		"load = :$33C02; mem_val = :$12F2C30; mem_name = :$D7708C",
+		10
+	],
+	"FIntNumFramesToKeepAfterInterpolation": [
+		"load = :$33C22; mem_val = :$12F2C38; mem_name = :$D770AC",
+		1
+	],
+	"FIntOnContactOwnerBufferTimeCentiSec": [
+		"load = :$33C42; mem_val = :$12F2BE8; mem_name = :$D76F5C",
+		300
+	],
+	"FIntSimToInterBufferClearFactorTenths": [
+		"load = :$33C62; mem_val = :$12F2C10; mem_name = :$D77004",
+		3
+	],
+	"FIntTargetTimeDelayFacctorTenths": [
+		"load = :$33C82; mem_val = :$12F2C00; mem_name = :$D76FC0",
+		10
+	],
+	"FIntThrottledVelocityThresholdTenths": [
+		"load = :$33CA2; mem_val = :$12F2BD0; mem_name = :$D76F00",
+		20
+	],
+	"FIntWebParserInfluxWriteNanInfPerMyriad": [
+		"load = :$33D02; mem_val = :$140C71C; mem_name = :$D774E0",
+		0
+	],
+	"FIntHumanoidFloorManualFrictionVelocityMultValue": [
+		"load = :$3A7D2; mem_val = :$12F2ED0; mem_name = :$D7DB0C",
+		100
+	],
+	"FIntHumanoidFloorTeleportWeightValue": [
+		"load = :$3A7F2; mem_val = :$12F2EC8; mem_name = :$D7DAD4",
+		50
+	],
+	"FIntMotionDiscontinuityThreshold": [
+		"load = :$3A832; mem_val = :$12F2EE0; mem_name = :$D7DBD4",
+		1
+	],
+	"FIntCacheDirectoryExceptionInfluxHundredthsPercentage": [
+		"load = :$47D32; mem_val = :$141A928; mem_name = :$D848F8",
+		0
+	],
+	"FIntDelaySwitchingFromRunningToFreefallInHundredths": [
+		"load = :$4CB02; mem_val = :$12F32F8; mem_name = :$D88680",
+		20
+	],
+	"FIntNoTouchOneSecondYVelocityThresholdInHundredths": [
+		"load = :$4CBC2; mem_val = :$12F3300; mem_name = :$D886B0",
+		10
+	],
+	"FIntSwitchFromRunningNoPhysToRunningThresholdInHundredths": [
+		"load = :$4CC22; mem_val = :$12F3308; mem_name = :$D886E0",
+		4
+	],
+	"FIntKeyframeSequenceInfluxPermyriad": [
+		"load = :$4CDB2; mem_val = :$1420638; mem_name = :$D891A8",
+		0
+	],
+	"FIntSmoothTerrainMaxCppRegion": [
+		"load = :$4EB52; mem_val = :$12F3490; mem_name = :$D8B5BC",
+		67108864
+	],
+	"FIntSmoothTerrainMaxLuaRegion": [
+		"load = :$4EB72; mem_val = :$12F3488; mem_name = :$D8B5A0",
+		4194304
+	],
+	"FIntUserHttpRequestsPerMinuteLimit": [
+		"load = :$50472; mem_val = :$12F35EC; mem_name = :$D8C6F4",
+		500
+	],
+	"FIntMinSoundStreamSizeBytes": [
+		"load = :$52A82; mem_val = :$12F3920; mem_name = :$D8FDA8",
+		512000
+	],
+	"FIntActionStationDebounceTime": [
+		"load = :$563C2; mem_val = :$12F3958; mem_name = :$D93174",
+		2
+	],
+	"FIntWeldConstraintAdornHighlightedPartSize": [
+		"load = :$5DF52; mem_val = :$12F3A14; mem_name = :$D98FA4",
+		2
+	],
+	"FIntWeldConstraintAdornSize": [
+		"load = :$5DF92; mem_val = :$12F3A0C; mem_name = :$D98F8C",
+		20
+	],
+	"FIntRemoteDelayedQueueLimit": [
+		"load = :$678B2; mem_val = :$12F3AE8; mem_name = :$DA0984",
+		256
+	],
+	"FIntDataStoreCachedKeysMemSize": [
+		"load = :$69812; mem_val = :$12F3B40; mem_name = :$DA2DF0",
+		8388608
+	],
+	"FIntDataStoreInfluxReportNonParsableDataPerMyriad": [
+		"load = :$69832; mem_val = :$144044C; mem_name = :$DA2E48",
+		0
+	],
+	"FIntDataStoreInfluxValueSubstringSize": [
+		"load = :$69852; mem_val = :$12F3B58; mem_name = :$DA2E90",
+		512
+	],
+	"FIntDataStoreKeyLengthLimit": [
+		"load = :$69892; mem_val = :$12F3B10; mem_name = :$DA2D3C",
+		50
+	],
+	"FIntDataStoreMaxKeysToFetch": [
+		"load = :$698B2; mem_val = :$12F3B08; mem_name = :$DA2D24",
+		100
+	],
+	"FIntDataStoreMaxPageSize": [
+		"load = :$698D2; mem_val = :$12F3B18; mem_name = :$DA2D54",
+		100
+	],
+	"FIntDataStoreMaxValueSize": [
+		"load = :$698F2; mem_val = :$12F3B20; mem_name = :$DA2D6C",
+		65536
+	],
+	"FIntDataStoreSameKeyPerMinute": [
+		"load = :$69932; mem_val = :$12F3B30; mem_name = :$DA2DA4",
+		10
+	],
+	"FIntDataStoreTouchTimeoutInSeconds": [
+		"load = :$69952; mem_val = :$12F3B28; mem_name = :$DA2D84",
+		5
+	],
+	"FIntDataStorelastSetByKeySize": [
+		"load = :$69992; mem_val = :$12F3B48; mem_name = :$DA2E0C",
+		512
+	],
+	"FIntInfluxOverUDPThreshold": [
+		"load = :$69D02; mem_val = :$12F3B6C; mem_name = :$DA5F60",
+		1400
+	],
+	"FIntTelegrafTCPPort": [
+		"load = :$69D92; mem_val = :$12F3B7C; mem_name = :$DA5F88",
+		8094
+	],
+	"FIntTelegrafUDPPort": [
+		"load = :$69DB2; mem_val = :$12F3B74; mem_name = :$DA5F78",
+		8092
+	],
+	"FIntHttpCacheCleanIfGBLessThan": [
+		"load = :$69F22; mem_val = :$12F3BB0; mem_name = :$DA60D4",
+		5
+	],
+	"FIntHttpCacheCleanMaxFilesToKeep": [
+		"load = :$69F42; mem_val = :$12F3BA0; mem_name = :$DA6094",
+		1500
+	],
+	"FIntHttpCacheCleanMinFilesRequired": [
+		"load = :$69F62; mem_val = :$12F3B98; mem_name = :$DA6074",
+		3000
+	],
+	"FIntHttpCacheSendStatsEveryXSeconds": [
+		"load = :$69F82; mem_val = :$12F3BA8; mem_name = :$DA60B4",
+		60
+	],
+	"FIntHttpCurlDeepErrorReportingCount": [
+		"load = :$69FC2; mem_val = :$1440D0C; mem_name = :$DA610C",
+		0
+	],
+	"FIntHttpMaxRedirects": [
+		"load = :$6A072; mem_val = :$12F3B8C; mem_name = :$DA6044",
+		10
+	],
+	"FIntSmoothTerrainPhysicsRayAabbSlop": [
+		"load = :$6A5E2; mem_val = :$12F4248; mem_name = :$DA8B20",
+		1
+	],
+	"FIntTattletaleReportToRCCCooldownSeconds": [
+		"load = :$6A7E2; mem_val = :$12F4378; mem_name = :$DA9B98",
+		30
+	],
+	"FIntUIQuadTreeCellAreaMin": [
+		"load = :$6E572; mem_val = :$12F44EC; mem_name = :$DE9478",
+		20000
+	],
+	"FIntDraggerMaxMovePercent": [
+		"load = :$6E592; mem_val = :$12F44F8; mem_name = :$DE950C",
+		100
+	],
+	"FIntDraggerMaxMoveSteps": [
+		"load = :$6E5B2; mem_val = :$12F4500; mem_name = :$DE9524",
+		10000
+	],
+	"FIntBroadPhaseIslandBufferZoneMinPartLimit": [
+		"load = :$6E5F2; mem_val = :$12F4518; mem_name = :$DE9608",
+		20
+	],
+	"FIntBroadPhaseIslandMaxPartLinearFactorTenth": [
+		"load = :$6E612; mem_val = :$12F4520; mem_name = :$DE9630",
+		10
+	],
+	"FIntOptimizedContactOverlapGoalMicro": [
+		"load = :$6E672; mem_val = :$1441EF0; mem_name = :$DE96B8",
+		0
+	],
+	"FIntOptimizedContactPipelineSpatialHashOverlapToleranceMicro": [
+		"load = :$6E692; mem_val = :$12F4538; mem_name = :$DE96DC",
+		10000
+	],
+	"FIntOptimizedContactWakeDepth": [
+		"load = :$6E6B2; mem_val = :$12F452C; mem_name = :$DE969C",
+		8
+	],
+	"FIntDataRequestInQueueTime": [
+		"load = :$6E772; mem_val = :$12F4608; mem_name = :$DEA658",
+		10
+	],
+	"FIntWaitGetInQueueTime": [
+		"load = :$6E792; mem_val = :$12F4610; mem_name = :$DEA670",
+		200
+	],
+	"FIntSmoothTerrainPhysicsCacheSize": [
+		"load = :$6E852; mem_val = :$12F4640; mem_name = :$DEAE14",
+		16777216
+	],
+	"FIntLinearToVSquaredVelocityThresholdMaxTenths": [
+		"load = :$6E8B2; mem_val = :$12F4678; mem_name = :$DEB49C",
+		100
+	],
+	"FIntLinearToVSquaredVelocityThresholdMinTenths": [
+		"load = :$6E8D2; mem_val = :$12F4670; mem_name = :$DEB470",
+		20
+	],
+	"FIntMaxViscousForceGravityTimesMult": [
+		"load = :$6E8F2; mem_val = :$12F4688; mem_name = :$DEB4E8",
+		100
+	],
+	"FIntNumberFramesSubmergedBeforeVSquareBlendFrames": [
+		"load = :$6E912; mem_val = :$12F4668; mem_name = :$DEB440",
+		10
+	],
+	"FIntNumberFramesSubmergedBeforeVSquaredViscocity": [
+		"load = :$6E932; mem_val = :$12F4660; mem_name = :$DEB410",
+		32
+	],
+	"FIntWaterViscosityDragFudgeFactor": [
+		"load = :$6E972; mem_val = :$12F4680; mem_name = :$DEB4C8",
+		10
+	],
+	"FIntRunningBaseAltitudeD": [
+		"load = :$6E9D2; mem_val = :$12F46C4; mem_name = :$DEB7E0",
+		100
+	],
+	"FIntRunningBaseAltitudeP": [
+		"load = :$6E9F2; mem_val = :$12F46BC; mem_name = :$DEB7C8",
+		3000
+	],
+	"FIntRunningBaseGravityReductionFactorHundredth": [
+		"load = :$6EA32; mem_val = :$12F46D0; mem_name = :$DEB814",
+		100
+	],
+	"FIntRunningBaseMaxAcceleration": [
+		"load = :$6EA52; mem_val = :$12F46B4; mem_name = :$DEB7AC",
+		5000
+	],
+	"FIntRunningBaseOrientationP": [
+		"load = :$6EA72; mem_val = :$12F46AC; mem_name = :$DEB794",
+		100
+	],
+	"FIntLandedBalanceD": [
+		"load = :$6EAF2; mem_val = :$12F46F8; mem_name = :$DEBA00",
+		50
+	],
+	"FIntLandedBalanceP": [
+		"load = :$6EB12; mem_val = :$12F46F0; mem_name = :$DEB9F0",
+		7500
+	],
+	"FIntGettingUpBalanceD": [
+		"load = :$6EB32; mem_val = :$12F4708; mem_name = :$DEBB68",
+		50
+	],
+	"FIntGettingUpBalanceP": [
+		"load = :$6EB52; mem_val = :$12F4700; mem_name = :$DEBB54",
+		2250
+	],
+	"FIntFreeFallBalanceP": [
+		"load = :$6EBB2; mem_val = :$12F4750; mem_name = :$DEBE9C",
+		5000
+	],
+	"FIntFreeFallOrientationP": [
+		"load = :$6EBD2; mem_val = :$12F4748; mem_name = :$DEBE84",
+		100
+	],
+	"FIntMaximumFreefallMoveTimeInTenths": [
+		"load = :$6EBF2; mem_val = :$12F471C; mem_name = :$DEBDD0",
+		1
+	],
+	"FIntMaximumUnstickForceInGs": [
+		"load = :$6EC12; mem_val = :$12F4734; mem_name = :$DEBE28",
+		4
+	],
+	"FIntMinimumFreefallMoveDistanceInTenths": [
+		"load = :$6EC32; mem_val = :$12F4714; mem_name = :$DEBDAC",
+		5
+	],
+	"FIntUnstickForceAttackInTenths": [
+		"load = :$6EC52; mem_val = :$12F472C; mem_name = :$DEBE0C",
+		1
+	],
+	"FIntUnstickForceDecayInTenths": [
+		"load = :$6EC72; mem_val = :$12F4724; mem_name = :$DEBDF0",
+		9
+	],
+	"FIntUnstickForceEpsilonInHundredths": [
+		"load = :$6EC92; mem_val = :$12F473C; mem_name = :$DEBE40",
+		1
+	],
+	"FIntPGSJumpForceAdjustment": [
+		"load = :$6ECD2; mem_val = :$12F4758; mem_name = :$DEBF14",
+		520
+	],
+	"FIntNavigationServiceAnalyticsIntervalMillisec": [
+		"load = :$6EE12; mem_val = :$12F477C; mem_name = :$DEC9B0",
+		60000
+	],
+	"FIntNavigationServicePercentStatsReported": [
+		"load = :$6EE32; mem_val = :$12F4784; mem_name = :$DEC9DC",
+		20
+	],
+	"FIntNavigationAgentHeight": [
+		"load = :$6EE92; mem_val = :$12F4790; mem_name = :$DECB4C",
+		5
+	],
+	"FIntNavigationAgentJumpDistance": [
+		"load = :$6EEB2; mem_val = :$12F4798; mem_name = :$DECB84",
+		7
+	],
+	"FIntNavigationAgentJumpHeight": [
+		"load = :$6EED2; mem_val = :$12F479C; mem_name = :$DECBA0",
+		6
+	],
+	"FIntNavigationAgentMaxDrop": [
+		"load = :$6EEF2; mem_val = :$12F47A0; mem_name = :$DECBBC",
+		100
+	],
+	"FIntNavigationAgentRadius": [
+		"load = :$6EF12; mem_val = :$12F478C; mem_name = :$DECB34",
+		2
+	],
+	"FIntNavigationAgentWalkableClimb": [
+		"load = :$6EF32; mem_val = :$12F4794; mem_name = :$DECB64",
+		1
+	],
+	"FIntNavigationJobMaxTimeBudgetMS": [
+		"load = :$6EFF2; mem_val = :$12F47B4; mem_name = :$DECAE0",
+		100
+	],
+	"FIntNavigationJobRunsPerSecond": [
+		"load = :$6F012; mem_val = :$12F47AC; mem_name = :$DECAC4",
+		10
+	],
+	"FIntNavigationSearchTileOffset": [
+		"load = :$6F072; mem_val = :$12F47BC; mem_name = :$DECB00",
+		2
+	],
+	"FIntIkDraggerAnchorMode": [
+		"load = :$6F152; mem_val = :$1446790; mem_name = :$DED240",
+		0
+	],
+	"FIntHttpCacheRedirectsTimeoutMs": [
+		"load = :$6F422; mem_val = :$1446A7C; mem_name = :$DED54C",
+		0
+	],
+	"FIntBgUpdateRedirectsHttpErrInfluxHundredthsPercentage": [
+		"load = :$6F4E2; mem_val = :$1446ADC; mem_name = :$DED6B8",
+		0
+	],
+	"FIntBgUpdateRedirectsRejectInfluxHundredthsPercentage": [
+		"load = :$6F522; mem_val = :$1446AD8; mem_name = :$DED684",
+		0
+	],
+	"FIntHttpBatchAssetV1HundredthsPercentage": [
+		"load = :$6F542; mem_val = :$1446AE0; mem_name = :$DED760",
+		0
+	],
+	"FIntHttpBatchDelayMs": [
+		"load = :$6F562; mem_val = :$12F4844; mem_name = :$DED73C",
+		3000
+	],
+	"FIntHttpBatchLimit": [
+		"load = :$6F582; mem_val = :$12F483C; mem_name = :$DED72C",
+		128
+	],
+	"FIntHttpClientHandlerFixed": [
+		"load = :$6F5C2; mem_val = :$12F49EC; mem_name = :$DF6194",
+		1
+	],
+	"FIntHttpCurlMaxCachedHandlesPerHost": [
+		"load = :$6F5E2; mem_val = :$12F49E4; mem_name = :$DF6174",
+		16
+	],
+	"FIntPGSAlign2AxesCorrectionDamping": [
+		"load = :$6F832; mem_val = :$12F4A3C; mem_name = :$E19080",
+		10
+	],
+	"FIntPGSAlign2AxesPStageFrictionConstant": [
+		"load = :$6F852; mem_val = :$12F4AD4; mem_name = :$E19350",
+		1
+	],
+	"FIntPGSAlign2AxesVStageFrictionConstant": [
+		"load = :$6F872; mem_val = :$12F4ACC; mem_name = :$E1932C",
+		2
+	],
+	"FIntPGSAngularDampingPermilPersecond": [
+		"load = :$6F892; mem_val = :$12F4A4C; mem_name = :$E190C4",
+		402
+	],
+	"FIntPGSBallInSocketCorrectionDamping": [
+		"load = :$6F8B2; mem_val = :$12F4A44; mem_name = :$E190A0",
+		10
+	],
+	"FIntPGSFrictionUpdatePeriod": [
+		"load = :$6F8D2; mem_val = :$12F4A5C; mem_name = :$E1910C",
+		4
+	],
+	"FIntPGSGyroscopicEffectPrecisionPercent": [
+		"load = :$6F8F2; mem_val = :$12F4A54; mem_name = :$E190E8",
+		5
+	],
+	"FIntPGSInsideOfSpherePenetrationResolutionDamping": [
+		"load = :$6F912; mem_val = :$12F4A64; mem_name = :$E19124",
+		7
+	],
+	"FIntPGSPStageStiffnessAggressiveValue": [
+		"load = :$6F932; mem_val = :$12F4AAC; mem_name = :$E19290",
+		99500
+	],
+	"FIntPGSPStageStiffnessBestFitnessThreshold": [
+		"load = :$6F952; mem_val = :$12F4AA4; mem_name = :$E19268",
+		1
+	],
+	"FIntPGSPStageStiffnessConservativeValue": [
+		"load = :$6F972; mem_val = :$12F4AB4; mem_name = :$E192B4",
+		90000
+	],
+	"FIntPGSPStageStiffnessEasingDownToConservative": [
+		"load = :$6F992; mem_val = :$12F4AC4; mem_name = :$E19300",
+		10
+	],
+	"FIntPGSPStageStiffnessEasingUpToAggressive": [
+		"load = :$6F9B2; mem_val = :$12F4ABC; mem_name = :$E192D8",
+		1
+	],
+	"FIntPGSPStageStiffnessWorseFitnessThreshold": [
+		"load = :$6F9D2; mem_val = :$12F4A9C; mem_name = :$E19240",
+		2
+	],
+	"FIntPGSPenetrationMarginMaxBump": [
+		"load = :$6F9F2; mem_val = :$12F4A24; mem_name = :$E19020",
+		5
+	],
+	"FIntPGSPenetrationMarginMax": [
+		"load = :$6FA12; mem_val = :$12F4A14; mem_name = :$E18FF0",
+		50000
+	],
+	"FIntPGSPenetrationMarginMin": [
+		"load = :$6FA32; mem_val = :$12F4A1C; mem_name = :$E19008",
+		100
+	],
+	"FIntPGSPenetrationResolutionDamping": [
+		"load = :$6FA52; mem_val = :$12F4A2C; mem_name = :$E1903C",
+		7
+	],
+	"FIntPGSPenetrationVelocityForMinMargin": [
+		"load = :$6FA72; mem_val = :$12F4A34; mem_name = :$E1905C",
+		20
+	],
+	"FIntPGSVStageStiffnessAggressiveValue": [
+		"load = :$6FA92; mem_val = :$12F4A7C; mem_name = :$E191A4",
+		99995
+	],
+	"FIntPGSVStageStiffnessBestFitnessThreshold": [
+		"load = :$6FAB2; mem_val = :$12F4A74; mem_name = :$E1917C",
+		1
+	],
+	"FIntPGSVStageStiffnessConservativeValue": [
+		"load = :$6FAD2; mem_val = :$12F4A84; mem_name = :$E191C8",
+		99000
+	],
+	"FIntPGSVStageStiffnessEasingDownToConservative": [
+		"load = :$6FAF2; mem_val = :$12F4A94; mem_name = :$E19214",
+		100
+	],
+	"FIntPGSVStageStiffnessEasingUpToAggressive": [
+		"load = :$6FB12; mem_val = :$12F4A8C; mem_name = :$E191EC",
+		10
+	],
+	"FIntPGSVStageStiffnessWorseFitnessThreshold": [
+		"load = :$6FB32; mem_val = :$12F4A6C; mem_name = :$E19154",
+		2
+	],
+	"FIntDefaultBalanceD": [
+		"load = :$6FB52; mem_val = :$12F4AEC; mem_name = :$E1964C",
+		50
+	],
+	"FIntDefaultBalanceP": [
+		"load = :$6FB72; mem_val = :$12F4AE4; mem_name = :$E1963C",
+		2250
+	],
+	"FIntDebugNavigationMaxMemoryUsageInBytes": [
+		"load = :$6FCB2; mem_val = :$12F4B18; mem_name = :$E19AA8",
+		52428800
+	],
+	"FIntNavigationPolygonMergePasses": [
+		"load = :$6FD52; mem_val = :$12F4B34; mem_name = :$E19FEC",
+		2
+	],
+	"FIntIkDraggerSolveIterations": [
+		"load = :$6FD72; mem_val = :$12F4B3C; mem_name = :$E1A034",
+		16
+	],
+	"FIntCSGVoxelizerFadeRadius": [
+		"load = :$6FDB2; mem_val = :$12F4B90; mem_name = :$E1D950",
+		300
+	],
+	"FIntMaxSpeedDeltaMillis": [
+		"load = :$70162; mem_val = :$12F4CF8; mem_name = :$11227F0",
+		300
+	],
+	"FIntSpeedCountCap": [
+		"load = :$70182; mem_val = :$12F4D00; mem_name = :$1122804",
+		5
+	],
+	"FIntSpeedTestPeriodMillis": [
+		"load = :$701A2; mem_val = :$12F4CF0; mem_name = :$11227D8",
+		1000
+	],
+	"FIntTaskSchedulerTasksDefaultMaxCountPerCycle": [
+		"load = :$70762; mem_val = :$12F4D70; mem_name = :$11263F4",
+		16
+	],
+	"FIntTaskSchedulerTasksDefaultMaxTimeMsPerCycle": [
+		"load = :$70782; mem_val = :$12F4D78; mem_name = :$1126420",
+		10
+	],
+	"FIntDisconnectInfluxHundredthsPercentage": [
+		"load = :$71BF2; mem_val = :$15E912C; mem_name = :$112993C",
+		0
+	],
+	"FIntJoinInfluxHundredthsPercentage": [
+		"load = :$71CE2; mem_val = :$15E9124; mem_name = :$11298EC",
+		0
+	],
+	"FIntJoinTimeCounters_JoinInfluxHundredthsPercentage": [
+		"load = :$71D22; mem_val = :$15E9128; mem_name = :$112990C",
+		0
+	],
+	"FIntOnDisconnectHTTPTimeout": [
+		"load = :$71ED2; mem_val = :$12F5074; mem_name = :$1129A68",
+		2000
+	],
+	"FIntSendJoinTimeDeltasToDiag_HundredthsPercentage": [
+		"load = :$72072; mem_val = :$15E911C; mem_name = :$112978C",
+		0
+	],
+	"FIntSendJoinTimeStatsToDiag_HundredthsPercentage": [
+		"load = :$72102; mem_val = :$15E9140; mem_name = :$1129B08",
+		0
+	],
+	"FIntSendJoinTimesToDiag_HundredthsPercentage": [
+		"load = :$72142; mem_val = :$15E913C; mem_name = :$1129ADC",
+		0
+	],
+	"FIntClientInstanceQuotaCap": [
+		"load = :$722A2; mem_val = :$12F50B0; mem_name = :$112ACA4",
+		10000
+	],
+	"FIntClientInstanceQuotaInitial": [
+		"load = :$722C2; mem_val = :$12F50B8; mem_name = :$112ACBC",
+		2000
+	],
+	"FIntTimePermyriad": [
+		"load = :$72302; mem_val = :$12F50D4; mem_name = :$112AD20",
+		100
+	],
+	"FIntHashConfigP3": [
+		"load = :$724A2; mem_val = :$12F510C; mem_name = :$112C448",
+		4
+	],
+	"FIntHashConfigP4": [
+		"load = :$724C2; mem_val = :$12F5114; mem_name = :$112C458",
+		1000
+	],
+	"FIntHashConfigP5": [
+		"load = :$724E2; mem_val = :$12F511C; mem_name = :$112C468",
+		1
+	],
+	"FIntHashConfigP6": [
+		"load = :$72502; mem_val = :$12F5124; mem_name = :$112C478",
+		1
+	],
+	"FIntHashConfigP8": [
+		"load = :$72522; mem_val = :$12F512C; mem_name = :$112C488",
+		64
+	],
+	"FIntProcessPendingCredit": [
+		"load = :$72542; mem_val = :$12F50F0; mem_name = :$112C400",
+		1
+	],
+	"FIntProcessPendingRefresh": [
+		"load = :$72562; mem_val = :$12F50F8; mem_name = :$112C418",
+		100
+	],
+	"FIntClientNetworkInfluxHundredthsPercentage": [
+		"load = :$72732; mem_val = :$15EB548; mem_name = :$112C58C",
+		0
+	],
+	"FIntDebugClientNetworkUnthrottledGAForDatacenterId": [
+		"load = :$72772; mem_val = :$15EB544; mem_name = :$112C538",
+		0
+	],
+	"FIntTeamCreateTimeOutInSec": [
+		"load = :$727B2; mem_val = :$12F5190; mem_name = :$112C5B4",
+		60
+	],
+	"FIntGAThrottlingEventThresholdHundredthCat1": [
+		"load = :$729E2; mem_val = :$12F51F8; mem_name = :$112CFCC",
+		90
+	],
+	"FIntGAThrottlingEventThresholdHundredthCat2": [
+		"load = :$72A02; mem_val = :$12F51F0; mem_name = :$112CFA4",
+		75
+	],
+	"FIntGAThrottlingEventThresholdHundredthCat3": [
+		"load = :$72A22; mem_val = :$12F51E8; mem_name = :$112CF7C",
+		50
+	],
+	"FIntGamePerfMonitorPercentage": [
+		"load = :$72AB2; mem_val = :$12F51B8; mem_name = :$112CE90",
+		2
+	],
+	"FIntGamePerfMonitorReportTimer": [
+		"load = :$72AD2; mem_val = :$12F51C0; mem_name = :$112CEAC",
+		10
+	],
+	"FIntMemoryPlaceIDReportThreshold": [
+		"load = :$72AF2; mem_val = :$12F51D4; mem_name = :$112CF04",
+		600
+	],
+	"FIntPrimStatsGANumDelimited": [
+		"load = :$72B12; mem_val = :$12F51C8; mem_name = :$112CEC8",
+		1000
+	],
+	"FIntClusterCompressionLevel": [
+		"load = :$73B32; mem_val = :$12F5270; mem_name = :$112DB34",
+		1
+	],
+	"FIntClusterEstimatedCompressionRatioHundredths": [
+		"load = :$73B52; mem_val = :$12F5278; mem_name = :$112DB4C",
+		200
+	],
+	"FIntDepthLimit": [
+		"load = :$73BD2; mem_val = :$12F52D0; mem_name = :$112DC0C",
+		4000
+	],
+	"FIntEventReportLagThrottleHundredThousandths": [
+		"load = :$73C12; mem_val = :$15EC3D8; mem_name = :$112DE5C",
+		0
+	],
+	"FIntGlobalFill": [
+		"load = :$73C32; mem_val = :$15EC3BC; mem_name = :$112DBD0",
+		0
+	],
+	"FIntGlobalLeak": [
+		"load = :$73C52; mem_val = :$12F5294; mem_name = :$112DBA0",
+		100000000
+	],
+	"FIntMaxClusterKBPerSecond": [
+		"load = :$73C92; mem_val = :$12F5394; mem_name = :$112DE44",
+		40
+	],
+	"FIntMaxClusterSendStepsAccumulated": [
+		"load = :$73CB2; mem_val = :$12F530C; mem_name = :$112DC90",
+		15
+	],
+	"FIntMaxClusterSendStepsPerCyclic": [
+		"load = :$73CD2; mem_val = :$12F5300; mem_name = :$112DC48",
+		5
+	],
+	"FIntMaxDataOutJobScaling": [
+		"load = :$73CF2; mem_val = :$12F531C; mem_name = :$112DCD0",
+		10
+	],
+	"FIntMaxDataPacketPerSend": [
+		"load = :$73D12; mem_val = :$12F53A0; mem_name = :$112DE88",
+		1
+	],
+	"FIntMaxDataStepsAccumulated": [
+		"load = :$73D32; mem_val = :$12F52F8; mem_name = :$112DC30",
+		15
+	],
+	"FIntMaxDataStepsPerCyclic": [
+		"load = :$73D52; mem_val = :$12F52F0; mem_name = :$112DC18",
+		5
+	],
+	"FIntMaxProcessPacketsJobScaling": [
+		"load = :$73D72; mem_val = :$12F532C; mem_name = :$112DD0C",
+		10
+	],
+	"FIntMaxProcessPacketsStepsAccumulated": [
+		"load = :$73D92; mem_val = :$12F5324; mem_name = :$112DCE8",
+		15
+	],
+	"FIntMaxProcessPacketsStepsPerCyclic": [
+		"load = :$73DB2; mem_val = :$12F5314; mem_name = :$112DCB0",
+		5
+	],
+	"FIntMaxWaitTimeBeforeForcePacketProcessMS": [
+		"load = :$73DD2; mem_val = :$15EC3CC; mem_name = :$112DC68",
+		0
+	],
+	"FIntPacketErrorInfluxHundredthsPercentage": [
+		"load = :$73EE2; mem_val = :$12F53A8; mem_name = :$112DEA0",
+		10000
+	],
+	"FIntPpjCapacity": [
+		"load = :$73F22; mem_val = :$12F534C; mem_name = :$112DD48",
+		100
+	],
+	"FIntPpjEtrFill": [
+		"load = :$73F62; mem_val = :$12F5334; mem_name = :$112DD28",
+		10
+	],
+	"FIntPpjEtrThreshold": [
+		"load = :$73F82; mem_val = :$12F535C; mem_name = :$112DD74",
+		6
+	],
+	"FIntPpjLeak": [
+		"load = :$73FA2; mem_val = :$12F5344; mem_name = :$112DD40",
+		10
+	],
+	"FIntPpjPmFill": [
+		"load = :$73FC2; mem_val = :$12F533C; mem_name = :$112DD34",
+		10
+	],
+	"FIntPpjPmThreshold": [
+		"load = :$73FE2; mem_val = :$15EC3D0; mem_name = :$112DD84",
+		0
+	],
+	"FIntQKick": [
+		"load = :$74042; mem_val = :$12F52BC; mem_name = :$112DBF0",
+		3072
+	],
+	"FIntQLimit": [
+		"load = :$74062; mem_val = :$12F52B4; mem_name = :$112DBE8",
+		3072
+	],
+	"FIntRatePermyriad": [
+		"load = :$740A2; mem_val = :$15EC3B0; mem_name = :$112DB78",
+		0
+	],
+	"FIntReplicatorMaxPacketBytesSentToInfluxOnError": [
+		"load = :$740C2; mem_val = :$12F53B4; mem_name = :$112DEE8",
+		1024
+	],
+	"FIntReportFill": [
+		"load = :$74102; mem_val = :$15EC3C0; mem_name = :$112DBDC",
+		0
+	],
+	"FIntReportLeak": [
+		"load = :$74122; mem_val = :$12F529C; mem_name = :$112DBAC",
+		100000000
+	],
+	"FIntRxRlEn2": [
+		"load = :$74162; mem_val = :$15EC3C4; mem_name = :$112DBF8",
+		0
+	],
+	"FIntRxRlReport": [
+		"load = :$74182; mem_val = :$12F52C8; mem_name = :$112DC00",
+		15
+	],
+	"FIntSendRakNetStatsInterval": [
+		"load = :$741C2; mem_val = :$12F53BC; mem_name = :$112DF14",
+		300
+	],
+	"FIntSendRakNetStatsThrottle": [
+		"load = :$741E2; mem_val = :$12F53C4; mem_name = :$112DF2C",
+		1
+	],
+	"FIntSoundFill": [
+		"load = :$74222; mem_val = :$15EC3B4; mem_name = :$112DBB8",
+		0
+	],
+	"FIntSoundLeak": [
+		"load = :$74242; mem_val = :$12F5284; mem_name = :$112DB88",
+		100000000
+	],
+	"FIntSpecialFill": [
+		"load = :$74262; mem_val = :$15EC3B8; mem_name = :$112DBC4",
+		0
+	],
+	"FIntSpecialLeak": [
+		"load = :$74282; mem_val = :$12F528C; mem_name = :$112DB94",
+		100000000
+	],
+	"FIntDebugSendDistInSteps": [
+		"load = :$744E2; mem_val = :$12F54A0; mem_name = :$11301D8",
+		5
+	],
+	"FIntDebugSendMomentInSteps": [
+		"load = :$74502; mem_val = :$12F54A8; mem_name = :$11301F0",
+		6
+	],
+	"FIntMaxFramesToSend": [
+		"load = :$745A2; mem_val = :$12F5490; mem_name = :$11301A4",
+		255
+	],
+	"FIntNumPhysicsTouchPacketsPerStep": [
+		"load = :$745E2; mem_val = :$12F5430; mem_name = :$1130000",
+		1
+	],
+	"FIntPercentSentAlways": [
+		"load = :$74602; mem_val = :$12F5450; mem_name = :$1130078",
+		50
+	],
+	"FIntPhysicsPacketsPerStepAdjustPeriodTenths": [
+		"load = :$74642; mem_val = :$12F5448; mem_name = :$1130050",
+		30
+	],
+	"FIntS2NumPhysicsPacketsPerStep": [
+		"load = :$74662; mem_val = :$12F5438; mem_name = :$1130020",
+		20
+	],
+	"FIntS2PhysicsSenderRate": [
+		"load = :$74682; mem_val = :$12F5440; mem_name = :$113003C",
+		15
+	],
+	"FIntMaxDataPayloadSize": [
+		"load = :$74882; mem_val = :$12F54F8; mem_name = :$11304FC",
+		32000000
+	],
+	"FIntMaxLearnDescriptors": [
+		"load = :$748A2; mem_val = :$12F54EC; mem_name = :$11304E8",
+		8192
+	],
+	"FIntPhysicsCompressionSizeFilter": [
+		"load = :$748C2; mem_val = :$12F54E8; mem_name = :$11304C8",
+		50
+	],
+	"FIntRakNetDatagramMessageIdArrayLength": [
+		"load = :$74992; mem_val = :$12F5544; mem_name = :$113071C",
+		512
+	],
+	"FIntRakNetNakResendDelayMs": [
+		"load = :$749F2; mem_val = :$15EC86C; mem_name = :$11306C8",
+		0
+	],
+	"FIntRakNetNakResendDelayMsMax": [
+		"load = :$74A12; mem_val = :$15EC874; mem_name = :$1130700",
+		0
+	],
+	"FIntRakNetNakResendDelayRttPercent": [
+		"load = :$74A32; mem_val = :$15EC870; mem_name = :$11306E0",
+		0
+	],
+	"FIntRakNetResendBufferArrayLength": [
+		"load = :$74A52; mem_val = :$12F554C; mem_name = :$1130740",
+		512
+	],
+	"FIntAdditionalReportingPermyriad": [
+		"load = :$74AE2; mem_val = :$12F557C; mem_name = :$1130C30",
+		100
+	],
+	"FIntInfluxReportFeOnStartupErrorPermyriad": [
+		"load = :$74B22; mem_val = :$15EC8CC; mem_name = :$1130C84",
+		0
+	],
+	"FIntMaxClients": [
+		"load = :$74B42; mem_val = :$12F5590; mem_name = :$1130CAC",
+		128
+	],
+	"FIntReportFeOnStartupPermyriad": [
+		"load = :$74BE2; mem_val = :$15EC8C8; mem_name = :$1130C50",
+		0
+	],
+	"FIntAniCycleCount": [
+		"load = :$74E72; mem_val = :$12F55E4; mem_name = :$113119C",
+		3
+	],
+	"FIntAntiSpamSpamLimit": [
+		"load = :$74E92; mem_val = :$12F55F4; mem_name = :$11311CC",
+		1000
+	],
+	"FIntDisconnectReportPermyriad": [
+		"load = :$74EF2; mem_val = :$15EC9DC; mem_name = :$11310A4",
+		0
+	],
+	"FIntGuiPermyriad2": [
+		"load = :$74F72; mem_val = :$15EC9F0; mem_name = :$11311BC",
+		0
+	],
+	"FIntRtl7InfluxHundredthsPercentage": [
+		"load = :$75032; mem_val = :$12F55FC; mem_name = :$11311E0",
+		100
+	],
+	"FIntServerPlayerFilterConfig": [
+		"load = :$75072; mem_val = :$15EC9E4; mem_name = :$11310DC",
+		0
+	],
+	"FIntServerPlayerFilterPermyriad": [
+		"load = :$75092; mem_val = :$15EC9E0; mem_name = :$11310C0",
+		0
+	],
+	"FIntUS20162": [
+		"load = :$750C2; mem_val = :$15EC9F4; mem_name = :$1131200",
+		0
+	],
+	"FIntUS20162Permyriad": [
+		"load = :$750E2; mem_val = :$15EC9F8; mem_name = :$1131208",
+		0
+	],
+	"FIntConnectionMTUSize": [
+		"load = :$75152; mem_val = :$15ECA8C; mem_name = :$1131ADC",
+		0
+	],
+	"FIntDebugInternetSimulatorLatencyMS": [
+		"load = :$75192; mem_val = :$15ECA94; mem_name = :$1131B10",
+		0
+	],
+	"FIntDebugInternetSimulatorLatencyVariance": [
+		"load = :$751B2; mem_val = :$15ECA98; mem_name = :$1131B30",
+		0
+	],
+	"FIntDebugInternetSimulatorPacketlossHundredth": [
+		"load = :$751D2; mem_val = :$15ECA9C; mem_name = :$1131B58",
+		0
+	],
+	"FIntRakNetLoopMs": [
+		"load = :$75252; mem_val = :$12F5638; mem_name = :$1131BA8",
+		10
+	],
+	"FIntStepsToJoin": [
+		"load = :$752D2; mem_val = :$12F564C; mem_name = :$1131BE4",
+		5
+	],
+	"FIntWeldPermyriad": [
+		"load = :$75582; mem_val = :$15ED0E0; mem_name = :$1132458",
+		0
+	],
+	"FIntNetworkSchemaCompressionRatio": [
+		"load = :$757B2; mem_val = :$12F57E0; mem_name = :$1132794",
+		9
+	],
+	"FIntMaxConsecutiveStreamJobWorkLoad": [
+		"load = :$75852; mem_val = :$12F5810; mem_name = :$11328FC",
+		1
+	],
+	"FIntMaxServerStreamRegionRadius": [
+		"load = :$75872; mem_val = :$12F5804; mem_name = :$11328BC",
+		16
+	],
+	"FIntMaxStreamPacketsPerStep": [
+		"load = :$75892; mem_val = :$12F57FC; mem_name = :$11328A4",
+		16
+	],
+	"FIntStreamJobMaxBufferHealthThresholdHundredths": [
+		"load = :$758D2; mem_val = :$12F5824; mem_name = :$1132960",
+		90
+	],
+	"FIntStreamJobMinBufferHealthThresholdHundredths": [
+		"load = :$758F2; mem_val = :$12F581C; mem_name = :$1132934",
+		50
+	],
+	"FIntStreamJobPriorityAmplifierRadius": [
+		"load = :$75912; mem_val = :$15ED24C; mem_name = :$11328D8",
+		0
+	],
+	"FIntDebugRestrictGCDistance": [
+		"load = :$75A72; mem_val = :$15ED360; mem_name = :$11331F8",
+		0
+	],
+	"FIntJoinDataCompressionLevel": [
+		"load = :$75A92; mem_val = :$12F5874; mem_name = :$1133274",
+		1
+	],
+	"FIntNetworkStreamingGCMaxMicroSecondLimit": [
+		"load = :$75AD2; mem_val = :$12F588C; mem_name = :$1133290",
+		4000
+	],
+	"FIntPartStreamingGCMinRegionLength": [
+		"load = :$75AF2; mem_val = :$12F5878; mem_name = :$1133228",
+		2
+	],
+	"FIntStreamOutCompressionIdListLengthThreshold": [
+		"load = :$75B12; mem_val = :$12F5880; mem_name = :$1133248",
+		250
+	],
+	"FIntStreamedRegionGCFactor": [
+		"load = :$75B32; mem_val = :$12F5894; mem_name = :$11332B8",
+		250
+	],
+	"FIntRakNetConnectionStartWindow_HundredthsPercentage": [
+		"load = :$762A2; mem_val = :$15EE640; mem_name = :$11346C4",
+		0
+	],
+	"FIntRakNetResendMaxThresholdTimeInUs": [
+		"load = :$762C2; mem_val = :$12F5B68; mem_name = :$11346A0",
+		2000000
+	],
+	"FIntRakNetResendScaleBackFactorHundredthsPercent": [
+		"load = :$762E2; mem_val = :$15EE644; mem_name = :$11346F8",
+		0
+	],
+	"FIntRakNetUseSlidingWindow2_maxSpeed": [
+		"load = :$76312; mem_val = :$15EE674; mem_name = :$11348D0",
+		0
+	],
+	"FIntRakNetUseSlidingWindow2_minRtt": [
+		"load = :$76332; mem_val = :$12F5BA0; mem_name = :$113488C",
+		30000
+	],
+	"FIntRakNetUseSlidingWindow2_minSpeed": [
+		"load = :$76352; mem_val = :$12F5BA8; mem_name = :$11348AC",
+		1536
+	],
+	"FIntRakNetUseSlidingWindow2_rangeCount": [
+		"load = :$76372; mem_val = :$12F5BBC; mem_name = :$113491C",
+		10
+	],
+	"FIntRakNetUseSlidingWindow2_startFactor": [
+		"load = :$76392; mem_val = :$12F5B90; mem_name = :$1134840",
+		200
+	],
+	"FIntRakNetUseSlidingWindow2_startInitSpeed": [
+		"load = :$763B2; mem_val = :$12F5B88; mem_name = :$1134818",
+		200000
+	],
+	"FIntRakNetUseSlidingWindow2_startUpdateMs": [
+		"load = :$763D2; mem_val = :$12F5B98; mem_name = :$1134864",
+		10
+	],
+	"FIntRakNetUseSlidingWindow2_trackLengthMs": [
+		"load = :$763F2; mem_val = :$12F5BB4; mem_name = :$11348F4",
+		2500
+	],
+	"FIntFRMRecomputeDistanceFrameDelay": [
+		"load = :$767A2; mem_val = :$12F9984; mem_name = :$113567C",
+		100
+	],
+	"FIntOutlineBrightnessMax": [
+		"load = :$76A02; mem_val = :$12F9FE8; mem_name = :$113623C",
+		160
+	],
+	"FIntOutlineBrightnessMin": [
+		"load = :$76A22; mem_val = :$12FA014; mem_name = :$1136D04",
+		50
+	],
+	"FIntOutlineThickness": [
+		"load = :$76A42; mem_val = :$12F9FF0; mem_name = :$1136254",
+		40
+	],
+	"FIntRenderShadowIntensity": [
+		"load = :$76A82; mem_val = :$12F9FF8; mem_name = :$1136268",
+		75
+	],
+	"FIntRobloxGuiBlurIntensity": [
+		"load = :$76AA2; mem_val = :$12FA000; mem_name = :$1136280",
+		24
+	],
+	"FIntDebugForceMSAASamples": [
+		"load = :$76C22; mem_val = :$15EEE90; mem_name = :$1137880",
+		0
+	],
+	"FIntFastClusterUpdateWaitingBudgetMs": [
+		"load = :$76E32; mem_val = :$12FA0B8; mem_name = :$1137E50",
+		4
+	],
+	"FIntJointTime_TextureCooldown": [
+		"load = :$76F32; mem_val = :$12FA0EC; mem_name = :$1138638",
+		2
+	],
+	"FIntPreloadTextureTimeBuget": [
+		"load = :$77002; mem_val = :$12FA0F8; mem_name = :$1138AB0",
+		1000
+	],
+	"FIntRenderTextureManagerBudgetFor4k": [
+		"load = :$77042; mem_val = :$15EF61C; mem_name = :$1138AE4",
+		0
+	],
+	"FIntRenderTextureManagerBudget": [
+		"load = :$77062; mem_val = :$15EF618; mem_name = :$1138AC8",
+		0
+	],
+	"FIntTexAtlasUpdateLineHeight": [
+		"load = :$773C2; mem_val = :$12FA224; mem_name = :$1139E28",
+		150
+	],
+	"FIntSSAOMipLevels": [
+		"load = :$77722; mem_val = :$12FA280; mem_name = :$113B340",
+		4
+	],
+	"FIntRenderMaxParticleSize": [
+		"load = :$777E2; mem_val = :$12FA288; mem_name = :$113B4BC",
+		200
+	],
+	"FIntSuperClusterFastClusterSize": [
+		"load = :$77A02; mem_val = :$12FA2D0; mem_name = :$113C0D8",
+		1000
+	],
+	"FIntGraphicsVulkanAdrenoArghVersion": [
+		"load = :$7A442; mem_val = :$1306F20; mem_name = :$1191028",
+		24
+	],
+	"FIntGraphicsOculusDetectTimeout": [
+		"load = :$7A612; mem_val = :$1633198; mem_name = :$1191CD4",
+		0
+	],
+	"FStringGamesUrlPath": [
+		"load = :$35F2; mem_val = :$13DB650; mem_name = :$D2872C",
+		"/games"
+	],
+	"FStringICMPPingTestUrl": [
+		"load = :$3DB2; mem_val = :$13DBA18; mem_name = :$D31B90",
+		"latency-measurements/get-servers-to-ping"
+	],
+	"FStringICMPReportBasePath": [
+		"load = :$3E22; mem_val = :$13DBA34; mem_name = :$D31BC4",
+		"pe?t=client&evt=latencyMeasurements"
+	],
+	"FStringICMPReportElementFormat": [
+		"load = :$3E92; mem_val = :$13DBA50; mem_name = :$D31BF0",
+		"&%s_min=%d&%s_avg=%d"
+	],
+	"FStringPerformanceSendMeasurementAPISubdomain": [
+		"load = :$59B2; mem_val = :$13DEBFC; mem_name = :$D397CC",
+		"www"
+	],
+	"FStringAvatarJointPositionsArtistIntent": [
+		"load = :$7A32; mem_val = :$13E0BF0; mem_name = :$D3B9A4",
+		"ArtistIntent"
+	],
+	"FStringAvatarJointPositionsFixed": [
+		"load = :$7AE2; mem_val = :$13E0C0C; mem_name = :$D3B9F4",
+		"Fixed"
+	],
+	"FStringAvatarJointPositionsTypeField": [
+		"load = :$7B52; mem_val = :$13E0C28; mem_name = :$D3BA50",
+		"jointPositioningType"
+	],
+	"FStringCollideInnerBox": [
+		"load = :$7BE2; mem_val = :$13E0C44; mem_name = :$D3BA7C",
+		"InnerBox"
+	],
+	"FStringCollideOuterBox": [
+		"load = :$7C52; mem_val = :$13E0C60; mem_name = :$D3BAB8",
+		"OuterBox"
+	],
+	"FStringCustomAnimationField": [
+		"load = :$7CC2; mem_val = :$13E0C7C; mem_name = :$D3BAE0",
+		"allowCustomAnimations"
+	],
+	"FStringCustomAnimationTypeAllow": [
+		"load = :$7D32; mem_val = :$13E0C98; mem_name = :$D3BAF8",
+		"True"
+	],
+	"FStringDefaultCustomAnimationType": [
+		"load = :$7F12; mem_val = :$13E0CB4; mem_name = :$D3BB44",
+		"True"
+	],
+	"FStringR15CollisionTypeField": [
+		"load = :$80C2; mem_val = :$13E0CD0; mem_name = :$D3BB74",
+		"r15CollisionType"
+	],
+	"FStringServerConfigCloudEditServerSaveUrl": [
+		"load = :$81D2; mem_val = :$13E0D1C; mem_name = :$D3BD40",
+		"/ide/publish/UploadFromCloudEdit"
+	],
+	"FStringLuaAppsDiagErrorCounter": [
+		"load = :$C642; mem_val = :$13E8090; mem_name = :$D42A60",
+		"LuaAppsErrorCount"
+	],
+	"FStringLuaAppsDiagPageLoadTimeGames": [
+		"load = :$C6B2; mem_val = :$13E80AC; mem_name = :$D42A94",
+		"LuaAppsPageLoadTimeGames"
+	],
+	"FStringLuaAppsDiagPageLoadTimeHome": [
+		"load = :$C722; mem_val = :$13E80C8; mem_name = :$D42ACC",
+		"LuaAppsPageLoadTimeHome"
+	],
+	"FStringLuaErrorsInfluxSeries": [
+		"load = :$C792; mem_val = :$13E80E4; mem_name = :$D42AF8",
+		"LuaShellErrors"
+	],
+	"FStringXboxSaleAvatarPackageIds": [
+		"load = :$D802; mem_val = :$13E8520; mem_name = :$D437BC",
+		""
+	],
+	"FStringCrashUploadToBacktraceBlackholeToken": [
+		"load = :$100D2; mem_val = :$13EA3CC; mem_name = :$D45EFC",
+		"7705528468a303e4e34a13fbcf9e42e219633ed6868e143e5ab16cd33bd2a069"
+	],
+	"FStringCrashUploadToBacktraceLinuxRCCToken": [
+		"load = :$10142; mem_val = :$13EA378; mem_name = :$D45DB4",
+		"82fc562ca79e6df76a1add3c37aca015601a7326f48d4476fdc37bfe85e44673"
+	],
+	"FStringCrashUploadToBacktraceMacPlayerToken": [
+		"load = :$101B2; mem_val = :$13EA394; mem_name = :$D45E1C",
+		"24cb37449e120c3a0618b1bf0585e339571828cae4dc73c7b8c99f67fcd751e9"
+	],
+	"FStringCrashUploadToBacktraceMacStudioToken": [
+		"load = :$10222; mem_val = :$13EA3B0; mem_name = :$D45E8C",
+		"71f38d9e22eac3ed9fdb80607d798f829e051303baa63cb9766e6f2e9d0584d8"
+	],
+	"FStringCrashUploadToBacktraceToBacktraceBaseUrl": [
+		"load = :$102B2; mem_val = :$13EA308; mem_name = :$D45C3C",
+		"https://roblox.sp.backtrace.io:8443/post?format=minidump"
+	],
+	"FStringCrashUploadToBacktraceWindowsPlayerToken": [
+		"load = :$10322; mem_val = :$13EA324; mem_name = :$D45CAC",
+		"417ecb0fbc032ce087e6af3b780c298e3356089f050c8130d2318109e80417a4"
+	],
+	"FStringCrashUploadToBacktraceWindowsRCCToken": [
+		"load = :$10392; mem_val = :$13EA35C; mem_name = :$D45D8C",
+		"82fc562ca79e6df76a1add3c37aca015601a7326f48d4476fdc37bfe85e44673"
+	],
+	"FStringCrashUploadToBacktraceWindowsStudioToken": [
+		"load = :$10402; mem_val = :$13EA340; mem_name = :$D45D1C",
+		"8608fce9cad86072eee36b7d1d9dc56d68101a6b1f783c7bf568d80972ee1837"
+	],
+	"FStringHttpInfluxDatabase": [
+		"load = :$117B2; mem_val = :$13EA980; mem_name = :$D46BA0",
+		"Default"
+	],
+	"FStringGoogleAnalyticsAccountPropertyIDLuaShell": [
+		"load = :$11882; mem_val = :$13EA9D8; mem_name = :$D46CCC",
+		"UA-43420590-18"
+	],
+	"FStringGoogleAnalyticsAccountPropertyLuaTest": [
+		"load = :$118F2; mem_val = :$13EA9F4; mem_name = :$D46D08",
+		"UA-43420590-19"
+	],
+	"FStringRobloxAnalyticsSubDomain": [
+		"load = :$11982; mem_val = :$13EA9B8; mem_name = :$D46C84",
+		"ecsv2"
+	],
+	"FStringRobloxAnalyticsURL": [
+		"load = :$119F2; mem_val = :$13EA99C; mem_name = :$D46C70",
+		"http://test.public.ecs.roblox.com/"
+	],
+	"FStringGetPlayerImageDefaultTimeout": [
+		"load = :$13E62; mem_val = :$13F10A0; mem_name = :$D491A8",
+		"12"
+	],
+	"FStringGetUserThumbnailAsyncRetryTime": [
+		"load = :$13ED2; mem_val = :$13F1084; mem_name = :$D49174",
+		"4"
+	],
+	"FStringAnthroStandardPartIds": [
+		"load = :$197B2; mem_val = :$13F67B4; mem_name = :$D50FC8",
+		"532219986;532219997"
+	],
+	"FStringGetUserIdUrl": [
+		"load = :$198E2; mem_val = :$13F675C; mem_name = :$D50C60",
+		"users/get-by-username?username=%s"
+	],
+	"FStringLocalizationServiceOverrideLocale": [
+		"load = :$234F2; mem_val = :$13FD2FC; mem_name = :$D5CA68",
+		"es"
+	],
+	"FStringHttpResultsApprovedUserIDs": [
+		"load = :$2A542; mem_val = :$140142C; mem_name = :$D624F0",
+		""
+	],
+	"FStringFilterTextSubdomain": [
+		"load = :$2FE22; mem_val = :$1407400; mem_name = :$D6FBA8",
+		"textfilter"
+	],
+	"FStringModerationFilterTextUrlV2": [
+		"load = :$2FF32; mem_val = :$14073E4; mem_name = :$D6FB70",
+		"moderation/v2/filtertext"
+	],
+	"FStringFriendsOnlineUrl": [
+		"load = :$30DE2; mem_val = :$14085E8; mem_name = :$D7193C",
+		"/my/friendsonline"
+	],
+	"FStringHttpRbxApiBlacklistedEndpoints": [
+		"load = :$31B32; mem_val = :$1409854; mem_name = :$D72F08",
+		""
+	],
+	"FStringDataStoreThrottleMsg": [
+		"load = :$332C2; mem_val = :$140B874; mem_name = :$D75B30",
+		"Request was throttled. Try sending fewer requests. Key = "
+	],
+	"FStringAdditionalBlacklistHeaders": [
+		"load = :$50432; mem_val = :$14239AC; mem_name = :$D8C714",
+		""
+	],
+	"FStringApolloServerUrl": [
+		"load = :$52522; mem_val = :$1426518; mem_name = :$D8F928",
+		"http://127.0.0.1:8001"
+	],
+	"FStringTelegrafAddress": [
+		"load = :$69D72; mem_val = :$1440CDC; mem_name = :$DA5F40",
+		"ec2-54-165-151-168.compute-1.amazonaws.com"
+	],
+	"FStringCopyrightKey": [
+		"load = :$69EE2; mem_val = :$1440D78; mem_name = :$DA6180",
+		"RBX-Content-Protected"
+	],
+	"FStringHttpCurlProxyHostAndPort": [
+		"load = :$6A032; mem_val = :$1440D38; mem_name = :$DA6058",
+		""
+	],
+	"FStringAssetPurchasePath": [
+		"load = :$6A752; mem_val = :$1441208; mem_name = :$DA95D0",
+		"marketplace/purchase"
+	],
+	"FStringDeveloperProductPurchasePath": [
+		"load = :$6A7C2; mem_val = :$1441224; mem_name = :$DA9600",
+		"marketplace/submitpurchase"
+	],
+	"FStringHttpRequestImplType": [
+		"load = :$6ED62; mem_val = :$1446614; mem_name = :$DEC564",
+		""
+	],
+	"FStringBgUpdateRedirectsDisable": [
+		"load = :$6F4A2; mem_val = :$1446AF4; mem_name = :$DED710",
+		""
+	],
+	"FStringClientExternalBrowserUserAgent": [
+		"load = :$71712; mem_val = :$15E78F0; mem_name = :$11295A8",
+		"Roblox/WinInet"
+	],
+	"FStringAnalyticsSessionIdName": [
+		"load = :$71992; mem_val = :$15E9238; mem_name = :$11297F4",
+		"AnalyticsSessionId"
+	],
+	"FStringDebugSpoofGameLocaleId": [
+		"load = :$71B42; mem_val = :$15E927C; mem_name = :$112988C",
+		"de-de"
+	],
+	"FStringDebugSpoofRobloxLocaleId": [
+		"load = :$71BB2; mem_val = :$15E9258; mem_name = :$112982C",
+		"es-es"
+	],
+	"FStringGameLocaleIdName": [
+		"load = :$71C82; mem_val = :$15E91F0; mem_name = :$112971C",
+		"GameLocale"
+	],
+	"FStringSendJoinTimeDeltasHundPrecCountryOverride": [
+		"load = :$72052; mem_val = :$15E9214; mem_name = :$1129760",
+		""
+	],
+	"FStringSendJoinTimeStatsHundPrecCountryOverride": [
+		"load = :$720E2; mem_val = :$15E91C8; mem_name = :$1129B38",
+		""
+	],
+	"FStringUrlGsi": [
+		"load = :$725E2; mem_val = :$15E94F4; mem_name = :$112C430",
+		""
+	],
+	"FStringGamePerfMonitorPercentageCountryOverride": [
+		"load = :$72A92; mem_val = :$15EB6D4; mem_name = :$112CFF4",
+		""
+	],
+	"FStringOverrideSendRakNetStatsThrottleCountries": [
+		"load = :$73EC2; mem_val = :$15EC49C; mem_name = :$112DF44",
+		""
+	],
+	"FStringGraphicsVulkanBlacklist": [
+		"load = :$79FB2; mem_val = :$16300E8; mem_name = :$1187CCC",
+		""
+	],
+	"FLogStudioDebugLog": [
+		"load = :$3355; mem_val = :$12EE030; mem_name = :$D27EF4",
+		8
+	],
+	"FLogStudioLastActions": [
+		"load = :$3375; mem_val = :$12EE031; mem_name = :$D27F04",
+		3
+	],
+	"FLogWndProcessCheck": [
+		"load = :$36D2; mem_val = :$12EE044; mem_name = :$D2865C",
+		1
+	],
+	"FLogWinRawInput": [
+		"load = :$3F02; mem_val = :$13DBA88; mem_name = :$D31CF4",
+		0
+	],
+	"FLogReflectionMetadata": [
+		"load = :$43A2; mem_val = :$12EFE90; mem_name = :$D32678",
+		1
+	],
+	"FLogZero": [
+		"load = :$44F2; mem_val = :$12EFEA0; mem_name = :$D335D0",
+		1
+	],
+	"FLogErrorDescription": [
+		"load = :$5142; mem_val = :$13DE64D; mem_name = :$D356D4",
+		0
+	],
+	"FLogPlaceLauncher": [
+		"load = :$5242; mem_val = :$13DE64C; mem_name = :$D355CC",
+		0
+	],
+	"FLogInstanceTreeManipulation": [
+		"load = :$5D72; mem_val = :$13DF2B0; mem_name = :$D3A388",
+		0
+	],
+	"FLogCyclicExecutiveThrottling": [
+		"load = :$7D52; mem_val = :$13E0BAE; mem_name = :$D3BD64",
+		0
+	],
+	"FLogCyclicExecutiveTiming": [
+		"load = :$7D72; mem_val = :$13E0BAF; mem_name = :$D3BD80",
+		0
+	],
+	"FLogLogStepTimeAndNetworkUsage": [
+		"load = :$7FD2; mem_val = :$13E0BB0; mem_name = :$D3BD98",
+		0
+	],
+	"FLogR15Character": [
+		"load = :$8052; mem_val = :$13E0B92; mem_name = :$D3BB98",
+		0
+	],
+	"FLogAnalyticsDeferredEphemeralReportingDiagnostic": [
+		"load = :$C492; mem_val = :$13E808C; mem_name = :$D42C0C",
+		0
+	],
+	"FLogAnalyticsDeferredReporterDiagnostic": [
+		"load = :$C512; mem_val = :$13E808E; mem_name = :$D42C9C",
+		0
+	],
+	"FLogGoogleAnalyticsTracking": [
+		"load = :$C5D2; mem_val = :$13E8089; mem_name = :$D42B2C",
+		0
+	],
+	"FLogAdornRenderStats": [
+		"load = :$10C02; mem_val = :$13EA6D6; mem_name = :$D4659C",
+		0
+	],
+	"FLogAdornVB": [
+		"load = :$10C22; mem_val = :$13EA6D8; mem_name = :$D465D8",
+		0
+	],
+	"FLogAdornableLifetime": [
+		"load = :$10C42; mem_val = :$13EA6D5; mem_name = :$D46588",
+		0
+	],
+	"FLogCOMCalls": [
+		"load = :$10C62; mem_val = :$12F0B22; mem_name = :$D464AC",
+		1
+	],
+	"FLogClientSettings": [
+		"load = :$10C82; mem_val = :$12F0B21; mem_name = :$D4633C",
+		1
+	],
+	"FLogCloseDataModel": [
+		"load = :$10CA2; mem_val = :$12F0BE3; mem_name = :$D467B4",
+		1
+	],
+	"FLogContentProviderRequests": [
+		"load = :$10CC2; mem_val = :$13EA6E8; mem_name = :$D467C4",
+		0
+	],
+	"FLogCoreScripts": [
+		"load = :$10CE2; mem_val = :$12F0C21; mem_name = :$D46838",
+		1
+	],
+	"FLogCrashReporterInit": [
+		"load = :$10D02; mem_val = :$12F0B48; mem_name = :$D464DC",
+		1
+	],
+	"FLogDataModelJobs": [
+		"load = :$10D22; mem_val = :$12F0BCC; mem_name = :$D46698",
+		2
+	],
+	"FLogDeviceLost": [
+		"load = :$10DA2; mem_val = :$13EA6D3; mem_name = :$D4657C",
+		0
+	],
+	"FLogDisableInvalidateOnUnbind": [
+		"load = :$10DC2; mem_val = :$13EA6E2; mem_name = :$D46740",
+		0
+	],
+	"FLogDistanceMetricP1": [
+		"load = :$10DE2; mem_val = :$13EA6F6; mem_name = :$D46910",
+		0
+	],
+	"FLogDragProfile": [
+		"load = :$10E02; mem_val = :$13EA6D1; mem_name = :$D46534",
+		0
+	],
+	"FLogExplorer": [
+		"load = :$10E22; mem_val = :$13EA6CC; mem_name = :$D464F0",
+		0
+	],
+	"FLogFRM": [
+		"load = :$10E42; mem_val = :$13EA6D4; mem_name = :$D394FC",
+		0
+	],
+	"FLogFullRenderObjects": [
+		"load = :$10E62; mem_val = :$13EA6E0; mem_name = :$D466A8",
+		0
+	],
+	"FLogFullWindowMessages": [
+		"load = :$10E82; mem_val = :$13EA6CB; mem_name = :$D464B8",
+		0
+	],
+	"FLogGameExplorer": [
+		"load = :$10EA2; mem_val = :$13EA6CD; mem_name = :$D464FC",
+		0
+	],
+	"FLogGfxClustersFull": [
+		"load = :$10EC2; mem_val = :$13EA6E1; mem_name = :$D466F4",
+		0
+	],
+	"FLogGfxClusters": [
+		"load = :$10EE2; mem_val = :$12F0BCF; mem_name = :$D466E8",
+		2
+	],
+	"FLogGoldenHashes": [
+		"load = :$10F02; mem_val = :$12F0B4A; mem_name = :$D4656C",
+		1
+	],
+	"FLogGuiTargetLifetime": [
+		"load = :$10F22; mem_val = :$13EA6C3; mem_name = :$D46540",
+		0
+	],
+	"FLogHardwareMouse": [
+		"load = :$10F42; mem_val = :$12F0B49; mem_name = :$D441F8",
+		2
+	],
+	"FLogHttp": [
+		"load = :$10F62; mem_val = :$13EA6C0; mem_name = :$D46458",
+		0
+	],
+	"FLogHttpQueue": [
+		"load = :$10F82; mem_val = :$13EA6F1; mem_name = :$D46880",
+		0
+	],
+	"FLogJoinSendExtraItemCount": [
+		"load = :$10FA2; mem_val = :$12F0C58; mem_name = :$D468E0",
+		1
+	],
+	"FLogJointInstanceLifetime": [
+		"load = :$10FC2; mem_val = :$13EA6DD; mem_name = :$D46634",
+		0
+	],
+	"FLogJointLifetime": [
+		"load = :$10FE2; mem_val = :$13EA6DF; mem_name = :$D46660",
+		0
+	],
+	"FLogLegacyLock": [
+		"load = :$11002; mem_val = :$13EA6E6; mem_name = :$D3D5F4",
+		0
+	],
+	"FLogLuaMemoryPool": [
+		"load = :$11022; mem_val = :$13EA6ED; mem_name = :$D46844",
+		0
+	],
+	"FLogLuaScriptTimeoutSeconds": [
+		"load = :$11042; mem_val = :$13EA6EE; mem_name = :$D46854",
+		0
+	],
+	"FLogMachineIdUploader": [
+		"load = :$11062; mem_val = :$12F0C5A; mem_name = :$D46958",
+		1
+	],
+	"FLogMaxJoinDataSizeKB": [
+		"load = :$11082; mem_val = :$12F0C59; mem_name = :$D46930",
+		100
+	],
+	"FLogMaxNetworkReadTimeInCS": [
+		"load = :$110A2; mem_val = :$13EA6F5; mem_name = :$D468F8",
+		0
+	],
+	"FLogMegaClusterInit": [
+		"load = :$110C2; mem_val = :$12F0BE0; mem_name = :$D46704",
+		1
+	],
+	"FLogMegaClusterNetworkInit": [
+		"load = :$110E2; mem_val = :$12F0BE2; mem_name = :$D46728",
+		1
+	],
+	"FLogMegaClusterNetwork": [
+		"load = :$11102; mem_val = :$12F0BE1; mem_name = :$D46714",
+		2
+	],
+	"FLogMouseCommand": [
+		"load = :$11122; mem_val = :$13EA6E9; mem_name = :$D467DC",
+		0
+	],
+	"FLogMouseCommandLifetime": [
+		"load = :$11142; mem_val = :$13EA6D2; mem_name = :$D46554",
+		0
+	],
+	"FLogNativeStartPage": [
+		"load = :$11162; mem_val = :$13EA6CE; mem_name = :$D4650C",
+		0
+	],
+	"FLogNetworkCache": [
+		"load = :$11182; mem_val = :$12F0C23; mem_name = :$D46894",
+		1
+	],
+	"FLogNetwork": [
+		"load = :$111A2; mem_val = :$13EA6EF; mem_name = :$D3DA3C",
+		0
+	],
+	"FLogNetworkInstances": [
+		"load = :$111C2; mem_val = :$13EA6F3; mem_name = :$D468BC",
+		0
+	],
+	"FLogNetworkJoin": [
+		"load = :$111E2; mem_val = :$13EA6F8; mem_name = :$D46944",
+		0
+	],
+	"FLogNetworkReadItem": [
+		"load = :$11202; mem_val = :$13EA6F4; mem_name = :$D468D0",
+		0
+	],
+	"FLogNetworkTrace": [
+		"load = :$11222; mem_val = :$13EA6F0; mem_name = :$D46870",
+		0
+	],
+	"FLogPartInstanceLifetime": [
+		"load = :$11242; mem_val = :$13EA6DC; mem_name = :$D4661C",
+		0
+	],
+	"FLogPhysics": [
+		"load = :$11262; mem_val = :$13EA6E7; mem_name = :$D3D97C",
+		0
+	],
+	"FLogPlayer": [
+		"load = :$11282; mem_val = :$12F0C22; mem_name = :$D4688C",
+		1
+	],
+	"FLogPlayerShutdownLuaTimeoutSeconds": [
+		"load = :$112A2; mem_val = :$13EA6C1; mem_name = :$D4646C",
+		0
+	],
+	"FLogPlugins": [
+		"load = :$112C2; mem_val = :$13EA6C9; mem_name = :$D464A4",
+		0
+	],
+	"FLogPrimitiveLifetime": [
+		"load = :$112E2; mem_val = :$13EA6DE; mem_name = :$D4664C",
+		0
+	],
+	"FLogPushPixels": [
+		"load = :$11302; mem_val = :$13EA6DA; mem_name = :$D465E8",
+		0
+	],
+	"FLogQML": [
+		"load = :$11322; mem_val = :$13EA6CF; mem_name = :$D4651C",
+		0
+	],
+	"FLogRbxMegaClusterInit": [
+		"load = :$11342; mem_val = :$12F0BCE; mem_name = :$D466D4",
+		2
+	],
+	"FLogRbxMegaClustersUpdate": [
+		"load = :$11362; mem_val = :$12F0BCD; mem_name = :$D466BC",
+		2
+	],
+	"FLogRenderBreakdownDetails": [
+		"load = :$11382; mem_val = :$12F0B8F; mem_name = :$D46680",
+		2
+	],
+	"FLogRenderBreakdown": [
+		"load = :$113A2; mem_val = :$12F0B8E; mem_name = :$D46670",
+		2
+	],
+	"FLogRenderStatsOnLogs": [
+		"load = :$113C2; mem_val = :$12F0B8D; mem_name = :$D465F4",
+		2
+	],
+	"FLogReplicationDataLifetime": [
+		"load = :$113E2; mem_val = :$13EA6F2; mem_name = :$D468A4",
+		0
+	],
+	"FLogRobloxWndInit": [
+		"load = :$11402; mem_val = :$12F0B23; mem_name = :$D464CC",
+		1
+	],
+	"FLogSSAO": [
+		"load = :$11422; mem_val = :$13EA6D9; mem_name = :$D465E0",
+		0
+	],
+	"FLogScriptContextAdd": [
+		"load = :$11442; mem_val = :$13EA6EA; mem_name = :$D467EC",
+		0
+	],
+	"FLogScriptContextClose": [
+		"load = :$11462; mem_val = :$12F0C20; mem_name = :$D46814",
+		1
+	],
+	"FLogScriptContext": [
+		"load = :$11482; mem_val = :$13EA6EC; mem_name = :$D323B0",
+		0
+	],
+	"FLogScriptContextRemove": [
+		"load = :$114A2; mem_val = :$13EA6EB; mem_name = :$D46800",
+		0
+	],
+	"FLogScriptPrint": [
+		"load = :$114C2; mem_val = :$12F0B20; mem_name = :$D46460",
+		3
+	],
+	"FLogThumbnailRender": [
+		"load = :$114E2; mem_val = :$13EA6D7; mem_name = :$D465C8",
+		0
+	],
+	"FLogUS14116": [
+		"load = :$11502; mem_val = :$13EA6F9; mem_name = :$D46950",
+		0
+	],
+	"FLogUserInputProfile": [
+		"load = :$11522; mem_val = :$13EA6D0; mem_name = :$D46520",
+		0
+	],
+	"FLogVerbs": [
+		"load = :$11542; mem_val = :$13EA6C2; mem_name = :$D4649C",
+		0
+	],
+	"FLogVideoCapture": [
+		"load = :$11562; mem_val = :$13EA6C8; mem_name = :$D4648C",
+		0
+	],
+	"FLogViewRbxBase": [
+		"load = :$11582; mem_val = :$12F0B4B; mem_name = :$D465B0",
+		2
+	],
+	"FLogViewRbxInit": [
+		"load = :$115A2; mem_val = :$12F0B8C; mem_name = :$D465BC",
+		1
+	],
+	"FLogVisualEngineInit": [
+		"load = :$115C2; mem_val = :$13EA6DB; mem_name = :$D46608",
+		0
+	],
+	"FLogWeakThreadRef": [
+		"load = :$115E2; mem_val = :$13EA6CA; mem_name = :$D46828",
+		0
+	],
+	"FLogttMetricP1": [
+		"load = :$11602; mem_val = :$13EA6F7; mem_name = :$D46924",
+		0
+	],
+	"FLogInfluxDbLog": [
+		"load = :$117D2; mem_val = :$13EA974; mem_name = :$D46B84",
+		0
+	],
+	"FLogHttpTrace": [
+		"load = :$11E92; mem_val = :$13EAA50; mem_name = :$D46DAC",
+		0
+	],
+	"FLogFMOD": [
+		"load = :$183D2; mem_val = :$13F53F9; mem_name = :$D4D248",
+		0
+	],
+	"FLogSoundCheckResult": [
+		"load = :$184B2; mem_val = :$13F53FD; mem_name = :$D4D288",
+		0
+	],
+	"FLogSound": [
+		"load = :$184F2; mem_val = :$13F53FA; mem_name = :$D44208",
+		0
+	],
+	"FLogSoundTiming": [
+		"load = :$18592; mem_val = :$13F53FB; mem_name = :$D4D270",
+		0
+	],
+	"FLogSoundTrace": [
+		"load = :$185B2; mem_val = :$13F53FC; mem_name = :$D4D27C",
+		0
+	],
+	"FLogHeartBeatFailure": [
+		"load = :$18AA2; mem_val = :$13F5FC8; mem_name = :$D504F0",
+		0
+	],
+	"FLogPhysicsStepsPerSecond": [
+		"load = :$18AE2; mem_val = :$13F5FC9; mem_name = :$D50504",
+		0
+	],
+	"FLogTeleport": [
+		"load = :$1CB02; mem_val = :$13F8E3D; mem_name = :$D550E8",
+		0
+	],
+	"FLogCharacterLoadTime": [
+		"load = :$1DF02; mem_val = :$12F1751; mem_name = :$D57A08",
+		6
+	],
+	"FLogPlayerChatInfoExponentialBackoffLimitMultiplier": [
+		"load = :$1E0C2; mem_val = :$12F1750; mem_name = :$D579A4",
+		9
+	],
+	"FLogAppShellReporter": [
+		"load = :$21372; mem_val = :$13FB620; mem_name = :$D599D8",
+		0
+	],
+	"FLogText": [
+		"load = :$23152; mem_val = :$13FCCCD; mem_name = :$D5B948",
+		0
+	],
+	"FLogThreadRefCounts": [
+		"load = :$2A2C2; mem_val = :$12F1ED4; mem_name = :$D61EB0",
+		1
+	],
+	"FLogLuaTypeErrors": [
+		"load = :$2B042; mem_val = :$1401A05; mem_name = :$D68824",
+		0
+	],
+	"FLogCyclicExecutiveWorldSteps": [
+		"load = :$2B682; mem_val = :$14025D8; mem_name = :$D6B7A4",
+		0
+	],
+	"FLogPhysicsImprovedCyclicExecutiveThrottleData": [
+		"load = :$2B722; mem_val = :$14025DC; mem_name = :$D6B934",
+		0
+	],
+	"FLogWorldStepsBehindG": [
+		"load = :$2B822; mem_val = :$14025DB; mem_name = :$D6B8FC",
+		0
+	],
+	"FLogWorldStepsBehind": [
+		"load = :$2B842; mem_val = :$14025DA; mem_name = :$D6B8E8",
+		0
+	],
+	"FLogChangeHistoryService": [
+		"load = :$2B8C2; mem_val = :$140277C; mem_name = :$D6BD24",
+		0
+	],
+	"FLogChatFiltering": [
+		"load = :$2FCD2; mem_val = :$140738C; mem_name = :$D6FB04",
+		0
+	],
+	"FLogWebChatFiltering": [
+		"load = :$300D2; mem_val = :$140738B; mem_name = :$D6FAA8",
+		0
+	],
+	"FLogFriendServiceCache": [
+		"load = :$30CB2; mem_val = :$14085D8; mem_name = :$D71950",
+		0
+	],
+	"FLogFriendServiceCallbacks": [
+		"load = :$30D12; mem_val = :$14085DA; mem_name = :$D71980",
+		0
+	],
+	"FLogFriendServiceLocalRequests": [
+		"load = :$30D32; mem_val = :$12F2820; mem_name = :$D71998",
+		6
+	],
+	"FLogFriendServiceWebRequests": [
+		"load = :$30D72; mem_val = :$14085D9; mem_name = :$D71964",
+		0
+	],
+	"FLogGetLatestAssetVersionErrors": [
+		"load = :$31142; mem_val = :$1408DE8; mem_name = :$D72604",
+		0
+	],
+	"FLogHttpRbxApiBudget": [
+		"load = :$31B52; mem_val = :$1409801; mem_name = :$D72F28",
+		0
+	],
+	"FLogDataStoreBudget": [
+		"load = :$32FF2; mem_val = :$140B828; mem_name = :$D75B48",
+		0
+	],
+	"FLogDeferredVoxelUpdates": [
+		"load = :$338C2; mem_val = :$140C5C4; mem_name = :$D76B94",
+		0
+	],
+	"FLogHumanoidPlatformsLog": [
+		"load = :$33AA2; mem_val = :$140C693; mem_name = :$D771E4",
+		0
+	],
+	"FLogNewNetworkPhysicsLog": [
+		"load = :$33BE2; mem_val = :$140C692; mem_name = :$D771CC",
+		0
+	],
+	"FLogPreloadLinkedScriptsTiming": [
+		"load = :$33F02; mem_val = :$140C72C; mem_name = :$D7791C",
+		0
+	],
+	"FLogTrackScriptEditorLocking": [
+		"load = :$33F22; mem_val = :$140C72D; mem_name = :$D77938",
+		0
+	],
+	"FLogSlowHttpRequest": [
+		"load = :$47CC2; mem_val = :$141A8F1; mem_name = :$D84708",
+		0
+	],
+	"FLogTerrainCellListener": [
+		"load = :$4EBB2; mem_val = :$14227F8; mem_name = :$D8B574",
+		0
+	],
+	"FLogLayoutErrors": [
+		"load = :$51162; mem_val = :$12F3724; mem_name = :$D8DB74",
+		3
+	],
+	"FLogPathfindingDetail": [
+		"load = :$51C12; mem_val = :$1425760; mem_name = :$D8EA5C",
+		0
+	],
+	"FLogPathfindingPerf": [
+		"load = :$51C32; mem_val = :$1425761; mem_name = :$D8EA70",
+		0
+	],
+	"FLogDataStore": [
+		"load = :$69872; mem_val = :$1440448; mem_name = :$D47080",
+		0
+	],
+	"FLogAnalyticsLog": [
+		"load = :$69CC2; mem_val = :$1440CA8; mem_name = :$DA5CE0",
+		0
+	],
+	"FLogHttpTraceLight": [
+		"load = :$6A092; mem_val = :$1440D08; mem_name = :$DA6034",
+		0
+	],
+	"FLogSerializer": [
+		"load = :$6A4A2; mem_val = :$1440ED4; mem_name = :$DA7514",
+		0
+	],
+	"FLogLuaBridge": [
+		"load = :$6A602; mem_val = :$14411B0; mem_name = :$D69790",
+		0
+	],
+	"FLogHumanoidFloorProcess": [
+		"load = :$6E9B2; mem_val = :$1443194; mem_name = :$DEB740",
+		0
+	],
+	"FLogNavigationDetail": [
+		"load = :$6EF52; mem_val = :$1446670; mem_name = :$DECAB0",
+		0
+	],
+	"FLogNavigation": [
+		"load = :$6EFD2; mem_val = :$1446677; mem_name = :$D4878C",
+		0
+	],
+	"FLogVoxelizer": [
+		"load = :$6FE12; mem_val = :$144710C; mem_name = :$E1D944",
+		0
+	],
+	"FLogScopedConnection": [
+		"load = :$6FE72; mem_val = :$144D960; mem_name = :$1104CBC",
+		0
+	],
+	"FLogCrash": [
+		"load = :$70412; mem_val = :$12F4D2C; mem_name = :$D30ECC",
+		1
+	],
+	"FLogHangDetection": [
+		"load = :$70432; mem_val = :$1596AF8; mem_name = :$1122A44",
+		0
+	],
+	"FLogISteppedLifetime": [
+		"load = :$70452; mem_val = :$1596AF9; mem_name = :$1122A54",
+		0
+	],
+	"FLogMutexLifetime": [
+		"load = :$70472; mem_val = :$1596AFA; mem_name = :$1122A68",
+		0
+	],
+	"FLogTaskSchedulerInit": [
+		"load = :$70492; mem_val = :$1596AFB; mem_name = :$1122A78",
+		0
+	],
+	"FLogTaskSchedulerRun": [
+		"load = :$704B2; mem_val = :$1596AFC; mem_name = :$1122A8C",
+		0
+	],
+	"FLogDXVideoMemory": [
+		"load = :$705F2; mem_val = :$12F4D48; mem_name = :$1122B88",
+		4
+	],
+	"FLogSystemUtil": [
+		"load = :$70612; mem_val = :$12F4D49; mem_name = :$1122B98",
+		4
+	],
+	"FLogCSGDetails": [
+		"load = :$70C32; mem_val = :$1596EBC; mem_name = :$1127EFC",
+		0
+	],
+	"FLogCSGErrors": [
+		"load = :$70C52; mem_val = :$1596EBD; mem_name = :$1127EF0",
+		0
+	],
+	"FLogJoinTimeLog": [
+		"load = :$71D42; mem_val = :$12F5049; mem_name = :$1129A3C",
+		4
+	],
+	"FLogPartStreamingRequests": [
+		"load = :$722E2; mem_val = :$15E9378; mem_name = :$112ACD8",
+		0
+	],
+	"FLogNetworkPacketsReceive": [
+		"load = :$73E12; mem_val = :$15EC3D5; mem_name = :$112DE1C",
+		0
+	],
+	"FLogNetworkStatsReport": [
+		"load = :$73E32; mem_val = :$15EC3CB; mem_name = :$112DDD0",
+		0
+	],
+	"FLogNetworkStepsMultipliers": [
+		"load = :$73E52; mem_val = :$15EC3C8; mem_name = :$112DDE4",
+		0
+	],
+	"FLogTeamCreateServerScriptChanges": [
+		"load = :$742A2; mem_val = :$15EC3D4; mem_name = :$112DDFC",
+		0
+	],
+	"FLogPhysicsNetwork": [
+		"load = :$74622; mem_val = :$15EC700; mem_name = :$11301B4",
+		0
+	],
+	"FLogReportFeOnStartup": [
+		"load = :$74BC2; mem_val = :$15EC8C0; mem_name = :$1130BD0",
+		0
+	],
+	"FLogTeamTest": [
+		"load = :$74C42; mem_val = :$15EC8C3; mem_name = :$1130C0C",
+		0
+	],
+	"FLogNetworkItemQueueDtor": [
+		"load = :$75752; mem_val = :$15ED188; mem_name = :$11326F4",
+		0
+	],
+	"FLogNetworkStreaming": [
+		"load = :$758B2; mem_val = :$15ED248; mem_name = :$1132890",
+		0
+	],
+	"FLogGraphics": [
+		"load = :$76952; mem_val = :$15EEC54; mem_name = :$1135EC0",
+		0
+	],
+	"FLogVR": [
+		"load = :$76972; mem_val = :$15EEC55; mem_name = :$1135ECC",
+		0
+	],
+	"FLogRenderTextureCompositorBudget": [
+		"load = :$76F72; mem_val = :$15EF57D; mem_name = :$11385A4",
+		0
+	],
+	"FLogRenderTextureCompositor": [
+		"load = :$76F92; mem_val = :$15EF57C; mem_name = :$113858C",
+		0
+	],
+	"FLogTextureManager": [
+		"load = :$77082; mem_val = :$15EF614; mem_name = :$1138AA0",
+		0
+	],
+	"FLogRenderMeshManager": [
+		"load = :$770F2; mem_val = :$15EF670; mem_name = :$1138E8C",
+		0
+	],
+	"FLogRenderLightGridAgeProportion": [
+		"load = :$774E2; mem_val = :$12FA244; mem_name = :$113A1C4",
+		5
+	],
+	"FLogRenderLightGrid": [
+		"load = :$77502; mem_val = :$15EF9CC; mem_name = :$113A1B4",
+		0
+	],
+	"FLogRenderFastCluster": [
+		"load = :$77992; mem_val = :$15F025C; mem_name = :$113B854",
+		0
+	],
+	"FLogRenderInstancedCluster": [
+		"load = :$77A22; mem_val = :$15F0400; mem_name = :$113C0F4",
+		0
+	],
+	"FLogRenderInstancedCluster2": [
+		"load = :$77AB2; mem_val = :$15F0424; mem_name = :$113C72C",
+		0
+	]
+}

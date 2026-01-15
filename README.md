@@ -30,7 +30,7 @@ I generate these files on **my machine** using the command in [`./test/test.ps1`
 
 Rōblox Studio (and probably the Player) has more FFlags, etc. than what you may think.
 
-For example, Studio version 695 for Windows contains a number of **12,936** total fast variables (`FLags`, `FInts`, `FStrings`, and `FLogs`).
+For example, [Studio version 695 for Windows](https://github.com/Windows81/Roblox-x64dbg-FFlag-Extractor/blob/76fef5e83b23f96a28e18cbba77422e60e4c6fbb/test/v695-studio.json) contains a number of **12,936** total fast variables (`FLags`, `FInts`, `FStrings`, and `FLogs`).
 
 ```sh
 curl https://github.com/Windows81/Roblox-x64dbg-FFlag-Extractor/raw/refs/heads/main/test/v695-studio.json -L | jpp "$.*~" -s | wc

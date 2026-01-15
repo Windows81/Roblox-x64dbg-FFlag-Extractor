@@ -1,10 +1,9 @@
-import argparse
-import builtins
-import sys
-import enum
 import functools
 import itertools
+import argparse
+import enum
 import json
+import sys
 import os
 
 from x64dbg_automate import X64DbgClient
@@ -16,10 +15,17 @@ def eprint(*args, **kwargs):
 
 
 class flag_type(enum.Enum):
-    FFlag = b'LockViolationInstanceCrash'
-    FInt = b'StreamingSafeMemWatermarkMB'  # b'DataStoreJobFrequencyInSeconds'
-    FString = b'FriendsOnlineUrl'  # b'RobloxAnalyticsURL'
-    FLog = b'GfxClustersFull'
+    Flag = b'LockViolationInstanceCrash'
+    Int = b'StreamingSafeMemWatermarkMB'  # b'DataStoreJobFrequencyInSeconds'
+    String = b'FriendsOnlineUrl'  # b'RobloxAnalyticsURL'
+    Log = b'GfxClustersFull'
+
+
+class flag_mode_prefix_type(enum.Enum):
+    F = 0x01
+    DF = 0x02
+    SF = 0x03
+    IGNORE = 0x04  # The behaviour for `IGNORE` isn't guaranteed.
 
 
 def is_exe_64_bit(path: str) -> bool:
@@ -136,14 +142,12 @@ def find_lea_from_addr(session: X64DbgClient, memory_addr: int):
 def find_mem_lea_from_name_lea(session: X64DbgClient, name_lea_addr: int):
     '''
     Definitions that I made up:
-    - `name_lea`: the memory-read instruction with an address to the *name* of the flag.
-    Can be `lea`, `push`, `mov`, etc.
-    - `mem_lea`: the memory-read instruction with an address to the *memory location* of that same flag.
-    Can be `lea`, `push`, `mov`, etc.
+    - `name_lea`: the memory-read instruction with an address to the *name* of the flag.  Can be `lea`, `push`, `mov`, etc.
+    - `mem_lea`: the memory-read instruction with an address to the *memory location* of that same flag.  Can be `lea`, `push`, `mov`, etc.
 
     This function takes advantage of the fact that:
-    - `mem_lea` directly precedes `name_lea`.
-    - `mem_lea` and `name_lea` both have the same instruction size.
+    - `mem_lea` comes directly before `name_lea`.
+    - `mem_lea` and `name_lea` both have the SAME instruction size.
 
     This has been validated in various Studio versions from 347 up to 695.
     '''
@@ -158,6 +162,24 @@ def find_mem_lea_from_name_lea(session: X64DbgClient, name_lea_addr: int):
     return (addr, ptr)
 
 
+@functools.cache
+def trace_up_until_option_immediate(session: X64DbgClient, name_lea_addr: int):
+    '''
+    In the function call, one of the arguments is an integer which (probably) is either 1 or 2.
+    If 1: it is a normal variable and does not need any prefix.  Eg: FFlag, FInt
+    If 2: it is a dynamic variable and does not need the `D` prefix.  Eg: DFFlag, DFInt
+
+    Expect `mov r8d, 0x01` or `push 0x01` directly before `mem_lea`.  Maybe the same but with 0x02.
+    '''
+    LIMIT = 8
+    (mem_lea_addr, _) = find_mem_lea_from_name_lea(session, name_lea_addr)
+    mem = session.read_memory(mem_lea_addr - LIMIT, LIMIT)
+    stripped = mem.rstrip(b'\0')
+    value = flag_mode_prefix_type(stripped[-1])
+    assert value is not None
+    return (mem_lea_addr - LIMIT + len(stripped) - 1, value)
+
+
 def read_string(session: X64DbgClient, addr: int, can_start_in_middle: bool = False):
     '''
     Reads a string beginning at a specific memory address.
@@ -166,17 +188,17 @@ def read_string(session: X64DbgClient, addr: int, can_start_in_middle: bool = Fa
         addr += session.read_memory(addr - 0x100, 0x100).rfind(b'\0') - 0xff
     (strlen, _) = session.eval_sync('strlen(utf8((%x))' % addr)
     if strlen == 0:
-        return None
+        return b''
     return session.read_memory(addr, strlen)
 
 
 @functools.cache
-def trace_down_until_branches(session: X64DbgClient, base_addr: int, skip_current: bool = True, count: int = 1):
+def trace_down_until_branches(session: X64DbgClient, lea_addr: int, skip_current: bool = True, count: int = 1):
     '''
-    Generates a list of branch statements which follow `base_addr`.
+    Generates a list of branch statements which follow `lea_addr`.
     Limited by `count`, which if set to -1, can run up to the next `int3` instruction
     '''
-    addr = base_addr
+    addr = lea_addr
     while True:
         ins = session.disassemble_at(addr)
         assert ins is not None
@@ -186,7 +208,7 @@ def trace_down_until_branches(session: X64DbgClient, base_addr: int, skip_curren
 
         if (
             ins.type == DisasmInstrType.Branch and
-            not (skip_current and addr == base_addr)
+            not (skip_current and addr == lea_addr)
         ):
             yield (addr, ins)
             count -= 1
@@ -270,18 +292,18 @@ def read_value(session: X64DbgClient, flag_t: flag_type, mem_addr: int):
     assert val_ref is not None
     match flag_t:
 
-        case flag_type.FFlag:
+        case flag_type.Flag:
             val = session.read_memory(val_ref, 1)[0]
             assert val | 0b0001
             return val > 0
 
-        case flag_type.FInt:
+        case flag_type.Int:
             return session.read_dword(val_ref)
 
-        case flag_type.FLog:
+        case flag_type.Log:
             return session.read_memory(val_ref, 1)[0]
 
-        case flag_type.FString:
+        case flag_type.String:
             places = get_string_load_places(session)
             orig_ref = places.get(val_ref, None)
             if orig_ref is None:
@@ -302,25 +324,31 @@ def to_rva(session: X64DbgClient, addr: int):
 
 
 @functools.cache
-def find_addrs_into_branch(session: X64DbgClient, func_addr: int, lea_offset: int):
+def find_addrs_into_branch(session: X64DbgClient, func_addr: int, call_offset: int, mode_offset: int):
     region_map = organise_map(session)
 
     def gen():
-        for lea_addr in iterate_ref(
+        for call_addr in iterate_ref(
             session,
             func_addr,
             region_map['.text'].base_address,
             region_map['.text'].region_size,
         ):
 
-            lea_addr = lea_addr - lea_offset
+            lea_addr = call_addr - call_offset
             lea_ins = session.disassemble_at(lea_addr)
             assert lea_ins is not None
+
+            mode_addr = lea_addr + mode_offset
+            mode_val = flag_mode_prefix_type(
+                session.read_memory(mode_addr, 1)[0])
+            assert mode_val is not None
 
             lea_ref = get_memory_ptr(lea_ins)
             if lea_ref is None:
                 continue
-            yield (lea_addr, lea_ref)
+
+            yield (lea_addr, lea_ref, mode_val)
 
     return list(gen())
 
@@ -328,7 +356,7 @@ def find_addrs_into_branch(session: X64DbgClient, func_addr: int, lea_offset: in
 def get_flags_of_type(session: X64DbgClient, flag_t: flag_type):
     flag_name_addr = find_string_in_memory(session, flag_t.value)
     eprint(
-        '    [%s] template flag `%s` found at :$%X' %
+        '    [%s] template flag name `%s` found at :$%X' %
         (
             flag_t.name,
             flag_t.value.decode(),
@@ -346,65 +374,85 @@ def get_flags_of_type(session: X64DbgClient, flag_t: flag_type):
     (call_addr, call_ins) = next(trace_down_until_branches(session, lea_addr))
     call_ptr = call_ins.arg[0].constant
     call_offset = call_addr - lea_addr
+
+    (mode_addr, _) = trace_up_until_option_immediate(session, lea_addr)
+    mode_offset = mode_addr - lea_addr
+
     eprint(
-        '    [%s] jmp/call found from :$%X to :$%X' %
+        '    [%s] jmp/call found from :$%X pointing to :$%X' %
         (
             flag_t.name,
             to_rva(session, call_addr),
             to_rva(session, call_ptr),
         )
     )
-    flag_name_addrs = find_addrs_into_branch(session, call_ptr, call_offset)
+
+    flag_name_addrs = find_addrs_into_branch(
+        session, call_ptr, call_offset, mode_offset,
+    )
     eprint(
         '    [%s] a number of %d refs are found' %
         (flag_t.name, len(flag_name_addrs))
     )
     flag_names = (
-        (read_string(session, ptr) or b'').decode()
-        for (_, ptr) in flag_name_addrs
+        read_string(session, ptr).decode()
+        for (_, ptr, _) in flag_name_addrs
     )
     flag_mem_addrs = (
         find_mem_lea_from_name_lea(session, addr)
-        for (addr, _) in flag_name_addrs
+        for (addr, _, _) in flag_name_addrs
     )
     return zip(flag_names, flag_name_addrs, flag_mem_addrs)
 
 
 def process(session: X64DbgClient, extract_default_flags: bool, extract_default_strings: bool, add_flag_labels: bool):
     for flag_t in flag_type:
-        if flag_t == flag_type.FString:
+        if flag_t == flag_type.String:
             extract_default = extract_default_strings
         else:
             extract_default = extract_default_flags
 
-        flags_of_type = get_flags_of_type(session, flag_t)
-        for name, (name_addr, name_ptr), (val_addr, val_ptr) in flags_of_type:
+        for flag_name, (name_addr, name_ptr, mode_val), (val_addr, val_ptr) in get_flags_of_type(session, flag_t):
 
             addr_str = 'load = :$%X; mem_val = :$%X; mem_name = :$%X' % (
                 to_rva(session, val_addr),
                 to_rva(session, val_ptr),
                 to_rva(session, name_ptr),
             )
-            json_val = (addr_str,)
 
-            result = None
-            if extract_default:
-                result = read_value(session, flag_t, val_addr)
+            match extract_default:
+                case True:
+                    result = read_value(session, flag_t, val_addr)
+                case False:
+                    result = None
 
-            if result is not None:
-                json_val = (*json_val, result)
-            json_key = '%s%s' % (flag_t.name, name)
+            match mode_val:
+                case flag_mode_prefix_type.IGNORE:
+                    flag_prefix = ''
+                case _:
+                    flag_prefix = mode_val.name + flag_t.name
+
+            json_key = '%s%s' % (
+                flag_prefix,
+                flag_name,
+            )
+
+            match result:
+                case None:
+                    json_val = (addr_str,)
+                case _:
+                    json_val = (addr_str, result)
 
             if add_flag_labels:
                 session.set_label_at(
                     val_ptr,
-                    '%s::%s' % (flag_t.name, name),
+                    '%s::%s' % (flag_prefix, flag_name),
                 )
 
             yield (json_key, json_val)
 
 
-def run(debug_path: str, *a, **kwa) -> None:
+def run_single(debug_path: str, *a, **kwa) -> None:
     session = X64DbgClient('x64dbg' if is_exe_64_bit(debug_path) else 'x32dbg')
     try:
         eprint('>>> "%s"' % debug_path)
@@ -418,9 +466,14 @@ def run(debug_path: str, *a, **kwa) -> None:
         session.terminate_session()
 
 
+def run(debug_paths: list[str], *a, **kwa) -> None:
+    for p in debug_paths:
+        run_single(p, *a, **kwa)
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('debug_path', type=str)
+    parser.add_argument('debug_paths', type=str, nargs='+')
     parser.add_argument(
         '--extract_default_flags',
         '-df',
