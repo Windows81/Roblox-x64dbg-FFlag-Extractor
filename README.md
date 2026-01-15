@@ -4,6 +4,12 @@ This tool requires the use of `x64dbg_automate`, which in turn requires `x64dbg`
 
 All addresses are stored as RVAs (relative virtual addresses) to account for ASLR (address-space randomisation). In fact, x64dbg's patch format `.1337` also uses RVAs.
 
+The fast-variables' data is stored within the following fields:
+
+- `load`: the RVA of the static data to store the flag's default value if it isn't loaded either remotely from an HTTP request or locally in the client-settings `json` file.
+- `mem_val`: the RVA of the memory that gets used elsewhere in Rōblox executables to load the value of the flag.
+- `mem_name`: the RVA of the static in-memory _string_ that comprises the _name_ of the flag.
+
 Here's an example run:
 
 ```ps
