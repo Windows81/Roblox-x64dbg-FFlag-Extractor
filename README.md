@@ -7,7 +7,7 @@ All addresses are stored as RVAs (relative virtual addresses) to account for ASL
 The fast-variables' data is stored within the following fields:
 
 - `load`: the RVA of the static data to store the flag's default value if it isn't loaded either remotely from an HTTP request or locally in the client-settings `json` file.
-- `mem_val`: the RVA of the memory that gets used elsewhere in Rōblox executables to load the value of the flag.
+- **`mem_val`**: the RVA of the memory that gets used elsewhere in Rōblox executables to load the value of the flag.
 - `mem_name`: the RVA of the static in-memory _string_ that comprises the _name_ of the flag.
 
 Here's an example run:
@@ -18,7 +18,7 @@ python main.py "c:\Users\USER\Projects\FilteringDisabled\Roblox\v463\Studio\Robl
 
 This program is optimised for different versions of Rōblox Studio. Bitness shouldn't be a problem.
 
-**Consider that some flags may not work as intended unless you prefix with `D` in the settings file.** For example, v463 exposes `DFFlagTheseAreSomeOfMyBestAttributes` to enable the use of [attributes](https://create.roblox.com/docs/scripting/attributes), but `FFlagTheseAreSomeOfMyBestAttributes` (which excludes the `D` prefix) has no effect.
+**Consider that some flags may not work as intended unless you prefix with `D` (or rarely `S`) in the settings file.** For example, v463 exposes `DFFlagTheseAreSomeOfMyBestAttributes` to enable the use of [attributes](https://create.roblox.com/docs/scripting/attributes), but `FFlagTheseAreSomeOfMyBestAttributes` (which excludes the `D` prefix) has no effect.
 
 ## JSON "Test" Files
 
