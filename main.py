@@ -27,6 +27,12 @@ class flag_mode_prefix_type(enum.Enum):
     SF = 0x03
     IGNORE = 0x04  # The behaviour for `IGNORE` isn't guaranteed.
 
+    @classmethod
+    def _missing_(cls, value):
+        obj = object.__new__(cls)
+        obj._value_ = value
+        obj._name_ = 'UNKNOWN_%02X' % value
+        return obj
 
 def is_exe_64_bit(path: str) -> bool:
     with open(path, 'rb') as r:
