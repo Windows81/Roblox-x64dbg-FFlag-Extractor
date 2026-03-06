@@ -1,6 +1,8 @@
 # Rōblox FFlag Collector (ft. x64dbg)
 
-This tool requires the use of `x64dbg_automate`, which in turn requires `x64dbg` to be in your system path.
+**This tool requires the use of [the `x64dbg_automate` plugin](https://github.com/dariushoule/x64dbg-automate) for `x64dbg` and for `x64dbg` to be accessible via your `PATH`.**
+
+---
 
 All addresses are stored as RVAs (relative virtual addresses) to account for ASLR (address-space randomisation). In fact, x64dbg's patch format `.1337` also uses RVAs.
 
